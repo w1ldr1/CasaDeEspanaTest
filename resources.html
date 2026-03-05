@@ -1,0 +1,751 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resources — Casa de España en Indiana</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600&family=Source+Sans+3:wght@300;400;600&display=swap" rel="stylesheet">
+
+  <script>
+    tailwind = { config: {
+      theme: {
+        extend: {
+          colors: {
+            terra: '#C13B2B',
+            'terra-deep': '#8C2318',
+            'terra-muted': '#D4604F',
+            parchment: '#FAF4ED',
+            'parch-2': '#F2E9DF',
+            'parch-3': '#E8DBCF',
+            ink: '#1C1410',
+            'ink-mid': '#3D2E26',
+            'ink-light': '#7A6658',
+          },
+          fontFamily: {
+            display: ['"Cormorant Garamond"', 'Georgia', 'serif'],
+            sans: ['"Source Sans 3"', '"Source Sans Pro"', 'sans-serif'],
+          },
+        }
+      }
+    }};
+  </script>
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <style>
+    /* ─── TOKENS ─────────────────────────────────────────── */
+    :root {
+      --terra:        #C13B2B;
+      --terra-deep:   #8C2318;
+      --terra-muted:  #D4604F;
+      --parchment:    #FAF4ED;
+      --parch-2:      #F2E9DF;
+      --parch-3:      #E8DBCF;
+      --ink:          #1C1410;
+      --ink-mid:      #3D2E26;
+      --ink-light:    #7A6658;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: 'Source Sans 3', sans-serif;
+      background: var(--parchment);
+      color: var(--ink);
+      -webkit-font-smoothing: antialiased;
+      overflow-x: hidden;
+      padding-top: 120px;
+    }
+
+    /* ─── UTILITY ────────────────────────────────────────── */
+    .section-container {
+      max-width: 1140px;
+      margin: 0 auto;
+      padding: 0 40px;
+    }
+    @media (max-width: 640px) { .section-container { padding: 0 20px; } }
+
+    /* ─── NAV ───────────────────────────────────────────── */
+    #site-nav {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      height: 120px;
+      z-index: 100;
+      display: flex;
+      transition: box-shadow 0.3s ease;
+    }
+    #site-nav.scrolled {
+      box-shadow:
+        0 2px 20px rgba(28,20,16,0.35),
+        0 1px 0 rgba(0,0,0,0.15);
+    }
+
+    .nav-logo-zone {
+      width: 240px;
+      flex-shrink: 0;
+      background: var(--parchment);
+      display: flex;
+      align-items: center;
+      padding: 0 16px;
+      border-right: 1px solid rgba(28,20,16,0.1);
+    }
+    .nav-logo-zone a {
+      display: flex;
+      align-items: center;
+      text-decoration: none;
+    }
+    .nav-logo-zone img { height: 112px; width: auto; display: block; }
+
+    .nav-links-zone {
+      flex: 1;
+      background: var(--ink);
+      display: flex;
+      align-items: center;
+      padding: 0 32px;
+      gap: 2px;
+      justify-content: flex-end;
+    }
+
+    .nav-link {
+      font-family: 'Source Sans 3', sans-serif;
+      font-weight: 600;
+      font-size: 12px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--parchment);
+      text-decoration: none;
+      padding: 6px 14px;
+      border-bottom: 2px solid transparent;
+      border-radius: 2px 2px 0 0;
+      transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+    }
+    .nav-link:hover { background: rgba(193,59,43,0.14); }
+    .nav-link.active { border-bottom-color: var(--terra); }
+    .nav-link:focus-visible { outline: 2px solid var(--terra-muted); outline-offset: 2px; }
+
+    /* Hamburger */
+    .hamburger {
+      display: none;
+      flex-direction: column;
+      gap: 5px;
+      cursor: pointer;
+      padding: 10px;
+      background: none;
+      border: none;
+      margin-left: 8px;
+    }
+    .hamburger span {
+      display: block;
+      width: 22px;
+      height: 2px;
+      background: var(--parchment);
+      transition: transform 0.3s cubic-bezier(0.22,1,0.36,1), opacity 0.3s ease;
+    }
+    .hamburger.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+    .hamburger.open span:nth-child(2) { opacity: 0; transform: scaleX(0); }
+    .hamburger.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
+    /* Mobile drawer */
+    .mobile-drawer {
+      position: fixed;
+      top: 120px; left: 0; right: 0;
+      z-index: 99;
+      background: var(--ink);
+      border-top: 1px solid rgba(193,59,43,0.2);
+      display: flex;
+      flex-direction: column;
+      padding: 12px 20px 20px;
+      gap: 2px;
+      transform: translateY(-110%);
+      transition: transform 0.35s cubic-bezier(0.22,1,0.36,1);
+      pointer-events: none;
+    }
+    .mobile-drawer.open {
+      transform: translateY(0);
+      pointer-events: auto;
+    }
+    .mobile-drawer .nav-link { padding: 12px 16px; }
+
+    @media (max-width: 768px) {
+      .nav-logo-zone { width: auto; min-width: 160px; }
+      .nav-links-zone .nav-link { display: none; }
+      .hamburger { display: flex; }
+    }
+
+    /* ─── PAGE HEADER ─────────────────────────────────────── */
+    .page-header {
+      background: var(--ink);
+      position: relative;
+      overflow: hidden;
+      padding: 72px 0 64px;
+    }
+    .page-header::before {
+      content: '';
+      position: absolute; inset: 0;
+      background:
+        radial-gradient(ellipse 55% 90% at 15% 60%, rgba(193,59,43,0.11) 0%, transparent 65%),
+        radial-gradient(ellipse 35% 50% at 85% 20%, rgba(140,35,24,0.09) 0%, transparent 65%);
+      pointer-events: none;
+    }
+    .page-header-eyebrow {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--terra-muted);
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 14px;
+    }
+    .page-header-eyebrow::before {
+      content: '';
+      display: block;
+      width: 28px;
+      height: 1px;
+      background: var(--terra-muted);
+    }
+    .page-header h1 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: clamp(40px, 6vw, 68px);
+      font-weight: 300;
+      letter-spacing: -0.03em;
+      color: var(--parchment);
+      line-height: 1.08;
+    }
+    .page-header h1 em {
+      font-style: italic;
+      color: var(--terra-muted);
+    }
+    .page-header-desc {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 16px;
+      font-weight: 300;
+      color: rgba(250,244,237,0.55);
+      margin-top: 16px;
+      line-height: 1.65;
+      max-width: 520px;
+    }
+
+    /* ─── RESOURCES MAIN ──────────────────────────────────── */
+    .resources-main {
+      background: var(--parchment);
+      padding: 80px 0 110px;
+    }
+
+    .resources-layout {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 56px 48px;
+      align-items: start;
+    }
+    @media (max-width: 900px) {
+      .resources-layout { grid-template-columns: 1fr 1fr; }
+    }
+    @media (max-width: 560px) {
+      .resources-layout { grid-template-columns: 1fr; }
+    }
+
+    /* ─── SECTION ────────────────────────────────────────── */
+    .res-section-head {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 20px;
+      font-weight: 600;
+      letter-spacing: -0.01em;
+      color: var(--ink);
+      padding-bottom: 10px;
+      border-bottom: 2px solid var(--terra);
+      margin-bottom: 4px;
+    }
+
+    /* ─── LINK LIST ──────────────────────────────────────── */
+    .res-list { list-style: none; }
+    .res-list li { border-bottom: 1px solid var(--parch-3); }
+    .res-list li:last-child { border-bottom: none; }
+
+    .res-link {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      padding: 11px 0 11px 6px;
+      margin-left: -6px;
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 1.45;
+      color: var(--ink-mid);
+      text-decoration: none;
+      border-left: 2px solid transparent;
+      transition: color 0.18s ease, padding-left 0.18s ease, border-color 0.18s ease;
+    }
+    .res-link:hover {
+      color: var(--terra);
+      padding-left: 12px;
+      border-left-color: var(--terra);
+    }
+    .res-link:focus-visible { outline: 2px solid var(--terra-muted); outline-offset: 2px; }
+
+    .res-arrow {
+      flex-shrink: 0;
+      opacity: 0.3;
+      transition: opacity 0.18s ease, transform 0.18s ease;
+    }
+    .res-link:hover .res-arrow {
+      opacity: 1;
+      transform: translate(2px, -2px);
+    }
+
+    /* ─── FOOTER ─────────────────────────────────────────── */
+    #site-footer {
+      background: var(--parchment);
+      padding: 72px 0 0;
+    }
+    .footer-grid {
+      display: grid;
+      grid-template-columns: 1.1fr 1fr 1.1fr;
+      gap: 56px;
+      margin-bottom: 56px;
+    }
+    @media (max-width: 768px) { .footer-grid { grid-template-columns: 1fr; gap: 40px; } }
+
+    .footer-logo-frame {
+      display: inline-block;
+      margin-bottom: 18px;
+    }
+    .footer-logo-frame img { height: 112px; width: auto; display: block; }
+
+    .footer-tagline {
+      font-family: 'Cormorant Garamond', serif;
+      font-style: italic;
+      font-weight: 300;
+      font-size: 16px;
+      line-height: 1.65;
+      color: rgba(28,20,16,0.5);
+      max-width: 230px;
+    }
+
+    .footer-col-head {
+      font-family: 'Source Sans 3', sans-serif;
+      font-weight: 600;
+      font-size: 10px;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: rgba(28,20,16,0.4);
+      margin-bottom: 20px;
+      display: block;
+    }
+    .footer-nav-links {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .footer-nav-links a {
+      font-family: 'Source Sans 3', sans-serif;
+      font-weight: 400;
+      font-size: 14px;
+      color: rgba(28,20,16,0.6);
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+    .footer-nav-links a:hover { color: var(--terra); }
+    .footer-nav-links a:focus-visible { outline: 1px solid var(--terra); outline-offset: 2px; }
+
+    .contact-line {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 14px;
+      font-weight: 300;
+      color: rgba(28,20,16,0.55);
+      margin-bottom: 8px;
+    }
+    .contact-line a {
+      color: rgba(28,20,16,0.55);
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+    .contact-line a:hover { color: var(--terra-muted); }
+    .contact-line a:focus-visible { outline: 1px solid var(--terra); }
+
+    .social-row {
+      display: flex;
+      gap: 8px;
+      margin-top: 20px;
+    }
+    .social-btn {
+      width: 36px;
+      height: 36px;
+      border-radius: 4px;
+      background: rgba(28,20,16,0.06);
+      border: 1px solid rgba(28,20,16,0.1);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+      cursor: pointer;
+      transition: background-color 0.22s ease, border-color 0.22s ease;
+    }
+    .social-btn:hover {
+      background: rgba(193,59,43,0.22);
+      border-color: rgba(193,59,43,0.32);
+    }
+    .social-btn:focus-visible { outline: 2px solid var(--terra); outline-offset: 2px; }
+    .social-btn svg { width: 14px; height: 14px; fill: rgba(28,20,16,0.55); display: block; }
+
+    .footer-bottom {
+      border-top: 1px solid rgba(28,20,16,0.12);
+      padding: 20px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .footer-copy {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 12px;
+      font-weight: 300;
+      color: rgba(28,20,16,0.35);
+    }
+  </style>
+</head>
+<body>
+
+<!-- ─── STICKY NAV ─────────────────────────────────────── -->
+<nav id="site-nav" role="navigation" aria-label="Main navigation">
+  <div class="nav-logo-zone">
+    <a href="index.html" aria-label="Casa de España en Indiana — home" style="display:flex;align-items:center;">
+      <img src="brand_assests/Heart_Logo-removebg-preview.png" alt="Casa de España en Indiana" style="display:block;height:112px;width:auto;">
+    </a>
+  </div>
+  <div class="nav-links-zone">
+    <a href="index.html#mission"      class="nav-link">About</a>
+    <a href="index.html#programs"     class="nav-link">Programs</a>
+    <a href="index.html#events"       class="nav-link">Events</a>
+    <a href="index.html#board"        class="nav-link">Board</a>
+    <a href="index.html#get-involved" class="nav-link">Get Involved</a>
+    <a href="resources.html"          class="nav-link active">Resources</a>
+    <button class="hamburger" id="hamburger" aria-label="Toggle menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</nav>
+
+<div class="mobile-drawer" id="mobile-drawer" aria-hidden="true">
+  <a href="index.html#mission"      class="nav-link">About</a>
+  <a href="index.html#programs"     class="nav-link">Programs</a>
+  <a href="index.html#events"       class="nav-link">Events</a>
+  <a href="index.html#board"        class="nav-link">Board</a>
+  <a href="index.html#get-involved" class="nav-link">Get Involved</a>
+  <a href="resources.html"          class="nav-link active">Resources</a>
+</div>
+
+<!-- ─── PAGE HEADER ───────────────────────────────────── -->
+<header class="page-header">
+  <div class="section-container">
+    <p class="page-header-eyebrow">External Links &amp; Directories</p>
+    <h1><em>Resources</em></h1>
+    <p class="page-header-desc">Government agencies, cultural institutions, scholarship programs, and information portals for the Spanish community in the United States.</p>
+  </div>
+</header>
+
+<!-- ─── RESOURCES CONTENT ─────────────────────────────── -->
+<main class="resources-main" id="main">
+  <div class="section-container">
+    <div class="resources-layout">
+
+      <!-- ── Government Agencies ───────────────────────── -->
+      <div class="res-section">
+        <h2 class="res-section-head">Government Agencies</h2>
+        <ul class="res-list">
+          <li>
+            <a class="res-link" href="https://www.exteriores.gob.es/Consulados/chicago/en/Pages/inicio.aspx" target="_blank" rel="noopener">
+              Consulate-General of Spain in Chicago
+              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+            </a>
+          </li>
+          <li>
+            <a class="res-link" href="https://www.exteriores.gob.es/Embajadas/washington/en/Pages/inicio.aspx" target="_blank" rel="noopener">
+              Embassy of Spain in the United States
+              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+            </a>
+          </li>
+          <li>
+            <a class="res-link" href="https://www.exteriores.gob.es/" target="_blank" rel="noopener">
+              Ministry of Foreign Affairs and Cooperation
+              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+            </a>
+          </li>
+          <li>
+            <a class="res-link" href="https://www.educacion.gob.es/" target="_blank" rel="noopener">
+              Ministry of Education, Culture and Sports
+              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+            </a>
+          </li>
+          <li>
+            <a class="res-link" href="https://www.mites.gob.es/" target="_blank" rel="noopener">
+              Ministry of Labor and Social Security
+              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+            </a>
+          </li>
+          <li>
+            <a class="res-link" href="https://www.mincotur.gob.es/" target="_blank" rel="noopener">
+              Ministry of Industry, Energy and Tourism
+              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+            </a>
+          </li>
+          <li>
+            <a class="res-link" href="https://www.spanishamericancenter.org/" target="_blank" rel="noopener">
+              Spanish Associations and Centers in the US
+              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+            </a>
+          </li>
+          <li>
+            <a class="res-link" href="https://ecusa.es/" target="_blank" rel="noopener">
+              Spanish Scientists in the US
+              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+            </a>
+          </li>
+          <li>
+            <a class="res-link" href="https://www.inclusion.gob.es/en/web/ciudadania" target="_blank" rel="noopener">
+              Portal of the Spanish Citizenship Abroad
+              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+            </a>
+          </li>
+          <li>
+            <a class="res-link" href="https://www.seg-social.es/" target="_blank" rel="noopener">
+              Social Security in Spain
+              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+            </a>
+          </li>
+          <li>
+            <a class="res-link" href="https://www.uscis.gov/" target="_blank" rel="noopener">
+              The US Department of Immigration
+              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+            </a>
+          </li>
+          <li>
+            <a class="res-link" href="https://www.uscis.gov/about-us/find-a-uscis-office/field-offices/minneapolis" target="_blank" rel="noopener">
+              Local Office of the Dept. of Immigration in MN
+              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+            </a>
+          </li>
+        </ul>
+      </div>
+
+      <!-- ── Information and Resources ─────────────────── -->
+      <div class="res-section">
+        <h2 class="res-section-head">Information &amp; Resources</h2>
+        <ul class="res-list">
+          <li>
+            <a class="res-link" href="https://spainabroad.com/" target="_blank" rel="noopener">
+              Portal for Young Spaniards Abroad
+              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+            </a>
+          </li>
+          <li>
+            <a class="res-link" href="https://www.nhmamd.org/" target="_blank" rel="noopener">
+              Association of Spanish Graduates &amp; Doctors in USA
+              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+            </a>
+          </li>
+          <li>
+            <a class="res-link" href="https://spainusa.org/en/" target="_blank" rel="noopener">
+              Consejo España-USA Foundation
+              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+            </a>
+          </li>
+          <li>
+            <a class="res-link" href="https://www.cia.gov/the-world-factbook/countries/spain/" target="_blank" rel="noopener">
+              Spain Fact Book
+              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+            </a>
+          </li>
+          <li>
+            <a class="res-link" href="https://www.bne.es/" target="_blank" rel="noopener">
+              National Library of Spain
+              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+            </a>
+          </li>
+          <li>
+            <a class="res-link" href="https://www.culturaydeporte.gob.es/museos/" target="_blank" rel="noopener">
+              Museums in Spain (Ministry of Culture)
+              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+            </a>
+          </li>
+          <li>
+            <a class="res-link" href="https://www.spainisculture.com/" target="_blank" rel="noopener">
+              Spain is Culture (Ministry of Culture)
+              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+            </a>
+          </li>
+          <li>
+            <a class="res-link" href="https://www.rae.es/" target="_blank" rel="noopener">
+              Dictionary of the Royal Spanish Academy
+              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+            </a>
+          </li>
+          <li>
+            <a class="res-link" href="https://www.ssa.gov/international/Agreement_Pamphlets/spain.html" target="_blank" rel="noopener">
+              Social Security Agreement with the US
+              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+            </a>
+          </li>
+          <li>
+            <a class="res-link" href="https://www.exteriores.gob.es/Consulados/pekin/es/Comunicacion/Noticias/Paginas/Articulos/Revista-Carta-de-Espa%C3%B1a.aspx" target="_blank" rel="noopener">
+              Magazine "Carta de España"
+              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+            </a>
+          </li>
+          <li>
+            <a class="res-link" href="https://www.rtve.es/television/destino-espana/" target="_blank" rel="noopener">
+              Destino España
+              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+            </a>
+          </li>
+          <li>
+            <a class="res-link" href="https://whereisasturias.com/" target="_blank" rel="noopener">
+              Where is Asturias
+              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+            </a>
+          </li>
+          <li>
+            <a class="res-link" href="https://www.marcaespana.es/" target="_blank" rel="noopener">
+              Marca España
+              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+            </a>
+          </li>
+          <li>
+            <a class="res-link" href="https://www.spain.info/" target="_blank" rel="noopener">
+              Spain Tourism
+              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+            </a>
+          </li>
+        </ul>
+      </div>
+
+      <!-- ── Scholarships ───────────────────────────────── -->
+      <div class="res-section">
+        <h2 class="res-section-head">Scholarships</h2>
+        <ul class="res-list">
+          <li>
+            <a class="res-link" href="https://uniscopio.com/en/scholarships/mec-scholarships/" target="_blank" rel="noopener">
+              MEC Scholarships for Americans in Spain
+              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
+            </a>
+          </li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</main>
+
+<!-- ─── FOOTER ─────────────────────────────────────────── -->
+<footer id="site-footer" role="contentinfo">
+  <div class="section-container">
+    <div class="footer-grid">
+
+      <!-- Col 1: logo + tagline -->
+      <div>
+        <div class="footer-logo-frame">
+          <img src="brand_assests/Heart_Logo-removebg-preview.png" alt="Casa de España en Indiana" style="display:block;height:112px;width:auto;">
+        </div>
+        <p class="footer-tagline">
+          Preserving the soul of Spain in the heart of Indiana since 2004.
+        </p>
+      </div>
+
+      <!-- Col 2: site navigation -->
+      <div>
+        <span class="footer-col-head">Navigation</span>
+        <ul class="footer-nav-links">
+          <li><a href="index.html#mission">About Us</a></li>
+          <li><a href="index.html#programs">Programs</a></li>
+          <li><a href="index.html#events">Events</a></li>
+          <li><a href="index.html#board">Board of Directors</a></li>
+          <li><a href="index.html#get-involved">Get Involved</a></li>
+          <li><a href="resources.html">Resources</a></li>
+        </ul>
+      </div>
+
+      <!-- Col 3: contact + social -->
+      <div>
+        <span class="footer-col-head">Contact</span>
+        <p class="contact-line">Indianapolis, Indiana</p>
+        <p class="contact-line">
+          <a href="mailto:info@casadeespanaindiana.org">info@casadeespanaindiana.org</a>
+        </p>
+        <p class="contact-line">
+          <a href="https://casadeespanaindiana.org" target="_blank" rel="noopener">casadeespanaindiana.org</a>
+        </p>
+
+        <div class="social-row" aria-label="Social media">
+          <a href="#" class="social-btn" aria-label="Facebook">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/>
+            </svg>
+          </a>
+          <a href="#" class="social-btn" aria-label="Instagram">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <rect x="2" y="2" width="20" height="20" rx="5" ry="5" fill="none" stroke="rgba(28,20,16,0.55)" stroke-width="2"/>
+              <circle cx="12" cy="12" r="4" fill="none" stroke="rgba(28,20,16,0.55)" stroke-width="2"/>
+              <circle cx="17.5" cy="6.5" r="1.5" fill="rgba(28,20,16,0.55)"/>
+            </svg>
+          </a>
+          <a href="#" class="social-btn" aria-label="Twitter / X">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"/>
+            </svg>
+          </a>
+          <a href="#" class="social-btn" aria-label="YouTube">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M22.54 6.42a2.78 2.78 0 00-1.95-1.97C18.88 4 12 4 12 4s-6.88 0-8.59.45A2.78 2.78 0 001.46 6.42 29 29 0 001 12a29 29 0 00.46 5.58A2.78 2.78 0 003.41 19.6C5.12 20 12 20 12 20s6.88 0 8.59-.4a2.78 2.78 0 001.95-1.97A29 29 0 0023 12a29 29 0 00-.46-5.58z"/>
+              <polygon points="9.75 15.02 15.5 12 9.75 8.98 9.75 15.02" fill="rgba(28,20,16,0.9)"/>
+            </svg>
+          </a>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="footer-bottom">
+      <span class="footer-copy">© 2026 Casa de España en Indiana. All rights reserved.</span>
+      <span class="footer-copy">Organización sin fines de lucro 501(c)(3) · EIN disponible bajo solicitud</span>
+    </div>
+  </div>
+</footer>
+
+<!-- ─── INLINE JS ──────────────────────────────────────── -->
+<script>
+  // Nav shadow on scroll
+  const nav = document.getElementById('site-nav');
+  window.addEventListener('scroll', () => {
+    nav.classList.toggle('scrolled', window.scrollY > 40);
+  }, { passive: true });
+
+  // Mobile hamburger toggle
+  const hamburger = document.getElementById('hamburger');
+  const drawer    = document.getElementById('mobile-drawer');
+
+  hamburger.addEventListener('click', () => {
+    const isOpen = drawer.classList.toggle('open');
+    hamburger.classList.toggle('open', isOpen);
+    hamburger.setAttribute('aria-expanded', String(isOpen));
+    drawer.setAttribute('aria-hidden', String(!isOpen));
+  });
+
+  drawer.querySelectorAll('a').forEach(link => {
+    link.addEventListener('click', () => {
+      drawer.classList.remove('open');
+      hamburger.classList.remove('open');
+      hamburger.setAttribute('aria-expanded', 'false');
+      drawer.setAttribute('aria-hidden', 'true');
+    });
+  });
+</script>
+
+</body>
+</html>

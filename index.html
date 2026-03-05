@@ -110,11 +110,16 @@
     .nav-logo-zone {
       width: 240px;
       flex-shrink: 0;
-      background: var(--parchment);
+      background: transparent;
       display: flex;
       align-items: center;
       padding: 0 16px;
-      border-right: 1px solid rgba(28,20,16,0.1);
+      border-right: 1px solid transparent;
+      transition: background-color 0.35s ease, border-color 0.35s ease;
+    }
+    #site-nav.scrolled .nav-logo-zone {
+      background: var(--parchment);
+      border-right-color: rgba(28,20,16,0.1);
     }
     .nav-logo-zone a {
       display: flex;
@@ -125,12 +130,16 @@
 
     .nav-links-zone {
       flex: 1;
-      background: var(--ink);
+      background: transparent;
       display: flex;
       align-items: center;
       padding: 0 32px;
       gap: 2px;
       justify-content: flex-end;
+      transition: background-color 0.35s ease;
+    }
+    #site-nav.scrolled .nav-links-zone {
+      background: var(--ink);
     }
 
     .nav-link {
@@ -183,7 +192,7 @@
       flex-direction: column;
       padding: 12px 20px 20px;
       gap: 2px;
-      transform: translateY(-110%);
+      transform: translateY(calc(-100% - 140px));
       transition: transform 0.35s cubic-bezier(0.22,1,0.36,1);
       pointer-events: none;
     }
@@ -1042,6 +1051,7 @@
     <a href="#events"       class="nav-link" data-section="events">Events</a>
     <a href="#board"        class="nav-link" data-section="board">Board</a>
     <a href="#get-involved" class="nav-link" data-section="get-involved">Get Involved</a>
+    <a href="resources.html" class="nav-link">Resources</a>
     <button class="hamburger" id="hamburger" aria-label="Toggle menu" aria-expanded="false">
       <span></span><span></span><span></span>
     </button>
@@ -1054,6 +1064,7 @@
   <a href="#events"       class="nav-link">Events</a>
   <a href="#board"        class="nav-link">Board</a>
   <a href="#get-involved" class="nav-link">Get Involved</a>
+  <a href="resources.html" class="nav-link">Resources</a>
 </div>
 
 <!-- ─── HERO ──────────────────────────────────────────── -->
@@ -1115,13 +1126,16 @@
         <cite>— Casa de España Charter, 2004</cite>
 
         <div class="pull-image-wrap">
-          <img
-            src="https://placehold.co/420x320/C8B8A8/7A6658?text=Cultura+Viva"
-            alt="Community cultural gathering"
-            loading="lazy"
-          >
-          <div class="pull-image-overlay" aria-hidden="true"></div>
-          <div class="pull-image-color"   aria-hidden="true"></div>
+          <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:2px;">
+            <iframe
+              src="https://www.youtube.com/embed/iwbKYOeYDSU"
+              title="Casa de España en Indiana"
+              style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+              loading="lazy"
+            ></iframe>
+          </div>
         </div>
       </div>
 
@@ -1174,11 +1188,11 @@
         </div>
       </article>
 
-      <article class="program-card scroll-reveal" data-delay="2" tabindex="0" role="article">
+      <article class="program-card scroll-reveal" data-delay="2" tabindex="0" role="article" style="cursor:pointer;" onclick="window.location='resources.html'">
         <div class="card-img-wrap">
           <img
-            src="https://placehold.co/560x315/2C1A14/8C2318?text=Literary+%26+History"
-            alt="Literary and Historical Studies"
+            src="https://placehold.co/560x315/2C1A14/8C2318?text=Resources"
+            alt="Resources"
             loading="lazy"
           >
           <div class="card-img-overlay" aria-hidden="true"></div>
@@ -1186,9 +1200,9 @@
           <span class="ghost-num"       aria-hidden="true">02</span>
         </div>
         <div class="card-body">
-          <span class="card-label">Program</span>
-          <h3 class="card-title">Literary &amp; Historical Studies</h3>
-          <p class="card-desc">Lectures, reading groups, and scholarly symposia exploring the literature, history, and intellectual traditions of Spain and the wider Iberian world.</p>
+          <span class="card-label">Directory</span>
+          <h3 class="card-title"><a href="resources.html" style="color:inherit;text-decoration:none;">Resources</a></h3>
+          <p class="card-desc">Links to government agencies, cultural institutions, scholarship programs, and information portals for the Spanish community in the United States.</p>
         </div>
       </article>
 
@@ -1400,6 +1414,7 @@
           <li><a href="#events">Events</a></li>
           <li><a href="#board">Board of Directors</a></li>
           <li><a href="#get-involved">Get Involved</a></li>
+          <li><a href="resources.html">Resources</a></li>
         </ul>
       </div>
 
