@@ -813,8 +813,8 @@
   }));
 
   // ─── RSS Feed ─────────────────────────────────────────
-  const FEED_URL   = 'https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana/portada';
   const PROXY      = 'https://api.allorigins.win/get?url=';
+  const FEED_URL   = 'https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana/portada';
   const grid       = document.getElementById('news-grid');
   const refreshBtn = document.getElementById('refresh-btn');
   const updatedEl  = document.getElementById('news-updated');
@@ -848,13 +848,10 @@
   }
 
   function getImage(item) {
-    // media:content
     const mc = item.getElementsByTagNameNS('http://search.yahoo.com/mrss/', 'content')[0];
     if (mc?.getAttribute('url')) return mc.getAttribute('url');
-    // media:thumbnail
     const mt = item.getElementsByTagNameNS('http://search.yahoo.com/mrss/', 'thumbnail')[0];
     if (mt?.getAttribute('url')) return mt.getAttribute('url');
-    // enclosure
     const enc = item.querySelector('enclosure');
     const eu  = enc?.getAttribute('url') || '';
     if (eu && /\.(jpe?g|png|webp|gif)/i.test(eu)) return eu;
@@ -864,7 +861,6 @@
   function getLink(item) {
     const linkEl = item.querySelector('link');
     if (linkEl) {
-      // In RSS XML, <link> textContent may be empty — try next sibling text node
       const text = linkEl.textContent.trim();
       if (text) return text;
       const sib = linkEl.nextSibling;
@@ -881,16 +877,12 @@
     <circle cx="8.5" cy="8.5" r="1.5" fill="currentColor" stroke="none"/>
   </svg>`;
 
-  function renderCard(item) {
-    const title   = (item.querySelector('title')?.textContent || 'Sin título').trim();
-    const link    = getLink(item);
-    const rawDesc = item.querySelector('description')?.textContent || '';
-    const desc    = stripHtml(rawDesc);
-    const excerpt = desc.length > 200 ? desc.slice(0, 200).replace(/\s\S*$/, '…') : desc;
-    const date    = formatDate(item.querySelector('pubDate')?.textContent || '');
-    const imgUrl  = getImage(item);
-
-    const escapedTitle = title.replace(/"/g, '&quot;');
+  // Accepts a plain data object {title, link, desc, date, imgUrl}
+  function renderCard(data) {
+    const { title, link, desc, date, imgUrl } = data;
+    const excerpt       = desc.length > 200 ? desc.slice(0, 200).replace(/\s\S*$/, '…') : desc;
+    const formattedDate = formatDate(date);
+    const escapedTitle  = title.replace(/"/g, '&quot;');
 
     const imgSection = imgUrl
       ? `<div class="news-card-img-wrap">
@@ -903,7 +895,7 @@
       ${imgSection}
       <div class="news-card-body">
         <div class="news-card-meta">
-          ${date ? `<span class="news-card-date">${date}</span><span class="news-card-sep" aria-hidden="true"></span>` : ''}
+          ${formattedDate ? `<span class="news-card-date">${formattedDate}</span><span class="news-card-sep" aria-hidden="true"></span>` : ''}
           <span class="news-card-source">El País</span>
         </div>
         <h2 class="news-card-title">${title}</h2>
@@ -914,6 +906,23 @@
         </a>
       </div>
     </article>`;
+  }
+
+  // Converts XML item elements into plain data objects (same shape as cache)
+  function parseXmlItems(xmlItems) {
+    return xmlItems.map(item => ({
+      title:  (item.querySelector('title')?.textContent || 'Sin título').trim(),
+      link:   getLink(item),
+      desc:   stripHtml(item.querySelector('description')?.textContent || ''),
+      date:   item.querySelector('pubDate')?.textContent || '',
+      imgUrl: getImage(item),
+    }));
+  }
+
+  function showUpdated(timestamp) {
+    const t = new Date(timestamp).toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit' });
+    updatedEl.textContent = `Updated ${t}`;
+    updatedEl.classList.add('visible');
   }
 
   function renderError() {
@@ -929,29 +938,45 @@
     </div>`;
   }
 
-  async function loadFeed() {
+  // Fetch fresh data via CORS proxy (fallback / manual refresh)
+  async function fetchLive() {
+    const resp = await fetch(PROXY + encodeURIComponent(FEED_URL), { cache: 'no-store' });
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    const data = await resp.json();
+    const parser = new DOMParser();
+    const xml = parser.parseFromString(data.contents, 'text/xml');
+    if (xml.querySelector('parsererror')) throw new Error('XML parse error');
+    const xmlItems = [...xml.querySelectorAll('item')];
+    if (xmlItems.length === 0) throw new Error('Empty feed');
+    return parseXmlItems(xmlItems);
+  }
+
+  async function loadFeed(forceRefresh = false) {
+    // ── Path A: load from server-side cache (instant) ──────────
+    if (!forceRefresh) {
+      try {
+        const resp = await fetch('/news-cache.json');
+        if (resp.ok) {
+          const cache = await resp.json();
+          if (cache.items?.length > 0) {
+            grid.innerHTML = cache.items.map(renderCard).join('');
+            showUpdated(cache.fetchedAt);
+            return; // done — server keeps the cache fresh via GitHub Actions
+          }
+        }
+      } catch (e) { /* fall through to live fetch */ }
+    }
+
+    // ── Path B: no cache / manual refresh — fetch live ─────────
     refreshBtn.disabled = true;
     refreshBtn.textContent = '↻ Loading…';
     updatedEl.classList.remove('visible');
     grid.innerHTML = SKELETON_HTML;
 
     try {
-      const resp = await fetch(PROXY + encodeURIComponent(FEED_URL), { cache: 'no-store' });
-      if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
-      const data = await resp.json();
-
-      const parser = new DOMParser();
-      const xml    = parser.parseFromString(data.contents, 'text/xml');
-      if (xml.querySelector('parsererror')) throw new Error('XML parse error');
-
-      const items = [...xml.querySelectorAll('item')];
-      if (items.length === 0) throw new Error('Empty feed');
-
+      const items = await fetchLive();
       grid.innerHTML = items.map(renderCard).join('');
-
-      const now = new Date().toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit' });
-      updatedEl.textContent = `Updated ${now}`;
-      updatedEl.classList.add('visible');
+      showUpdated(Date.now());
     } catch (err) {
       console.error('[news] RSS load error:', err);
       renderError();
@@ -961,7 +986,7 @@
     }
   }
 
-  refreshBtn.addEventListener('click', loadFeed);
+  refreshBtn.addEventListener('click', () => loadFeed(true));
   loadFeed();
 </script>
 
