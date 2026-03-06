@@ -1,0 +1,902 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Join Us — Casa de España en Indiana</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600&family=Source+Sans+3:wght@300;400;600&display=swap" rel="stylesheet">
+
+  <script>
+    tailwind = { config: {
+      theme: {
+        extend: {
+          colors: {
+            terra: '#C13B2B',
+            'terra-deep': '#8C2318',
+            'terra-muted': '#D4604F',
+            parchment: '#FAF4ED',
+            'parch-2': '#F2E9DF',
+            'parch-3': '#E8DBCF',
+            ink: '#1C1410',
+            'ink-mid': '#3D2E26',
+            'ink-light': '#7A6658',
+          },
+          fontFamily: {
+            display: ['"Cormorant Garamond"', 'Georgia', 'serif'],
+            sans: ['"Source Sans 3"', '"Source Sans Pro"', 'sans-serif'],
+          },
+        }
+      }
+    }};
+  </script>
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <style>
+    /* ─── TOKENS ─────────────────────────────────────────── */
+    :root {
+      --terra:        #C13B2B;
+      --terra-deep:   #8C2318;
+      --terra-muted:  #D4604F;
+      --parchment:    #FAF4ED;
+      --parch-2:      #F2E9DF;
+      --parch-3:      #E8DBCF;
+      --ink:          #1C1410;
+      --ink-mid:      #3D2E26;
+      --ink-light:    #7A6658;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: 'Source Sans 3', sans-serif;
+      background: var(--parchment);
+      color: var(--ink);
+      -webkit-font-smoothing: antialiased;
+      overflow-x: hidden;
+      padding-top: 120px;
+    }
+
+    /* ─── UTILITY ────────────────────────────────────────── */
+    .section-container {
+      max-width: 1140px;
+      margin: 0 auto;
+      padding: 0 40px;
+    }
+    @media (max-width: 640px) { .section-container { padding: 0 20px; } }
+
+    /* ─── NAV ───────────────────────────────────────────── */
+    #site-nav {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      height: 120px;
+      z-index: 100;
+      display: flex;
+      transition: box-shadow 0.3s ease;
+    }
+    #site-nav.scrolled {
+      box-shadow:
+        0 2px 20px rgba(28,20,16,0.35),
+        0 1px 0 rgba(0,0,0,0.15);
+    }
+
+    .nav-logo-zone {
+      width: 240px;
+      flex-shrink: 0;
+      background: var(--parchment);
+      display: flex;
+      align-items: center;
+      padding: 0 16px;
+      border-right: 1px solid rgba(28,20,16,0.1);
+    }
+    .nav-logo-zone a { display: flex; align-items: center; text-decoration: none; }
+    .nav-logo-zone img { height: 112px; width: auto; display: block; }
+
+    .nav-links-zone {
+      flex: 1;
+      background: var(--ink);
+      display: flex;
+      align-items: center;
+      padding: 0 32px;
+      gap: 2px;
+      justify-content: flex-end;
+    }
+
+    .nav-link {
+      font-family: 'Source Sans 3', sans-serif;
+      font-weight: 600;
+      font-size: 12px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--parchment);
+      text-decoration: none;
+      padding: 6px 14px;
+      border-bottom: 2px solid transparent;
+      border-radius: 2px 2px 0 0;
+      transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+    }
+    .nav-link:hover { background: rgba(193,59,43,0.14); }
+    .nav-link.active { border-bottom-color: var(--terra); }
+    .nav-link:focus-visible { outline: 2px solid var(--terra-muted); outline-offset: 2px; }
+
+    .hamburger {
+      display: none;
+      flex-direction: column;
+      gap: 5px;
+      cursor: pointer;
+      padding: 10px;
+      background: none;
+      border: none;
+      margin-left: 8px;
+    }
+    .hamburger span {
+      display: block;
+      width: 22px;
+      height: 2px;
+      background: var(--parchment);
+      transition: transform 0.3s cubic-bezier(0.22,1,0.36,1), opacity 0.3s ease;
+    }
+    .hamburger.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+    .hamburger.open span:nth-child(2) { opacity: 0; transform: scaleX(0); }
+    .hamburger.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
+    .mobile-drawer {
+      position: fixed;
+      top: 120px; left: 0; right: 0;
+      z-index: 99;
+      background: var(--ink);
+      border-top: 1px solid rgba(193,59,43,0.2);
+      display: flex;
+      flex-direction: column;
+      padding: 12px 20px 20px;
+      gap: 2px;
+      transform: translateY(-110%);
+      transition: transform 0.35s cubic-bezier(0.22,1,0.36,1);
+      pointer-events: none;
+    }
+    .mobile-drawer.open { transform: translateY(0); pointer-events: auto; }
+    .mobile-drawer .nav-link { padding: 12px 16px; }
+
+    @media (max-width: 768px) {
+      .nav-logo-zone { width: auto; min-width: 160px; }
+      .nav-links-zone .nav-link { display: none; }
+      .hamburger { display: flex; }
+    }
+
+    /* ─── PAGE HEADER ─────────────────────────────────────── */
+    .page-header {
+      background: var(--ink);
+      position: relative;
+      overflow: hidden;
+      padding: 72px 0 64px;
+    }
+    .page-header::before {
+      content: '';
+      position: absolute; inset: 0;
+      background:
+        radial-gradient(ellipse 55% 90% at 15% 60%, rgba(193,59,43,0.11) 0%, transparent 65%),
+        radial-gradient(ellipse 35% 50% at 85% 20%, rgba(140,35,24,0.09) 0%, transparent 65%);
+      pointer-events: none;
+    }
+    .page-header-eyebrow {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--terra-muted);
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 14px;
+    }
+    .page-header-eyebrow::before {
+      content: '';
+      display: block;
+      width: 28px;
+      height: 1px;
+      background: var(--terra-muted);
+    }
+    .page-header h1 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: clamp(40px, 6vw, 68px);
+      font-weight: 300;
+      letter-spacing: -0.03em;
+      color: var(--parchment);
+      line-height: 1.08;
+    }
+    .page-header h1 em { font-style: italic; color: var(--terra-muted); }
+    .page-header-desc {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 16px;
+      font-weight: 300;
+      color: rgba(250,244,237,0.55);
+      margin-top: 16px;
+      line-height: 1.65;
+      max-width: 520px;
+    }
+
+    /* ─── JOIN MAIN ──────────────────────────────────────── */
+    .join-main {
+      padding: 80px 0 110px;
+    }
+
+    .join-layout {
+      display: grid;
+      grid-template-columns: 1fr 360px;
+      gap: 72px;
+      align-items: start;
+    }
+    @media (max-width: 900px) {
+      .join-layout { grid-template-columns: 1fr; gap: 56px; }
+    }
+
+    /* ── Form ── */
+    .join-form-wrap {
+      background: var(--parch-2);
+      border: 1px solid var(--parch-3);
+      border-radius: 3px;
+      padding: 48px 44px;
+    }
+    @media (max-width: 600px) { .join-form-wrap { padding: 32px 24px; } }
+
+    .form-section-head {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: var(--ink-light);
+      margin-bottom: 20px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid var(--parch-3);
+    }
+
+    .form-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+    @media (max-width: 560px) { .form-row { grid-template-columns: 1fr; } }
+
+    .form-group {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      margin-bottom: 20px;
+    }
+    .form-group:last-child { margin-bottom: 0; }
+
+    .form-label {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--ink-mid);
+    }
+    .form-label .req {
+      color: var(--terra);
+      margin-left: 2px;
+    }
+
+    .form-input,
+    .form-select,
+    .form-textarea {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 15px;
+      font-weight: 300;
+      color: var(--ink);
+      background: var(--parchment);
+      border: 1px solid var(--parch-3);
+      border-radius: 2px;
+      padding: 11px 14px;
+      width: 100%;
+      outline: none;
+      transition: border-color 0.2s ease, box-shadow 0.2s ease;
+    }
+    .form-input:focus,
+    .form-select:focus,
+    .form-textarea:focus {
+      border-color: var(--terra);
+      box-shadow: 0 0 0 3px rgba(193,59,43,0.1);
+    }
+    .form-input::placeholder,
+    .form-textarea::placeholder { color: var(--ink-light); opacity: 0.6; }
+    .form-select { appearance: none; cursor: pointer; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%237A6658' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 14px center; padding-right: 36px; }
+    .form-textarea { resize: vertical; min-height: 100px; line-height: 1.6; }
+
+    /* Membership type radio cards */
+    .membership-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      margin-bottom: 28px;
+    }
+    @media (max-width: 560px) { .membership-grid { grid-template-columns: 1fr; } }
+
+    .membership-card input[type="radio"] { position: absolute; opacity: 0; pointer-events: none; }
+    .membership-card label {
+      display: block;
+      border: 1.5px solid var(--parch-3);
+      border-radius: 3px;
+      padding: 16px 18px;
+      cursor: pointer;
+      background: var(--parchment);
+      transition: border-color 0.2s ease, background-color 0.2s ease;
+    }
+    .membership-card input:checked + label {
+      border-color: var(--terra);
+      background: rgba(193,59,43,0.05);
+    }
+    .membership-card label:hover { border-color: rgba(193,59,43,0.4); }
+    .membership-card-title {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 18px;
+      font-weight: 600;
+      color: var(--ink);
+      display: block;
+      margin-bottom: 3px;
+    }
+    .membership-card-desc {
+      font-size: 12px;
+      font-weight: 300;
+      color: var(--ink-light);
+      line-height: 1.5;
+    }
+
+    /* Interest checkboxes */
+    .interest-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin-bottom: 28px;
+    }
+    @media (max-width: 480px) { .interest-grid { grid-template-columns: 1fr; } }
+
+    .interest-item { display: flex; align-items: center; gap: 10px; }
+    .interest-item input[type="checkbox"] {
+      width: 16px;
+      height: 16px;
+      accent-color: var(--terra);
+      cursor: pointer;
+      flex-shrink: 0;
+    }
+    .interest-item label {
+      font-size: 14px;
+      font-weight: 300;
+      color: var(--ink-mid);
+      cursor: pointer;
+      line-height: 1.3;
+    }
+
+    .form-divider {
+      border: none;
+      border-top: 1px solid var(--parch-3);
+      margin: 28px 0;
+    }
+
+    .form-submit-btn {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--parchment);
+      background: var(--terra);
+      border: none;
+      border-radius: 2px;
+      padding: 16px 36px;
+      cursor: pointer;
+      width: 100%;
+      transition: background-color 0.2s ease, transform 0.15s ease;
+    }
+    .form-submit-btn:hover { background: var(--terra-deep); }
+    .form-submit-btn:active { transform: scale(0.99); }
+    .form-submit-btn:focus-visible { outline: 2px solid var(--terra-muted); outline-offset: 3px; }
+    .form-submit-btn:disabled { opacity: 0.5; pointer-events: none; }
+
+    .form-note {
+      font-size: 12px;
+      font-weight: 300;
+      color: var(--ink-light);
+      text-align: center;
+      margin-top: 14px;
+      line-height: 1.6;
+    }
+
+    /* Success state */
+    .form-success {
+      display: none;
+      text-align: center;
+      padding: 48px 24px;
+    }
+    .form-success.visible { display: block; }
+    .form-success-icon {
+      width: 52px;
+      height: 52px;
+      border-radius: 50%;
+      background: rgba(193,59,43,0.1);
+      border: 1.5px solid rgba(193,59,43,0.3);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto 20px;
+    }
+    .form-success-title {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 32px;
+      font-weight: 600;
+      color: var(--ink);
+      margin-bottom: 10px;
+      letter-spacing: -0.02em;
+    }
+    .form-success-body {
+      font-size: 15px;
+      font-weight: 300;
+      color: var(--ink-light);
+      line-height: 1.7;
+    }
+
+    /* ── Sidebar ── */
+    .join-sidebar { display: flex; flex-direction: column; gap: 32px; }
+
+    .sidebar-card {
+      background: var(--parch-2);
+      border: 1px solid var(--parch-3);
+      border-radius: 3px;
+      padding: 28px 26px;
+    }
+    .sidebar-card-label {
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: var(--terra);
+      margin-bottom: 10px;
+      display: block;
+    }
+    .sidebar-card-title {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 22px;
+      font-weight: 600;
+      color: var(--ink);
+      letter-spacing: -0.02em;
+      margin-bottom: 12px;
+      line-height: 1.2;
+    }
+    .sidebar-card p {
+      font-size: 14px;
+      font-weight: 300;
+      color: var(--ink-mid);
+      line-height: 1.7;
+    }
+
+    .benefit-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-top: 14px;
+    }
+    .benefit-list li {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      font-size: 14px;
+      font-weight: 300;
+      color: var(--ink-mid);
+      line-height: 1.5;
+    }
+    .benefit-list li::before {
+      content: '';
+      display: block;
+      width: 5px;
+      height: 5px;
+      border-radius: 50%;
+      background: var(--terra);
+      flex-shrink: 0;
+      margin-top: 6px;
+    }
+
+    .sidebar-quote {
+      font-family: 'Cormorant Garamond', serif;
+      font-style: italic;
+      font-size: 20px;
+      font-weight: 300;
+      color: var(--ink-mid);
+      line-height: 1.5;
+      border-left: 2px solid var(--terra);
+      padding-left: 18px;
+    }
+
+    /* ─── FOOTER ─────────────────────────────────────────── */
+    #site-footer {
+      background: var(--parchment);
+      padding: 72px 0 0;
+    }
+    .footer-grid {
+      display: grid;
+      grid-template-columns: 1.1fr 1fr 1.1fr;
+      gap: 56px;
+      margin-bottom: 56px;
+    }
+    @media (max-width: 768px) { .footer-grid { grid-template-columns: 1fr; gap: 40px; } }
+
+    .footer-logo-frame { display: inline-block; margin-bottom: 18px; }
+    .footer-logo-frame img { height: 112px; width: auto; display: block; }
+    .footer-tagline {
+      font-family: 'Cormorant Garamond', serif;
+      font-style: italic;
+      font-weight: 300;
+      font-size: 16px;
+      line-height: 1.65;
+      color: rgba(28,20,16,0.5);
+      max-width: 230px;
+    }
+    .footer-col-head {
+      font-family: 'Source Sans 3', sans-serif;
+      font-weight: 600;
+      font-size: 10px;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: rgba(28,20,16,0.4);
+      margin-bottom: 20px;
+      display: block;
+    }
+    .footer-nav-links { list-style: none; display: flex; flex-direction: column; gap: 10px; }
+    .footer-nav-links a {
+      font-family: 'Source Sans 3', sans-serif;
+      font-weight: 400;
+      font-size: 14px;
+      color: rgba(28,20,16,0.6);
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+    .footer-nav-links a:hover { color: var(--terra); }
+    .footer-nav-links a:focus-visible { outline: 1px solid var(--terra); outline-offset: 2px; }
+    .contact-line {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 14px;
+      font-weight: 300;
+      color: rgba(28,20,16,0.55);
+      margin-bottom: 8px;
+    }
+    .contact-line a { color: rgba(28,20,16,0.55); text-decoration: none; transition: color 0.2s ease; }
+    .contact-line a:hover { color: var(--terra-muted); }
+    .social-row { display: flex; gap: 8px; margin-top: 20px; }
+    .social-btn {
+      width: 36px; height: 36px; border-radius: 4px;
+      background: rgba(28,20,16,0.06); border: 1px solid rgba(28,20,16,0.1);
+      display: flex; align-items: center; justify-content: center;
+      text-decoration: none; cursor: pointer;
+      transition: background-color 0.22s ease, border-color 0.22s ease;
+    }
+    .social-btn:hover { background: rgba(193,59,43,0.22); border-color: rgba(193,59,43,0.32); }
+    .social-btn:focus-visible { outline: 2px solid var(--terra); outline-offset: 2px; }
+    .social-btn svg { width: 14px; height: 14px; fill: rgba(28,20,16,0.55); display: block; }
+    .footer-bottom {
+      border-top: 1px solid rgba(28,20,16,0.12);
+      padding: 20px 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .footer-copy {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 12px;
+      font-weight: 300;
+      color: rgba(28,20,16,0.35);
+    }
+  </style>
+</head>
+<body>
+
+<!-- ─── STICKY NAV ─────────────────────────────────────── -->
+<nav id="site-nav" role="navigation" aria-label="Main navigation">
+  <div class="nav-logo-zone">
+    <a href="index.html" aria-label="Casa de España en Indiana — home">
+      <img src="brand_assests/Heart_Logo-removebg-preview.png" alt="Casa de España en Indiana" style="display:block;height:112px;width:auto;">
+    </a>
+  </div>
+  <div class="nav-links-zone">
+    <a href="index.html#mission"      class="nav-link">About</a>
+    <a href="index.html#programs"     class="nav-link">Programs</a>
+    <a href="index.html#events"       class="nav-link">Events</a>
+    <a href="index.html#board"        class="nav-link">Board</a>
+    <a href="index.html#get-involved" class="nav-link active">Get Involved</a>
+    <a href="resources.html"          class="nav-link">Resources</a>
+    <a href="news.html"               class="nav-link">News</a>
+    <button class="hamburger" id="hamburger" aria-label="Toggle menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</nav>
+
+<div class="mobile-drawer" id="mobile-drawer" aria-hidden="true">
+  <a href="index.html#mission"      class="nav-link">About</a>
+  <a href="index.html#programs"     class="nav-link">Programs</a>
+  <a href="index.html#events"       class="nav-link">Events</a>
+  <a href="index.html#board"        class="nav-link">Board</a>
+  <a href="index.html#get-involved" class="nav-link active">Get Involved</a>
+  <a href="resources.html"          class="nav-link">Resources</a>
+  <a href="news.html"               class="nav-link">News</a>
+</div>
+
+<!-- ─── PAGE HEADER ───────────────────────────────────── -->
+<header class="page-header">
+  <div class="section-container">
+    <p class="page-header-eyebrow">Community &amp; Membership</p>
+    <h1>Join Casa de <em>España</em></h1>
+    <p class="page-header-desc">Stay connected with our community, receive updates on upcoming events, and help sustain Spanish culture in Indiana.</p>
+  </div>
+</header>
+
+<!-- ─── JOIN MAIN ─────────────────────────────────────── -->
+<main class="join-main" id="main">
+  <div class="section-container">
+    <div class="join-layout">
+
+      <!-- ── Form ── -->
+      <div>
+        <div class="join-form-wrap">
+
+          <!-- Success state (shown after submit) -->
+          <div class="form-success" id="form-success" aria-live="polite">
+            <div class="form-success-icon">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="var(--terra)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M20 6L9 17l-5-5"/>
+              </svg>
+            </div>
+            <p class="form-success-title">¡Bienvenido!</p>
+            <p class="form-success-body">Thank you for joining Casa de España en Indiana.<br>You'll hear from us soon.</p>
+          </div>
+
+          <form id="join-form" novalidate
+                action="https://formspree.io/f/YOUR_FORM_ID"
+                method="POST">
+
+            <!-- Contact info -->
+            <p class="form-section-head">Your Information</p>
+
+            <div class="form-row">
+              <div class="form-group">
+                <label class="form-label" for="first-name">First Name <span class="req">*</span></label>
+                <input class="form-input" id="first-name" name="first_name" type="text" autocomplete="given-name" required placeholder="María">
+              </div>
+              <div class="form-group">
+                <label class="form-label" for="last-name">Last Name <span class="req">*</span></label>
+                <input class="form-input" id="last-name" name="last_name" type="text" autocomplete="family-name" required placeholder="García">
+              </div>
+            </div>
+
+            <div class="form-group">
+              <label class="form-label" for="email">Email Address <span class="req">*</span></label>
+              <input class="form-input" id="email" name="email" type="email" autocomplete="email" required placeholder="you@example.com">
+            </div>
+
+            <div class="form-group" style="margin-bottom:28px;">
+              <label class="form-label" for="city">City / State</label>
+              <input class="form-input" id="city" name="city" type="text" autocomplete="address-level2" placeholder="Indianapolis, IN">
+            </div>
+
+            <hr class="form-divider">
+
+            <!-- Membership type -->
+            <p class="form-section-head">Membership Type</p>
+            <div class="membership-grid">
+              <div class="membership-card">
+                <input type="radio" name="membership_type" id="type-newsletter" value="Newsletter" checked>
+                <label for="type-newsletter">
+                  <span class="membership-card-title">Newsletter</span>
+                  <span class="membership-card-desc">Event updates and news, no commitment required</span>
+                </label>
+              </div>
+              <div class="membership-card">
+                <input type="radio" name="membership_type" id="type-member" value="Full Member">
+                <label for="type-member">
+                  <span class="membership-card-title">Full Member</span>
+                  <span class="membership-card-desc">Active member of the Casa de España community</span>
+                </label>
+              </div>
+            </div>
+
+            <hr class="form-divider">
+
+            <!-- Interests -->
+            <p class="form-section-head">Areas of Interest</p>
+            <div class="interest-grid" style="margin-bottom:28px;">
+              <div class="interest-item">
+                <input type="checkbox" id="int-events" name="interests" value="Cultural Events">
+                <label for="int-events">Cultural Events</label>
+              </div>
+              <div class="interest-item">
+                <input type="checkbox" id="int-education" name="interests" value="Educational Programs">
+                <label for="int-education">Educational Programs</label>
+              </div>
+              <div class="interest-item">
+                <input type="checkbox" id="int-community" name="interests" value="Community Support">
+                <label for="int-community">Community Support</label>
+              </div>
+              <div class="interest-item">
+                <input type="checkbox" id="int-volunteer" name="interests" value="Volunteering">
+                <label for="int-volunteer">Volunteering</label>
+              </div>
+            </div>
+
+            <hr class="form-divider">
+
+            <!-- Message -->
+            <div class="form-group" style="margin-bottom:32px;">
+              <label class="form-label" for="message">Message <span style="font-weight:300;text-transform:none;letter-spacing:0;color:var(--ink-light);">(optional)</span></label>
+              <textarea class="form-textarea" id="message" name="message" placeholder="Tell us a bit about yourself or how you heard about us…"></textarea>
+            </div>
+
+            <button class="form-submit-btn" type="submit" id="submit-btn">
+              Join Casa de España
+            </button>
+            <p class="form-note">We respect your privacy. No spam, ever. Unsubscribe at any time.</p>
+
+          </form>
+        </div>
+      </div>
+
+      <!-- ── Sidebar ── -->
+      <aside class="join-sidebar">
+
+        <div class="sidebar-card">
+          <span class="sidebar-card-label">Why Join</span>
+          <p class="sidebar-card-title">Be Part of the Community</p>
+          <p>Casa de España connects Spanish heritage and culture with the Indiana community through events, education, and mutual support.</p>
+          <ul class="benefit-list">
+            <li>Invitations to exclusive cultural events and celebrations</li>
+            <li>Early access to programs and lecture series</li>
+            <li>Monthly newsletter with Spain news and community updates</li>
+            <li>A network of Spanish speakers and enthusiasts in Indiana</li>
+          </ul>
+        </div>
+
+        <blockquote class="sidebar-card" style="border:1px solid var(--parch-3);padding:28px 26px;">
+          <p class="sidebar-quote">"Preserving the soul of Spain in the heart of Indiana since 2004."</p>
+        </blockquote>
+
+        <div class="sidebar-card">
+          <span class="sidebar-card-label">Questions?</span>
+          <p style="font-size:14px;font-weight:300;color:var(--ink-mid);line-height:1.7;">
+            Reach us at
+            <a href="mailto:info@casadeespanaindiana.org" style="color:var(--terra);text-decoration:none;border-bottom:1px solid rgba(193,59,43,0.3);">info@casadeespanaindiana.org</a>
+          </p>
+        </div>
+
+      </aside>
+
+    </div>
+  </div>
+</main>
+
+<!-- ─── FOOTER ─────────────────────────────────────────── -->
+<footer id="site-footer" role="contentinfo">
+  <div class="section-container">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo-frame">
+          <img src="brand_assests/Heart_Logo-removebg-preview.png" alt="Casa de España en Indiana" style="display:block;height:112px;width:auto;">
+        </div>
+        <p class="footer-tagline">Preserving the soul of Spain in the heart of Indiana since 2004.</p>
+      </div>
+      <div>
+        <span class="footer-col-head">Navigation</span>
+        <ul class="footer-nav-links">
+          <li><a href="index.html#mission">About Us</a></li>
+          <li><a href="index.html#programs">Programs</a></li>
+          <li><a href="index.html#events">Events</a></li>
+          <li><a href="index.html#board">Board of Directors</a></li>
+          <li><a href="index.html#get-involved">Get Involved</a></li>
+          <li><a href="resources.html">Resources</a></li>
+          <li><a href="news.html">News</a></li>
+        </ul>
+      </div>
+      <div>
+        <span class="footer-col-head">Contact</span>
+        <p class="contact-line">Indianapolis, Indiana</p>
+        <p class="contact-line"><a href="mailto:info@casadeespanaindiana.org">info@casadeespanaindiana.org</a></p>
+        <p class="contact-line"><a href="https://casadeespanaindiana.org" target="_blank" rel="noopener">casadeespanaindiana.org</a></p>
+        <div class="social-row" aria-label="Social media">
+          <a href="#" class="social-btn" aria-label="Facebook">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/></svg>
+          </a>
+          <a href="#" class="social-btn" aria-label="Instagram">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <rect x="2" y="2" width="20" height="20" rx="5" ry="5" fill="none" stroke="rgba(28,20,16,0.55)" stroke-width="2"/>
+              <circle cx="12" cy="12" r="4" fill="none" stroke="rgba(28,20,16,0.55)" stroke-width="2"/>
+              <circle cx="17.5" cy="6.5" r="1.5" fill="rgba(28,20,16,0.55)"/>
+            </svg>
+          </a>
+          <a href="#" class="social-btn" aria-label="Twitter / X">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"/></svg>
+          </a>
+          <a href="#" class="social-btn" aria-label="YouTube">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M22.54 6.42a2.78 2.78 0 00-1.95-1.97C18.88 4 12 4 12 4s-6.88 0-8.59.45A2.78 2.78 0 001.46 6.42 29 29 0 001 12a29 29 0 00.46 5.58A2.78 2.78 0 003.41 19.6C5.12 20 12 20 12 20s6.88 0 8.59-.4a2.78 2.78 0 001.95-1.97A29 29 0 0023 12a29 29 0 00-.46-5.58z"/>
+              <polygon points="9.75 15.02 15.5 12 9.75 8.98 9.75 15.02" fill="rgba(28,20,16,0.9)"/>
+            </svg>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span class="footer-copy">© 2026 Casa de España en Indiana. All rights reserved.</span>
+      <span class="footer-copy">Organización sin fines de lucro 501(c)(3) · EIN disponible bajo solicitud</span>
+    </div>
+  </div>
+</footer>
+
+<!-- ─── INLINE JS ──────────────────────────────────────── -->
+<script>
+  // Nav scroll shadow
+  const nav = document.getElementById('site-nav');
+  window.addEventListener('scroll', () => {
+    nav.classList.toggle('scrolled', window.scrollY > 40);
+  }, { passive: true });
+
+  // Mobile hamburger
+  const hamburger = document.getElementById('hamburger');
+  const drawer    = document.getElementById('mobile-drawer');
+  hamburger.addEventListener('click', () => {
+    const isOpen = drawer.classList.toggle('open');
+    hamburger.classList.toggle('open', isOpen);
+    hamburger.setAttribute('aria-expanded', String(isOpen));
+    drawer.setAttribute('aria-hidden', String(!isOpen));
+  });
+  drawer.querySelectorAll('a').forEach(a => a.addEventListener('click', () => {
+    drawer.classList.remove('open');
+    hamburger.classList.remove('open');
+    hamburger.setAttribute('aria-expanded', 'false');
+    drawer.setAttribute('aria-hidden', 'true');
+  }));
+
+  // Form submit — intercept for AJAX + success state
+  const form       = document.getElementById('join-form');
+  const successEl  = document.getElementById('form-success');
+  const submitBtn  = document.getElementById('submit-btn');
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+
+    // Basic validation
+    const email = form.querySelector('#email');
+    const firstName = form.querySelector('#first-name');
+    if (!firstName.value.trim() || !email.value.trim()) {
+      firstName.focus();
+      return;
+    }
+
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Submitting…';
+
+    try {
+      const resp = await fetch(form.action, {
+        method: 'POST',
+        body: new FormData(form),
+        headers: { 'Accept': 'application/json' },
+      });
+
+      if (resp.ok) {
+        form.style.display = 'none';
+        successEl.classList.add('visible');
+      } else {
+        throw new Error('Server error');
+      }
+    } catch {
+      submitBtn.disabled = false;
+      submitBtn.textContent = 'Join Casa de España';
+      alert('Something went wrong. Please try again or email us directly at info@casadeespanaindiana.org');
+    }
+  });
+</script>
+
+</body>
+</html>
