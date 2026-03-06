@@ -1,11 +1,12 @@
 {
   "events": [
     {
-      "date": "2026-03-14",
-      "time": "7:00 PM",
-      "type": "Film Screening",
-      "title": "Spanish Cinema Night: Todo sobre mi madre",
-      "location": "Indianapolis Public Library · Clowes Memorial Hall",
+      "date": "2026-03-04",
+      "dateEnd": "2026-03-07",
+      "time": "8:00 AM",
+      "type": "Congreso",
+      "title": "FAEUSA Congreso en Miami",
+      "location": "Miami, FL",
       "url": "#"
     },
     {

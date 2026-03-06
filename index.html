@@ -1497,15 +1497,18 @@
     const ARROW = `<svg class="event-arrow" width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true"><path d="M4 10H16M11 5L16 10L11 15" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
 
     function renderEvent(ev, i) {
-      const d = new Date(ev.date + 'T00:00:00');
-      const month = MONTHS[d.getMonth()];
-      const day   = d.getDate();
-      const loc   = ev.time ? `${ev.location} · ${ev.time}` : ev.location;
+      const d        = new Date(ev.date + 'T00:00:00');
+      const month    = MONTHS[d.getMonth()];
+      const dayStart = d.getDate();
+      const dayEnd   = ev.dateEnd ? new Date(ev.dateEnd + 'T00:00:00').getDate() : null;
+      const dayLabel = dayEnd ? `${dayStart}–${dayEnd}` : String(dayStart);
+      const ariaLabel = dayEnd ? `${month} ${dayStart}–${dayEnd}` : `${month} ${dayStart}`;
+      const loc      = ev.time ? `${ev.location} · ${ev.time}` : ev.location;
       const isExternal = ev.url && ev.url !== '#';
       return `<a href="${ev.url || '#'}" class="event-row scroll-reveal" data-delay="${i + 1}" role="listitem"${isExternal ? ' target="_blank" rel="noopener"' : ''}>
-        <div class="event-date" aria-label="${month} ${day}">
+        <div class="event-date" aria-label="${ariaLabel}">
           <span class="event-month">${month}</span>
-          <span class="event-day">${day}</span>
+          <span class="event-day" style="${dayEnd ? 'font-size:clamp(22px,2vw,28px);letter-spacing:-0.03em;' : ''}">${dayLabel}</span>
         </div>
         <div class="event-info">
           <span class="event-type">${ev.type}</span>
