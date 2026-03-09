@@ -57,6 +57,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/HBIFAA2ZGRL2TKOZAVTAMOWE5Y.jpg?auth=a71606056bd116bcfd9aeddee1313e008749c2c7db9038a8ee93ae9cb7d0488b"
     },
     {
+      "title": "Moreno exprime su perfil moderado en ‘El Hormiguero’ entre imitaciones de Aznar y Rajoy",
+      "link": "https://elpais.com/espana/2026-03-09/moreno-exprime-su-perfil-moderado-en-el-hormiguero-entre-imitaciones-de-aznar-y-rajoy.html",
+      "desc": "“Una minoría no puede arrastrar las posiciones de un partido central hacia las suyas, porque entonces perdemos la esencia”, ha dicho el presidente andaluz sobre Vox.",
+      "date": "Mon, 09 Mar 2026 23:00:21 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/elpaistop/multimedia/20263/10/1146490.mp4"
+    },
+    {
       "title": "Feijóo augura que Vox “bloqueará” también Castilla y León “por las elecciones andaluzas”",
       "link": "https://elpais.com/espana/elecciones-castilla-y-leon/2026-03-09/feijoo-augura-que-vox-bloqueara-tambien-castilla-y-leon-por-las-elecciones-andaluzas.html",
       "desc": "“Nadie puede entender que Vox estafe a sus votantes dando alegrías al sanchismo”, percute el líder del PP contra los de Abascal",
@@ -125,14 +132,7 @@
       "desc": "Fuentes populares apuntan a que Carlo G. Angrisano, sobrino de Juan Carlos Girauta, ya no ejercía de facto el cargo desde hace meses",
       "date": "Sun, 08 Mar 2026 18:41:44 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/YU5PIZ3TSZBA3BCP7YS5UUNINQ.jpg?auth=c688eaa8f087147e309e0c6c55e61cc91736ce2d311bdde65f6df810adc2b3bc"
-    },
-    {
-      "title": "Nadie se hace responsable de la pasarela de Santander cuyo desplome causó seis muertos",
-      "link": "https://elpais.com/espana/2026-03-09/nadie-se-hace-responsable-de-la-pasarela-colapsada-en-santander.html",
-      "desc": "El Ayuntamiento dice que Costas tiene la competencia de la senda litoral a la que pertenece, pero el Gobierno central pide esperar a la investigación judicial",
-      "date": "Mon, 09 Mar 2026 04:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/YDTJWWU35NEXPDTICCF375QMZA.jpg?auth=09090646d2cde67d2286986a6d04097931833c03da16a669889f18ee97f8f09a"
     }
   ],
-  "fetchedAt": 1773093741152
+  "fetchedAt": 1773099959768
 }
