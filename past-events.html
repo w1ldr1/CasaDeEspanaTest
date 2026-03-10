@@ -1,0 +1,1164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Past Events — Casa de España en Indiana | Casa de Espana en Indiana</title>
+  <meta name="description" content="A record of past cultural events, celebrations, and gatherings hosted by Casa de España en Indiana — photos, recaps, and community memories.">
+  <meta name="keywords" content="Casa de España en Indiana, Casa de Espana en Indiana, past events, Spanish Indiana events, Latino cultural events Indiana">
+  <link rel="canonical" href="https://casaespanaindiana.org/past-events.html">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://casaespanaindiana.org/past-events.html">
+  <meta property="og:title" content="Past Events — Casa de España en Indiana">
+  <meta property="og:description" content="A record of past cultural events, celebrations, and gatherings from Casa de España en Indiana.">
+  <meta property="og:site_name" content="Casa de España en Indiana">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600&family=Source+Sans+3:wght@300;400;600&display=swap" rel="stylesheet">
+
+  <script>
+    tailwind = { config: {
+      theme: {
+        extend: {
+          colors: {
+            terra: '#C13B2B',
+            'terra-deep': '#8C2318',
+            'terra-muted': '#D4604F',
+            parchment: '#FAF4ED',
+            'parch-2': '#F2E9DF',
+            'parch-3': '#E8DBCF',
+            ink: '#1C1410',
+            'ink-mid': '#3D2E26',
+            'ink-light': '#7A6658',
+          },
+          fontFamily: {
+            display: ['"Cormorant Garamond"', 'Georgia', 'serif'],
+            sans: ['"Source Sans 3"', '"Source Sans Pro"', 'sans-serif'],
+          },
+        }
+      }
+    }};
+  </script>
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <style>
+    /* ─── TOKENS ─────────────────────────────────────────── */
+    :root {
+      --terra:        #C13B2B;
+      --terra-deep:   #8C2318;
+      --terra-muted:  #D4604F;
+      --parchment:    #FAF4ED;
+      --parch-2:      #F2E9DF;
+      --parch-3:      #E8DBCF;
+      --ink:          #1C1410;
+      --ink-mid:      #3D2E26;
+      --ink-light:    #7A6658;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: 'Source Sans 3', sans-serif;
+      background: var(--parchment);
+      color: var(--ink);
+      -webkit-font-smoothing: antialiased;
+      overflow-x: hidden;
+      padding-top: 120px;
+    }
+
+    /* ─── UTILITY ────────────────────────────────────────── */
+    .section-container {
+      max-width: 1140px;
+      margin: 0 auto;
+      padding: 0 40px;
+    }
+    @media (max-width: 640px) { .section-container { padding: 0 20px; } }
+
+    /* ─── NAV ───────────────────────────────────────────── */
+    #site-nav {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      height: 120px;
+      z-index: 100;
+      display: flex;
+      transition: box-shadow 0.3s ease;
+    }
+    #site-nav.scrolled {
+      box-shadow:
+        0 2px 20px rgba(28,20,16,0.35),
+        0 1px 0 rgba(0,0,0,0.15);
+    }
+
+    .nav-logo-zone {
+      width: 240px;
+      flex-shrink: 0;
+      background: var(--parchment);
+      display: flex;
+      align-items: center;
+      padding: 0 16px;
+      border-right: 1px solid rgba(28,20,16,0.1);
+    }
+    .nav-links-zone {
+      flex: 1;
+      background: var(--ink);
+      display: flex;
+      align-items: center;
+      padding: 0 28px;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+    .nav-link {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.07em;
+      text-transform: uppercase;
+      color: rgba(250,244,237,0.72);
+      text-decoration: none;
+      padding: 6px 10px;
+      border-bottom: 2px solid transparent;
+      transition: color 0.2s ease, border-color 0.2s ease;
+    }
+    .nav-link:hover { color: var(--parchment); border-color: rgba(193,59,43,0.5); }
+    .nav-link:focus-visible { outline: 2px solid var(--terra); outline-offset: 2px; border-radius: 2px; }
+    .nav-link.active { color: var(--parchment); border-color: var(--terra); }
+
+    /* hamburger */
+    .hamburger {
+      display: none;
+      flex-direction: column;
+      gap: 5px;
+      cursor: pointer;
+      padding: 8px;
+      background: none;
+      border: none;
+      margin-left: auto;
+    }
+    .hamburger span {
+      display: block;
+      width: 22px;
+      height: 2px;
+      background: rgba(250,244,237,0.8);
+      transition: transform 0.25s ease, opacity 0.25s ease;
+    }
+    .hamburger[aria-expanded="true"] span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+    .hamburger[aria-expanded="true"] span:nth-child(2) { opacity: 0; }
+    .hamburger[aria-expanded="true"] span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
+    .mobile-drawer {
+      position: fixed;
+      top: 120px; left: 0; right: 0;
+      background: var(--ink);
+      z-index: 99;
+      display: flex;
+      flex-direction: column;
+      padding: 16px 24px 24px;
+      gap: 2px;
+      transform: translateY(-110%);
+      transition: transform 0.3s ease;
+    }
+    .mobile-drawer.open { transform: translateY(0); }
+
+    @media (max-width: 900px) {
+      .hamburger { display: flex; }
+      .nav-links-zone .nav-link { display: none; }
+      .nav-links-zone .hamburger { display: flex; }
+    }
+
+    /* ─── PAGE HEADER ────────────────────────────────────── */
+    .page-header {
+      background: var(--ink);
+      padding: 80px 0 72px;
+      position: relative;
+      overflow: hidden;
+    }
+    .page-header::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background:
+        radial-gradient(ellipse 60% 80% at 80% 50%, rgba(193,59,43,0.12) 0%, transparent 70%),
+        radial-gradient(ellipse 40% 60% at 10% 80%, rgba(140,35,24,0.08) 0%, transparent 60%);
+      pointer-events: none;
+    }
+    .header-grain {
+      position: absolute;
+      inset: 0;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
+      opacity: 0.5;
+      pointer-events: none;
+    }
+    .page-header-inner {
+      position: relative;
+      z-index: 1;
+    }
+    .page-eyebrow {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: var(--terra-muted);
+      margin-bottom: 16px;
+      display: block;
+    }
+    .page-title {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: clamp(2.6rem, 5vw, 3.8rem);
+      font-weight: 300;
+      line-height: 1.1;
+      letter-spacing: -0.03em;
+      color: var(--parchment);
+      margin-bottom: 20px;
+    }
+    .page-title em {
+      font-style: italic;
+      color: var(--terra-muted);
+    }
+    .page-desc {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 16px;
+      font-weight: 300;
+      line-height: 1.75;
+      color: rgba(250,244,237,0.62);
+      max-width: 520px;
+    }
+
+    /* ─── YEAR FILTER ───────────────────────────────────── */
+    .filter-bar {
+      background: var(--parch-2);
+      border-bottom: 1px solid var(--parch-3);
+      padding: 0;
+      position: sticky;
+      top: 120px;
+      z-index: 50;
+    }
+    .filter-inner {
+      display: flex;
+      align-items: center;
+      gap: 0;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    .filter-inner::-webkit-scrollbar { display: none; }
+    .filter-btn {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--ink-light);
+      background: none;
+      border: none;
+      border-bottom: 3px solid transparent;
+      padding: 18px 20px 15px;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: color 0.2s ease, border-color 0.2s ease;
+    }
+    .filter-btn:hover { color: var(--ink); border-color: rgba(193,59,43,0.3); }
+    .filter-btn:focus-visible { outline: 2px solid var(--terra); outline-offset: -2px; }
+    .filter-btn.active { color: var(--terra); border-color: var(--terra); }
+
+    /* ─── EVENTS GRID ───────────────────────────────────── */
+    .events-archive {
+      padding: 64px 0 96px;
+    }
+
+    /* Year group header */
+    .year-group { margin-bottom: 72px; }
+    .year-group:last-child { margin-bottom: 0; }
+
+    .year-label {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: clamp(3.5rem, 8vw, 7rem);
+      font-weight: 300;
+      letter-spacing: -0.04em;
+      color: var(--parch-3);
+      line-height: 0.85;
+      margin-bottom: 40px;
+      user-select: none;
+      position: relative;
+    }
+    .year-label::after {
+      content: '';
+      display: block;
+      width: 48px;
+      height: 2px;
+      background: var(--terra);
+      margin-top: 20px;
+    }
+
+    /* Card grid — masonry-like via CSS grid */
+    .cards-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+    }
+    @media (max-width: 900px) { .cards-grid { grid-template-columns: repeat(2, 1fr); } }
+    @media (max-width: 560px) { .cards-grid { grid-template-columns: 1fr; } }
+
+    /* Highlight cards span 2 columns */
+    .event-card.highlight {
+      grid-column: span 2;
+    }
+    @media (max-width: 560px) {
+      .event-card.highlight { grid-column: span 1; }
+    }
+
+    .event-card {
+      background: var(--parch-2);
+      border: 1px solid var(--parch-3);
+      border-radius: 4px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      transition: transform 0.25s cubic-bezier(0.22,1,0.36,1), box-shadow 0.25s ease;
+    }
+    .event-card:hover {
+      transform: translateY(-4px);
+      box-shadow:
+        0 12px 40px rgba(28,20,16,0.12),
+        0 4px 12px rgba(193,59,43,0.08);
+    }
+
+    /* Cover photo */
+    .card-cover {
+      position: relative;
+      overflow: hidden;
+      background: var(--ink);
+    }
+    .event-card.highlight .card-cover { aspect-ratio: 16/7; }
+    .event-card:not(.highlight) .card-cover { aspect-ratio: 4/3; }
+
+    .card-cover img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      transition: transform 0.5s cubic-bezier(0.22,1,0.36,1);
+    }
+    .event-card:hover .card-cover img { transform: scale(1.04); }
+
+    .card-cover-overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to top, rgba(28,20,16,0.72) 0%, rgba(28,20,16,0.1) 50%, transparent 100%);
+    }
+    .card-cover-overlay-color {
+      position: absolute;
+      inset: 0;
+      background: rgba(193,59,43,0.08);
+      mix-blend-mode: multiply;
+    }
+
+    /* Photo count badge */
+    .photo-badge {
+      position: absolute;
+      bottom: 12px;
+      right: 12px;
+      background: rgba(28,20,16,0.75);
+      border: 1px solid rgba(250,244,237,0.15);
+      border-radius: 3px;
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      color: rgba(250,244,237,0.85);
+      padding: 5px 10px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      cursor: pointer;
+      transition: background 0.2s ease;
+    }
+    .photo-badge:hover { background: rgba(193,59,43,0.8); }
+    .photo-badge svg { width: 13px; height: 13px; flex-shrink: 0; }
+
+    /* Type badge on cover */
+    .type-badge {
+      position: absolute;
+      top: 12px;
+      left: 12px;
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: rgba(250,244,237,0.9);
+      background: var(--terra);
+      padding: 4px 9px;
+      border-radius: 2px;
+    }
+
+    /* Card body */
+    .card-body {
+      padding: 24px 24px 20px;
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+    }
+
+    .card-date {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--ink-light);
+      margin-bottom: 10px;
+    }
+
+    .card-title {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: clamp(1.25rem, 2vw, 1.6rem);
+      font-weight: 600;
+      line-height: 1.2;
+      letter-spacing: -0.01em;
+      color: var(--ink);
+      margin-bottom: 8px;
+    }
+    .event-card.highlight .card-title {
+      font-size: clamp(1.5rem, 2.5vw, 2rem);
+    }
+
+    .card-location {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 13px;
+      font-weight: 300;
+      color: var(--ink-light);
+      margin-bottom: 12px;
+      display: flex;
+      align-items: flex-start;
+      gap: 6px;
+    }
+    .card-location svg { width: 13px; height: 13px; flex-shrink: 0; margin-top: 2px; color: var(--terra-muted); }
+
+    .card-desc {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 14px;
+      font-weight: 300;
+      line-height: 1.75;
+      color: var(--ink-mid);
+      flex: 1;
+      margin-bottom: 20px;
+    }
+
+    .card-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding-top: 16px;
+      border-top: 1px solid var(--parch-3);
+    }
+
+    .btn-gallery {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--terra);
+      background: none;
+      border: none;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 0;
+      transition: color 0.2s ease, gap 0.2s ease;
+      text-decoration: none;
+    }
+    .btn-gallery:hover { color: var(--terra-deep); gap: 12px; }
+    .btn-gallery:focus-visible { outline: 2px solid var(--terra); outline-offset: 3px; border-radius: 2px; }
+    .btn-gallery svg { width: 16px; height: 16px; flex-shrink: 0; }
+
+    .card-photo-thumbs {
+      display: flex;
+      gap: 4px;
+    }
+    .card-thumb {
+      width: 28px;
+      height: 28px;
+      border-radius: 2px;
+      object-fit: cover;
+      cursor: pointer;
+      opacity: 0.6;
+      transition: opacity 0.2s ease, transform 0.2s ease;
+    }
+    .card-thumb:hover { opacity: 1; transform: scale(1.12); }
+
+    /* ─── EMPTY STATE ─────────────────────────────────── */
+    .empty-state {
+      text-align: center;
+      padding: 80px 40px;
+      color: var(--ink-light);
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: 1.4rem;
+      font-style: italic;
+      font-weight: 300;
+    }
+
+    /* ─── LIGHTBOX ──────────────────────────────────────── */
+    .lightbox {
+      position: fixed;
+      inset: 0;
+      z-index: 999;
+      background: rgba(28,20,16,0.95);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.3s ease;
+    }
+    .lightbox.open {
+      opacity: 1;
+      pointer-events: auto;
+    }
+    .lightbox-inner {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 64px 80px;
+    }
+    .lightbox-img-wrap {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      min-height: 0;
+    }
+    .lightbox-img {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
+      border-radius: 2px;
+      box-shadow: 0 32px 80px rgba(0,0,0,0.6);
+      transition: opacity 0.2s ease;
+    }
+    .lightbox-img.fading { opacity: 0; }
+
+    .lightbox-close {
+      position: absolute;
+      top: 16px;
+      right: 20px;
+      background: none;
+      border: none;
+      color: rgba(250,244,237,0.55);
+      cursor: pointer;
+      padding: 8px;
+      transition: color 0.2s ease;
+      line-height: 1;
+    }
+    .lightbox-close:hover { color: var(--parchment); }
+    .lightbox-close:focus-visible { outline: 2px solid var(--terra); outline-offset: 2px; border-radius: 2px; }
+    .lightbox-close svg { width: 28px; height: 28px; }
+
+    .lightbox-nav {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background: none;
+      border: 1px solid rgba(250,244,237,0.2);
+      border-radius: 3px;
+      color: rgba(250,244,237,0.65);
+      cursor: pointer;
+      padding: 12px;
+      transition: color 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .lightbox-nav:hover {
+      color: var(--parchment);
+      border-color: rgba(250,244,237,0.5);
+      background: rgba(250,244,237,0.07);
+    }
+    .lightbox-nav:focus-visible { outline: 2px solid var(--terra); outline-offset: 2px; }
+    .lightbox-nav svg { width: 22px; height: 22px; }
+    #lb-prev { left: 16px; }
+    #lb-next { right: 16px; }
+
+    .lightbox-caption {
+      text-align: center;
+      padding-top: 20px;
+    }
+    .lightbox-caption-title {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: 1.1rem;
+      font-weight: 400;
+      color: rgba(250,244,237,0.85);
+      margin-bottom: 4px;
+    }
+    .lightbox-counter {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      color: var(--ink-light);
+      text-transform: uppercase;
+    }
+
+    /* Thumbnails strip */
+    .lightbox-thumbs {
+      display: flex;
+      gap: 6px;
+      padding-top: 14px;
+      overflow-x: auto;
+      scrollbar-width: none;
+      max-width: 600px;
+    }
+    .lightbox-thumbs::-webkit-scrollbar { display: none; }
+    .lb-thumb {
+      width: 52px;
+      height: 40px;
+      object-fit: cover;
+      border-radius: 2px;
+      cursor: pointer;
+      opacity: 0.45;
+      flex-shrink: 0;
+      border: 2px solid transparent;
+      transition: opacity 0.2s ease, border-color 0.2s ease;
+    }
+    .lb-thumb.active { opacity: 1; border-color: var(--terra); }
+    .lb-thumb:hover { opacity: 0.85; }
+
+    /* ─── SCROLL REVEAL ─────────────────────────────────── */
+    .scroll-reveal {
+      opacity: 0;
+      transform: translateY(22px);
+      transition: opacity 0.55s ease, transform 0.55s cubic-bezier(0.22,1,0.36,1);
+    }
+    .scroll-reveal[data-delay="1"] { transition-delay: 0.1s; }
+    .scroll-reveal[data-delay="2"] { transition-delay: 0.2s; }
+    .scroll-reveal[data-delay="3"] { transition-delay: 0.3s; }
+    .scroll-reveal.is-visible { opacity: 1; transform: translateY(0); }
+
+    /* ─── FOOTER ────────────────────────────────────────── */
+    #site-footer {
+      background: var(--parch-2);
+      border-top: 1px solid var(--parch-3);
+      padding: 64px 0 0;
+    }
+    .footer-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 48px;
+      padding-bottom: 48px;
+    }
+    @media (max-width: 760px) {
+      .footer-grid { grid-template-columns: 1fr; gap: 32px; }
+    }
+    .footer-logo-frame { margin-bottom: 16px; }
+    .footer-tagline {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-size: 1rem;
+      font-style: italic;
+      font-weight: 300;
+      color: var(--ink-light);
+      line-height: 1.6;
+      max-width: 240px;
+    }
+    .footer-col-head {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--terra);
+      display: block;
+      margin-bottom: 16px;
+    }
+    .footer-nav-links {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .footer-nav-links a {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 14px;
+      font-weight: 300;
+      color: var(--ink-mid);
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+    .footer-nav-links a:hover { color: var(--terra); }
+    .contact-line {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 14px;
+      font-weight: 300;
+      color: var(--ink-mid);
+      margin-bottom: 6px;
+      line-height: 1.5;
+    }
+    .contact-line a {
+      color: var(--ink-mid);
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+    .contact-line a:hover { color: var(--terra); }
+    .social-row {
+      display: flex;
+      gap: 10px;
+      margin-top: 20px;
+    }
+    .social-btn {
+      width: 34px;
+      height: 34px;
+      border-radius: 3px;
+      border: 1px solid var(--parch-3);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--ink-mid);
+      text-decoration: none;
+      transition: border-color 0.2s ease, color 0.2s ease, background 0.2s ease;
+    }
+    .social-btn:hover {
+      border-color: var(--terra);
+      color: var(--terra);
+      background: rgba(193,59,43,0.06);
+    }
+    .social-btn:focus-visible { outline: 2px solid var(--terra); outline-offset: 2px; }
+    .social-btn img { width: 16px; height: 16px; display: block; opacity: 0.55; }
+    .social-btn:hover img { opacity: 0.9; }
+    .social-btn svg { width: 16px; height: 16px; fill: currentColor; }
+    .footer-bottom {
+      border-top: 1px solid var(--parch-3);
+      padding: 20px 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px 32px;
+      justify-content: space-between;
+    }
+    .footer-copy {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 12px;
+      font-weight: 300;
+      color: var(--ink-light);
+    }
+  </style>
+</head>
+<body>
+
+<!-- ─── STICKY NAV ─────────────────────────────────────────── -->
+<nav id="site-nav" role="navigation" aria-label="Main navigation">
+  <div class="nav-logo-zone">
+    <a href="index.html" aria-label="Casa de España en Indiana — home" style="display:flex;align-items:center;">
+      <img src="brand_assests/Heart_Logo-removebg-preview.png" alt="Casa de España en Indiana" style="display:block;height:112px;width:auto;">
+    </a>
+  </div>
+  <div class="nav-links-zone">
+    <a href="index.html#mission"      class="nav-link">About</a>
+    <a href="index.html#programs"     class="nav-link">Programs</a>
+    <a href="index.html#events"       class="nav-link">Events</a>
+    <a href="index.html#board"        class="nav-link">Board</a>
+    <a href="index.html#get-involved" class="nav-link">Get Involved</a>
+    <a href="resources.html"          class="nav-link">Resources</a>
+    <a href="news.html"               class="nav-link">News</a>
+    <a href="past-events.html"        class="nav-link active">Past Events</a>
+    <button class="hamburger" id="hamburger" aria-label="Toggle menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</nav>
+
+<div class="mobile-drawer" id="mobile-drawer" aria-hidden="true">
+  <a href="index.html#mission"      class="nav-link">About</a>
+  <a href="index.html#programs"     class="nav-link">Programs</a>
+  <a href="index.html#events"       class="nav-link">Events</a>
+  <a href="index.html#board"        class="nav-link">Board</a>
+  <a href="index.html#get-involved" class="nav-link">Get Involved</a>
+  <a href="resources.html"          class="nav-link">Resources</a>
+  <a href="news.html"               class="nav-link">News</a>
+  <a href="past-events.html"        class="nav-link">Past Events</a>
+</div>
+
+<!-- ─── PAGE HEADER ──────────────────────────────────────── -->
+<header class="page-header">
+  <div class="header-grain" aria-hidden="true"></div>
+  <div class="section-container page-header-inner">
+    <span class="page-eyebrow">Archive · Memory · Community</span>
+    <h1 class="page-title">A Record of<br><em>Gatherings Past</em></h1>
+    <p class="page-desc">Photographs and recaps from our cultural events, celebrations, and community gatherings — a living archive of Spanish heritage in Indiana.</p>
+  </div>
+</header>
+
+<!-- ─── YEAR FILTER ──────────────────────────────────────── -->
+<div class="filter-bar" role="navigation" aria-label="Filter by year">
+  <div class="section-container">
+    <div class="filter-inner" id="filter-inner">
+      <!-- populated by JS -->
+    </div>
+  </div>
+</div>
+
+<!-- ─── EVENTS ARCHIVE ────────────────────────────────────── -->
+<main>
+  <section class="events-archive">
+    <div class="section-container">
+      <div id="archive-root">
+        <!-- populated by JS -->
+      </div>
+    </div>
+  </section>
+</main>
+
+<!-- ─── FOOTER ────────────────────────────────────────────── -->
+<footer id="site-footer" role="contentinfo">
+  <div class="section-container">
+    <div class="footer-grid">
+
+      <div>
+        <div class="footer-logo-frame">
+          <img src="brand_assests/Heart_Logo-removebg-preview.png" alt="Casa de España en Indiana" style="display:block;height:112px;width:auto;">
+        </div>
+        <p class="footer-tagline">
+          Preserving the soul of Spain in the heart of Indiana since 2004.
+        </p>
+      </div>
+
+      <div>
+        <span class="footer-col-head">Navigation</span>
+        <ul class="footer-nav-links">
+          <li><a href="index.html#mission">About Us</a></li>
+          <li><a href="index.html#programs">Programs</a></li>
+          <li><a href="index.html#events">Events</a></li>
+          <li><a href="index.html#board">Board of Directors</a></li>
+          <li><a href="index.html#get-involved">Get Involved</a></li>
+          <li><a href="resources.html">Resources</a></li>
+          <li><a href="news.html">News</a></li>
+          <li><a href="past-events.html">Past Events</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <span class="footer-col-head">Contact</span>
+        <p class="contact-line">Indianapolis, Indiana</p>
+        <p class="contact-line">
+          <a href="mailto:info@casaespanaindiana.org">info@casaespanaindiana.org</a>
+        </p>
+        <p class="contact-line">
+          <a href="https://casaespanaindiana.org" target="_blank" rel="noopener">casaespanaindiana.org</a>
+        </p>
+
+        <div class="social-row" aria-label="Social media">
+          <a href="https://www.facebook.com/CasadeEspanaIN/" target="_blank" rel="noopener" class="social-btn" aria-label="Facebook">
+            <img src="brand_assests/facebook.svg" alt="" aria-hidden="true">
+          </a>
+          <a href="https://www.instagram.com/casadeespanain" target="_blank" rel="noopener" class="social-btn" aria-label="Instagram">
+            <img src="brand_assests/instagram.svg" alt="" aria-hidden="true">
+          </a>
+          <a href="https://x.com/casadeespanain" target="_blank" rel="noopener" class="social-btn" aria-label="Twitter / X">
+            <img src="brand_assests/x.svg" alt="" aria-hidden="true">
+          </a>
+          <a href="#" class="social-btn" aria-label="YouTube">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M22.54 6.42a2.78 2.78 0 00-1.95-1.97C18.88 4 12 4 12 4s-6.88 0-8.59.45A2.78 2.78 0 001.46 6.42 29 29 0 001 12a29 29 0 00.46 5.58A2.78 2.78 0 003.41 19.6C5.12 20 12 20 12 20s6.88 0 8.59-.4a2.78 2.78 0 001.95-1.97A29 29 0 0023 12a29 29 0 00-.46-5.58z"/>
+              <polygon points="9.75 15.02 15.5 12 9.75 8.98 9.75 15.02" fill="rgba(28,20,16,0.9)"/>
+            </svg>
+          </a>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="footer-bottom">
+      <span class="footer-copy">© 2026 Casa de España en Indiana. All rights reserved.</span>
+      <span class="footer-copy">Organización sin fines de lucro 501(c)(3) · EIN disponible bajo solicitud</span>
+    </div>
+  </div>
+</footer>
+
+<!-- ─── LIGHTBOX ──────────────────────────────────────────── -->
+<div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Photo gallery">
+  <div class="lightbox-inner">
+    <button class="lightbox-close" id="lb-close" aria-label="Close gallery">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M18 6L6 18M6 6l12 12"/>
+      </svg>
+    </button>
+    <button class="lightbox-nav" id="lb-prev" aria-label="Previous photo">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M15 18l-6-6 6-6"/>
+      </svg>
+    </button>
+    <button class="lightbox-nav" id="lb-next" aria-label="Next photo">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M9 18l6-6-6-6"/>
+      </svg>
+    </button>
+
+    <div class="lightbox-img-wrap">
+      <img class="lightbox-img" id="lb-img" src="" alt="">
+    </div>
+
+    <div class="lightbox-caption">
+      <div class="lightbox-caption-title" id="lb-title"></div>
+      <div class="lightbox-counter" id="lb-counter"></div>
+    </div>
+
+    <div class="lightbox-thumbs" id="lb-thumbs"></div>
+  </div>
+</div>
+
+<!-- ─── INLINE JS ────────────────────────────────────────── -->
+<script>
+  // ── Nav scroll shadow ──────────────────────────────────────
+  const nav = document.getElementById('site-nav');
+  window.addEventListener('scroll', () => {
+    nav.classList.toggle('scrolled', window.scrollY > 40);
+  }, { passive: true });
+
+  // ── Hamburger ──────────────────────────────────────────────
+  const hamburger = document.getElementById('hamburger');
+  const drawer    = document.getElementById('mobile-drawer');
+  hamburger.addEventListener('click', () => {
+    const open = drawer.classList.toggle('open');
+    hamburger.setAttribute('aria-expanded', open);
+    drawer.setAttribute('aria-hidden', !open);
+  });
+
+  // ── Scroll reveals ─────────────────────────────────────────
+  const revealObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('is-visible');
+        revealObserver.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.06, rootMargin: '0px 0px -32px 0px' });
+
+  function observeReveals(root) {
+    root.querySelectorAll('.scroll-reveal').forEach(el => revealObserver.observe(el));
+  }
+
+  // ── Helpers ────────────────────────────────────────────────
+  const MONTHS = ['January','February','March','April','May','June','July','August','September','October','November','December'];
+  const MONTHS_SHORT = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+
+  function formatDate(dateStr, dateEndStr) {
+    const d = new Date(dateStr + 'T00:00:00');
+    const mon = MONTHS_SHORT[d.getMonth()];
+    const day = d.getDate();
+    if (!dateEndStr) return `${mon} ${day}, ${d.getFullYear()}`;
+    const e = new Date(dateEndStr + 'T00:00:00');
+    if (d.getMonth() === e.getMonth()) {
+      return `${mon} ${day}–${e.getDate()}, ${d.getFullYear()}`;
+    }
+    return `${mon} ${day} – ${MONTHS_SHORT[e.getMonth()]} ${e.getDate()}, ${d.getFullYear()}`;
+  }
+
+  const PIN_SVG = `<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M8 1.5A4 4 0 018 9.5M8 9.5V14M5 9.5H11"/><circle cx="8" cy="5" r="2"/></svg>`;
+  const ARROW_SVG = `<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 8h10M9 4l4 4-4 4"/></svg>`;
+  const CAMERA_SVG = `<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="4" width="14" height="10" rx="1.5"/><circle cx="8" cy="9" r="2.5"/><path d="M5 4l1-2h4l1 2"/></svg>`;
+
+  // ── Render ─────────────────────────────────────────────────
+  function renderCard(ev, delayIdx) {
+    const hl = ev.highlight ? 'highlight' : '';
+    const thumbs = ev.photos.slice(1, 4).map(p =>
+      `<img class="card-thumb" src="${p}" alt="" loading="lazy" data-event-id="${ev.id}" data-photo-idx="${ev.photos.indexOf(p)}">`
+    ).join('');
+
+    return `
+<article class="event-card ${hl} scroll-reveal" data-delay="${Math.min(delayIdx, 3)}" data-event-id="${ev.id}">
+  <div class="card-cover">
+    <img src="${ev.photos[0]}" alt="${ev.title}" loading="lazy">
+    <div class="card-cover-overlay" aria-hidden="true"></div>
+    <div class="card-cover-overlay-color" aria-hidden="true"></div>
+    <span class="type-badge">${ev.type}</span>
+    ${ev.photos.length > 1 ? `<button class="photo-badge" data-event-id="${ev.id}" data-photo-idx="0" aria-label="View all ${ev.photos.length} photos">
+      ${CAMERA_SVG}
+      <span>${ev.photos.length} photos</span>
+    </button>` : ''}
+  </div>
+  <div class="card-body">
+    <div class="card-date">${formatDate(ev.date, ev.dateEnd)}</div>
+    <h2 class="card-title">${ev.title}</h2>
+    <div class="card-location">${PIN_SVG}<span>${ev.location}</span></div>
+    <p class="card-desc">${ev.description}</p>
+    <div class="card-footer">
+      <button class="btn-gallery" data-event-id="${ev.id}" data-photo-idx="0">
+        View Photos ${ARROW_SVG}
+      </button>
+      <div class="card-photo-thumbs">${thumbs}</div>
+    </div>
+  </div>
+</article>`;
+  }
+
+  function renderYear(year, events) {
+    const cards = events.map((ev, i) => renderCard(ev, i + 1)).join('');
+    return `
+<div class="year-group" data-year="${year}">
+  <h2 class="year-label scroll-reveal">${year}</h2>
+  <div class="cards-grid">${cards}</div>
+</div>`;
+  }
+
+  // ── Filter state ───────────────────────────────────────────
+  let allEvents = [];
+  let activeYear = 'all';
+
+  function getYears() {
+    const yrs = [...new Set(allEvents.map(e => e.year))].sort((a, b) => b - a);
+    return yrs;
+  }
+
+  function renderFilterBar(years) {
+    const filterInner = document.getElementById('filter-inner');
+    const allBtn = `<button class="filter-btn ${activeYear === 'all' ? 'active' : ''}" data-year="all">All Years</button>`;
+    const yearBtns = years.map(y =>
+      `<button class="filter-btn ${activeYear === y ? 'active' : ''}" data-year="${y}">${y}</button>`
+    ).join('');
+    filterInner.innerHTML = allBtn + yearBtns;
+    filterInner.querySelectorAll('.filter-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        activeYear = btn.dataset.year === 'all' ? 'all' : parseInt(btn.dataset.year);
+        renderArchive();
+        renderFilterBar(years);
+      });
+    });
+  }
+
+  function renderArchive() {
+    const root = document.getElementById('archive-root');
+    const filtered = activeYear === 'all'
+      ? allEvents
+      : allEvents.filter(e => e.year === activeYear);
+
+    if (!filtered.length) {
+      root.innerHTML = `<div class="empty-state">No events found for this period.</div>`;
+      return;
+    }
+
+    // Group by year
+    const byYear = {};
+    filtered.forEach(ev => {
+      if (!byYear[ev.year]) byYear[ev.year] = [];
+      byYear[ev.year].push(ev);
+    });
+
+    const years = Object.keys(byYear).map(Number).sort((a, b) => b - a);
+    root.innerHTML = years.map(y => renderYear(y, byYear[y])).join('');
+
+    // Bind gallery triggers
+    root.querySelectorAll('[data-event-id]').forEach(el => {
+      el.addEventListener('click', () => {
+        const ev = allEvents.find(e => e.id === el.dataset.eventId);
+        if (ev) openLightbox(ev, parseInt(el.dataset.photoIdx) || 0);
+      });
+    });
+
+    observeReveals(root);
+  }
+
+  // ── Load data ──────────────────────────────────────────────
+  (async function() {
+    try {
+      const resp = await fetch('/past-events.json');
+      const data = await resp.json();
+      allEvents = data.events;
+      const years = getYears();
+      renderFilterBar(years);
+      renderArchive();
+    } catch (err) {
+      document.getElementById('archive-root').innerHTML =
+        `<div class="empty-state">Unable to load past events. Please try again later.</div>`;
+      console.error('[past-events] load error:', err);
+    }
+  })();
+
+  // ── Lightbox ───────────────────────────────────────────────
+  let lb = { event: null, idx: 0 };
+  const lightbox = document.getElementById('lightbox');
+  const lbImg    = document.getElementById('lb-img');
+  const lbTitle  = document.getElementById('lb-title');
+  const lbCounter= document.getElementById('lb-counter');
+  const lbThumbs = document.getElementById('lb-thumbs');
+
+  function openLightbox(ev, idx) {
+    lb.event = ev;
+    lb.idx   = idx;
+    lightbox.classList.add('open');
+    document.body.style.overflow = 'hidden';
+    renderLightbox();
+    lbImg.focus();
+  }
+
+  function closeLightbox() {
+    lightbox.classList.remove('open');
+    document.body.style.overflow = '';
+  }
+
+  function renderLightbox() {
+    const { event, idx } = lb;
+    const photos = event.photos;
+
+    lbImg.classList.add('fading');
+    setTimeout(() => {
+      lbImg.src = photos[idx];
+      lbImg.alt = `${event.title} — photo ${idx + 1}`;
+      lbImg.classList.remove('fading');
+    }, 150);
+
+    lbTitle.textContent = event.title;
+    lbCounter.textContent = `${idx + 1} of ${photos.length}`;
+
+    lbThumbs.innerHTML = photos.map((p, i) =>
+      `<img class="lb-thumb ${i === idx ? 'active' : ''}" src="${p}" alt="Photo ${i+1}" data-lb-idx="${i}">`
+    ).join('');
+    lbThumbs.querySelectorAll('.lb-thumb').forEach(th => {
+      th.addEventListener('click', () => {
+        lb.idx = parseInt(th.dataset.lbIdx);
+        renderLightbox();
+      });
+    });
+
+    // Show/hide nav arrows
+    document.getElementById('lb-prev').style.opacity = photos.length > 1 ? '1' : '0';
+    document.getElementById('lb-next').style.opacity = photos.length > 1 ? '1' : '0';
+  }
+
+  document.getElementById('lb-close').addEventListener('click', closeLightbox);
+
+  document.getElementById('lb-prev').addEventListener('click', () => {
+    const len = lb.event.photos.length;
+    lb.idx = (lb.idx - 1 + len) % len;
+    renderLightbox();
+  });
+
+  document.getElementById('lb-next').addEventListener('click', () => {
+    lb.idx = (lb.idx + 1) % lb.event.photos.length;
+    renderLightbox();
+  });
+
+  lightbox.addEventListener('click', (e) => {
+    if (e.target === lightbox || e.target === lightbox.querySelector('.lightbox-inner')) {
+      closeLightbox();
+    }
+  });
+
+  document.addEventListener('keydown', (e) => {
+    if (!lightbox.classList.contains('open')) return;
+    if (e.key === 'Escape') closeLightbox();
+    if (e.key === 'ArrowLeft') {
+      const len = lb.event.photos.length;
+      lb.idx = (lb.idx - 1 + len) % len;
+      renderLightbox();
+    }
+    if (e.key === 'ArrowRight') {
+      lb.idx = (lb.idx + 1) % lb.event.photos.length;
+      renderLightbox();
+    }
+  });
+</script>
+</body>
+</html>

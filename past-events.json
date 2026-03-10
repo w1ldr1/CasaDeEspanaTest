@@ -1,0 +1,128 @@
+{
+  "events": [
+    {
+      "id": "feria-2025",
+      "date": "2025-04-06",
+      "year": 2025,
+      "type": "Cultural Celebration",
+      "title": "Feria de Abril — Spring Celebration",
+      "location": "Athenaeum Foundation · Indianapolis",
+      "description": "Our annual Feria de Abril brought together over 200 members and guests for an evening of flamenco, traditional Andalusian cuisine, and community celebration. The night featured live performances by local Spanish dance troupes and a tapas reception.",
+      "photos": [
+        "https://placehold.co/800x600/3D1008/C13B2B?text=Feria+de+Abril+2025",
+        "https://placehold.co/800x600/8C2318/FAF4ED?text=Flamenco+Performance",
+        "https://placehold.co/800x600/C13B2B/FAF4ED?text=Tapas+Reception",
+        "https://placehold.co/800x600/1C1410/D4604F?text=Community+Gathering"
+      ],
+      "highlight": true
+    },
+    {
+      "id": "cervantes-lecture-2025",
+      "date": "2025-02-14",
+      "year": 2025,
+      "type": "Lecture Series",
+      "title": "Cervantes & the Birth of the Modern Novel",
+      "location": "IUPUI Campus · Lecture Hall 102 · Indianapolis",
+      "description": "A sold-out lecture examining Don Quixote's enduring influence on world literature, delivered by Dr. Elena Morales of Indiana University's Department of Spanish & Portuguese. Followed by a panel discussion and book signing.",
+      "photos": [
+        "https://placehold.co/800x600/1C1410/FAF4ED?text=Cervantes+Lecture",
+        "https://placehold.co/800x600/3D2E26/E8DBCF?text=Panel+Discussion",
+        "https://placehold.co/800x600/7A6658/FAF4ED?text=Book+Signing"
+      ],
+      "highlight": false
+    },
+    {
+      "id": "navidad-2024",
+      "date": "2024-12-07",
+      "year": 2024,
+      "type": "Holiday Gathering",
+      "title": "Nochebuena — Holiday Celebration",
+      "location": "Casa de España Cultural Center · Indianapolis",
+      "description": "Our cherished Nochebuena celebration brought the community together with Spanish holiday traditions, carol singing, and a shared feast. Children performed Las Posadas and members enjoyed a traditional Roscón de Reyes.",
+      "photos": [
+        "https://placehold.co/800x600/1C1410/C13B2B?text=Nochebuena+2024",
+        "https://placehold.co/800x600/3D1008/FAF4ED?text=Holiday+Feast",
+        "https://placehold.co/800x600/8C2318/FAF4ED?text=Las+Posadas",
+        "https://placehold.co/800x600/C13B2B/1C1410?text=Roscon+de+Reyes",
+        "https://placehold.co/800x600/3D2E26/D4604F?text=Community+Celebration"
+      ],
+      "highlight": true
+    },
+    {
+      "id": "faeusa-congreso-2024",
+      "date": "2024-10-18",
+      "dateEnd": "2024-10-20",
+      "year": 2024,
+      "type": "Congreso",
+      "title": "FAEUSA Congreso — Casa de España Host",
+      "location": "Omni Severin Hotel · Indianapolis",
+      "description": "Casa de España en Indiana proudly hosted the 2024 FAEUSA national congress, welcoming delegates from Spanish cultural organizations across the United States. Three days of panels, networking, and cultural exchange.",
+      "photos": [
+        "https://placehold.co/800x600/1C1410/FAF4ED?text=FAEUSA+Congreso",
+        "https://placehold.co/800x600/3D1008/C13B2B?text=Opening+Ceremony",
+        "https://placehold.co/800x600/7A6658/FAF4ED?text=Delegates+Networking"
+      ],
+      "highlight": true
+    },
+    {
+      "id": "dia-hispanidad-2024",
+      "date": "2024-10-12",
+      "year": 2024,
+      "type": "Cultural Celebration",
+      "title": "Día de la Hispanidad — National Day of Spain",
+      "location": "Indiana War Memorial · Indianapolis",
+      "description": "A ceremony marking Spain's national day, featuring remarks from the Indiana Governor's Office, a reception with Spanish wines and cuisine, and a cultural exhibition showcasing Spain's history and contributions to Indiana.",
+      "photos": [
+        "https://placehold.co/800x600/1C1410/E8DBCF?text=Dia+de+la+Hispanidad",
+        "https://placehold.co/800x600/C13B2B/FAF4ED?text=Ceremony",
+        "https://placehold.co/800x600/3D2E26/FAF4ED?text=Cultural+Exhibition"
+      ],
+      "highlight": false
+    },
+    {
+      "id": "flamenco-2024",
+      "date": "2024-06-15",
+      "year": 2024,
+      "type": "Performance",
+      "title": "Noches de Flamenco — Summer Series",
+      "location": "Indiana Repertory Theatre · Indianapolis",
+      "description": "An intimate evening of authentic flamenco with visiting artists from Sevilla. The performance included three acts spanning cante jondo, baile, and guitarra, with introductory commentary for newcomers to the art form.",
+      "photos": [
+        "https://placehold.co/800x600/1C1410/C13B2B?text=Noches+de+Flamenco",
+        "https://placehold.co/800x600/8C2318/FAF4ED?text=Bailaora",
+        "https://placehold.co/800x600/3D1008/D4604F?text=Guitarrista",
+        "https://placehold.co/800x600/C13B2B/1C1410?text=Cantaor"
+      ],
+      "highlight": true
+    },
+    {
+      "id": "feria-2024",
+      "date": "2024-04-07",
+      "year": 2024,
+      "type": "Cultural Celebration",
+      "title": "Feria de Abril — Spring Celebration",
+      "location": "Athenaeum Foundation · Indianapolis",
+      "description": "The 2024 edition of our beloved Feria brought out record attendance, with a spectacular horse procession, caseta tent for dancing, and artisan vendors showcasing Spanish crafts and products.",
+      "photos": [
+        "https://placehold.co/800x600/C13B2B/FAF4ED?text=Feria+de+Abril+2024",
+        "https://placehold.co/800x600/3D1008/FAF4ED?text=Caseta+Dancing",
+        "https://placehold.co/800x600/8C2318/E8DBCF?text=Artisan+Market"
+      ],
+      "highlight": false
+    },
+    {
+      "id": "reyes-2024",
+      "date": "2024-01-06",
+      "year": 2024,
+      "type": "Holiday Gathering",
+      "title": "Cabalgata de Reyes — Three Kings Celebration",
+      "location": "Downtown Indianapolis",
+      "description": "We celebrated Epiphany with the traditional Three Kings Parade through downtown Indianapolis, bringing the beloved Spanish holiday tradition to families and children throughout the city.",
+      "photos": [
+        "https://placehold.co/800x600/1C1410/FAF4ED?text=Reyes+Magos+2024",
+        "https://placehold.co/800x600/3D2E26/C13B2B?text=Parade"
+      ],
+      "highlight": false
+    }
+  ]
+}
