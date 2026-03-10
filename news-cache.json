@@ -1,10 +1,10 @@
 {
   "items": [
     {
-      "title": "El Gobierno replica a Von der Leyen: “Europa tiene que defender el orden internacional, la alternativa es el desorden”",
+      "title": "Sánchez replica a Von der Leyen: “El mundo está cambiando, pero los valores y principios de la Unión Europea no deberían cambiar”",
       "link": "https://elpais.com/espana/2026-03-10/siga-la-rueda-de-prensa-posterior-al-consejo-de-ministros-en-directo.html",
       "desc": "El Ejecutivo se alinea con António Costa, que se ha distanciado de la presidenta de la Comisión Europea",
-      "date": "Tue, 10 Mar 2026 13:04:05 GMT",
+      "date": "Tue, 10 Mar 2026 21:27:59 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260310/1146713_133704_video_1800.mp4"
     },
     {
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/RGR3WYHDB5BA7HLR7M2XC5NIBU.jpg?auth=a3303dfd94e4c0dfff072168f98b4d76e891dfe845b22a1b39064a6820e2ec5c"
     }
   ],
-  "fetchedAt": 1773176573806
+  "fetchedAt": 1773179932695
 }
