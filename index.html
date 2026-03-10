@@ -1557,7 +1557,7 @@
       const upcoming = events
         .filter(e => new Date((e.dateEnd || e.date) + 'T00:00:00') >= today)
         .sort((a, b) => a.date.localeCompare(b.date))
-        .slice(0, 3);
+        .slice(0, 4);
 
       if (upcoming.length === 0) {
         list.innerHTML = `<p style="color:rgba(250,244,237,0.38);font-family:'Source Sans 3',sans-serif;font-weight:300;padding:40px 0;border-top:1px solid rgba(250,244,237,0.07);">No upcoming events scheduled. Check back soon.</p>`;

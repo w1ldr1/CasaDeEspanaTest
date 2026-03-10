@@ -1,15 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-03-04",
-      "dateEnd": "2026-03-07",
-      "time": "8:00 AM",
-      "type": "Congreso",
-      "title": "FAEUSA Congreso en Miami",
-      "location": "Miami, FL",
-      "url": "#"
-    },
-    {
       "date": "2026-04-05",
       "time": "6:00 PM",
       "type": "Cultural Celebration",
@@ -32,6 +23,15 @@
       "title": "Indianapolis 500: The Greatest Spectacle in Racing",
       "location": "Indianapolis Motor Speedway — 4790 W 16th St, Indianapolis, IN 46222",
       "url": "https://www.indianapolismotorspeedway.com"
+    },
+    {
+      "date": "2026-08-07",
+      "dateEnd": "2026-08-23",
+      "time": "8:00 AM",
+      "type": "Cultural event",
+      "title": "Indiana State Fair",
+      "location": "Indiana State Fairgrounds - 1202 E 38th St, Indianapolis, IN 46205",
+      "url": "https://www.indianastatefair.com"
     }
   ]
 }
