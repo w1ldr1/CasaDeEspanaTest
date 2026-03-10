@@ -867,7 +867,10 @@
     drawer.setAttribute('aria-hidden', 'true');
   }));
 
-  // Form submit — collect values and open mailto
+  // ── Google Sheets endpoint — replace with your deployed Apps Script URL ──
+  const SHEET_ENDPOINT = 'https://script.google.com/a/macros/casaespanaindiana.org/s/AKfycbxe8SFGbbeCAOYWlymoWPgtBZ6CS_BWPtXluZTJR-xC5qbrVp2g9--jtUBxkBbpepeYXQ/exec';
+
+  // Form submit — record to spreadsheet + open mailto
   const form      = document.getElementById('join-form');
   const successEl = document.getElementById('form-success');
   const submitBtn = document.getElementById('submit-btn');
@@ -888,6 +891,21 @@
       return;
     }
 
+    // Fire-and-forget: record to Google Sheet
+    if (SHEET_ENDPOINT && SHEET_ENDPOINT !== 'YOUR_APPS_SCRIPT_URL_HERE') {
+      const params = new URLSearchParams({
+        firstName:      firstName.value.trim(),
+        lastName:       lastName.value.trim(),
+        email:          emailInput.value.trim(),
+        city:           city.value.trim(),
+        membershipType: memberType ? memberType.value : 'Newsletter',
+        interests:      interests.join(', '),
+        message:        message.value.trim(),
+      });
+      fetch(SHEET_ENDPOINT, { method: 'POST', mode: 'no-cors', body: params });
+    }
+
+    // Open mailto for email notification
     const subject = `Casa de España Membership — ${firstName.value.trim()} ${lastName.value.trim()}`;
     const body = [
       `First Name: ${firstName.value.trim()}`,
