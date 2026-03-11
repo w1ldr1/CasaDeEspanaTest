@@ -1,11 +1,11 @@
 {
   "items": [
     {
-      "title": "Bolaños habla con todos los partidos salvo Vox en la ronda de contactos sobre la guerra de Irán",
+      "title": "El Gobierno emplaza a los grupos a que aporten sus propuestas para mitigar el impacto de la guerra y no se cierra a las rebajas fiscales",
       "link": "https://elpais.com/espana/2026-03-11/bolanos-llama-al-pp-en-la-ronda-de-contactos-sobre-la-guerra-de-iran.html",
-      "desc": "El Gobierno emplaza a los grupos a que le aporten esta semana sus propuestas para estudiarlas y no se cierra a las rebajas fiscales",
+      "desc": "El PP demanda al Ejecutivo una rebaja del IVA del precio de la luz y del gas del 21 al 10% durante un plazo ampliable de tres meses",
       "date": "Wed, 11 Mar 2026 10:59:25 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/SLSSYP5ZY5N6NEOWGX37AC5TVI.jpg?auth=432e14da94d3ccab1ed9e87c35112876994af442cf0a7661f33217418da18297"
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/LLJPMTUOIVF5ZOY56LB4IIBYQM.jpg?auth=bafda8842c015923735b8e9e145da68a5b4cb675cd2ae29c2859c81f3ff8f469"
     },
     {
       "title": "España cesa a la embajadora en Tel Aviv y rebaja su representación diplomática en Israel",
@@ -15,10 +15,10 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/5ZQOYS3BXFCRJGKOTDRYR5CBLQ.jpg?auth=53bb59cee812a0c62e552eea14550ca2d850b2762519dbb4cf3e1c4746857ece"
     },
     {
-      "title": "El detenido por la muerte de tres mujeres en el incendio de Miranda de Ebro tiene múltiples antecedentes por violencia machista",
+      "title": "El detenido por la muerte de tres mujeres en el incendio de Miranda de Ebro tenía múltiples antecedentes por violencia machista",
       "link": "https://elpais.com/espana/2026-03-11/tres-muertos-en-un-incendio-en-una-vivienda-en-miranda-de-ebro-burgos.html",
       "desc": "Otras cuatro personas, entre ellas dos niños, han resultado heridas. Este es el caso de violencia de género con más víctimas desde que hay registro",
-      "date": "Wed, 11 Mar 2026 11:14:03 GMT",
+      "date": "Wed, 11 Mar 2026 14:52:19 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260311/1147120_115844_video_1800.mp4"
     },
     {
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/VCLMFTT57ZCOLLYKZWBIHG4OKM.jpg?auth=7b61fd686bfaf40fca48f0cb195e9a23991a87e438f62138aae4b309caf29da8"
     }
   ],
-  "fetchedAt": 1773239806082
+  "fetchedAt": 1773250703864
 }
