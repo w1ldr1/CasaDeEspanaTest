@@ -92,9 +92,9 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/AUMSQ7NWMNDDBMCJD4FG62JY2Q.jpg?auth=819dfa90ffccfbd2fa49e57895e80ea23404b99d1fd8d963e2512db01f2536d7"
     },
     {
-      "title": "El grito del “no a la guerra” vuelve a sonar en las calles de Madrid",
+      "title": "El grito del “no a la guerra” vuelve a sonar en las calles españolas",
       "link": "https://elpais.com/espana/2026-03-14/el-grito-del-no-a-la-guerra-vuelve-a-sonar-en-las-calles-de-madrid.html",
-      "desc": "Miles de manifestantes se congregan en el centro de la capital para protestar por los ataques en Irán y Gaza",
+      "desc": "Miles de manifestantes se congregan en Madrid para protestar por los ataques en Irán y Gaza, en un día de protestas también en Barcelona, Bilbao o Valencia",
       "date": "Sat, 14 Mar 2026 13:49:45 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/I6OYU3FM5RAY5CDZBLCSZCKUBY.JPG?auth=8a744aabae48255c8a10893bd1a259d14dcf11a30f9773874967f41ff2dfc05a"
     },
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/LE2QR5YZ3FBGDNTUBZIFULUSTA.jpg?auth=56c432ffb0a62f36ac9398c4d79c7fc7c2d7f9b679a2fb60920b16a4f0f76042"
     }
   ],
-  "fetchedAt": 1773500412351
+  "fetchedAt": 1773504056305
 }
