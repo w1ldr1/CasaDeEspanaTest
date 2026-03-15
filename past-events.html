@@ -1140,7 +1140,7 @@
     observeReveals(root);
   }
 
-  function onLangChange() {
+  var onLangChange = function() {
     if (allEvents.length) {
       renderFilterBar(getYears());
       renderArchive();

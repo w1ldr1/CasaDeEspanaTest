@@ -896,7 +896,7 @@
     });
   })();
 
-  function onLangChange(lang) {
+  var onLangChange = function(lang) {
     document.title = lang === 'es'
       ? 'Noticias — Casa de España en Indiana'
       : 'News — Casa de España en Indiana | Casa de Espana en Indiana';
@@ -904,7 +904,7 @@
       const grid = document.getElementById('news-grid');
       grid.innerHTML = _cachedItems.map(renderCard).join('');
     }
-  }
+  };
 
   // Nav scroll shadow
   const nav = document.getElementById('site-nav');

@@ -1594,7 +1594,7 @@
     </a>`;
   }
 
-  function onLangChange(lang) {
+  var onLangChange = function(lang) {
     document.title = lang === 'es'
       ? 'Casa de España en Indiana'
       : 'Casa de España en Indiana | Casa de Espana en Indiana';
@@ -1603,7 +1603,7 @@
       list.innerHTML = _cachedEvents.map((ev, i) => renderEvent(ev, i)).join('');
       list.querySelectorAll('.scroll-reveal').forEach(el => revealObserver.observe(el));
     }
-  }
+  };
 
   // 1. Nav shadow on scroll
   const nav = document.getElementById('site-nav');

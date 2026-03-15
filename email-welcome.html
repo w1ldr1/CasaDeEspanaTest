@@ -816,9 +816,9 @@
     }
   }
 
-  function onLangChange() {
+  var onLangChange = function() {
     if (_cachedEvents) renderEvents(_cachedEvents);
-  }
+  };
 
   fetch('events.json')
     .then(r => r.json())
