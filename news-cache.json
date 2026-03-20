@@ -1,11 +1,11 @@
 {
   "items": [
     {
-      "title": "Sánchez aprueba un plan de 5.000 millones para paliar la subida de precios y otro decreto para congelar alquileres tras la tensión con Sumar",
+      "title": "Sánchez destina 5.000 millones a paliar la subida de precios y concede a Sumar la congelación de alquileres tras su plante",
       "link": "https://elpais.com/espana/2026-03-20/el-gobierno-acuerda-dividir-las-medidas-contra-la-guerra-en-dos-decretos-para-salvar-la-crisis-entre-psoe-y-sumar.html",
       "desc": "El Consejo de Ministros, que se paró más de dos horas por la crisis entre socios, aprueba dos textos: uno con la gran reducción de impuestos en energía y otro con las medidas que exigían los de Díaz",
       "date": "Fri, 20 Mar 2026 13:40:19 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/QZDVX433EBCNLBZDURJ5ZW52ZY.jpg?auth=2cc7ba7e3d3e9e389c2bf69bb97fcb539bb6080e354c7d4c357914d0b6a84ac0"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260320/1150729_133400_video_1800.mp4"
     },
     {
       "title": "Vox abre un expediente a García-Gallardo después de que señalara los cobros de la mujer de Abascal",
@@ -59,7 +59,7 @@
     {
       "title": "El juzgado encuentra 42 metros de vía retirada en Adamuz de los que Adif no había informado",
       "link": "https://elpais.com/espana/2026-03-20/el-juzgado-encuentra-42-metros-de-via-retirada-en-adamuz-de-los-que-adif-no-habia-informado.html",
-      "desc": "Una inspección en la zona del accidente el pasado martes concluye que el gestor de la infraestructura ha cambiado otro segmento además de los 36 metros de vía que había avisado",
+      "desc": "Una inspección de la zona del accidente, liderada por la jueza Pastor, concluye que el gestor de la infraestructura ha cambiado otro segmento además de los 36 metros de vía que había avisado. La empresa explica que el arreglo es de febrero",
       "date": "Fri, 20 Mar 2026 13:55:25 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/ADRRFUYKGNA6NBGZFQ5XGVHAFU.jpg?auth=6a1ac11bb77f256be5681960488738da9b4fa7b08add9b08c2da3235a9bd93db"
     },
@@ -68,7 +68,7 @@
       "link": "https://elpais.com/espana/2026-03-20/el-juez-peinado-cita-a-begona-gomez-a-comparecer-en-plena-semana-santa.html",
       "desc": "El magistrado vuelve a transformar la causa en un proceso por jurado popular, después de que la Audiencia de Madrid anulase ese paso por falta de argumentación",
       "date": "Fri, 20 Mar 2026 13:00:19 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/4Q5LIVY7Y5H2HNLFWRADFKG5IA.JPG?auth=d2220501a3aab50e5290e2d620a829f9c690dd3c9611baa5246430de799b252b"
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/4AE2JUGEEJC3VBBXP3U56KQ7KI.jpg?auth=20cfa2733bf2e8059c10cc4c5272bfa52b8fc7f4c5483f257096066c33487803"
     },
     {
       "title": "La Fiscalía Europea investiga si se malversaron fondos comunitarios para las obras de las vías de Adamuz",
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/MNMP72666JDDBC5LTI3JF3X22M.jpg?auth=fc494a03ae990dd936e54b94bf978798310a2626f06369f3a80348649f6e554d"
     }
   ],
-  "fetchedAt": 1774017146646
+  "fetchedAt": 1774027418112
 }
