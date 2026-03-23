@@ -57,6 +57,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/P4U5JAZKIBFYHEPUMXIBCQ3JEE.jpg?auth=e184cdb5df0992e7a0e756ddb4e3264343fbb3674532e0f7250e33236bca12e1"
     },
     {
+      "title": "Israel vuelve a cargar contra Sánchez por un vídeo propagandístico iraní",
+      "link": "https://elpais.com/espana/2026-03-23/israel-vuelve-a-cargar-contra-sanchez-por-un-video-propagandistico-irani.html",
+      "desc": "Exteriores ataca al presidente del Gobierno por una grabación en la que la Guardia Revolucionaria adhiere una pegatina a un misil agradeciéndole su posición sobre la guerra en Oriente Próximo",
+      "date": "Mon, 23 Mar 2026 19:11:42 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/I2ACFW5YZ5N6BKLDIORHWH6OQ4.jpg?auth=d5ed3f60e67048a0f04c62c0e4220181fb68c8f678a384f15d7c4b82bbd079fb"
+    },
+    {
       "title": "La Universidad de Cádiz presenta en el Congreso una web con miles de documentos de la Constitución de 1812",
       "link": "https://elpais.com/espana/2026-03-23/la-universidad-de-cadiz-presenta-en-el-congreso-una-web-con-miles-de-documentos-de-la-constitucion-de-1812.html",
       "desc": "La herramienta incluye 3.300 testimonios de las localidades en España y Latinoamérica donde se juró La Pepa",
@@ -125,14 +132,7 @@
       "desc": "El tribunal otorga la condición de víctima al antiguo eurodiputado, al que se le intentó implicar en un caso de narcotráfico",
       "date": "Mon, 23 Mar 2026 08:44:12 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/PL5BI6TVSVBE3NA6KOBIL2C77I.jpg?auth=17e5c72e0a79a9a266ec9ec8142e9c8293a7a29d34c49bd91b18e0d4f6f80b17"
-    },
-    {
-      "title": "Muere Manuel Escudero, presidente de la fundación Avanza, el ‘think tank’ del PSOE",
-      "link": "https://elpais.com/espana/2026-03-23/muere-manuel-escudero-presidente-de-la-fundacion-avanza-el-think-tank-del-psoe.html",
-      "desc": "El economista fue coordinador de la campaña de Pedro Sánchez en las primarias del 2017 y formó parte de la ejecutiva de los socialistas",
-      "date": "Mon, 23 Mar 2026 08:25:37 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/AYOVC43WIREHDAPJ4JNTT7SK3A.jpg?auth=6d481beaf96ab587a3c9a3045ebe8de3ab7e6caaaadc8398debb1127b29b2250"
     }
   ],
-  "fetchedAt": 1774290855596
+  "fetchedAt": 1774299448711
 }
