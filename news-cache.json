@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "title": "El juez pone en libertad condicional a Pablo Crespo, ‘número dos’ de la Gürtel, tras más de 12 años en prisión",
+      "link": "https://elpais.com/espana/2026-03-27/el-juez-pone-en-libertad-condicional-a-pablo-crespo-numero-dos-de-la-gurtel-tras-mas-de-12-anos-en-prision.html",
+      "desc": "El magistrado de Vigilancia Penitenciaria destaca en su auto de excarcelación “el escaso riesgo de reincidencia” y el tiempo pasado en prisión por el empresario",
+      "date": "Fri, 27 Mar 2026 19:20:36 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/IHMCPPJVEVAKNE3A24LBSLYIJM.jpg?auth=92671c3c269e1da8077b4eaec1e3cbd84fa2cb8860c6c6404e52d9cdf8986d14"
+    },
+    {
       "title": "El PP llama a Koldo, Ábalos y Puente a la comisión de investigación en el Senado del accidente de trenes de Adamuz",
       "link": "https://elpais.com/espana/2026-03-27/el-pp-llama-a-koldo-abalos-y-puente-a-la-comision-de-investigacion-del-accidente-de-trenes-de-adamuz-en-el-senado.html",
       "desc": "Los populares ponen en marcha en la Cámara alta los interrogatorios parlamentarios de la tragedia ferroviaria",
@@ -13,13 +20,6 @@
       "desc": "La sala las fija en 39.000 euros tras estimar parcialmente el recurso de García Ortiz y acepta dejar al  margen de la tasación al colegio de abogados de Madrid",
       "date": "Fri, 27 Mar 2026 10:20:04 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/BFRDYCNWFRPSVPBWVHO3VZSI7Q.jpg?auth=ced3139b86d4c17d980d6b64c398408b9a0ea7f26b41446b57545d5ec41a9200"
-    },
-    {
-      "title": "El juez suspende la declaración de Errejón contra Mouliaá por incomparecencia de la defensa de la actriz",
-      "link": "https://elpais.com/espana/2026-03-27/errejon-a-su-llegada-a-los-juzgados-hoy-vengo-a-poner-un-limite-a-las-calumnias-de-mouliaa.html",
-      "desc": "El expolítico afirma a su llegada al juzgado que busca “poner límite a las difamaciones y calumnias” vertidas contra él",
-      "date": "Fri, 27 Mar 2026 10:28:02 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260327/1153346_125513_video_1800.mp4"
     },
     {
       "title": "Un día más en la oficina",
@@ -57,6 +57,48 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/L4GEYZVR4ZJH3NTSAYNBBV4YPA.jpg?auth=3fa2eee37315e37ec3465b84774aa9f3141d2ccaec7086cf78d905d7c9b2991c"
     },
     {
+      "title": "El juez suspende la declaración de Errejón contra Mouliaá por incomparecencia de la defensa de la actriz",
+      "link": "https://elpais.com/espana/2026-03-27/errejon-a-su-llegada-a-los-juzgados-hoy-vengo-a-poner-un-limite-a-las-calumnias-de-mouliaa.html",
+      "desc": "El expolítico afirma a su llegada al juzgado que busca “poner límite a las difamaciones y calumnias” vertidas contra él",
+      "date": "Fri, 27 Mar 2026 10:28:02 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260327/1153346_125513_video_1800.mp4"
+    },
+    {
+      "title": "La jueza imputa a la operadora del 112 que recibió el aviso sobre la pasarela caída en Santander",
+      "link": "https://elpais.com/espana/2026-03-27/la-jueza-imputa-a-la-operadora-del-112-que-recibio-el-aviso-sobre-la-pasarela-caida-en-santander.html",
+      "desc": "La trabajadora del servicio de emergencias se suma a dos funcionarios de Costas y a la agente a la que trasmitió el aviso",
+      "date": "Fri, 27 Mar 2026 16:58:56 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/63GL7SJLUBMT5FVN2XQ4OM4T4A.jpg?auth=5178796e2c627dd7b21bb09bb61a7d3e3c321dce2f4011312ded5cffb33c8939"
+    },
+    {
+      "title": "Una decena de detenidos en una operación antidroga en Ceuta y otras provincias",
+      "link": "https://elpais.com/espana/2026-03-27/una-decena-de-detenidos-en-una-operacion-antidroga-en-ceuta-y-otras-provincias.html",
+      "desc": "Un ex guardia civil ha sido arrestado en la península durante la actuación policial",
+      "date": "Fri, 27 Mar 2026 16:53:24 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/4TWCTGPTSRDSFOOV5JDND6UAOE.jpg?auth=83fb46429ecdfaf961ee6254c88c9b9068e33ebecf44048f254f22c5c94c3f58"
+    },
+    {
+      "title": "Detenidos los autores de un robo masivo de datos de padres, alumnos y profesores de Castilla-La Mancha",
+      "link": "https://elpais.com/espana/2026-03-27/detenidos-los-autores-de-un-robo-masivo-de-datos-de-padres-alumnos-y-profesores-de-castilla-la-mancha.html",
+      "desc": "Los arrestados, de 24 y 28 años, están implicados en la sustracción de casi 10 millones de registros confidenciales en una treintena de ataques cibernéticos",
+      "date": "Fri, 27 Mar 2026 13:20:03 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/EOJ4JUJUZBATNL3BEYYWFE25C4.jpg?auth=746f2c172b6428ea4647bb188f6ffa0c1691a0e8b9c8f995b6884685233423fe"
+    },
+    {
+      "title": "El portavoz de Vox en Torre Pacheco (Murcia) abandona el partido tras denunciar comportamientos “mafiosos” de la cúpula",
+      "link": "https://elpais.com/espana/2026-03-27/el-portavoz-de-vox-en-torre-pacheco-murcia-abandona-el-partido-tras-denunciar-comportamientos-mafiosos-de-la-cupula.html",
+      "desc": "José Francisco Garre también renunciará a la vicepresidencia del Comité de Garantías de la formación",
+      "date": "Fri, 27 Mar 2026 12:42:29 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/WU76BMRUNNDNTE6DYA3KSN3HL4.jpg?auth=feb78f5ad7e6e4f24fa06ac9fb43afba395b7511e6eb21662b8244fe7e4ebf0c"
+    },
+    {
+      "title": "Podemos acusa a Marlaska de ser el “máximo responsable” de la detención de su exdiputado Mbayé y llevará el caso al Congreso",
+      "link": "https://elpais.com/espana/2026-03-27/podemos-senala-a-marlaska-como-maximo-responsable-por-la-detencion-de-mbaye-y-llevara-el-caso-al-congreso.html",
+      "desc": "Pablo Fernández anuncia que su partido registrará una proposición no de ley y una batería de preguntas",
+      "date": "Fri, 27 Mar 2026 11:01:37 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/VNFRCEHKVJJWLCDFWYTC32LYTI.jpg?auth=61667973d2bc824cdfe47b74e5f84045e05cb1e3259067b9ce95fd415906c563"
+    },
+    {
       "title": "“Tenemos un Errejón en Vox”: dos empleados del partido ultra fueron despedidos tras alertar de un supuesto acosador sexual",
       "link": "https://elpais.com/espana/2026-03-27/tenemos-un-errejon-en-vox-dos-empleados-del-partido-ultra-fueron-despedidos-tras-alertar-de-un-supuesto-acosador-sexual.html",
       "desc": "Gonzalo de Oro-Pulido, portavoz del grupo en el Ayuntamiento de Barcelona, asegura no haber recibido ninguna queja contra su consejero de distrito",
@@ -90,49 +132,7 @@
       "desc": "La operación especial del año pasado terminó con 27 personas fallecidas, de las que ocho eran motoristas",
       "date": "Fri, 27 Mar 2026 08:59:34 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/KW2JSN5OTGTQY2YQTSLTCNBJQI.jpg?auth=e393ea7ad901078304721a19b708a848252e346b0321e3ee8940d6a6a5f36a83"
-    },
-    {
-      "title": "Vox, sobre la negociación en Extremadura: “Parece que estamos avanzando a pesar de las zancadillas de Génova”",
-      "link": "https://elpais.com/espana/2026-03-26/vox-sobre-la-negociacion-en-extremadura-parece-que-estamos-avanzando-a-pesar-de-las-zancadillas-de-genova.html",
-      "desc": "Los populares aseguran que muchas de las demandas de los ultras no se abordaron en la reunión de este miércoles, en la que estuvieron Tellado y Figaredo",
-      "date": "Thu, 26 Mar 2026 13:59:21 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260326/1152954_151259_video_1800.mp4"
-    },
-    {
-      "title": "La Junta Electoral suspende el uso del DNI digital en las elecciones tras la petición del PP",
-      "link": "https://elpais.com/espana/2026-03-26/el-pp-de-feijoo-secunda-el-discurso-de-ayuso-pidiendo-la-suspension-del-uso-del-dni-digital-en-procesos-electorales.html",
-      "desc": "El partido hablaba de “dudas y alarma social” generada por el uso de esta aplicación",
-      "date": "Thu, 26 Mar 2026 14:42:46 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/TQBVWMJH3ZCSPFABWUTGXIWCZ4.jpg?auth=30678cd36ac74fb22c327bae1a56d9873cb9a1122084f5a8c3bda849c1d69956"
-    },
-    {
-      "title": "Felipe González, sobre si es más de Moreno o Montero, en la precampaña andaluza: “Soy socialista”",
-      "link": "https://elpais.com/espana/2026-03-26/felipe-gonzalez-sobre-si-es-mas-de-moreno-o-montero-en-la-precampana-andaluza-soy-socialista.html",
-      "desc": "El exdirigente del PSOE participa en una charla sobre la duquesa de Alba con el presidente de la Junta, en la que ha cuestionado la situación del ferrocarril: “El AVE empezó a funcionar, no como lo de ahora”",
-      "date": "Thu, 26 Mar 2026 21:14:33 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/VB3IK5TDM5FW7AXMFD6AAZ45CE.jpg?auth=a18f467bbe7a93877ca9ce4bf8f02de864e7b449900b5932aabf8b05ddc32f68"
-    },
-    {
-      "title": "La Policía deja en libertad al exdiputado de Podemos Serigne Mbayé, acusado de huir tras negarse a identificarse",
-      "link": "https://elpais.com/espana/2026-03-26/podemos-denuncia-la-detencion-de-serigne-mbaye-exdiputado-de-la-asamblea-de-madrid-y-miembro-de-la-direccion.html",
-      "desc": "El partido de Ione Belarra ha denunciado que su arresto fue fruto de una “redada racista”, mientras que la versión policial le acusa de resistirse a los agentes",
-      "date": "Fri, 27 Mar 2026 07:19:19 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260327/1153242_083605_video_1800.mp4"
-    },
-    {
-      "title": "Montero, la ‘vicetodo’ que llegó sin ser sanchista y se convirtió en la sombra del presidente",
-      "link": "https://elpais.com/espana/2026-03-26/montero-la-vicetodo-que-llego-sin-ser-sanchista-y-se-convirtio-en-la-sombra-del-presidente.html",
-      "desc": "Médico de profesión pero política pura de vocación, vuelve a Andalucía en el momento cumbre de su carrera",
-      "date": "Thu, 26 Mar 2026 19:23:19 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/2J3I4TMXIRI4HCX4JGXRJYD46M.jpg?auth=c5ee2fcf7b9035daffd33efe0a2bce2694df4d66c5ed6cc054053167d0858b84"
-    },
-    {
-      "title": "Vox abre expediente a Iván Espinosa de los Monteros para expulsarle del partido",
-      "link": "https://elpais.com/espana/2026-03-26/vox-abre-un-expediente-a-ivan-espinosa-de-los-monteros-para-expulsarle-del-partido.html",
-      "desc": "El exportavoz del grupo ultra en el Congreso se une a una lista de purgados que incluye a Ortega Smith, Antelo y García-Gallardo",
-      "date": "Thu, 26 Mar 2026 07:44:25 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/PGNPJHMOPNANJGEFXLH7VOKAOY.jpg?auth=b9023c21e5f49e80244a19ec7f7c676ee5a7bf00dd5a619ab0a52549c059986d"
     }
   ],
-  "fetchedAt": 1774633166631
+  "fetchedAt": 1774641184783
 }
