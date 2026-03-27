@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "title": "El PP llama a Koldo, Ábalos y Puente a la comisión de investigación del accidente de trenes de Adamuz en el Senado",
+      "title": "El PP llama a Koldo, Ábalos y Puente a la comisión de investigación en el Senado del accidente de trenes de Adamuz",
       "link": "https://elpais.com/espana/2026-03-27/el-pp-llama-a-koldo-abalos-y-puente-a-la-comision-de-investigacion-del-accidente-de-trenes-de-adamuz-en-el-senado.html",
       "desc": "Los populares ponen en marcha en la Cámara alta los interrogatorios parlamentarios de la tragedia ferroviaria",
       "date": "Fri, 27 Mar 2026 10:42:32 GMT",
@@ -10,7 +10,7 @@
     {
       "title": "El Supremo rebaja a la mitad las costas que fijó al ex fiscal general por los gastos de defensa de la pareja de Ayuso",
       "link": "https://elpais.com/espana/2026-03-27/el-supremo-propone-ahora-rebajar-a-la-mitad-las-costas-que-fijo-al-ex-fiscal-general-por-los-gastos-de-defensa-de-la-pareja-de-ayuso.html",
-      "desc": "La letrada de la Administración de Justicia las fija en 39.000 euros tras estimar parcialmente el recurso de García Ortiz",
+      "desc": "La sala las fija en 39.000 euros tras estimar parcialmente el recurso de García Ortiz y acepta dejar al  margen de la tasación al colegio de abogados de Madrid",
       "date": "Fri, 27 Mar 2026 10:20:04 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/BFRDYCNWFRPSVPBWVHO3VZSI7Q.jpg?auth=ced3139b86d4c17d980d6b64c398408b9a0ea7f26b41446b57545d5ec41a9200"
     },
@@ -19,7 +19,7 @@
       "link": "https://elpais.com/espana/2026-03-27/errejon-a-su-llegada-a-los-juzgados-hoy-vengo-a-poner-un-limite-a-las-calumnias-de-mouliaa.html",
       "desc": "El expolítico afirma a su llegada al juzgado que busca “poner límite a las difamaciones y calumnias” vertidas contra él",
       "date": "Fri, 27 Mar 2026 10:28:02 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/W527R2ZVDNPQXAY2KPO5D4GNFI.jpg?auth=b97945c35886353b27f609253e840b3436bd0ca97973eea1a44a673a8de9c419"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260327/1153346_125513_video_1800.mp4"
     },
     {
       "title": "Un día más en la oficina",
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/PGNPJHMOPNANJGEFXLH7VOKAOY.jpg?auth=b9023c21e5f49e80244a19ec7f7c676ee5a7bf00dd5a619ab0a52549c059986d"
     }
   ],
-  "fetchedAt": 1774609788599
+  "fetchedAt": 1774622148348
 }
