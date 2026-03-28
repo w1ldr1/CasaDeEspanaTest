@@ -92,6 +92,13 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260327/1153346_125513_video_1800.mp4"
     },
     {
+      "title": "La Polícia busca ahora otro narcotúnel en Ceuta",
+      "link": "https://elpais.com/espana/2026-03-28/la-policia-busca-ahora-otro-narcotunel-en-ceuta.html",
+      "desc": "Efectivos policiales examinan este sábado unas naves industriales en el Polígono de El Tarajal, muy cercano al paso fronterizo con Marruecos",
+      "date": "Sat, 28 Mar 2026 17:08:35 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/KYSCZBHQ3BHKNEIP6VK5RQA3KE.jpg?auth=0d07269de4b0755397ed286ac369d7d4abbb2a0f1dce92a1daa204dae8bc03c3"
+    },
+    {
       "title": "Los presuntos autores del crimen en un cortijo en Almería se entregan ante la Guardia Civil",
       "link": "https://elpais.com/espana/2026-03-28/los-presuntos-autores-del-crimen-en-un-cortijo-en-almeria-se-entregan-ante-la-guardia-civil.html",
       "desc": "El Instituto Armado había solicitado la colaboración ciudadana para localizar a los principales sospechosos, Javier Nieto Santiago y Rocío Rodríguez Gómez",
@@ -125,14 +132,7 @@
       "desc": "José Francisco Garre también renunciará a la vicepresidencia del Comité de Garantías de la formación",
       "date": "Fri, 27 Mar 2026 12:42:29 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/WU76BMRUNNDNTE6DYA3KSN3HL4.jpg?auth=feb78f5ad7e6e4f24fa06ac9fb43afba395b7511e6eb21662b8244fe7e4ebf0c"
-    },
-    {
-      "title": "Miguel Urbán: “Intentaron destruirme como forma de destruir unas ideas”",
-      "link": "https://elpais.com/espana/2026-03-26/miguel-urban-intentaron-destruirme-como-forma-de-destruir-unas-ideas.html",
-      "desc": "El exeurodiputado de Podemos ha logrado que la Audiencia Nacional investigue el intento de implicarlo en un caso de narcotráfico en plena guerra sucia contra el partido",
-      "date": "Thu, 26 Mar 2026 04:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/G3Y4E56DEZDAFDTGIBE6RVE44Q.jpg?auth=8109767e7d3b84ced19f1d69d64c0ba373e59f2f872f18568d9689e6cf7708d0"
     }
   ],
-  "fetchedAt": 1774720979226
+  "fetchedAt": 1774727282357
 }
