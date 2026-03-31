@@ -22,6 +22,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/6YTZTLRNCNIG3DMK65VY4EECDM.jpg?auth=c21ecbf6d928829bb8474a337361a9adb0005e6be0a18abfe0b7dc8c39310670"
     },
     {
+      "title": "La amnistía, en espera de la justicia europea",
+      "link": "https://elpais.com/espana/2026-03-31/la-amnistia-en-espera-de-la-justicia-europea.html",
+      "desc": "Es probable que en mayo el Tribunal de Justicia de la UE dé a conocer su sentencia sobre las cuestiones prejudiciales que el Tribunal de Cuentas y la Audiencia Nacional plantearon contra la aplicación de la ley a líderes del ‘procés’",
+      "date": "Tue, 31 Mar 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/RMFGAN22UBHOPK5KBTK5YFDPZ4.jpg?auth=416ae0dbb666d6f64fafbf65b6e08e63a540880e75a8e5bf0b81648811fab9bb"
+    },
+    {
       "title": "¿Hernán Cortés o Cuauhtémoc?",
       "link": "https://elpais.com/opinion/2026-03-30/hernan-cortes-o-cuauthemoc.html",
       "desc": "En la polémica sobre la petición de perdón por la conquista, tanto el nacionalismo español como el mexicano se dirigen a un público doméstico: aspiran a la hegemonía cultural frente a sus adversarios internos",
@@ -48,13 +55,6 @@
       "desc": "Nadie ha vivido mejor cuando ha apostado por la violencia, la agresividad y la virilidad en lugar de hacerlo por la inteligencia, la convivencia y la preparación intelectual",
       "date": "Tue, 24 Mar 2026 04:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/Z2WXVWXQWNDC3ORR6AGRNTBU7M.jpg?auth=431afca024c372d9e8527884f1c9f65468343a3e3fe22111d6cb58f1d44e8d92"
-    },
-    {
-      "title": "Ante la eventualidad de que Vox llegue al Gobierno",
-      "link": "https://elpais.com/opinion/2026-03-24/ante-la-eventualidad-de-que-vox-llegue-al-gobierno.html",
-      "desc": "La posibilidad de que el PSOE preste su apoyo a una investidura del PP en solitario merece debatirse",
-      "date": "Tue, 24 Mar 2026 04:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/ZZQGTINI6BAZZI6SDPGVXRNHJ4.jpg?auth=da73c3e9e68208df4efeca7498d88dc918df37227af99d083ea2548e6adb1785"
     },
     {
       "title": "El Gobierno evita fijar nuevos plazos para los Presupuestos ante “un contexto internacional muy complicado”",
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/XNW272GXVRO4NDZ3FAB4H4JAAY.jpg?auth=c6f842ad5a3686b938102ddc5c32f23f239606ea414976cfe5bccd8ad805a85f"
     }
   ],
-  "fetchedAt": 1774976005731
+  "fetchedAt": 1774979601184
 }
