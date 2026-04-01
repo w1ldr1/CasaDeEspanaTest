@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "title": "España cerrará a los venezolanos la vía exprés de regularización de la que gozaban desde 2018",
+      "link": "https://elpais.com/espana/2026-04-01/espana-cerrara-a-los-venezolanos-la-via-expres-de-regularizacion-de-la-que-gozaban-desde-2018.html",
+      "desc": "El Gobierno pondrá fin en junio a un mecanismo privilegiado que regularizó a casi un cuarto de millón de migrantes de Venezuela",
+      "date": "Wed, 01 Apr 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/SAMFZC4HNBEUBBOSV53OVU63VE.JPG?auth=7b62838acb5ca0f1b3e2330e70297e7c67328e76e7a0bfa55c1d82b0c76cfec5"
+    },
+    {
       "title": "Robles: “No podemos aceptar que dos países hayan decidido arrastrar al mundo a su guerra”",
       "link": "https://elpais.com/espana/2026-03-31/robles-defiende-el-compromiso-de-espana-con-la-otan-pese-a-su-rechazo-al-ataque-contra-iran.html",
       "desc": "La ministra de Defensa defiende el compromiso de España con la OTAN pese a su rechazo a colaborar con el ataque de EE UU e Israel contra Irán",
@@ -15,18 +22,18 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/HF4Q3POWCJHSHC2AIPSL5OETXA.jpg?auth=8efb44d0370e6c2162132b6ed830162907d1b9a4bb1a85b2a04bc419c2671e42"
     },
     {
-      "title": "IU, Movimiento Sumar, Más Madrid y Comuns anuncian un acto sin Podemos en Sevilla en la antesala de las andaluzas",
-      "link": "https://elpais.com/espana/2026-03-31/iu-movimiento-sumar-mas-madrid-y-comuns-anuncian-un-acto-sin-podemos-en-sevilla-en-la-antesala-de-las-andaluzas.html",
-      "desc": "Un día después de la oferta de integración en Por Andalucía de la dirección estatal del partido morado, las fuerzas coaligadas afirman: “Nuestras manos nunca han dejado de estar tendidas”",
-      "date": "Tue, 31 Mar 2026 08:57:15 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/6YTZTLRNCNIG3DMK65VY4EECDM.jpg?auth=c21ecbf6d928829bb8474a337361a9adb0005e6be0a18abfe0b7dc8c39310670"
-    },
-    {
       "title": "La amnistía, en espera de la justicia europea",
       "link": "https://elpais.com/espana/2026-03-31/la-amnistia-en-espera-de-la-justicia-europea.html",
       "desc": "Es probable que en mayo el Tribunal de Justicia de la UE dé a conocer su sentencia sobre las cuestiones prejudiciales que el Tribunal de Cuentas y la Audiencia Nacional plantearon contra la aplicación de la ley a líderes del ‘procés’",
       "date": "Tue, 31 Mar 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/RMFGAN22UBHOPK5KBTK5YFDPZ4.jpg?auth=416ae0dbb666d6f64fafbf65b6e08e63a540880e75a8e5bf0b81648811fab9bb"
+    },
+    {
+      "title": "La traición gallega de Feijóo",
+      "link": "https://elpais.com/opinion/2026-04-01/la-traicion-gallega-de-feijoo.html",
+      "desc": "Si todas las solicitudes de asilo y los permisos de residencia viniesen redactados con la convicción poética de Álvaro Cunqueiro, no habría leyes migratorias ni muros ni deportaciones ni garitas fronterizas",
+      "date": "Wed, 01 Apr 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/Z54W4ANHVFNZXFYJB3UW7M25QA.jpg?auth=3a60086e4363521bf367ac1a90ac51674a6bf754a69ea755356f2348e36654b1"
     },
     {
       "title": "¿Hernán Cortés o Cuauhtémoc?",
@@ -50,11 +57,11 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/B56ZKWOE5VDCZA34EX7JASITPQ.jpg?auth=37f9b5dbe1fc7cd82bebbcb558a730e0674ae3df9c16207f792804cb0ef97a73"
     },
     {
-      "title": "Vivir peor",
-      "link": "https://elpais.com/opinion/2026-03-24/vivir-peor.html",
-      "desc": "Nadie ha vivido mejor cuando ha apostado por la violencia, la agresividad y la virilidad en lugar de hacerlo por la inteligencia, la convivencia y la preparación intelectual",
-      "date": "Tue, 24 Mar 2026 04:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/Z2WXVWXQWNDC3ORR6AGRNTBU7M.jpg?auth=431afca024c372d9e8527884f1c9f65468343a3e3fe22111d6cb58f1d44e8d92"
+      "title": "IU, Movimiento Sumar, Más Madrid y Comuns anuncian un acto sin Podemos en Sevilla en la antesala de las andaluzas",
+      "link": "https://elpais.com/espana/2026-03-31/iu-movimiento-sumar-mas-madrid-y-comuns-anuncian-un-acto-sin-podemos-en-sevilla-en-la-antesala-de-las-andaluzas.html",
+      "desc": "Un día después de la oferta de integración en Por Andalucía de la dirección estatal del partido morado, las fuerzas coaligadas afirman: “Nuestras manos nunca han dejado de estar tendidas”",
+      "date": "Tue, 31 Mar 2026 08:57:15 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/6YTZTLRNCNIG3DMK65VY4EECDM.jpg?auth=c21ecbf6d928829bb8474a337361a9adb0005e6be0a18abfe0b7dc8c39310670"
     },
     {
       "title": "El Gobierno evita fijar nuevos plazos para los Presupuestos ante “un contexto internacional muy complicado”",
@@ -125,14 +132,7 @@
       "desc": "Washington retiró tras sondear a Madrid su plan para desplegar bombarderos B-52 y B-1 en Morón",
       "date": "Mon, 30 Mar 2026 03:30:01 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260330/1154204_124657_video_1800.mp4"
-    },
-    {
-      "title": "Por Andalucía convoca a Podemos el jueves para decidir ‘in extremis’ si van juntos a las elecciones",
-      "link": "https://elpais.com/espana/2026-03-31/podemos-convoca-una-consulta-sobre-la-unidad-de-la-izquierda-andaluza-a-tres-dias-del-fin-del-plazo.html",
-      "desc": "La formación morada abre una consulta sobre la unidad de la izquierda andaluza a tres días del fin del plazo",
-      "date": "Tue, 31 Mar 2026 14:28:41 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XNW272GXVRO4NDZ3FAB4H4JAAY.jpg?auth=c6f842ad5a3686b938102ddc5c32f23f239606ea414976cfe5bccd8ad805a85f"
     }
   ],
-  "fetchedAt": 1775009360479
+  "fetchedAt": 1775020239409
 }
