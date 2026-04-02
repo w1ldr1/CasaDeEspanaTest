@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "title": "IU y Podemos negocian contra reloj para concurrir juntos en Andalucía",
+      "link": "https://elpais.com/espana/elecciones-andalucia/2026-04-02/iu-y-podemos-negocian-contra-reloj-para-concurrir-juntos-en-andalucia.html",
+      "desc": "Los dos partidos apuran la búsqueda de un acuerdo a un día del registro de coaliciones",
+      "date": "Thu, 02 Apr 2026 20:00:56 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/CLVEKRPTMBM4ZNWT6D7HP6N2BQ.jpg?auth=ec10ae8f18da06455bc1a0ddf11793af36bda87e2ded620686c5b5a7cdb32fdd"
+    },
+    {
       "title": "El Gobierno prevé desestimar más del 30% de las solicitudes de regularización de migrantes",
       "link": "https://elpais.com/espana/2026-04-02/el-gobierno-preve-desestimar-mas-del-30-de-las-solicitudes-de-regularizacion-de-migrantes.html",
       "desc": "El Ministerio de Migraciones calcula que recibirán 750.000 peticiones pero que quedará medio millón de beneficiarios",
@@ -13,13 +20,6 @@
       "desc": "Un grupo de familias que huyó de Afganistán tras el regreso de los talibanes está atrapado en Irán, pese a una resolución favorable de la Audiencia Nacional, pero la Embajada de España afirma que no puede tramitar los visados debido a la guerra",
       "date": "Thu, 02 Apr 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/XHXPGCH25BM4LGLTOGSRK55XXI.jpg?auth=54acfcf303b33308f65f2c60a30eda3324573e562dfc10bcb116195f8bde5e73"
-    },
-    {
-      "title": "Vox se suma a una cumbre contra el “suicidio étnico” de la Europa “blanca”",
-      "link": "https://elpais.com/espana/2026-04-02/vox-se-suma-a-una-cumbre-contra-el-suicidio-etnico-de-la-europa-blanca.html",
-      "desc": "La diputada Rocío de Meer participará en una convención que emplea justificaciones raciales para reclamar una expulsión masiva de población",
-      "date": "Thu, 02 Apr 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/7DCD2CIQ6NASXB6MLTICRF4N6Y.jpg?auth=187b7dc1e29264019ac3a9a1d013930fd5e50520f1cc8a087ab5b4c853e010e6"
     },
     {
       "title": "La amnistía, en espera de la justicia europea",
@@ -55,6 +55,13 @@
       "desc": "Este miércoles tuvimos la oportunidad de constatar que la política hoy está llena de barro y, de vez en cuando, de buenas intenciones",
       "date": "Wed, 25 Mar 2026 13:03:33 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/B56ZKWOE5VDCZA34EX7JASITPQ.jpg?auth=37f9b5dbe1fc7cd82bebbcb558a730e0674ae3df9c16207f792804cb0ef97a73"
+    },
+    {
+      "title": "Vox se suma a una cumbre contra el “suicidio étnico” de la Europa “blanca”",
+      "link": "https://elpais.com/espana/2026-04-02/vox-se-suma-a-una-cumbre-contra-el-suicidio-etnico-de-la-europa-blanca.html",
+      "desc": "La diputada Rocío de Meer participará en una convención que emplea justificaciones raciales para reclamar una expulsión masiva de población",
+      "date": "Thu, 02 Apr 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/7DCD2CIQ6NASXB6MLTICRF4N6Y.jpg?auth=187b7dc1e29264019ac3a9a1d013930fd5e50520f1cc8a087ab5b4c853e010e6"
     },
     {
       "title": "El CNI despidió a un agente de origen marroquí por temor a que fuera captado por Rabat",
@@ -125,14 +132,7 @@
       "desc": "La ministra de Defensa defiende el compromiso de España con la OTAN pese a su rechazo a colaborar con el ataque de EE UU e Israel contra Irán",
       "date": "Tue, 31 Mar 2026 11:16:25 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260331/1154592_141820_video_1800.mp4"
-    },
-    {
-      "title": "PP y Vox aprueban en el Parlamento una propuesta que liga el “terrorismo” con la regularización masiva de inmigrantes",
-      "link": "https://elpais.com/espana/2026-03-31/pp-y-vox-aprueban-en-el-parlamento-una-propuesta-que-liga-al-terrorismo-con-la-regularizacion-masiva-de-inmigrantes.html",
-      "desc": "La comisión mixta de Seguridad Nacional de Congreso y Senado impulsa una ponencia promovida por el Partido Popular",
-      "date": "Tue, 31 Mar 2026 12:00:00 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/QQ6YEPOZHVJ3RAGEHQTD27SFHM.jpg?auth=c4bb21fc642128e28d3d967eb329ebe658a8ae52e0d2ad3f4c77f9aed8a35e6b"
     }
   ],
-  "fetchedAt": 1775160227020
+  "fetchedAt": 1775163771518
 }
