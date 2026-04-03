@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "title": "De los motes a los comentarios sexuales: un sargento acaba condenado por cruzar la línea",
+      "link": "https://elpais.com/espana/2026-04-03/de-los-motes-a-los-comentarios-sexuales-un-sargento-acaba-condenado-por-cruzar-la-linea.html",
+      "desc": "El Supremo confirma la condena al militar por sus palabras a una soldado: “Tus compañeros te van a hacer un ‘bukake”",
+      "date": "Fri, 03 Apr 2026 05:00:00 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/5QQQBY2XTRB53PKLSA4IQ3EQVY.jpg?auth=aa958620c82e3c53b082c9412cc7b1da26db0735b809726959b8bae9c56c5cb5"
+    },
+    {
       "title": "La izquierda dará la batalla por el decreto de vivienda con movilizaciones en la calle",
       "link": "https://elpais.com/espana/2026-04-03/la-izquierda-dara-la-batalla-por-el-decreto-de-vivienda-con-movilizaciones-en-la-calle.html",
       "desc": "Sumar aún cree posible vencer la resistencia de Junts tras su último acercamiento al Gobierno",
@@ -13,13 +20,6 @@
       "desc": "Los populares han interpelado al titular de Economía y ahora vicepresidente primero solo tres veces en las sesiones de control en la Cámara baja. La portavoz parlamentaria confrontará ahora con él tras la marcha de Montero",
       "date": "Fri, 03 Apr 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/QJPFJLPX4VFCTC7OG33WPE5NL4.jpg?auth=8e2fd875ee8bdd94fab652b90437bd8976fa44f309be9420b38f193bbf38e279"
-    },
-    {
-      "title": "Pradales y Chivite alertan a Illa del “riesgo unilateral” de la financiación singular",
-      "link": "https://elpais.com/espana/2026-04-03/pradales-y-chivite-alertan-a-illa-del-riesgo-unilateral-de-la-financiacion-singular.html",
-      "desc": "Los presidentes del País Vasco y Navarra transmitieron sus consejos bilateralmente y los de Castilla-La Mancha y Asturias se oponen en público",
-      "date": "Fri, 03 Apr 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XT5WRBI2GFD7QJIGEDSLHLYZOM.jpg?auth=9c1d19150902a0cdd3fa28cd834c8dfa1e8f855d265c559a8188732c47076772"
     },
     {
       "title": "La amnistía, en espera de la justicia europea",
@@ -55,6 +55,13 @@
       "desc": "Este miércoles tuvimos la oportunidad de constatar que la política hoy está llena de barro y, de vez en cuando, de buenas intenciones",
       "date": "Wed, 25 Mar 2026 13:03:33 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/B56ZKWOE5VDCZA34EX7JASITPQ.jpg?auth=37f9b5dbe1fc7cd82bebbcb558a730e0674ae3df9c16207f792804cb0ef97a73"
+    },
+    {
+      "title": "Pradales y Chivite alertan a Illa del “riesgo unilateral” de la financiación singular",
+      "link": "https://elpais.com/espana/2026-04-03/pradales-y-chivite-alertan-a-illa-del-riesgo-unilateral-de-la-financiacion-singular.html",
+      "desc": "Los presidentes del País Vasco y Navarra transmitieron sus consejos bilateralmente y los de Castilla-La Mancha y Asturias se oponen en público",
+      "date": "Fri, 03 Apr 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XT5WRBI2GFD7QJIGEDSLHLYZOM.jpg?auth=9c1d19150902a0cdd3fa28cd834c8dfa1e8f855d265c559a8188732c47076772"
     },
     {
       "title": "El juez rechaza levantar la orden de alejamiento al policía acusado de acoso en la embajada de La India de su subordinada",
@@ -125,14 +132,7 @@
       "desc": "El Consejo acordó hace meses actualizar un suplemento que les equipara a la carrera judicial",
       "date": "Wed, 01 Apr 2026 10:08:46 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/2PCM74HW4JAO3C26GJ6E4RBNZA.JPG?auth=f7759ee19fadaebaac1296fae23de52a5267e4ae063355972824483ff7802e9e"
-    },
-    {
-      "title": "El Gobierno oficializa su reorganización en el BOE",
-      "link": "https://elpais.com/espana/2026-04-01/el-gobierno-oficializa-su-reorganizacion-en-el-boe.html",
-      "desc": "Cuerpo pasa a presidir, como vicepresidente primero, la comisión de Inteligencia",
-      "date": "Wed, 01 Apr 2026 09:40:39 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/GRK74WT3KZIH5CQL3SM5ZT255E.jpg?auth=76f7f9efd8a1f8d54a91bf389e78e52e3079122b927061ea5710014b96addd7b"
     }
   ],
-  "fetchedAt": 1775190850063
+  "fetchedAt": 1775196614197
 }
