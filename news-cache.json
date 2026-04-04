@@ -1,25 +1,25 @@
 {
   "items": [
     {
+      "title": "¿Y después de la regularización, qué?",
+      "link": "https://elpais.com/espana/2026-04-04/y-despues-de-la-regularizacion-que.html",
+      "desc": "El modelo español de extranjería corre el riesgo de taponamiento si no planifica la llegada de extranjeros y no se agiliza la gestión",
+      "date": "Sat, 04 Apr 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/M6GZQNTPJZDPFDAMQWUM24QY7E.jpg?auth=b4b90d261a701989cf3e230985c89f564d47964ab83307c36cf0c14aaae39b86"
+    },
+    {
+      "title": "ERC recrudece la pelea entre independentistas y arrebata dos alcaldías a Junts con moción de censura",
+      "link": "https://elpais.com/espana/catalunya/2026-04-04/erc-recrudece-la-pelea-entre-independentistas-y-arrebata-dos-alcaldias-a-junts-con-mocion-de-censura.html",
+      "desc": "Los movimientos de los republicanos dinamitan el compromiso expresado por Junqueras y Puigdemont de fortalecer lazos, mientras Aliança Catalana sigue al acecho",
+      "date": "Sat, 04 Apr 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/EACZ2FSE55HSRKMBFKWT4OHDWA.jpg?auth=d85eb85b6f080928ec49c5a75e66cf34679311069057f2d3d8b43632a897b32f"
+    },
+    {
       "title": "La izquierda dará la batalla por el decreto de vivienda con movilizaciones en la calle",
       "link": "https://elpais.com/espana/2026-04-03/la-izquierda-dara-la-batalla-por-el-decreto-de-vivienda-con-movilizaciones-en-la-calle.html",
       "desc": "Sumar aún cree posible vencer la resistencia de Junts tras su último acercamiento al Gobierno",
       "date": "Fri, 03 Apr 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/RDYPRAG4EZJ55HNZX76OSGESJM.jpg?auth=86354fa66db58e3b75d0cbb1c5e94da1e78c3fa7027059f6b1407f8dacabcd72"
-    },
-    {
-      "title": "Pradales y Chivite alertan a Illa del “riesgo unilateral” de la financiación singular",
-      "link": "https://elpais.com/espana/2026-04-03/pradales-y-chivite-alertan-a-illa-del-riesgo-unilateral-de-la-financiacion-singular.html",
-      "desc": "Los presidentes del País Vasco y Navarra transmitieron sus consejos bilateralmente y los de Castilla-La Mancha y Asturias se oponen en público",
-      "date": "Fri, 03 Apr 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XT5WRBI2GFD7QJIGEDSLHLYZOM.jpg?auth=9c1d19150902a0cdd3fa28cd834c8dfa1e8f855d265c559a8188732c47076772"
-    },
-    {
-      "title": "Carlos Cuerpo, de apenas recibir preguntas del PP al duelo semanal con Ester Muñoz en el Congreso",
-      "link": "https://elpais.com/espana/2026-04-03/carlos-cuerpo-de-apenas-recibir-preguntas-del-pp-al-duelo-semanal-con-ester-munoz-en-el-congreso.html",
-      "desc": "Los populares han interpelado al titular de Economía y ahora vicepresidente primero solo tres veces en las sesiones de control en la Cámara baja. La portavoz parlamentaria confrontará ahora con él tras la marcha de Montero",
-      "date": "Fri, 03 Apr 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/QJPFJLPX4VFCTC7OG33WPE5NL4.jpg?auth=8e2fd875ee8bdd94fab652b90437bd8976fa44f309be9420b38f193bbf38e279"
     },
     {
       "title": "La amnistía, en espera de la justicia europea",
@@ -55,6 +55,20 @@
       "desc": "Este miércoles tuvimos la oportunidad de constatar que la política hoy está llena de barro y, de vez en cuando, de buenas intenciones",
       "date": "Wed, 25 Mar 2026 13:03:33 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/B56ZKWOE5VDCZA34EX7JASITPQ.jpg?auth=37f9b5dbe1fc7cd82bebbcb558a730e0674ae3df9c16207f792804cb0ef97a73"
+    },
+    {
+      "title": "Pradales y Chivite alertan a Illa del “riesgo unilateral” de la financiación singular",
+      "link": "https://elpais.com/espana/2026-04-03/pradales-y-chivite-alertan-a-illa-del-riesgo-unilateral-de-la-financiacion-singular.html",
+      "desc": "Los presidentes del País Vasco y Navarra transmitieron sus consejos bilateralmente y los de Castilla-La Mancha y Asturias se oponen en público",
+      "date": "Fri, 03 Apr 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XT5WRBI2GFD7QJIGEDSLHLYZOM.jpg?auth=9c1d19150902a0cdd3fa28cd834c8dfa1e8f855d265c559a8188732c47076772"
+    },
+    {
+      "title": "Carlos Cuerpo, de apenas recibir preguntas del PP al duelo semanal con Ester Muñoz en el Congreso",
+      "link": "https://elpais.com/espana/2026-04-03/carlos-cuerpo-de-apenas-recibir-preguntas-del-pp-al-duelo-semanal-con-ester-munoz-en-el-congreso.html",
+      "desc": "Los populares han interpelado al titular de Economía y ahora vicepresidente primero solo tres veces en las sesiones de control en la Cámara baja. La portavoz parlamentaria confrontará ahora con él tras la marcha de Montero",
+      "date": "Fri, 03 Apr 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/QJPFJLPX4VFCTC7OG33WPE5NL4.jpg?auth=8e2fd875ee8bdd94fab652b90437bd8976fa44f309be9420b38f193bbf38e279"
     },
     {
       "title": "El juez rechaza levantar la orden de alejamiento al policía acusado de acoso en la embajada de La India a su subordinada",
@@ -118,21 +132,7 @@
       "desc": "El Gobierno pondrá fin en junio a un mecanismo privilegiado que regularizó a casi un cuarto de millón de migrantes de Venezuela",
       "date": "Wed, 01 Apr 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/SAMFZC4HNBEUBBOSV53OVU63VE.JPG?auth=7b62838acb5ca0f1b3e2330e70297e7c67328e76e7a0bfa55c1d82b0c76cfec5"
-    },
-    {
-      "title": "Elma Saiz lamenta el giro del PP con la regularización de inmigrantes: “Están supeditados a acuerdos que les marca la ultraderecha”",
-      "link": "https://elpais.com/espana/2026-04-01/elma-saiz-lamenta-el-giro-del-pp-con-la-regularizacion-de-inmigrantes-estan-supeditados-a-acuerdos-que-les-marca-la-ultraderecha.html",
-      "desc": "La portavoz del Gobierno avanza que el proceso sigue su curso dentro del calendario previsto",
-      "date": "Wed, 01 Apr 2026 08:23:34 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/WKEHFHSW4BEOXPFJUOQKG6J3NI.jpg?auth=0fa7e858c80ae979ec10533b564aa3ccf1cf70afb23c215062eb87a94ac844c6"
-    },
-    {
-      "title": "Malestar entre los jueces por la subida salarial que se autoconcedieron los vocales del Poder Judicial",
-      "link": "https://elpais.com/espana/2026-04-01/malestar-entre-los-jueces-por-la-subida-salarial-que-se-autoconcedieron-los-vocales-del-poder-judicial.html",
-      "desc": "El Consejo acordó hace meses actualizar un suplemento que les equipara a la carrera judicial",
-      "date": "Wed, 01 Apr 2026 10:08:46 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/2PCM74HW4JAO3C26GJ6E4RBNZA.JPG?auth=f7759ee19fadaebaac1296fae23de52a5267e4ae063355972824483ff7802e9e"
     }
   ],
-  "fetchedAt": 1775269745624
+  "fetchedAt": 1775277021799
 }
