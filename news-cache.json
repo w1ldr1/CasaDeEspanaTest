@@ -1,25 +1,25 @@
 {
   "items": [
     {
+      "title": "Feijóo habló con Abascal tras las elecciones de Castilla y León para encarrilar las negociaciones de los gobiernos",
+      "link": "https://elpais.com/espana/2026-04-04/feijoo-hablo-con-abascal-tras-las-elecciones-de-castilla-y-leon.html",
+      "desc": "El líder del PP revela el contacto en una entrevista, realizada antes de la carta de Vox a su militancia con el duro ataque a Génova",
+      "date": "Sat, 04 Apr 2026 09:31:48 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/ISSQRDBLW5BXDO4RTGYE3Q77VI.jpg?auth=3f4af1538dd9eb85c8766e5e32deab5a7a2fc681ef4ba52995dac24da9b8eb49"
+    },
+    {
+      "title": "El PP y Vox extreman su pelea por un voto católico cada vez más derechizado",
+      "link": "https://elpais.com/espana/2026-04-04/el-pp-y-vox-extreman-su-pelea-por-un-voto-catolico-cada-vez-mas-derechizado.html",
+      "desc": "El catolicismo “identitario” de Abascal dispara el protagonismo de la religión en la pugna derechista. Feijóo lidera las encuestas en un electorado que destaca por su alejamiento de la izquierda",
+      "date": "Sat, 04 Apr 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/IIZEZOIPKZLEDHFUTQFTPY667E.jpg?auth=a80977f32e5e25fb9c0008c53fff1aa0c492e3a33468f10a4d77ba58c810cdde"
+    },
+    {
       "title": "¿Y después de la regularización, qué?",
       "link": "https://elpais.com/espana/2026-04-04/y-despues-de-la-regularizacion-que.html",
       "desc": "El modelo español de extranjería corre el riesgo de taponamiento si no planifica la llegada de extranjeros y no se agiliza la gestión",
       "date": "Sat, 04 Apr 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/M6GZQNTPJZDPFDAMQWUM24QY7E.jpg?auth=b4b90d261a701989cf3e230985c89f564d47964ab83307c36cf0c14aaae39b86"
-    },
-    {
-      "title": "ERC recrudece la pelea entre independentistas y arrebata dos alcaldías a Junts con moción de censura",
-      "link": "https://elpais.com/espana/catalunya/2026-04-04/erc-recrudece-la-pelea-entre-independentistas-y-arrebata-dos-alcaldias-a-junts-con-mocion-de-censura.html",
-      "desc": "Los movimientos de los republicanos dinamitan el compromiso expresado por Junqueras y Puigdemont de fortalecer lazos, mientras Aliança Catalana sigue al acecho",
-      "date": "Sat, 04 Apr 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/EACZ2FSE55HSRKMBFKWT4OHDWA.jpg?auth=d85eb85b6f080928ec49c5a75e66cf34679311069057f2d3d8b43632a897b32f"
-    },
-    {
-      "title": "El Supremo perdona a un jubilado que se “sobreendeudó” para ayudar a su familia",
-      "link": "https://elpais.com/espana/2026-04-04/el-supremo-perdona-a-un-jubilado-que-se-sobreendeudo-para-ayudar-a-su-familia.html",
-      "desc": "El hombre se beneficiará de la Ley de Segunda Oportunidad tras endeudarse a través de varios préstamos por un importe total de 20.242 euros",
-      "date": "Sat, 04 Apr 2026 05:00:00 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/POUBRIIDEJI37NMCTXFHBVPRHE.jpg?auth=c41d72ad697c1cbe9a7ccbc7d044c9d12741361aa707021394252b1fcd835362"
     },
     {
       "title": "La amnistía, en espera de la justicia europea",
@@ -55,6 +55,20 @@
       "desc": "Este miércoles tuvimos la oportunidad de constatar que la política hoy está llena de barro y, de vez en cuando, de buenas intenciones",
       "date": "Wed, 25 Mar 2026 13:03:33 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/B56ZKWOE5VDCZA34EX7JASITPQ.jpg?auth=37f9b5dbe1fc7cd82bebbcb558a730e0674ae3df9c16207f792804cb0ef97a73"
+    },
+    {
+      "title": "ERC recrudece la pelea entre independentistas y arrebata dos alcaldías a Junts con moción de censura",
+      "link": "https://elpais.com/espana/catalunya/2026-04-04/erc-recrudece-la-pelea-entre-independentistas-y-arrebata-dos-alcaldias-a-junts-con-mocion-de-censura.html",
+      "desc": "Los movimientos de los republicanos dinamitan el compromiso expresado por Junqueras y Puigdemont de fortalecer lazos, mientras Aliança Catalana sigue al acecho",
+      "date": "Sat, 04 Apr 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/EACZ2FSE55HSRKMBFKWT4OHDWA.jpg?auth=d85eb85b6f080928ec49c5a75e66cf34679311069057f2d3d8b43632a897b32f"
+    },
+    {
+      "title": "El Supremo perdona a un jubilado que se “sobreendeudó” para ayudar a su familia",
+      "link": "https://elpais.com/espana/2026-04-04/el-supremo-perdona-a-un-jubilado-que-se-sobreendeudo-para-ayudar-a-su-familia.html",
+      "desc": "El hombre se beneficiará de la Ley de Segunda Oportunidad tras endeudarse a través de varios préstamos por un importe total de 20.242 euros",
+      "date": "Sat, 04 Apr 2026 05:00:00 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/POUBRIIDEJI37NMCTXFHBVPRHE.jpg?auth=c41d72ad697c1cbe9a7ccbc7d044c9d12741361aa707021394252b1fcd835362"
     },
     {
       "title": "La izquierda dará la batalla por el decreto de vivienda con movilizaciones en la calle",
@@ -118,21 +132,7 @@
       "desc": "La diputada Rocío de Meer participará en una convención que emplea justificaciones raciales para reclamar una expulsión masiva de población",
       "date": "Thu, 02 Apr 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/7DCD2CIQ6NASXB6MLTICRF4N6Y.jpg?auth=187b7dc1e29264019ac3a9a1d013930fd5e50520f1cc8a087ab5b4c853e010e6"
-    },
-    {
-      "title": "El CNI despidió a un agente de origen marroquí por temor a que fuera captado por Rabat",
-      "link": "https://elpais.com/espana/2026-04-02/el-cni-despidio-a-un-agente-de-origen-marroqui-por-temor-a-que-fuera-captado-por-rabat.html",
-      "desc": "La decisión, avalada por la Audiencia Nacional, esgrime un informe que tilda de “incierta” la lealtad del trabajador a España y al servicio secreto",
-      "date": "Thu, 02 Apr 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/D2OQ4FAG3VCJ3E3PFCASREUUOA.JPG?auth=da618571b435d4d4d6fcb621aba588f0a6e9b0dc74bfa2136725f853bbf4e9b0"
-    },
-    {
-      "title": "Cómo funciona MiDNI: una identificación igual de válida que la física, desde este jueves",
-      "link": "https://elpais.com/espana/2026-04-02/como-funciona-midni-una-identificacion-igual-de-valida-que-la-fisica-desde-este-jueves.html",
-      "desc": "El documento digital permitirá acreditarse con el móvil legalmente",
-      "date": "Thu, 02 Apr 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/KDDROS5VWVJJ7N7DWRXTB5VMDA.jpg?auth=0ab69e8f871832a93498ba1129e654f492d9117cbf17c7f770b5a06483cb6f52"
     }
   ],
-  "fetchedAt": 1775303469515
+  "fetchedAt": 1775306751877
 }
