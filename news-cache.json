@@ -15,11 +15,11 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/EACZ2FSE55HSRKMBFKWT4OHDWA.jpg?auth=d85eb85b6f080928ec49c5a75e66cf34679311069057f2d3d8b43632a897b32f"
     },
     {
-      "title": "La izquierda dará la batalla por el decreto de vivienda con movilizaciones en la calle",
-      "link": "https://elpais.com/espana/2026-04-03/la-izquierda-dara-la-batalla-por-el-decreto-de-vivienda-con-movilizaciones-en-la-calle.html",
-      "desc": "Sumar aún cree posible vencer la resistencia de Junts tras su último acercamiento al Gobierno",
-      "date": "Fri, 03 Apr 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/RDYPRAG4EZJ55HNZX76OSGESJM.jpg?auth=86354fa66db58e3b75d0cbb1c5e94da1e78c3fa7027059f6b1407f8dacabcd72"
+      "title": "El Supremo perdona a un jubilado que se “sobreendeudó” para ayudar a su familia",
+      "link": "https://elpais.com/espana/2026-04-04/el-supremo-perdona-a-un-jubilado-que-se-sobreendeudo-para-ayudar-a-su-familia.html",
+      "desc": "El hombre se beneficiará de la Ley de Segunda Oportunidad tras endeudarse a través de varios préstamos por un importe total de 20.242 euros",
+      "date": "Sat, 04 Apr 2026 05:00:00 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/POUBRIIDEJI37NMCTXFHBVPRHE.jpg?auth=c41d72ad697c1cbe9a7ccbc7d044c9d12741361aa707021394252b1fcd835362"
     },
     {
       "title": "La amnistía, en espera de la justicia europea",
@@ -55,6 +55,13 @@
       "desc": "Este miércoles tuvimos la oportunidad de constatar que la política hoy está llena de barro y, de vez en cuando, de buenas intenciones",
       "date": "Wed, 25 Mar 2026 13:03:33 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/B56ZKWOE5VDCZA34EX7JASITPQ.jpg?auth=37f9b5dbe1fc7cd82bebbcb558a730e0674ae3df9c16207f792804cb0ef97a73"
+    },
+    {
+      "title": "La izquierda dará la batalla por el decreto de vivienda con movilizaciones en la calle",
+      "link": "https://elpais.com/espana/2026-04-03/la-izquierda-dara-la-batalla-por-el-decreto-de-vivienda-con-movilizaciones-en-la-calle.html",
+      "desc": "Sumar aún cree posible vencer la resistencia de Junts tras su último acercamiento al Gobierno",
+      "date": "Fri, 03 Apr 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/RDYPRAG4EZJ55HNZX76OSGESJM.jpg?auth=86354fa66db58e3b75d0cbb1c5e94da1e78c3fa7027059f6b1407f8dacabcd72"
     },
     {
       "title": "Pradales y Chivite alertan a Illa del “riesgo unilateral” de la financiación singular",
@@ -125,14 +132,7 @@
       "desc": "El documento digital permitirá acreditarse con el móvil legalmente",
       "date": "Thu, 02 Apr 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/KDDROS5VWVJJ7N7DWRXTB5VMDA.jpg?auth=0ab69e8f871832a93498ba1129e654f492d9117cbf17c7f770b5a06483cb6f52"
-    },
-    {
-      "title": "España cerrará a los venezolanos la vía exprés de regularización de la que gozaban desde 2018",
-      "link": "https://elpais.com/espana/2026-04-01/espana-cerrara-a-los-venezolanos-la-via-expres-de-regularizacion-de-la-que-gozaban-desde-2018.html",
-      "desc": "El Gobierno pondrá fin en junio a un mecanismo privilegiado que regularizó a casi un cuarto de millón de migrantes de Venezuela",
-      "date": "Wed, 01 Apr 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/SAMFZC4HNBEUBBOSV53OVU63VE.JPG?auth=7b62838acb5ca0f1b3e2330e70297e7c67328e76e7a0bfa55c1d82b0c76cfec5"
     }
   ],
-  "fetchedAt": 1775278028083
+  "fetchedAt": 1775282056527
 }
