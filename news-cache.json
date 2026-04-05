@@ -1,25 +1,25 @@
 {
   "items": [
     {
+      "title": "La crónica | La corrupción del PSOE y PP, en el banquillo",
+      "link": "https://elpais.com/espana/2026-04-05/la-cronica-la-corrupcion-del-psoe-y-pp-en-el-banquillo.html",
+      "desc": "Los juicios a Ábalos y la Kitchen se cuelan en la rampa de salida de las elecciones autonómicas más relevantes",
+      "date": "Sun, 05 Apr 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/64RGHBUPTNF3HMLKPE27ZLFKFI.jpg?auth=6d1353ad97410718289d66b7215df46a9f5b51ae676dbf47d1a4362ec3151573"
+    },
+    {
+      "title": "La trama de las mascarillas se sienta en el banquillo: Ábalos ante su primer juicio",
+      "link": "https://elpais.com/espana/2026-04-05/la-trama-de-las-mascarillas-se-sienta-en-el-banquillo-abalos-ante-su-primer-juicio.html",
+      "desc": "El Supremo acoge la primera vista oral por el ‘caso Koldo’, en la que el exministro y su antiguo asesor afrontan una petición de pena de hasta 30 años de cárcel",
+      "date": "Sun, 05 Apr 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/ZTDUAVTZYBC6BET5SW7IXWJ4WY.jpg?auth=76f44274981534a382d5c3bc814f323ecf79b8685909aaf558a89bc4447cd946"
+    },
+    {
       "title": "Antonio Maíllo: “El pacto con Podemos supone un punto de inflexión que no se va a quedar solo en Andalucía”",
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-04-05/antonio-maillo-el-pacto-con-podemos-supone-un-punto-de-inflexion-que-no-se-va-a-quedar-solo-en-andalucia.html",
       "desc": "El coordinador federal de IU y candidato de Por Andalucía a la Junta sostiene en entrevista con EL PAÍS que el acuerdo entre las izquierdas permitirá una mayor movilización el 17 de mayo",
       "date": "Sun, 05 Apr 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/GJ53WII4YVBKXE3FQWRL2F5BYU.jpg?auth=c20c0dabe624d355f4e44a2793cd80bac0a41042376f8620659133d385fd7db4"
-    },
-    {
-      "title": "Feijóo habló con Abascal tras las elecciones de Castilla y León para encarrilar las negociaciones de los gobiernos",
-      "link": "https://elpais.com/espana/2026-04-04/feijoo-hablo-con-abascal-tras-las-elecciones-de-castilla-y-leon.html",
-      "desc": "El líder del PP revela el contacto en una entrevista, realizada antes de la carta de Vox a su militancia con el duro ataque a Génova",
-      "date": "Sat, 04 Apr 2026 09:31:48 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/ISSQRDBLW5BXDO4RTGYE3Q77VI.jpg?auth=3f4af1538dd9eb85c8766e5e32deab5a7a2fc681ef4ba52995dac24da9b8eb49"
-    },
-    {
-      "title": "La gran pregunta que marca el juicio de Kitchen e impacta en el PP: ¿quién ordenó espiar a Bárcenas?",
-      "link": "https://elpais.com/espana/2026-04-05/la-gran-pregunta-que-marca-el-juicio-de-kitchen-e-impacta-en-el-pp-quien-ordeno-espiar-a-barcenas.html",
-      "desc": "La Audiencia Nacional se prepara para acoger la esperada vista contra las cúpulas de Interior y la Policía de Rajoy por intentar boicotear la investigación del ‘caso Gürtel’, que acorraló al partido",
-      "date": "Sun, 05 Apr 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/HCBTZVM53REILKQSRMPYW2OYXA.jpg?auth=9a7d40933b38cda51371af9239d488f43b6520a223acf3e5f4dde3914eff1953"
     },
     {
       "title": "La corrupción, el esperpento de nuestra política",
@@ -55,6 +55,20 @@
       "desc": "Será interesante ver cómo se redistribuyen las funciones entre un Gobierno más tecnocrático y un Sánchez decidido a potenciar su imagen internacional",
       "date": "Sun, 29 Mar 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/MD7J5DR55NK2FLLZANK5Y3SMTY.jpg?auth=c1253be218165cbb8312cfa9ae7e48e0fcd722512cda42d4d1ce8f1ad388b4d6"
+    },
+    {
+      "title": "Feijóo habló con Abascal tras las elecciones de Castilla y León para encarrilar las negociaciones de los gobiernos",
+      "link": "https://elpais.com/espana/2026-04-04/feijoo-hablo-con-abascal-tras-las-elecciones-de-castilla-y-leon.html",
+      "desc": "El líder del PP revela el contacto en una entrevista, realizada antes de la carta de Vox a su militancia con el duro ataque a Génova",
+      "date": "Sat, 04 Apr 2026 09:31:48 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/ISSQRDBLW5BXDO4RTGYE3Q77VI.jpg?auth=3f4af1538dd9eb85c8766e5e32deab5a7a2fc681ef4ba52995dac24da9b8eb49"
+    },
+    {
+      "title": "La gran pregunta que marca el juicio de Kitchen e impacta en el PP: ¿quién ordenó espiar a Bárcenas?",
+      "link": "https://elpais.com/espana/2026-04-05/la-gran-pregunta-que-marca-el-juicio-de-kitchen-e-impacta-en-el-pp-quien-ordeno-espiar-a-barcenas.html",
+      "desc": "La Audiencia Nacional se prepara para acoger la esperada vista contra las cúpulas de Interior y la Policía de Rajoy por intentar boicotear la investigación del ‘caso Gürtel’, que acorraló al partido",
+      "date": "Sun, 05 Apr 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/HCBTZVM53REILKQSRMPYW2OYXA.jpg?auth=9a7d40933b38cda51371af9239d488f43b6520a223acf3e5f4dde3914eff1953"
     },
     {
       "title": "Policías en el lado oscuro: los casos de cinco altos mandos detenidos por narcotráfico en dos años",
@@ -118,21 +132,7 @@
       "desc": "El comisario Emilio de la Calle había solicitado que se eliminaran las medidas cautelares porque las había respetado durante un año y la fiscal recuerda que cumplir “no es un mérito, sino una obligación”",
       "date": "Fri, 03 Apr 2026 03:30:01 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260226/1142421_170134_video_1800.mp4"
-    },
-    {
-      "title": "El Gobierno prevé desestimar más del 30% de las solicitudes de regularización de migrantes",
-      "link": "https://elpais.com/espana/2026-04-02/el-gobierno-preve-desestimar-mas-del-30-de-las-solicitudes-de-regularizacion-de-migrantes.html",
-      "desc": "El Ministerio de Migraciones calcula que recibirán 750.000 peticiones pero que quedará medio millón de beneficiarios",
-      "date": "Thu, 02 Apr 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/7L5OS3CSLNGELDICSSZXGNTZKE.jpg?auth=5fd20ae0e6d3ba8b8428b036988f1ab740d64968bbb3ccaa8b85a2c87b17c426"
-    },
-    {
-      "title": "De los motes a los comentarios sexuales: un sargento acaba condenado por cruzar la línea",
-      "link": "https://elpais.com/espana/2026-04-03/de-los-motes-a-los-comentarios-sexuales-un-sargento-acaba-condenado-por-cruzar-la-linea.html",
-      "desc": "El Supremo confirma la condena al militar por sus palabras a una soldado: “Tus compañeros te van a hacer un ‘bukake”",
-      "date": "Fri, 03 Apr 2026 05:00:00 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/5QQQBY2XTRB53PKLSA4IQ3EQVY.jpg?auth=aa958620c82e3c53b082c9412cc7b1da26db0735b809726959b8bae9c56c5cb5"
     }
   ],
-  "fetchedAt": 1775404592200
+  "fetchedAt": 1775407500924
 }
