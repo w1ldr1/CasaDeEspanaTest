@@ -57,6 +57,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/DPVRTY3PHFBLRHQH5SEC2NRFEA.jpg?auth=7bc1ef375adb03e62605a8a7f62eb6b736f2cbe8c8c131300fd137a4d565b5a9"
     },
     {
+      "title": "El juicio del ‘caso Kitchen’, en directo | La Audiencia Nacional acoge desde este lunes la vista contra el exministro Jorge Fernández Díaz",
+      "link": "https://elpais.com/espana/2026-04-06/el-juicio-del-caso-kitchen-en-directo-la-audiencia-nacional-acoge-desde-este-lunes-la-vista-contra-el-exministro-jorge-fernandez-diaz.html",
+      "desc": "Una decena de personas se sientan en el banquillo acusadas de iniciar una operación policial para espiar al extesorero del PP Luis Bárcenas",
+      "date": "Mon, 06 Apr 2026 08:15:55 GMT",
+      "imgUrl": "https://www.youtube.com/watch?v=xab9gc1rulI"
+    },
+    {
       "title": "Los candidatos andaluces viven su particular semana preelectoral de Pasión",
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-04-06/los-candidatos-andaluces-viven-su-particular-semana-preelectoral-de-pasion.html",
       "desc": "Moreno y Montero aprovechan el acontecimiento popular que es la Semana Santa de Sevilla para multiplicar sus visitas a hermandades. “La elección de cofradías no es casual”",
@@ -125,14 +132,7 @@
       "desc": "Jefes policiales en Madrid, Baleares, Murcia, Galicia o Castilla y León han acabado entre rejas por vínculos con el crimen organizado",
       "date": "Sun, 05 Apr 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/IQYVWCJUJ5FKPGW4XVG27XZYEY.jpg?auth=caee957f87f53ecea12cc9eaece04f9b8f84602b1f1494832c6438543b276da6"
-    },
-    {
-      "title": "El PP y Vox extreman su pelea por un voto católico cada vez más derechizado",
-      "link": "https://elpais.com/espana/2026-04-04/el-pp-y-vox-extreman-su-pelea-por-un-voto-catolico-cada-vez-mas-derechizado.html",
-      "desc": "El catolicismo “identitario” de Abascal dispara el protagonismo de la religión en la pugna derechista. Feijóo lidera las encuestas en un electorado que destaca por su alejamiento de la izquierda",
-      "date": "Sat, 04 Apr 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/IIZEZOIPKZLEDHFUTQFTPY667E.jpg?auth=a80977f32e5e25fb9c0008c53fff1aa0c492e3a33468f10a4d77ba58c810cdde"
     }
   ],
-  "fetchedAt": 1775459253418
+  "fetchedAt": 1775465511367
 }
