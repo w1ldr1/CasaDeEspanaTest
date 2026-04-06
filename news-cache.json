@@ -1,9 +1,9 @@
 {
   "items": [
     {
-      "title": "El juicio del ‘caso Kitchen’, en directo | El exministro Jorge Fernández Díaz acapara los focos en el arranque de la vista",
+      "title": "El exministro Jorge Fernández Díaz trata de sacar el juicio de Kitchen de la Audiencia Nacional",
       "link": "https://elpais.com/espana/2026-04-06/el-juicio-del-caso-kitchen-en-directo-la-audiencia-nacional-acoge-desde-este-lunes-la-vista-contra-el-exministro-jorge-fernandez-diaz.html",
-      "desc": "Una decena de personas se sientan en el banquillo acusadas de iniciar una operación policial para espiar al extesorero del PP Luis Bárcenas",
+      "desc": "Una decena de personas se sientan en el banquillo acusadas de iniciar una operación policial para espiar al extesorero popular Luis Bárcenas",
       "date": "Mon, 06 Apr 2026 08:15:55 GMT",
       "imgUrl": "https://www.youtube.com/watch?v=xab9gc1rulI"
     },
@@ -68,7 +68,7 @@
       "link": "https://elpais.com/espana/2026-04-06/pablo-iglesias-tras-el-acuerdo-de-izquierdas-en-andalucia-con-podemos-hay-una-inmensa-desilusion.html",
       "desc": "Sumar inicia una ronda de contactos en el Congreso para sacar adelante el decreto de vivienda",
       "date": "Mon, 06 Apr 2026 11:42:45 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/53X5JBRCLZG5VGSRHPLDH6XYYQ.jpg?auth=3f302417167adcd8bb6675ddd7fe5eaef5f0fd697e904a6665fb884b55049635"
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/RZBOHHFU7NCNTCDPIFUW7TLMEA.JPG?auth=295b496d99262285a524031c78cfd5aaa734c65eafb8f9a4ba3915b121389171"
     },
     {
       "title": "Juristas gallegos piden la suspensión del traslado forzoso de dos magistrados del TSJ que paralizaron proyectos eólicos",
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/ZTDUAVTZYBC6BET5SW7IXWJ4WY.jpg?auth=76f44274981534a382d5c3bc814f323ecf79b8685909aaf558a89bc4447cd946"
     }
   ],
-  "fetchedAt": 1775477239567
+  "fetchedAt": 1775483528296
 }
