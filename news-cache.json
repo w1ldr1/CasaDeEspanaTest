@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "title": "El juicio del ‘caso Kitchen’, en directo | El exministro Jorge Fernández Díaz acapara los focos en el arranque de la vista",
+      "link": "https://elpais.com/espana/2026-04-06/el-juicio-del-caso-kitchen-en-directo-la-audiencia-nacional-acoge-desde-este-lunes-la-vista-contra-el-exministro-jorge-fernandez-diaz.html",
+      "desc": "Una decena de personas se sientan en el banquillo acusadas de iniciar una operación policial para espiar al extesorero del PP Luis Bárcenas",
+      "date": "Mon, 06 Apr 2026 08:15:55 GMT",
+      "imgUrl": "https://www.youtube.com/watch?v=xab9gc1rulI"
+    },
+    {
       "title": "PP y PSOE se recuperan mientras Vox se estanca",
       "link": "https://elpais.com/espana/2026-04-06/pp-y-psoe-se-recuperan-mientras-vox-se-estanca.html",
       "desc": "La extrema derecha se frena por primera vez en medio año y los socialistas reciben apoyos desde la izquierda",
@@ -13,13 +20,6 @@
       "desc": "Una encuesta de 40dB. revela un profundo pesimismo sobre el futuro del planeta y una fuerte división por el gasto militar",
       "date": "Mon, 06 Apr 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/CRXHMVLCDVD47K3CHTTSDKYMP4.jpg?auth=cff8dbec099b5fdd838577be9db8d20799f05bef0c79a0eecc12e02789b27ceb"
-    },
-    {
-      "title": "Meses de espera en solicitudes de traslado a España para pedir asilo alimentan la angustia de familias gazatíes en Egipto",
-      "link": "https://elpais.com/espana/2026-04-06/meses-de-espera-en-solicitudes-de-traslado-a-espana-para-pedir-asilo-alimentan-la-angustia-de-familias-gazaties-en-egipto.html",
-      "desc": "Más de un centenar de palestinos huidos de la guerra han iniciado la solicitud, pero la falta de comunicación en medio de un futuro incierto en Gaza aumenta su inquietud y vulnerabilidad",
-      "date": "Mon, 06 Apr 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/HHR24J2DGBMJJPFJTJQYXC7RGQ.jpg?auth=292258b94a7f52f75572affb422d29fc2eb46424f895123a703fbfaab6704c49"
     },
     {
       "title": "Los riesgos de la improvisación regulatoria en materia de vivienda",
@@ -60,15 +60,15 @@
       "title": "La esposa de Santos Cerdán no irá este lunes a la comisión del ‘caso Koldo’ del Senado alegando motivos de salud",
       "link": "https://elpais.com/espana/2026-04-06/la-esposa-de-santos-cerdan-no-ira-este-lunes-a-la-comision-del-caso-koldo-del-senado-alegando-motivos-de-salud.html",
       "desc": "Francisca Muñoz ha presentado un informe médico que indica que su estado “impide” su asistencia a la Cámara alta",
-      "date": "Mon, 06 Apr 2026 11:03:26 GMT",
+      "date": "Mon, 06 Apr 2026 11:26:13 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/A3MZVN6M4VDZTLLQWJ7MP4NNUM.jpg?auth=472afffa4aeff18472b7bb67a75e59bdcf0a4008b8f6bbb15b1dde1a38833f5b"
     },
     {
-      "title": "El juicio del ‘caso Kitchen’, en directo | El exministro Jorge Fernández Díaz acapara los focos en el arranque de la vista",
-      "link": "https://elpais.com/espana/2026-04-06/el-juicio-del-caso-kitchen-en-directo-la-audiencia-nacional-acoge-desde-este-lunes-la-vista-contra-el-exministro-jorge-fernandez-diaz.html",
-      "desc": "Una decena de personas se sientan en el banquillo acusadas de iniciar una operación policial para espiar al extesorero del PP Luis Bárcenas",
-      "date": "Mon, 06 Apr 2026 08:15:55 GMT",
-      "imgUrl": "https://www.youtube.com/watch?v=xab9gc1rulI"
+      "title": "Pablo Iglesias, tras el acuerdo de izquierdas en Andalucía con Podemos: “Hay una inmensa desilusión”",
+      "link": "https://elpais.com/espana/2026-04-06/pablo-iglesias-tras-el-acuerdo-de-izquierdas-en-andalucia-con-podemos-hay-una-inmensa-desilusion.html",
+      "desc": "Sumar inicia una ronda de contactos en el Congreso para sacar adelante el decreto de vivienda",
+      "date": "Mon, 06 Apr 2026 11:42:45 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/53X5JBRCLZG5VGSRHPLDH6XYYQ.jpg?auth=3f302417167adcd8bb6675ddd7fe5eaef5f0fd697e904a6665fb884b55049635"
     },
     {
       "title": "Juristas gallegos piden la suspensión del traslado forzoso de dos magistrados del TSJ que paralizaron proyectos eólicos",
@@ -83,6 +83,13 @@
       "desc": "Los españoles perciben que nos dirigimos hacia un mundo más oscuro e impredecible, con consecuencias económicas negativas",
       "date": "Mon, 06 Apr 2026 09:18:24 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/5J3QOGL6ZJMRNOLLOPZQGVJRVI.jpg?auth=2d2165f455f0bf8cdcdba91e3e31b90d20b84e99282a01de14ba48dda5066109"
+    },
+    {
+      "title": "Meses de espera en solicitudes de traslado a España para pedir asilo alimentan la angustia de familias gazatíes en Egipto",
+      "link": "https://elpais.com/espana/2026-04-06/meses-de-espera-en-solicitudes-de-traslado-a-espana-para-pedir-asilo-alimentan-la-angustia-de-familias-gazaties-en-egipto.html",
+      "desc": "Más de un centenar de palestinos huidos de la guerra han iniciado la solicitud, pero la falta de comunicación en medio de un futuro incierto en Gaza aumenta su inquietud y vulnerabilidad",
+      "date": "Mon, 06 Apr 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/HHR24J2DGBMJJPFJTJQYXC7RGQ.jpg?auth=292258b94a7f52f75572affb422d29fc2eb46424f895123a703fbfaab6704c49"
     },
     {
       "title": "Los candidatos andaluces viven su particular semana preelectoral de Pasión",
@@ -125,14 +132,7 @@
       "desc": "El Supremo acoge la primera vista oral por el ‘caso Koldo’, en la que el exministro y su antiguo asesor afrontan una petición de pena de hasta 30 años de cárcel",
       "date": "Sun, 05 Apr 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/ZTDUAVTZYBC6BET5SW7IXWJ4WY.jpg?auth=76f44274981534a382d5c3bc814f323ecf79b8685909aaf558a89bc4447cd946"
-    },
-    {
-      "title": "Antonio Maíllo: “El pacto con Podemos supone un punto de inflexión que no se va a quedar solo en Andalucía”",
-      "link": "https://elpais.com/espana/elecciones-andalucia/2026-04-05/antonio-maillo-el-pacto-con-podemos-supone-un-punto-de-inflexion-que-no-se-va-a-quedar-solo-en-andalucia.html",
-      "desc": "El coordinador federal de IU y candidato de Por Andalucía a la Junta sostiene en entrevista con EL PAÍS que el acuerdo entre las izquierdas permitirá una mayor movilización el 17 de mayo",
-      "date": "Sun, 05 Apr 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/GJ53WII4YVBKXE3FQWRL2F5BYU.jpg?auth=c20c0dabe624d355f4e44a2793cd80bac0a41042376f8620659133d385fd7db4"
     }
   ],
-  "fetchedAt": 1775474862312
+  "fetchedAt": 1775477239567
 }
