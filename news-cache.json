@@ -64,9 +64,16 @@
       "imgUrl": "https://www.youtube.com/watch?v=xab9gc1rulI"
     },
     {
+      "title": "Angustia global y desacuerdos internos",
+      "link": "https://elpais.com/espana/2026-04-06/angustia-global-y-desacuerdos-internos.html",
+      "desc": "Los españoles perciben que nos dirigimos hacia un mundo más oscuro e impredecible, con consecuencias económicas negativas",
+      "date": "Mon, 06 Apr 2026 09:18:24 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/5J3QOGL6ZJMRNOLLOPZQGVJRVI.jpg?auth=2d2165f455f0bf8cdcdba91e3e31b90d20b84e99282a01de14ba48dda5066109"
+    },
+    {
       "title": "Los candidatos andaluces viven su particular semana preelectoral de Pasión",
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-04-06/los-candidatos-andaluces-viven-su-particular-semana-preelectoral-de-pasion.html",
-      "desc": "Moreno y Montero aprovechan el acontecimiento popular que es la Semana Santa de Sevilla para multiplicar sus visitas a hermandades. “La elección de cofradías no es casual”",
+      "desc": "Moreno y Montero aprovechan el acontecimiento popular que es la Semana Santa para multiplicar sus visitas a hermandades. “La elección de cofradías no es casual”",
       "date": "Mon, 06 Apr 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/TT4SCYOE6NJO3MBJHPV6FIBTFQ.jpg?auth=166dbd4d71d9bc0ca842115f4da7719d533bdee060401958b8308cc6c87dbc4d"
     },
@@ -125,14 +132,7 @@
       "desc": "La Audiencia Nacional se prepara para acoger la esperada vista contra las cúpulas de Interior y la Policía de Rajoy por intentar boicotear la investigación del ‘caso Gürtel’, que acorraló al partido",
       "date": "Sun, 05 Apr 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/HCBTZVM53REILKQSRMPYW2OYXA.jpg?auth=9a7d40933b38cda51371af9239d488f43b6520a223acf3e5f4dde3914eff1953"
-    },
-    {
-      "title": "Policías en el lado oscuro: los casos de cinco altos mandos detenidos por narcotráfico en dos años",
-      "link": "https://elpais.com/espana/madrid/2026-04-05/policias-en-el-lado-oscuro-los-casos-de-cinco-altos-mandos-detenidos-por-narcotrafico-en-dos-anos.html",
-      "desc": "Jefes policiales en Madrid, Baleares, Murcia, Galicia o Castilla y León han acabado entre rejas por vínculos con el crimen organizado",
-      "date": "Sun, 05 Apr 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/IQYVWCJUJ5FKPGW4XVG27XZYEY.jpg?auth=caee957f87f53ecea12cc9eaece04f9b8f84602b1f1494832c6438543b276da6"
     }
   ],
-  "fetchedAt": 1775465598892
+  "fetchedAt": 1775470338643
 }
