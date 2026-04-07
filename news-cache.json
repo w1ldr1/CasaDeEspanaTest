@@ -19,7 +19,7 @@
       "link": "https://elpais.com/espana/2026-04-07/vox-retoma-esta-semana-las-reuniones-con-el-pp-pese-a-mantener-los-ataques-contra-genova-son-indistinguibles-del-psoe.html",
       "desc": "La cúpula de Feijóo se muestra optimista y no entra al trapo de las acusaciones del partido de Abascal",
       "date": "Tue, 07 Apr 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/6EDC42XNGFBFDLAH7YF7KPBJMI.jpg?auth=561ea28fa6ff51f0ded6cc0c7884a9608559f9b068d1d3dfc3d2e4412baa5f1e"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260407/1156429_082120_video_1800.mp4"
     },
     {
       "title": "Los riesgos de la improvisación regulatoria en materia de vivienda",
@@ -62,6 +62,13 @@
       "desc": "La presencia del monarca, galardonado por su libro de memorias, genera estupefacción entre los finalistas y desconcierto en la Presidencia de la Cámara",
       "date": "Tue, 07 Apr 2026 07:41:36 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/SMRVYMJBEZIFPDO63N5BYYGA7E.jpg?auth=cc5f5cd16aa9ae9bbea015a0831a734f0d7f691d416cde3ea74ec71583e3c344"
+    },
+    {
+      "title": "Un vocal progresista del Poder Judicial se postula para ser el juez español en el Tribunal Europeo de Derechos Humanos",
+      "link": "https://elpais.com/espana/2026-04-07/un-vocal-progresista-del-poder-judicial-se-postula-para-ser-el-juez-espanol-en-el-tribunal-europeo-de-derechos-humanos.html",
+      "desc": "Carlos Preciado, que se ha desmarcado en varias ocasiones del bloque progresista del CGPJ, presenta su candidatura para asumir la vacante que dejará en marzo de 2027 la jueza María Elósegui",
+      "date": "Tue, 07 Apr 2026 08:37:39 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/MMW77HSLAWQFBRULX6WFBP3TV4.jpg?auth=540e623ec13b958cce76937b9f0722753edcb23add4ec71479d3377348f571ff"
     },
     {
       "title": "Las propuestas para agravar penas y crear nuevos delitos se agolpan en el Congreso",
@@ -125,14 +132,7 @@
       "desc": "Los jueces, entre los que está el exlíder de En Marea Luís Villares, fueron criticados por el PP y la patronal tras paralizar varios parques",
       "date": "Mon, 06 Apr 2026 09:45:37 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/USZREXEQZHJCUFSMA6B5L26HVU.jpg?auth=8f94d852e9d0d5b9fecbdefa662b294c181b7ca588793831fd43764e93001c46"
-    },
-    {
-      "title": "Angustia global y desacuerdos internos",
-      "link": "https://elpais.com/espana/2026-04-06/angustia-global-y-desacuerdos-internos.html",
-      "desc": "Los españoles perciben que nos dirigimos hacia un mundo más oscuro e impredecible, con consecuencias económicas negativas",
-      "date": "Mon, 06 Apr 2026 09:18:24 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/5J3QOGL6ZJMRNOLLOPZQGVJRVI.jpg?auth=2d2165f455f0bf8cdcdba91e3e31b90d20b84e99282a01de14ba48dda5066109"
     }
   ],
-  "fetchedAt": 1775548507885
+  "fetchedAt": 1775552238033
 }
