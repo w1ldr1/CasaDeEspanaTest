@@ -8,9 +8,9 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/ZAQY75GIIRGRBDTEGLTHOY2H7E.jpg?auth=bf40b8aaa3ab1ccb6b567705e4b6cf48b5110368e709d731937ec4ae9d56b7d5"
     },
     {
-      "title": "La Audiencia Nacional rechaza el intento de Fernández Díaz de frenar el juicio de Kitchen: “Ya toca”",
+      "title": "La Audiencia rechaza la maniobra de Fernández Díaz para frenar el juicio de Kitchen y descarta volver a investigar a Cospedal",
       "link": "https://elpais.com/espana/2026-04-07/video-en-directo-segunda-jornada-del-juicio-del-caso-kitchen.html",
-      "desc": "El tribunal, en línea con la Fiscalía Anticorrupción, descarta anular la causa y pruebas clave, así como volver a investigar a Cospedal",
+      "desc": "El tribunal, en línea con la Fiscalía Anticorrupción, desecha anular la causa y las pruebas clave",
       "date": "Tue, 07 Apr 2026 14:10:23 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/E64FBE5GZZBM7FRH4OS4EBRXVA.jpg?auth=fffc05b9107474490b78b9ea74cc031d50497c408f872f302ac438537b2e0738"
     },
@@ -68,7 +68,7 @@
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-04-07/montero-acusa-a-juan-manuel-moreno-de-ir-de-fiesta-en-fiesta-para-no-hablar-de-gestion-en-andalucia.html",
       "desc": "La candidata del PSOE intenta minar la imagen centrista del presidente: “Es una persona educada, pero no un político moderado”",
       "date": "Tue, 07 Apr 2026 09:03:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/DR3Z7VNIEJNXTM6UW5LYQDETYY.jpg?auth=d8697a6603000f9762e7aa0cb0f7bb25f36409f01aebdb7d08517adae71c6c46"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260407/1156622_155701_video_1800.mp4"
     },
     {
       "title": "La Operación de Tráfico de Semana Santa concluye con 30 fallecidos, tres más que el año pasado",
@@ -134,5 +134,5 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260406/1156199_154435_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1775577201210
+  "fetchedAt": 1775580785242
 }
