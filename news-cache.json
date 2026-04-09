@@ -15,9 +15,9 @@
       "imgUrl": "https://www.youtube.com/watch?v=r9zzCpq94Iw"
     },
     {
-      "title": "Josu Ternera afronta en París el último juicio que condiciona su entrega a España",
+      "title": "Josu Ternera niega haber sido jefe de ETA en el juicio en París que condiciona su entrega a España",
       "link": "https://elpais.com/espana/2026-04-09/josu-ternera-afronta-en-paris-el-ultimo-juicio-que-condiciona-su-entrega-a-espana.html",
-      "desc": "El proceso lleva aplazándose desde 2021 y debe dirimir su pertenencia a ETA entre los años 2002 y 2005",
+      "desc": "El proceso lleva aplazándose desde 2021 y debe dirimir su pertenencia y responsabilidad en ETA entre los años 2002 y 2005",
       "date": "Thu, 09 Apr 2026 10:03:16 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/YIXUPOJTANPXLNUUEB45R75VKM.jpg?auth=e919bd88e290af1fa0f8a5fd1b6bd39c31b6ca83334432df3530282af59b5e11"
     },
@@ -99,10 +99,10 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/C7ZKC5POQRA75GX3YP2PIB63SY.jpg?auth=95fdd18932553232efeb614143883c3a8c2d021abebad316866e442b58861f0f"
     },
     {
-      "title": "Irene Montero se acerca a Gabriel Rufián para intentar reflotar a Podemos",
+      "title": "Irene Montero y Gabriel Rufián hablan sobre el futuro de la izquierda en un acto en Barcelona, en directo",
       "link": "https://elpais.com/espana/2026-04-09/irene-montero-se-acerca-a-gabriel-rufian-para-intentar-reflotar-a-podemos.html",
       "desc": "La eurodiputada da pasos en su candidatura a las generales en una charla con el portavoz de ERC cuando su partido, muy debilitado, acaba de pactar con IU y Sumar en Andalucía",
-      "date": "Thu, 09 Apr 2026 03:30:01 GMT",
+      "date": "Thu, 09 Apr 2026 17:02:44 GMT",
       "imgUrl": "https://www.youtube.com/watch?v=TxkSe2U2v9c"
     },
     {
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/JH6IUI3GSFLW3ASNDMFHVG62JU.jpg?auth=c0034a631abbeb72843a670d5d28f4ca02fd073adecb413475c3ba675844fb67"
     }
   ],
-  "fetchedAt": 1775753211176
+  "fetchedAt": 1775757361440
 }
