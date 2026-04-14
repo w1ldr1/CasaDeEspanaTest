@@ -57,6 +57,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/ZD2UNRF3QFFJLCDR4P35ZMFMHQ.jpg?auth=adef9be762be5dda40c7aaabbb427d069a637aeb3df28ee3b0e2e4efa01a3495"
     },
     {
+      "title": "Expulsado del pleno del Congreso un diputado de Vox tras encararse con la presidencia",
+      "link": "https://elpais.com/espana/2026-04-14/expulsado-del-pleno-del-congreso-un-diputado-de-vox-tras-encararse-con-la-presidencia.html",
+      "desc": "José María Sánchez ya provocó un gran bronca en 2021 por llamar “bruja” a una diputada del PSOE",
+      "date": "Tue, 14 Apr 2026 18:48:44 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260414/1159388_182601_video_1800.mp4"
+    },
+    {
       "title": "Pregunta, que algo queda",
       "link": "https://elpais.com/espana/2026-04-14/pregunta-que-algo-queda.html",
       "desc": "Andrés Martínez Arrieta, presidente del tribunal, y la abogada de Koldo García mantienen una relación interesante a niveles de teoría periodística",
@@ -125,14 +132,7 @@
       "desc": "Virginia Martínez, diputada de la formación de extrema derecha, se une al grupo mixto con el ultra José Ángel Antelo. Con estas dos salidas, los populares no tendrían que pactar con Vox para la mayoría parlamentaria",
       "date": "Tue, 14 Apr 2026 09:34:02 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/A6GUMGLDYZPU7IE4WNXYVV3ONY.jpg?auth=99aeb7d85eeaac874ebee642a95b6bd37f3f072eb1dd89f0433e5d7428c3ec99"
-    },
-    {
-      "title": "El ‘CIS andaluz’ sitúa a Moreno al borde de la mayoría absoluta y confirma el frenazo de Vox",
-      "link": "https://elpais.com/espana/elecciones-andalucia/2026-04-14/el-cis-andaluz-situa-a-moreno-al-borde-de-la-mayoria-absoluta-y-frena-a-vox.html",
-      "desc": "Los socialistas bajarían de los 30 escaños, su peor resultado electoral",
-      "date": "Tue, 14 Apr 2026 06:44:45 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/UNKJ7HCGUJAOFIMVRBOLBLCKQI.jpg?auth=82ba53cc127d3a81c691d15970a84a07136385f3579944532147981607dcf0ff"
     }
   ],
-  "fetchedAt": 1776192258740
+  "fetchedAt": 1776197174466
 }
