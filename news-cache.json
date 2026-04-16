@@ -60,13 +60,13 @@
       "title": "El juicio del ‘caso Kitchen’ se centra en el volcado de los dispositivos de Bárcenas",
       "link": "https://elpais.com/espana/2026-04-16/video-en-directo-juicio-del-caso-kitchen-la-trama-de-corrupcion-policial-vinculada-al-pp.html",
       "desc": "Este jueves declaran en la Audiencia Nacional varios testigos entre los que se encuentran agentes de Policía, notarios, el exdirector y el director actual de la prisión de Soto del Real",
-      "date": "Thu, 16 Apr 2026 12:57:59 GMT",
+      "date": "Thu, 16 Apr 2026 15:16:16 GMT",
       "imgUrl": "https://www.youtube.com/watch?v=2RLRL84Fuwg"
     },
     {
       "title": "“No paran de llegar mensajes”: el primer día de la regularización de inmigrantes desborda a asociaciones y abogados",
       "link": "https://elpais.com/espana/2026-04-16/no-paran-de-llegar-mensajes-el-primer-dia-de-la-regularizacion-de-inmigrantes-desborda-a-asociaciones-y-abogados.html",
-      "desc": "La plataforma disponible en la web del Ministerio de Inclusión, Seguridad Social y Migraciones ha funcionado con normalidad durante toda la mañana, sin registrar incidencias",
+      "desc": "La plataforma disponible en la web del Ministerio de Inclusión, Seguridad Social y Migraciones ha colapsado y dejado de funcionar durante dos horas este jueves",
       "date": "Thu, 16 Apr 2026 12:05:03 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/DJ4OLOEDLJO5TLUBRSX7OOHCIM.jpg?auth=8fc36bba307438ddab8f289a67319c5c0293c77c782fc01465a2c3c81df88fa6"
     },
@@ -85,7 +85,7 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/5TFPBNFGRJCZBAAII3KP537NEY.jpg?auth=36040122ce6aea7db50716474763ad78d1bc34622916da6099a8c4d7ed7e4e18"
     },
     {
-      "title": "Cae una organización de narcos cuando  extraía la cocaína que habían mezclado en siete toneladas de harina de maíz",
+      "title": "Cae una organización de narcos mientras extraían la cocaína que habían mezclado en siete toneladas de harina de maíz",
       "link": "https://elpais.com/espana/2026-04-16/cae-una-organizacion-de-narcos-mientras-extraia-un-alijo-de-cocaina-de-un-cargamento-de-harina-de-maiz.html",
       "desc": "Los investigados disponían de un sofisticado macrolaboratorio en Gerindote, un pequeño pueblo de Toledo",
       "date": "Thu, 16 Apr 2026 13:33:22 GMT",
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/TUJO7PT3UVKCRO6BSEWBJMBQ4Q.jpg?auth=8a7256004870e1d597c606918df42949192352e850a8d54c31d278deee6db3b0"
     }
   ],
-  "fetchedAt": 1776347022469
+  "fetchedAt": 1776352962390
 }
