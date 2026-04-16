@@ -57,10 +57,10 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/ZD2UNRF3QFFJLCDR4P35ZMFMHQ.jpg?auth=adef9be762be5dda40c7aaabbb427d069a637aeb3df28ee3b0e2e4efa01a3495"
     },
     {
-      "title": "El juicio del ‘caso Kitchen’ se centra en el volcado de los dispositivos de Bárcenas",
+      "title": "La sustracción y el volcado de los dispositivos de los Bárcenas acaparan la quinta sesión del juicio del ‘caso Kitchen’",
       "link": "https://elpais.com/espana/2026-04-16/video-en-directo-juicio-del-caso-kitchen-la-trama-de-corrupcion-policial-vinculada-al-pp.html",
-      "desc": "Este jueves declaran en la Audiencia Nacional varios testigos entre los que se encuentran agentes de Policía, notarios, el exdirector y el director actual de la prisión de Soto del Real",
-      "date": "Thu, 16 Apr 2026 15:16:16 GMT",
+      "desc": "Dos policías relatan cómo copiaron la información de dos móviles y una tableta, mientras que un periodista revela que Bárcenas se enteró a través de él de que le espiaban",
+      "date": "Thu, 16 Apr 2026 15:35:38 GMT",
       "imgUrl": "https://www.youtube.com/watch?v=2RLRL84Fuwg"
     },
     {
@@ -88,7 +88,7 @@
       "title": "Cae una organización de narcos mientras extraían la cocaína que habían mezclado en siete toneladas de harina de maíz",
       "link": "https://elpais.com/espana/2026-04-16/cae-una-organizacion-de-narcos-mientras-extraia-un-alijo-de-cocaina-de-un-cargamento-de-harina-de-maiz.html",
       "desc": "Los investigados disponían de un sofisticado macrolaboratorio en Gerindote, un pequeño pueblo de Toledo",
-      "date": "Thu, 16 Apr 2026 13:33:22 GMT",
+      "date": "Thu, 16 Apr 2026 15:25:47 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/HJNAZYKTRZNKJE3QB5EBOBZK7A.jpg?auth=4218fb00c72bf75158cbb6479e926d414bb77193324212c83eecdc76d86aa039"
     },
     {
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/TUJO7PT3UVKCRO6BSEWBJMBQ4Q.jpg?auth=8a7256004870e1d597c606918df42949192352e850a8d54c31d278deee6db3b0"
     }
   ],
-  "fetchedAt": 1776352962390
+  "fetchedAt": 1776358418693
 }
