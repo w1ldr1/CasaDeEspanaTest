@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "title": "Un juzgado de violencia sobre la mujer admite la querella por acoso de la exedil de Móstoles contra el alcalde y el PP",
+      "link": "https://elpais.com/espana/2026-04-19/un-juzgado-de-violencia-sobre-la-mujer-admite-la-querella-por-acoso-de-la-exedil-de-mostoles-contra-el-alcalde-y-el-pp.html",
+      "desc": "El auto de la jueza afirma que “los hechos presentan características que hacen presumir la posible existencia de delitos de acoso sexual y laboral” y abre diligencias. La mujer declarará el próximo 29 de junio",
+      "date": "Sat, 18 Apr 2026 23:07:29 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/E3KOOYK67BD5DEYVP2E3ARIBAQ.JPG?auth=2b3aa72e661d6cd139b86faca443893ef270b35ee02e04ba6ada09fbed8b025b"
+    },
+    {
       "title": "La izquierda internacional consagra a Sánchez: “Ha hecho algo extraordinario”",
       "link": "https://elpais.com/espana/2026-04-18/la-izquierda-internacional-consagra-a-sanchez-ha-hecho-algo-extraordinario.html",
       "desc": "El presidente español rezuma optimismo en la cumbre de Barcelona: “El tiempo de la internacional ultraderechista ha llegado a su fin. Hay que recuperar el orgullo de ser de izquierdas“",
@@ -13,13 +20,6 @@
       "desc": "Los presidentes dan por superada la crisis diplomática por las diferencias sobre la Conquista y anuncian que se celebrará una nueva cumbre progresista en territorio mexicano en 2027",
       "date": "Sat, 18 Apr 2026 17:23:53 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/JJGO2ZBYSRPZ5G757AVNAUZAQY.jpg?auth=ae07477ef33679b2b12f675b14ac842e3635abf416218d6d73887dc65fd05069"
-    },
-    {
-      "title": "El espíritu Mamdani en Barcelona: de asaltar los cielos a arreglar el asfalto",
-      "link": "https://elpais.com/espana/2026-04-18/el-espiritu-mamdani-en-barcelona-de-asaltar-los-cielos-a-arreglar-el-asfalto.html",
-      "desc": "Vox y un bloque de vecinos de L’Hospitalet han regalado un capítulo de ‘Aquí no hay quien viva’, pero la cumbre progresista transcurre sin proclamas encendidas y con altas dosis de optimismo",
-      "date": "Sat, 18 Apr 2026 19:10:00 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/NRIKGTNCO5IP7OKWJOIKNGLOME.jpg?auth=ebe7dc2da134ad3182c693a9e1c297562034b5f98cc90a1011c0b11629056d5d"
     },
     {
       "title": "Inmigración: el debate que España se debe a sí misma",
@@ -55,6 +55,13 @@
       "desc": "La decisión del Consejo de Ministros de prorrogar los alquileres sin tener los apoyos para consolidarla es problemática desde el punto de vista jurídico y político",
       "date": "Mon, 06 Apr 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/43WHBLD3V5BPHP3DP4QWX6S4QM.jpg?auth=16a3f80d31a3f10302488428ca3b6c3ae92ee1df42ca17ab461acd5fc6d3e9b5"
+    },
+    {
+      "title": "El espíritu Mamdani en Barcelona: de asaltar los cielos a arreglar el asfalto",
+      "link": "https://elpais.com/espana/2026-04-18/el-espiritu-mamdani-en-barcelona-de-asaltar-los-cielos-a-arreglar-el-asfalto.html",
+      "desc": "Vox y un bloque de vecinos de L’Hospitalet han regalado un capítulo de ‘Aquí no hay quien viva’, pero la cumbre progresista transcurre sin proclamas encendidas y con altas dosis de optimismo",
+      "date": "Sat, 18 Apr 2026 19:10:00 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/NRIKGTNCO5IP7OKWJOIKNGLOME.jpg?auth=ebe7dc2da134ad3182c693a9e1c297562034b5f98cc90a1011c0b11629056d5d"
     },
     {
       "title": "Los alcaldes progresistas se reivindican como la vanguardia contra la ola ultra: “Somos los que estamos en primera línea”",
@@ -125,14 +132,7 @@
       "desc": "La presidenta de la Comunidad asegura que Manuel Bautista (PP) “no sabe de qué se les está acusando” un día después de que la Fiscalía haya pedido al juzgado de violencia sobre la mujer que abra diligencias previas",
       "date": "Fri, 17 Apr 2026 11:17:23 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/J6AV2Q6FHZGCZNVRKAJANU5JDM.jpg?auth=1db72b2800556558e46ec6da7a1cfdff7ffcba8efc2ed3634d532c53704e9f35"
-    },
-    {
-      "title": "Lula respalda el “no a la guerra” de Sánchez y él le pide perdón porque Ayuso llama “narcoestado” a Brasil y otros",
-      "link": "https://elpais.com/espana/2026-04-17/primera-cumbre-entre-espana-y-brasil-de-pedro-sanchez-y-luiz-inacio-lula-da-silva.html",
-      "desc": "Los dos líderes consagran su unión política. “Sánchez está haciendo crecer el rebaño progresista. Tenemos que entender por qué la gente está votando a la ultraderecha”, dice Lula",
-      "date": "Fri, 17 Apr 2026 13:21:22 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260417/1160783_125322_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1776553528691
+  "fetchedAt": 1776556735461
 }
