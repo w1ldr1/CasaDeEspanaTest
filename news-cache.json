@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "title": "Los excesos de la ultraderecha abren una oportunidad para la izquierda global",
+      "link": "https://elpais.com/espana/2026-04-19/los-excesos-de-la-ultraderecha-abren-una-oportunidad-para-la-izquierda-global.html",
+      "desc": "La reunión progresista celebrada en Barcelona intenta recuperar impulso sobre la base de la indignación y el miedo generados por la derecha extrema",
+      "date": "Sun, 19 Apr 2026 03:30:00 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/UZHBUZYRR5DQTCCD3JGWZPRAMA.jpg?auth=72fca012b32ca52f8286535a1811cb4a4acf48cead41f7a43bd632287b7a60f3"
+    },
+    {
+      "title": "Las propuestas de los socialistas: regular las redes sociales, frenar la especulación con la vivienda y acelerar la agenda verde",
+      "link": "https://elpais.com/espana/2026-04-19/las-propuestas-de-los-socialistas-regular-las-redes-sociales-frenar-la-especulacion-con-la-vivienda-y-acelerar-la-agenda-verde.html",
+      "desc": "Los movimientos progresistas defienden trabajar para que el feminismo siga siendo mayoritario entre los jóvenes",
+      "date": "Sun, 19 Apr 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/KIJTWSGSS5ASZCH5BTPBBHRMD4.jpg?auth=bfb1efda0b4a5ceda3865bfe055468d10986ba2bf141263832ec00b612ba4d37"
+    },
+    {
       "title": "Un juzgado de violencia sobre la mujer admite la querella por acoso de la exedil de Móstoles contra el alcalde y el PP",
       "link": "https://elpais.com/espana/2026-04-19/un-juzgado-de-violencia-sobre-la-mujer-admite-la-querella-por-acoso-de-la-exedil-de-mostoles-contra-el-alcalde-y-el-pp.html",
       "desc": "El auto de la jueza afirma que “los hechos presentan características que hacen presumir la posible existencia de delitos de acoso sexual y laboral” y abre diligencias. La mujer declarará el próximo 29 de junio",
@@ -8,18 +22,11 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/E3KOOYK67BD5DEYVP2E3ARIBAQ.JPG?auth=2b3aa72e661d6cd139b86faca443893ef270b35ee02e04ba6ada09fbed8b025b"
     },
     {
-      "title": "La izquierda internacional consagra a Sánchez: “Ha hecho algo extraordinario”",
-      "link": "https://elpais.com/espana/2026-04-18/la-izquierda-internacional-consagra-a-sanchez-ha-hecho-algo-extraordinario.html",
-      "desc": "El presidente español rezuma optimismo en la cumbre de Barcelona: “El tiempo de la internacional ultraderechista ha llegado a su fin. Hay que recuperar el orgullo de ser de izquierdas“",
-      "date": "Sat, 18 Apr 2026 18:02:11 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260418/1161265_192133_video_1800.mp4"
-    },
-    {
-      "title": "Sheinbaum y Sánchez sellan la paz e inauguran una nueva etapa entre México y España",
-      "link": "https://elpais.com/internacional/2026-04-18/sheinbaum-y-sanchez-sellan-la-paz-e-inauguran-una-nueva-etapa-entre-mexico-y-espana.html",
-      "desc": "Los presidentes dan por superada la crisis diplomática por las diferencias sobre la Conquista y anuncian que se celebrará una nueva cumbre progresista en territorio mexicano en 2027",
-      "date": "Sat, 18 Apr 2026 17:23:53 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/JJGO2ZBYSRPZ5G757AVNAUZAQY.jpg?auth=ae07477ef33679b2b12f675b14ac842e3635abf416218d6d73887dc65fd05069"
+      "title": "Tú a provincias, yo al ancho mundo",
+      "link": "https://elpais.com/opinion/2026-04-19/tu-a-provincias-yo-al-ancho-mundo.html",
+      "desc": "Ante una situación nacional adversa para su partido, el presidente ha encontrado una fuente de oportunidad abrazándose a un nuevo activismo internacional",
+      "date": "Sun, 19 Apr 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/UZHBUZYRR5DQTCCD3JGWZPRAMA.jpg?auth=72fca012b32ca52f8286535a1811cb4a4acf48cead41f7a43bd632287b7a60f3"
     },
     {
       "title": "Inmigración: el debate que España se debe a sí misma",
@@ -50,11 +57,18 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/ZCMGD4RXD5PHHBP457S335KJ24.jpg?auth=0ff14659cf52a2661f4ffb7eb15c3ff2c77bc4b2f400ffe830dc377756ad2fd7"
     },
     {
-      "title": "Los riesgos de la improvisación regulatoria en materia de vivienda",
-      "link": "https://elpais.com/opinion/2026-04-06/los-riesgos-de-la-improvisacion-regulatoria-en-materia-de-vivienda.html",
-      "desc": "La decisión del Consejo de Ministros de prorrogar los alquileres sin tener los apoyos para consolidarla es problemática desde el punto de vista jurídico y político",
-      "date": "Mon, 06 Apr 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/43WHBLD3V5BPHP3DP4QWX6S4QM.jpg?auth=16a3f80d31a3f10302488428ca3b6c3ae92ee1df42ca17ab461acd5fc6d3e9b5"
+      "title": "La izquierda internacional consagra a Sánchez: “Ha hecho algo extraordinario”",
+      "link": "https://elpais.com/espana/2026-04-18/la-izquierda-internacional-consagra-a-sanchez-ha-hecho-algo-extraordinario.html",
+      "desc": "El presidente español rezuma optimismo en la cumbre de Barcelona: “El tiempo de la internacional ultraderechista ha llegado a su fin. Hay que recuperar el orgullo de ser de izquierdas“",
+      "date": "Sat, 18 Apr 2026 18:02:11 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260418/1161265_192133_video_1800.mp4"
+    },
+    {
+      "title": "Sheinbaum y Sánchez sellan la paz e inauguran una nueva etapa entre México y España",
+      "link": "https://elpais.com/internacional/2026-04-18/sheinbaum-y-sanchez-sellan-la-paz-e-inauguran-una-nueva-etapa-entre-mexico-y-espana.html",
+      "desc": "Los presidentes dan por superada la crisis diplomática por las diferencias sobre la Conquista y anuncian que se celebrará una nueva cumbre progresista en territorio mexicano en 2027",
+      "date": "Sat, 18 Apr 2026 17:23:53 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/JJGO2ZBYSRPZ5G757AVNAUZAQY.jpg?auth=ae07477ef33679b2b12f675b14ac842e3635abf416218d6d73887dc65fd05069"
     },
     {
       "title": "El espíritu Mamdani en Barcelona: de asaltar los cielos a arreglar el asfalto",
@@ -85,6 +99,27 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/SKAVILY24VNO7H3DTLYOW6AIDY.jpg?auth=07a070ff44650646476df431b5ac395ee43a5152e71f3a48a84621e3b3170544"
     },
     {
+      "title": "José María Sánchez: juez, catedrático y rey de la pendencia parlamentaria",
+      "link": "https://elpais.com/espana/2026-04-19/jose-maria-sanchez-juez-catedratico-y-rey-de-la-pendencia-parlamentaria.html",
+      "desc": "El diputado de Vox, que tuvo un fugaz cargo en el primer Gobierno de Aznar, ejemplifica la degradación del ambiente parlamentario",
+      "date": "Sun, 19 Apr 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/WF33JX43VFN7RHWDDMEJT6QPZY.jpg?auth=3f92f38f4a9bb4867a22b500c9f56124047693b07da8d18605ced236fed56f8b"
+    },
+    {
+      "title": "El juicio de Kitchen muestra las crudas entrañas de la Policía",
+      "link": "https://elpais.com/espana/2026-04-19/el-juicio-de-kitchen-muestra-las-crudas-entranas-de-la-policia.html",
+      "desc": "La vista evidencia los excesos en el cuerpo durante la era de Rajoy, que incluyeron presiones al principal investigador del ‘caso Gürtel’",
+      "date": "Sun, 19 Apr 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/ONNHSR657FO3XNJBXT5WSE3GNY.jpg?auth=cd8500c768cc2c45609a6369e93a17d351800637f570f77dede4e9b3698ae89c"
+    },
+    {
+      "title": "Un máster, una asesora y dos cartas: diseccionando el ‘caso Begoña’",
+      "link": "https://elpais.com/espana/2026-04-19/un-master-una-asesora-y-dos-cartas-diseccionando-el-caso-begona.html",
+      "desc": "Los abogados que acusan a la mujer del presidente de tejer una red de influencias para su actividad privada discrepan en qué delitos y qué personas deben ir a juicio",
+      "date": "Sun, 19 Apr 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/GUZZSOI7MVGMXAI32YBTI3TFPY.jpg?auth=6616dd580e1ef9d876ce72460d6a003f42d1b617d65956e5d1fbf00130b99086"
+    },
+    {
       "title": "La letra pequeña del acuerdo del PP y Vox en Extremadura",
       "link": "https://elpais.com/espana/2026-04-18/la-letra-pequena-del-acuerdo-del-pp-y-vox-en-extremadura.html",
       "desc": "El texto recurre a menudo a coletillas como “marco legal vigente” o “limitadas competencias” que evidencian los obstáculos para implantar las medidas de migración",
@@ -97,42 +132,7 @@
       "desc": "Los socialistas abogan por un impuesto que grave las grandes fortunas para corregir las desigualdades",
       "date": "Sat, 18 Apr 2026 03:30:01 GMT",
       "imgUrl": "https://www.youtube.com/watch?v=csc4XvEAKJ0"
-    },
-    {
-      "title": "El Gobierno vasco justifica la semilibertad de la exjefa de ETA Anboto en su “evolución favorable tras periodos de inadaptación”",
-      "link": "https://elpais.com/espana/2026-04-18/el-gobierno-vasco-justifica-la-semilibertad-de-la-exjefa-de-eta-anboto-en-su-evolucion-favorable-tras-periodos-de-inadaptacion.html",
-      "desc": "La medida, que ha sido recurrida por la Fiscalía y no es firme, permite a la etarra desde marzo abandonar la cárcel de lunes a viernes para estudiar y colaborar con una ONG",
-      "date": "Sat, 18 Apr 2026 03:30:00 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/OUVO3BAGD5ASHINYMTXXPT5WNM.jpg?auth=36fb28afb0a83acff148d46f47e89f3d04b0c201d0ec4b69543e7b13126728c3"
-    },
-    {
-      "title": "Las críticas políticas a los jueces: ¿libertad de expresión o “república bananera”?",
-      "link": "https://elpais.com/espana/2026-04-18/las-criticas-politicas-a-los-jueces-libertad-de-expresion-o-republica-bananera.html",
-      "desc": "Los límites del debate sobre las actuaciones judiciales rara vez acaban en los tribunales, pero definen la calidad del control democrático de los tres poderes",
-      "date": "Sat, 18 Apr 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/DEZOUEAUBNI4PEL2YBNBB5WDO4.jpg?auth=7139764d88caba02f7eb4b89c0068823cc183ace61a6707fd5c5c26b6fcc746e"
-    },
-    {
-      "title": "El partido independiente del alcalde de La Línea busca “la carambola” andaluza y ser llave de gobierno",
-      "link": "https://elpais.com/espana/2026-04-18/el-partido-independiente-del-alcalde-de-la-linea-busca-la-carambola-andaluza-y-ser-llave-de-gobierno.html",
-      "desc": "Juan Franco extiende 100x100 Unidos como un formación provincial que aglutina a 22 grupos municipalistas con el objetivo de conseguir un parlamentario por Cádiz",
-      "date": "Sat, 18 Apr 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/GVZTHK5CZFGKDAQHXA2AFAGVVU.JPG?auth=40e5f8fe59c6d62658f4b10ba9dabfcbd1843e208b9244bc2269b98860f6b5a0"
-    },
-    {
-      "title": "La querella de la exedil de Móstoles contra el alcalde: “Tras mi negativa a mantener relaciones sexuales comenzaron el aislamiento y la discriminación”",
-      "link": "https://elpais.com/espana/2026-04-17/la-querella-de-la-exedil-de-mostoles-contra-el-alcalde-tras-mi-negativa-a-mantener-relaciones-sexuales-comenzaron-el-aislamiento-y-la-discriminacion.html",
-      "desc": "El escrito, al que ha tenido acceso EL PAÍS, es un relato en primera persona de los hechos por parte de la exconcejala. La Fiscalía ha pedido al juzgado de violencia sobre la mujer que dé impulso procesal al escrito y abra diligencias previas",
-      "date": "Fri, 17 Apr 2026 03:30:01 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260206/1135326_115558_video_1800.mp4"
-    },
-    {
-      "title": "Ayuso defiende al alcalde de Móstoles a pesar del relato de la exedil en su querella: “Es magnífico y está realizando un trabajo de primera”",
-      "link": "https://elpais.com/espana/madrid/2026-04-17/ayuso-defiende-al-alcalde-de-mostoles-a-pesar-del-relato-de-la-exedil-en-su-querella-es-magnifico-y-esta-realizando-un-trabajo-de-primera.html",
-      "desc": "La presidenta de la Comunidad asegura que Manuel Bautista (PP) “no sabe de qué se les está acusando” un día después de que la Fiscalía haya pedido al juzgado de violencia sobre la mujer que abra diligencias previas",
-      "date": "Fri, 17 Apr 2026 11:17:23 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/J6AV2Q6FHZGCZNVRKAJANU5JDM.jpg?auth=1db72b2800556558e46ec6da7a1cfdff7ffcba8efc2ed3634d532c53704e9f35"
     }
   ],
-  "fetchedAt": 1776567387815
+  "fetchedAt": 1776576822001
 }
