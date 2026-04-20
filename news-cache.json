@@ -22,6 +22,13 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260206/1135326_115558_video_1800.mp4"
     },
     {
+      "title": "La vía Feijóo",
+      "link": "https://elpais.com/opinion/2026-04-20/la-via-feijoo.html",
+      "desc": "El líder del PP parece dispuesto a inaugurar una relación con Vox en la que el acuerdo no sea solo aritmético, sino también discursivo",
+      "date": "Mon, 20 Apr 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/MZKFOHO2TBJLZI4AKNP5QRM7BE.jpg?auth=570df109a68bb43c12575537dc6241364408ca7b7e3f7ce542dd6d6e5790b76b"
+    },
+    {
       "title": "Tú a provincias, yo al ancho mundo",
       "link": "https://elpais.com/opinion/2026-04-19/tu-a-provincias-yo-al-ancho-mundo.html",
       "desc": "Ante una situación nacional adversa para su partido, el presidente ha encontrado una fuente de oportunidad abrazándose a un nuevo activismo internacional",
@@ -48,13 +55,6 @@
       "desc": "El partido de Abascal corre el riesgo de sufrir más que un estancamiento: la entrada en una fase de declive electoral",
       "date": "Sun, 12 Apr 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/I2KCOHBVBNIL7LKHHJ2FLGJRBE.jpg?auth=1f3ab8a1a954868fcd0f92030e746c775fce750087abafffb78cec2e26822285"
-    },
-    {
-      "title": "En defensa del odio",
-      "link": "https://elpais.com/opinion/2026-04-09/en-defensa-del-odio.html",
-      "desc": "Denunciar los discurso de desprecio sirve para estigmatizar y para que el poder fiscalice a los ciudadanos",
-      "date": "Thu, 09 Apr 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/ZCMGD4RXD5PHHBP457S335KJ24.jpg?auth=0ff14659cf52a2661f4ffb7eb15c3ff2c77bc4b2f400ffe830dc377756ad2fd7"
     },
     {
       "title": "La izquierda internacional consagra a Sánchez: “Ha hecho algo extraordinario”",
@@ -134,5 +134,5 @@
       "imgUrl": "https://www.youtube.com/watch?v=csc4XvEAKJ0"
     }
   ],
-  "fetchedAt": 1776643344831
+  "fetchedAt": 1776657460764
 }
