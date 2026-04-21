@@ -8,6 +8,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/YBQMT5CPHVNLPK4RTSK747K2CU.jpg?auth=2b3e5b8ee5b2c22a6d7c00b5fb4728259d370fbefab9dc15ffef05cbe8b72106"
     },
     {
+      "title": "La traición del chófer de los Bárcenas: “Era como si fuera uno más de la familia”",
+      "link": "https://elpais.com/espana/2026-04-21/la-traicion-del-chofer-de-los-barcenas-era-como-si-fuera-uno-mas-de-la-familia.html",
+      "desc": "El extesorero y su esposa subrayan en el juicio de Kitchen la capacidad que tenía Sergio Ríos, captado por la trama como confidente, para acceder a su documentación",
+      "date": "Tue, 21 Apr 2026 03:30:01 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260420/1161848_170838_video_1800.mp4"
+    },
+    {
       "title": "El rebujito de historias políticas de la Feria de Abril",
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-04-21/el-rebujito-de-historias-politicas-de-la-feria-de-abril.html",
       "desc": "La precampaña de las elecciones andaluzas coincide con la fiesta sevillana, un escenario propicio para el lucimiento de candidatos y la exteriorización de conflictos",
@@ -61,7 +68,7 @@
       "link": "https://elpais.com/espana/2026-04-21/la-dificultad-de-expulsar-del-congreso-a-un-diputado-falton.html",
       "desc": "La Mesa no encuentra en el Reglamento y en precedentes que llegaron al Constitucional cómo ampliar la sanción al parlamentario de Vox que faltó el respeto a la Presidencia de las Cortes",
       "date": "Tue, 21 Apr 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/DYQWRBZC3VAEJI76JHHZVDXQO4.jpg?auth=774f49eb2fa51e5cc67c4f942837b1fa0ca553f55c542a5d70b364d4c7f794a3"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260414/1159388_182601_video_1800.mp4"
     },
     {
       "title": "España tiene más desaparecidos por terrorismo que Irlanda del Norte",
@@ -74,8 +81,8 @@
       "title": "200 fotos de palizas y ajustes de cuentas en una casa de la Costa del Sol: así operaba el clan de los Lyons",
       "link": "https://elpais.com/espana/2026-04-21/200-fotos-de-palizas-y-ajustes-de-cuentas-en-una-casa-de-la-costa-del-sol-asi-operaba-el-clan-de-los-lyons.html",
       "desc": "La Guardia Civil intervino imágenes impresas de víctimas golpeadas o mutiladas en una casa de Fuengirola (Málaga) que usaban como centro de reunión",
-      "date": "Tue, 21 Apr 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/SUZRORPZ65DCZOCEZDWDGINLAM.jpeg?auth=28e885968c984729a11b3dfb7b75c0c56d2ab929809aa45e75485d10bb575301"
+      "date": "Tue, 21 Apr 2026 07:15:09 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/EXJK62WT6BL45C2SWALE2HLYDE.jpg?auth=4802b515bd2aa48c7e04ac9f4bbf1a50421fda71fb16f10e7d28ce261fb2261c"
     },
     {
       "title": "Bruselas rechaza que el TJUE revise el fallo del Constitucional que anuló las sentencias del ‘caso ERE’ de Andalucía",
@@ -127,5 +134,5 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260420/1161769_142237_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1776751183142
+  "fetchedAt": 1776758720367
 }
