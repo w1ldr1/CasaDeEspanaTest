@@ -15,11 +15,11 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/HET2F4URNJCFPNMS6LQ6YU4YPM.jpg?auth=3dcbb296e3b0f82f3d7cfd58d291c088dedd9cfb2a728fc112e8b9530c9c131b"
     },
     {
-      "title": "Vox promete llevar a Andalucía la “prioridad nacional” acordada con el PP en Extremadura",
-      "link": "https://elpais.com/espana/elecciones-andalucia/2026-04-21/vox-promete-llevar-a-andalucia-la-prioridad-nacional-acordada-con-el-pp-en-extremadura.html",
-      "desc": "Ignacio Garriga defiende que Andalucía sea “frontera sur de Europa y no la puerta de entrada” de inmigrantes al continente",
-      "date": "Tue, 21 Apr 2026 11:48:56 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/FXQCNUXLHRLVXJOOTKJGDZ2UPA.jpg?auth=dab6de67ca0671388bf4ee8d60a39c2e17f020bb6ba6e4305e47aeafd314c0ae"
+      "title": "La jueza del desplome de la pasarela de Santander imputa seis delitos de homicidio a tres funcionarios de Costas",
+      "link": "https://elpais.com/espana/2026-04-21/la-jueza-del-caso-de-la-pasarela-de-santander-imputa-seis-delitos-de-homicidio-a-tres-funcionarios-de-costas.html",
+      "desc": "La instructora investiga a un nuevo jefe de servicio y cita el 15 de mayo a los tres implicados del Ministerio de Transición Ecológica",
+      "date": "Tue, 21 Apr 2026 13:29:21 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/UDVTXX5B5RDUROXGNGYOY2PDU4.jpg?auth=579203cc007adf8c382cdd7ef39e63e85814225d7f72411c782ead31bd1c8db3"
     },
     {
       "title": "Ahora lo ves, ahora no lo ves",
@@ -55,6 +55,13 @@
       "desc": "Una mala situación personal no es excusa para votar a partidos autoritarios porque puede producir daños irreparables",
       "date": "Tue, 21 Apr 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/XO2XCQPJPRDHPGYENNN4LURZKE.jpg?auth=bafe439f4fb58db180b6407ff1fffdee79c8e7d216aed6d3f977899928063f57"
+    },
+    {
+      "title": "Vox promete llevar a Andalucía la “prioridad nacional” acordada con el PP en Extremadura",
+      "link": "https://elpais.com/espana/elecciones-andalucia/2026-04-21/vox-promete-llevar-a-andalucia-la-prioridad-nacional-acordada-con-el-pp-en-extremadura.html",
+      "desc": "Ignacio Garriga defiende que Andalucía sea “frontera sur de Europa y no la puerta de entrada” de inmigrantes al continente",
+      "date": "Tue, 21 Apr 2026 11:48:56 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/FXQCNUXLHRLVXJOOTKJGDZ2UPA.jpg?auth=dab6de67ca0671388bf4ee8d60a39c2e17f020bb6ba6e4305e47aeafd314c0ae"
     },
     {
       "title": "Protestas a las puertas de la Asamblea de Extremadura por el acuerdo entre el PP y Vox para investir a María Guardiola",
@@ -125,14 +132,7 @@
       "desc": "El Memorial de Vitoria recuerda a las seis personas en paradero desconocido y resalta el sufrimiento y el empeño permanente de sus familias por encontrar sus restos",
       "date": "Tue, 21 Apr 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/KQ44LXWUHZARHLGOLWY74BUUSQ.jpg?auth=779d61b40681dc858b5058e3454d69db954c14ba8e84d0a5b6c6034ed992a3a4"
-    },
-    {
-      "title": "200 fotos de palizas y ajustes de cuentas en una casa de la Costa del Sol: así operaba el clan de los Lyons",
-      "link": "https://elpais.com/espana/2026-04-21/200-fotos-de-palizas-y-ajustes-de-cuentas-en-una-casa-de-la-costa-del-sol-asi-operaba-el-clan-de-los-lyons.html",
-      "desc": "La Guardia Civil intervino imágenes impresas de víctimas golpeadas o mutiladas en una casa de Fuengirola (Málaga) que usaban como centro de reunión",
-      "date": "Tue, 21 Apr 2026 07:15:09 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/EXJK62WT6BL45C2SWALE2HLYDE.jpg?auth=4802b515bd2aa48c7e04ac9f4bbf1a50421fda71fb16f10e7d28ce261fb2261c"
     }
   ],
-  "fetchedAt": 1776772836540
+  "fetchedAt": 1776780959369
 }
