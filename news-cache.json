@@ -1,25 +1,25 @@
 {
   "items": [
     {
+      "title": "Kitchen devuelve el foco a la corrupción que sacó del poder al PP",
+      "link": "https://elpais.com/espana/2026-04-23/el-pp-se-asoma-con-kitchen-al-agujero-negro-que-lo-saco-del-poder.html",
+      "desc": "Los populares señalan que es “prehistoria” y no afecta a Feijóo, pero el caso limita la corrupción como estrategia de oposición",
+      "date": "Thu, 23 Apr 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/M4O4PHPXZVPSLKT32IQKRW5DBI.jpg?auth=ed37c116b86af1415174412acb529abbb37a0f976911b648930f4d967ff70f19"
+    },
+    {
+      "title": "Rajoy se enfrenta en el juicio de Kitchen a las acusaciones de su extesorero Bárcenas",
+      "link": "https://elpais.com/espana/2026-04-23/rajoy-se-enfrenta-en-el-juicio-de-kitchen-a-las-acusaciones-de-su-extesorero-barcenas.html",
+      "desc": "El expresidente testifica en la vista oral tras negar su implicación en la trama: “No di ninguna instrucción sobre algo que no conocía”",
+      "date": "Thu, 23 Apr 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/47NPPEYTCZA3LE2K5HP3FIX5HE.jpg?auth=7a08bdfad10b52d4878eef19b4a055113c9c7caef2a4974b6edba8240807c792"
+    },
+    {
       "title": "Junts choca con el Gobierno por la regularización de inmigrantes y reclama elecciones anticipadas",
       "link": "https://elpais.com/espana/2026-04-22/feijoo-reprocha-la-falta-de-inversion-y-sanchez-responde-ustedes-se-financian-en-b-y-quieren-trabajadores-en-b.html",
       "desc": "Feijóo le reprocha “corrupción e incompetencia” y el presidente recuerda al PP el pacto con los ultras en Extremadura y su financiación en B",
       "date": "Wed, 22 Apr 2026 07:41:18 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260422/1162804_175803_video_1800.mp4"
-    },
-    {
-      "title": "Bustinduy envía una carta a Feijóo ante el no del PP a la prórroga de los alquileres: “Reconsidere su posición”",
-      "link": "https://elpais.com/espana/2026-04-22/bustinduy-envia-una-carta-a-feijoo-ante-el-no-del-pp-a-la-prorroga-de-los-alquileres-reconsidere-su-posicion.html",
-      "desc": "Sumar aumenta la presión sobre el PP a seis días de la votación del decreto en el Congreso, que no cuenta con los apoyos para su convalidación",
-      "date": "Wed, 22 Apr 2026 09:33:39 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/TTQEAIZW3BMVRJXHTLTEYIZREU.jpg?auth=f6f5373c3aa722c540b5ebacd1cd2253caf4694d6305f2590e1436612ad330e0"
-    },
-    {
-      "title": "“Prioridad nacional”, una idea de la extrema derecha francesa que el PP ha comprado a Vox",
-      "link": "https://elpais.com/espana/2026-04-22/prioridad-nacional-una-idea-de-la-extrema-derecha-francesa-que-el-pp-ha-comprado-a-vox.html",
-      "desc": "Jean-Marie Le Pen lanzó hace medio siglo un principio que importaron a España neonazis y xenófobos catalanes",
-      "date": "Wed, 22 Apr 2026 09:49:57 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260422/1162851_202022_video_1800.mp4"
     },
     {
       "title": "PP y Vox, abusones contra los inmigrantes",
@@ -55,6 +55,20 @@
       "desc": "Resulta incomprensible la opacidad de Interior con sus documentos antiguos, visto el compromiso de este Gobierno con la memoria histórica",
       "date": "Tue, 21 Apr 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/36SWZ7UBJRHPRABK2AG3KWEVEA.jpg?auth=d3033a673651a26d48b078df0e291fe45125463db918f9844af235e0f22a0677"
+    },
+    {
+      "title": "Bustinduy envía una carta a Feijóo ante el no del PP a la prórroga de los alquileres: “Reconsidere su posición”",
+      "link": "https://elpais.com/espana/2026-04-22/bustinduy-envia-una-carta-a-feijoo-ante-el-no-del-pp-a-la-prorroga-de-los-alquileres-reconsidere-su-posicion.html",
+      "desc": "Sumar aumenta la presión sobre el PP a seis días de la votación del decreto en el Congreso, que no cuenta con los apoyos para su convalidación",
+      "date": "Wed, 22 Apr 2026 09:33:39 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/TTQEAIZW3BMVRJXHTLTEYIZREU.jpg?auth=f6f5373c3aa722c540b5ebacd1cd2253caf4694d6305f2590e1436612ad330e0"
+    },
+    {
+      "title": "“Prioridad nacional”, una idea de la extrema derecha francesa que el PP ha comprado a Vox",
+      "link": "https://elpais.com/espana/2026-04-22/prioridad-nacional-una-idea-de-la-extrema-derecha-francesa-que-el-pp-ha-comprado-a-vox.html",
+      "desc": "Jean-Marie Le Pen lanzó hace medio siglo un principio que importaron a España neonazis y xenófobos catalanes",
+      "date": "Wed, 22 Apr 2026 09:49:57 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260422/1162851_202022_video_1800.mp4"
     },
     {
       "title": "El exgerente del PSOE descarta que Ábalos y su asesor recibieran del partido dinero en efectivo no fiscalizado",
@@ -118,21 +132,7 @@
       "desc": "Los populares impulsan una reforma urbanística para eliminar trámites y facilitar desahucios",
       "date": "Tue, 21 Apr 2026 18:15:09 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/VDUCRCCLTJK6PLLEP7JBNDEDCA.jpg?auth=6e914b0713b5d96202c1a048c52b6f785cc60af91af656f503aaf3e234dd2547"
-    },
-    {
-      "title": "¿Conoce usted a los acusados? ¿Le apetece conocerlos?",
-      "link": "https://elpais.com/espana/2026-04-21/conoce-usted-a-los-acusados-le-apetece-conocerlos.html",
-      "desc": "Hay un testigo nervioso que dice que alguna vez ha saludado a Ábalos y recrea con la mano el saludo que le hacía. La cara de Ábalos en el banquillo es un poema",
-      "date": "Tue, 21 Apr 2026 17:00:26 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/M3DRBK3S2FLWDD5R3VZRGIHL5M.jpg?auth=7f8be2b1a4bb7fb50889419ee7828dc4b33c7190ff580a5c9e1578fbb2bc3bf7"
-    },
-    {
-      "title": "La Fiscalía archiva la denuncia contra la marca juvenil de Vox por el presunto desvío de los fondos recaudados para las víctimas de la dana",
-      "link": "https://elpais.com/espana/2026-04-21/la-fiscalia-archiva-la-denuncia-contra-la-marca-juvenil-de-vox-por-el-presunto-desvio-de-los-fondos-recaudados-para-las-victimas-de-la-dana.html",
-      "desc": "Dos antiguos miembros de Revuela acusaron a finales del año pasado a la directiva de la entidad de irregularidades",
-      "date": "Tue, 21 Apr 2026 14:49:18 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/D4UL6BBW3FEZ5DNHHWPOIJXBQI.jpg?auth=89e93053fa751d9125e2fc07bbac94fd4cd9e2f722d459361b8094bbc1e21079"
     }
   ],
-  "fetchedAt": 1776912739957
+  "fetchedAt": 1776922409277
 }
