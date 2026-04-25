@@ -22,6 +22,13 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260423/1163042_100032_video_1800.mp4"
     },
     {
+      "title": "Cuando lo peor no es la ilegalidad",
+      "link": "https://elpais.com/opinion/2026-04-25/cuando-lo-peor-no-es-la-ilegalidad.html",
+      "desc": "La ventana de Overton se ha abierto y la derecha institucional ha permitido que entren los postulados ultras",
+      "date": "Sat, 25 Apr 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/IHGIXIUAYBNDNI4ND5SDFG6P5Q.jpg?auth=f13c40cb2d4af5049f006a57ab9bebec1a88836c3d40f9d19108bd5e090b2778"
+    },
+    {
       "title": "PP y Vox, abusones contra los inmigrantes",
       "link": "https://elpais.com/opinion/2026-04-22/pp-y-vox-abusones-contra-los-inmigrantes.html",
       "desc": "Asusta la impunidad con la que la frivolidad de los matones se asienta sobre una sociedad que ya no sanciona el racismo",
@@ -50,11 +57,18 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/N7J7B777FVCIDAT3TVCAOMPUGU.jpg?auth=f5503435015ff8e6b0bbb6923a178c8687935fcaacc0958e0108e15f730e2927"
     },
     {
-      "title": "Abrir el archivo",
-      "link": "https://elpais.com/opinion/2026-04-21/abrir-el-archivo.html",
-      "desc": "Resulta incomprensible la opacidad de Interior con sus documentos antiguos, visto el compromiso de este Gobierno con la memoria histórica",
-      "date": "Tue, 21 Apr 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/36SWZ7UBJRHPRABK2AG3KWEVEA.jpg?auth=d3033a673651a26d48b078df0e291fe45125463db918f9844af235e0f22a0677"
+      "title": "El PSOE se reactiva contra los pactos “de la infamia” de PP y Vox en Extremadura y Aragón",
+      "link": "https://elpais.com/espana/2026-04-25/el-psoe-se-reactiva-contra-los-pactos-de-la-infamia-de-pp-y-vox-en-extremadura-y-aragon.html",
+      "desc": "Zapatero advierte que la “prioridad nacional” acordada con la ultraderecha “no es compatible con la legalidad” y “lanza un mensaje anticonvivencia”",
+      "date": "Sat, 25 Apr 2026 13:53:02 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/OQXQWZG2KNDRFIDO4UDZQ5P2I4.jpg?auth=e76c7347d9ae83f8ea7701f72f8a3029204aa8042bff28b7243cef7c72e9a176"
+    },
+    {
+      "title": "Maíllo defiende la “utilidad” de IU en su 40 aniversario y llama a estar “a la altura” del momento histórico",
+      "link": "https://elpais.com/espana/2026-04-25/maillo-defiende-la-utilidad-de-iu-en-su-40-aniversario-y-llama-a-estar-a-la-altura-del-momento-historico.html",
+      "desc": "Los cuatro últimos coordinadores de la organización posan juntos ante 300 simpatizantes en un acto que ha recordado los orígenes del partido",
+      "date": "Sat, 25 Apr 2026 12:29:41 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/BL76XMOS2RLDNLBT35R5CZQ5WE.jpg?auth=1c65074f2f7ff40c6ee153583486bba755164d284ba68dd9b298ac058a68dda0"
     },
     {
       "title": "Belarra dice que sería una “humillación” esperar a que Trump eche a España de la OTAN “en vez de irnos”",
@@ -118,21 +132,7 @@
       "desc": "La estadística refleja que, desde 2020, se han registrado 77 muertes en el transcurso de actuaciones de las fuerzas de seguridad",
       "date": "Fri, 24 Apr 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/RDYATRNU4BBABEPXCURJ2BK3IQ.jpg?auth=4ed4b4f77cd525e2152f058d3d7c27d5fe4fa6fbbf17f6dc82eee8fc04d0065e"
-    },
-    {
-      "title": "Kitchen devuelve el foco a la corrupción que sacó del poder al PP",
-      "link": "https://elpais.com/espana/2026-04-23/el-pp-se-asoma-con-kitchen-al-agujero-negro-que-lo-saco-del-poder.html",
-      "desc": "Los populares señalan que es “prehistoria” y no afecta a Feijóo, pero el caso limita la corrupción como estrategia de oposición",
-      "date": "Thu, 23 Apr 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/M4O4PHPXZVPSLKT32IQKRW5DBI.jpg?auth=ed37c116b86af1415174412acb529abbb37a0f976911b648930f4d967ff70f19"
-    },
-    {
-      "title": "Rajoy se enfrenta en el juicio de Kitchen a las acusaciones de su extesorero Bárcenas",
-      "link": "https://elpais.com/espana/2026-04-23/rajoy-se-enfrenta-en-el-juicio-de-kitchen-a-las-acusaciones-de-su-extesorero-barcenas.html",
-      "desc": "El expresidente testifica en la vista oral tras negar su implicación en la trama: “No di ninguna instrucción sobre algo que no conocía”",
-      "date": "Thu, 23 Apr 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/47NPPEYTCZA3LE2K5HP3FIX5HE.jpg?auth=7a08bdfad10b52d4878eef19b4a055113c9c7caef2a4974b6edba8240807c792"
     }
   ],
-  "fetchedAt": 1777125714783
+  "fetchedAt": 1777129595852
 }
