@@ -124,31 +124,31 @@ This is the most uniformly deficient category across the entire site.
 
 ### HIGH PRIORITY — Critical fixes
 
-- [ ] **Add meta descriptions to all 6 pages.** Write unique ~155-character descriptions for index, resources, news, join, past-events, email-welcome. This is the single highest-ROI SEO action available.
-- [ ] **Add Open Graph tags to all pages** (`og:title`, `og:description`, `og:image`, `og:type`, `og:url`). Use the logo as a fallback image. This fixes all social sharing previews immediately.
-- [ ] **Fix broken event URLs.** Update `events.json`: replace `"url": "#"` with real registration/info links for the Feria de Abril and the Cervantes lecture, or remove the URL field so no broken link is rendered.
-- [ ] **Remove or re-label the Indy 500 and Indiana State Fair from the events feed.** These aren't Casa de España events. Either remove them or add a separate "Community Outings" section with explicit framing ("Join us at…").
-- [ ] **Add alt text to all images.** Logo: `"Casa de España en Indiana"`. Board members: `"[Full Name], [Title]"`. Program cards: descriptive caption. Social icons: `"Facebook"`, `"Instagram"`, `"X (Twitter)"`.
-- [ ] **Verify and fix the viewport meta tag.** Confirm `<meta name="viewport" content="width=device-width, initial-scale=1">` is in the `<head>` of every page. If missing, add it immediately — mobile indexing depends on it.
-- [ ] **Verify/fix the `<html lang>` attribute.** The JS toggle sets `document.documentElement.lang` dynamically, but the static HTML default should be set to `lang="es"` or `lang="en"` so it's present before JS runs.
-- [ ] **Replace placeholder board member bios and photos.** Jorge Ruiz, Carmen García, and Andrés Fernández read as fictional. Either populate with real board members (even just name + title) or remove the placeholder people entirely. A board of one real person is more trustworthy than three fake ones.
-- [ ] **Add a favicon.** Create a 32×32 and 180×180 PNG from the logo and link it in `<head>`. This takes 15 minutes and has immediate brand presence impact.
-- [ ] **Write and publish a Privacy Policy page.** One-page policy covering: what data you collect (name, email), how it's used (newsletter, membership), that you don't sell data, and a contact email for data requests. Link it in the footer.
+- [X] **Add meta descriptions to all 6 pages.** Write unique ~155-character descriptions for index, resources, news, join, past-events, email-welcome. This is the single highest-ROI SEO action available.
+- [X] **Add Open Graph tags to all pages** (`og:title`, `og:description`, `og:image`, `og:type`, `og:url`). Use the logo as a fallback image. This fixes all social sharing previews immediately.
+- [X] **Fix broken event URLs.** Update `events.json`: replace `"url": "#"` with real registration/info links for the Feria de Abril and the Cervantes lecture, or remove the URL field so no broken link is rendered.
+- [X] **Remove or re-label the Indy 500 and Indiana State Fair from the events feed.** These aren't Casa de España events. Either remove them or add a separate "Community Outings" section with explicit framing ("Join us at…").
+- [X] **Add alt text to all images.** Logo: `"Casa de España en Indiana"`. Board members: `"[Full Name], [Title]"`. Program cards: descriptive caption. Social icons: `"Facebook"`, `"Instagram"`, `"X (Twitter)"`.
+- [X] **Verify and fix the viewport meta tag.** Confirm `<meta name="viewport" content="width=device-width, initial-scale=1">` is in the `<head>` of every page. If missing, add it immediately — mobile indexing depends on it.
+- [X] **Verify/fix the `<html lang>` attribute.** The JS toggle sets `document.documentElement.lang` dynamically, but the static HTML default should be set to `lang="es"` or `lang="en"` so it's present before JS runs.
+- [X] **Replace placeholder board member bios and photos.** Jorge Ruiz, Carmen García, and Andrés Fernández read as fictional. Either populate with real board members (even just name + title) or remove the placeholder people entirely. A board of one real person is more trustworthy than three fake ones.
+- [X] **Add a favicon.** Create a 32×32 and 180×180 PNG from the logo and link it in `<head>`. This takes 15 minutes and has immediate brand presence impact.
+- [X] **Write and publish a Privacy Policy page.** One-page policy covering: what data you collect (name, email), how it's used (newsletter, membership), that you don't sell data, and a contact email for data requests. Link it in the footer.
 
 ### MEDIUM PRIORITY — UX improvements & SEO
 
 - [ ] **Add real photos to past-events.html.** Even 2–3 real photos per event transforms this page from a template into a community archive. Photos from Feria de Abril, FAEUSA congress, and Noches de Flamenco would make the biggest impact.
 - [ ] **Add real program card images to the homepage.** Replace the three `placehold.co` cards in the Programs section with actual event photography. If no photo exists yet, use a high-quality free photo from Unsplash (flamenco, architecture, books) as a temporary bridge.
-- [ ] **Add JSON-LD structured data.** At minimum: `Organization` schema on the homepage (name, url, logo, address, foundingDate, sameAs). Add `Event` schema for each upcoming event. Google displays Event rich results directly in search — high visibility for zero cost.
-- [ ] **Fix the page title pattern.** Change `Casa de España en Indiana | Casa de Espana en Indiana` to just `Casa de España en Indiana` as the site name. The duplicate without ñ looks like keyword stuffing. If you need SEO for "Casa de Espana," handle it in the meta keywords or description instead.
-- [ ] **Add canonical `<link rel="canonical">` tags** to all pages to prevent duplicate content issues (especially relevant if the site is ever accessible at both `www.` and non-www URLs).
-- [ ] **Add donation impact language to the CTA section.** One line beneath the PayPal button: "Your gift directly funds events, scholarships, and community programs." Include a specific dollar example if possible.
-- [ ] **Add `lastmod` dates to sitemap.xml.** Helps Google prioritize recrawling recently updated pages (especially news.html which updates daily).
-- [ ] **Create a dedicated Contact page** (or at minimum add a contact section to join.html). Include: email, phone (if public), mailing address if available, and a simple contact form for general inquiries.
-- [ ] **Remove the "Your email client has opened…" toast/text from the join form.** This is dead code from a previous mailto implementation and confuses users after the Apps Script form is submitted.
-- [ ] **Clarify the join form's two membership tiers.** "Newsletter" vs. "Full Member" — what does Full Membership cost? What are the benefits? Adding one sentence per tier increases conversion.
-- [ ] **Add `aria-label` to the hamburger button and all icon-only interactive elements.**
-- [ ] **Audit ink-light text color (#7A6658) against parchment backgrounds** using a WCAG contrast checker. Upgrade to `#6B5648` or darker if below 4.5:1 for body-size text.
+- [X] **Add JSON-LD structured data.** At minimum: `Organization` schema on the homepage (name, url, logo, address, foundingDate, sameAs). Add `Event` schema for each upcoming event. Google displays Event rich results directly in search — high visibility for zero cost.
+- [X] **Fix the page title pattern.** Change `Casa de España en Indiana | Casa de Espana en Indiana` to just `Casa de España en Indiana` as the site name. The duplicate without ñ looks like keyword stuffing. If you need SEO for "Casa de Espana," handle it in the meta keywords or description instead.
+- [X] **Add canonical `<link rel="canonical">` tags** to all pages to prevent duplicate content issues (especially relevant if the site is ever accessible at both `www.` and non-www URLs).
+- [X] **Add donation impact language to the CTA section.** One line beneath the PayPal button: "Your gift directly funds events, scholarships, and community programs." Include a specific dollar example if possible.
+- [X] **Add `lastmod` dates to sitemap.xml.** Helps Google prioritize recrawling recently updated pages (especially news.html which updates daily).
+- [X]**Create a dedicated Contact page** (or at minimum add a contact section to join.html). Include: email, phone (if public), mailing address if available, and a simple contact form for general inquiries.
+- [X]**Remove the "Your email client has opened…" toast/text from the join form.** This is dead code from a previous mailto implementation and confuses users after the Apps Script form is submitted.
+- [X]**Clarify the join form's two membership tiers.** "Newsletter" vs. "Full Member" — what does Full Membership cost? What are the benefits? Adding one sentence per tier increases conversion.
+- [X]**Add `aria-label` to the hamburger button and all icon-only interactive elements.**
+- [X]**Audit ink-light text color (#7A6658) against parchment backgrounds** using a WCAG contrast checker. Upgrade to `#6B5648` or darker if below 4.5:1 for body-size text.
 
 ### LOW PRIORITY — Nice-to-have & future content
 
