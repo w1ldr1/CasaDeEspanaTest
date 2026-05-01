@@ -22,6 +22,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/G67O6ODNXRIHXBCR7LTV6STUDI.jpg?auth=1803fd5e2020ae2773a5d2adaa0f60d3821e08f9f6fa0f71940383c3f9620f0f"
     },
     {
+      "title": "De Junts a Vox pasando por el PP",
+      "link": "https://elpais.com/opinion/2026-05-01/de-junts-a-vox-pasando-por-el-pp.html",
+      "desc": "Resulta grotesco el acercamiento de los independentistas catalanes a las derechas nacionales cuando su referente sigue siendo Puigdemont, un icono del pasado en perfecto fuera de juego",
+      "date": "Fri, 01 May 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/2WRSGA3VARL7XKOJB374MNDKCM.jpg?auth=14f6d745e9f8b561dd2137fd922ebe11d97431f4dd46478db5d61bd2352c6318"
+    },
+    {
       "title": "Cuando lo peor no es la ilegalidad",
       "link": "https://elpais.com/opinion/2026-04-25/cuando-lo-peor-no-es-la-ilegalidad.html",
       "desc": "La ventana de Overton se ha abierto y la derecha institucional ha permitido que entren los postulados ultras",
@@ -50,11 +57,11 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/KLLNQL2TXOIKIGLYCFKRVKPJ6I.jpg?auth=2dce82991485f21aeeeaf95e980ce7548ef8be59ea461d976334890d8a78c836"
     },
     {
-      "title": "La inercia de Begoña Gómez",
-      "link": "https://elpais.com/opinion/2026-04-21/la-inercia-de-begona-gomez.html",
-      "desc": "Muchas veces he pensado que la justicia es ciega pero también coja",
-      "date": "Tue, 21 Apr 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/N7J7B777FVCIDAT3TVCAOMPUGU.jpg?auth=f5503435015ff8e6b0bbb6923a178c8687935fcaacc0958e0108e15f730e2927"
+      "title": "De la maleta de cartón al tróley: dos generaciones de andaluces relatan los motivos de su éxodo",
+      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-01/de-la-maleta-de-carton-al-troley-dos-generaciones-de-andaluces-relatan-los-motivos-de-su-exodo.html",
+      "desc": "Más de un millón de personas residen fuera de la comunidad autónoma, un 14,3% de su población",
+      "date": "Fri, 01 May 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/R6FDFVK2RJDVTPD2QYR6YRIU4I.jpg?auth=fd90478553172fbfd66b53927d1e8c2459cb01967116de1c0453f962bfbdc381"
     },
     {
       "title": "Moreno carga contra la financiación singular de Cataluña en el arranque de la campaña para revalidar su mayoría absoluta",
@@ -125,14 +132,7 @@
       "desc": "Álvaro Fernández Heredia justifica en el Senado la presencia de perfiles políticos en los consejos de administración del grupo y niega conocer la aportación de Koldo García durante su etapa en el de Renfe Mercancías",
       "date": "Thu, 30 Apr 2026 09:46:35 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/6F3U3MZUGJNCVCME3KV4FRFXTM.jpg?auth=6aa1a3395905c6b6f7449e093c3b6599544f58097c3272a099663645f8dd0168"
-    },
-    {
-      "title": "El sindicato de maquinistas Semaf confía en la “plena” seguridad del ferrocarril, pero  habla de presiones cuando se decide parar un tren",
-      "link": "https://elpais.com/espana/2026-04-30/el-sindicato-de-maquinistas-semaf-confia-en-la-plena-seguridad-del-ferrocarril-pero-habla-de-presiones-cuando-se-decide-parar-un-tren.html",
-      "desc": "El secretario general Diego Martín apunta en el Senado que tomar decisiones extremas ante una incidencia puede conllevar medidas contra un conductor",
-      "date": "Thu, 30 Apr 2026 12:22:20 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/REEGTOVFXJIQNK3XF52XO6SADM.jpg?auth=1383b83bd63dc0907c690a12f0ffaf99a9b870e9d737252d84e1edcf9fdccd38"
     }
   ],
-  "fetchedAt": 1777603263643
+  "fetchedAt": 1777615939014
 }
