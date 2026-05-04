@@ -1,10 +1,10 @@
 {
   "items": [
     {
-      "title": "El primer debate electoral en Andalucía, en directo | La izquierda arremete en bloque contra Moreno por la gestión sanitaria y la falta de vivienda",
+      "title": "La oposición carga contra la gestión en la sanidad de Moreno, y este se escuda en la herencia recibida en el primer debate andaluz",
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-04/el-primer-debate-electoral-en-andalucia-los-cinco-principales-candidatos-se-ven-las-caras.html",
       "desc": "El candidato a la reelección critica el legado en la Junta y Vox centra su discurso en la prioridad nacional",
-      "date": "Mon, 04 May 2026 20:25:54 GMT",
+      "date": "Mon, 04 May 2026 21:10:43 GMT",
       "imgUrl": "https://www.youtube.com/watch?v=-DxlEoJ1rb4"
     },
     {
@@ -109,7 +109,7 @@
       "title": "Muere Carlos Garaikoetxea, el primer lehendakari tras la recuperación de las libertades",
       "link": "https://elpais.com/espana/2026-05-04/muere-carlos-garaikoetxea-el-primer-lehendakari-tras-la-recuperacion-de-las-libertades.html",
       "desc": "Tras su paso por la presidencia del Gobierno Vasco con el PNV, fundó y presidió Eusko Alkartasuna",
-      "date": "Mon, 04 May 2026 20:05:18 GMT",
+      "date": "Mon, 04 May 2026 21:15:43 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260504/1167219_180250_video_1800.mp4"
     },
     {
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/GGCV5WE7VNA4JK2RF5Y6WLDIFU.jpg?auth=39c37745f1c01e36d23593c0856f8b5794ba0361fea9e5235218c02db4ac0958"
     }
   ],
-  "fetchedAt": 1777927552617
+  "fetchedAt": 1777931774979
 }
