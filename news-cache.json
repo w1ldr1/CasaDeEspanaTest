@@ -1,10 +1,10 @@
 {
   "items": [
     {
-      "title": "El primer debate electoral en Andalucía | Los cinco principales candidatos se ven las caras",
+      "title": "El primer debate electoral en Andalucía, en directo | La izquierda arremete en bloque contra Moreno por la gestión sanitaria y la falta de vivienda",
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-04/el-primer-debate-electoral-en-andalucia-los-cinco-principales-candidatos-se-ven-las-caras.html",
-      "desc": "Los presentantes de PP, PSOE, Vox, Por Andalucía y Adelante Andalucía confrontan posturas en RTVE",
-      "date": "Mon, 04 May 2026 18:42:53 GMT",
+      "desc": "El candidato a la reelección critica el legado en la Junta y Vox centra su discurso en la prioridad nacional",
+      "date": "Mon, 04 May 2026 20:25:54 GMT",
       "imgUrl": "https://www.youtube.com/watch?v=-DxlEoJ1rb4"
     },
     {
@@ -15,10 +15,10 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/CPY37GLKSJIS7N6CV6DL4J3AO4.jpg?auth=1c9e20026cc6f58d66eb995fe987e6f2465db4f76122169a2ebf9a46ed75fdfd"
     },
     {
-      "title": "Juicio por la trama de las mascarillas, en directo | Anticorrupción mantiene la petición de pena para Aldama en siete años",
+      "title": "Juicio por la trama de las mascarillas del 4 de mayo de 2026 | Anticorrupción mantiene la petición de pena para Aldama en siete años",
       "link": "https://elpais.com/espana/2026-05-04/primer-juicio-contra-abalos-koldo-y-aldama-por-la-trama-de-las-mascarillas-en-directo.html",
       "desc": "Ábalos niega haber recibido dinero del comisionista y acusa a la UCO de tener “ganas” de imputarle algo: “Pensarían que habían hecho el gran hallazgo”",
-      "date": "Mon, 04 May 2026 18:55:29 GMT",
+      "date": "Mon, 04 May 2026 19:07:29 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/HX6WGA27MZFLJD2EPUMYLJ6U5M.jpg?auth=02b00746e5ad54dd7b0878267f3cd9199e9c7cbe2ab1d36f9e9569185c50cebf"
     },
     {
@@ -81,13 +81,13 @@
       "title": "Seis vigilantes armados custodiaban la droga del barco con el alijo gigante de cocaína",
       "link": "https://elpais.com/espana/2026-05-04/seis-vigilantes-armados-custodiaban-la-droga-del-barco-con-el-alijo-gigante-de-cocaina.html",
       "desc": "El cargamento estaba oculto tras una pared metálica sellada que daba paso a un pasillo estrecho lleno de fardos",
-      "date": "Mon, 04 May 2026 18:40:15 GMT",
+      "date": "Mon, 04 May 2026 19:40:12 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/WZ7YRHH7MZMMVFCOAMMFKHBVDY.jpg?auth=f0e811221893cc1d73e820dc5a83687b2e3caa95f671203b7b0987434ea56b1d"
     },
     {
-      "title": "Anticorrupción mantiene su petición de penas y no rebaja la de Aldama",
+      "title": "Fiscalía decide no rebajar la pena de cárcel para Aldama",
       "link": "https://elpais.com/espana/2026-05-04/anticorrupcion-mantiene-su-peticion-de-penas-y-no-rebaja-la-de-aldama.html",
-      "desc": "El PP sí cambia y pide apreciar la confesión “muy cualificada” del presunto conseguidor, de modo que no llegue a entrar en prisión",
+      "desc": "Si el presunto conseguidor logra que el tribunal valore como “muy cualificada” su confesión podrá evitar la prisión",
       "date": "Mon, 04 May 2026 18:05:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/7VLIUM3RGNO4LPMJ6LI3F5YXTM.jpg?auth=d6b93f72faab21467daec8d37c67d6fed26b5b2e8a2604b7cf7ce7b15d23a9e7"
     },
@@ -109,7 +109,7 @@
       "title": "Muere Carlos Garaikoetxea, el primer lehendakari tras la recuperación de las libertades",
       "link": "https://elpais.com/espana/2026-05-04/muere-carlos-garaikoetxea-el-primer-lehendakari-tras-la-recuperacion-de-las-libertades.html",
       "desc": "Tras su paso por la presidencia del Gobierno Vasco con el PNV, fundó y presidió Eusko Alkartasuna",
-      "date": "Mon, 04 May 2026 18:01:42 GMT",
+      "date": "Mon, 04 May 2026 20:05:18 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260504/1167219_180250_video_1800.mp4"
     },
     {
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/GGCV5WE7VNA4JK2RF5Y6WLDIFU.jpg?auth=39c37745f1c01e36d23593c0856f8b5794ba0361fea9e5235218c02db4ac0958"
     }
   ],
-  "fetchedAt": 1777921336027
+  "fetchedAt": 1777927552617
 }
