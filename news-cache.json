@@ -5,7 +5,7 @@
       "link": "https://elpais.com/espana/2026-05-05/el-gobierno-acusa-al-pp-de-tener-un-pacto-con-victor-de-aldama-es-evidente-que-estan-colaborando.html",
       "desc": "Feijóo acusa a la fiscal del Estado de presiones a la Fiscalía Anticorrupción, pero esta lo desmiente",
       "date": "Tue, 05 May 2026 12:15:50 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/PJNMPLMAR5GIXCY5JY3GMWXIOI.jpg?auth=7f705c490393d5461b13dca003151d92bab8cbb6b98a76353e5fd7172a585b61"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260505/1167642_173438_video_1800.mp4"
     },
     {
       "title": "El Gobierno prioriza las medidas económicas y sociales en su plan normativo anual ante la convulsa situación internacional",
@@ -57,9 +57,16 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/IQC2O37WJRHHBGFIQSUED66FJU.jpg?auth=a6649eed578e9b7213c3659e8727215e4c25b12255b025f7bf6c395fe99b654f"
     },
     {
+      "title": "Maíllo se reivindica como la “izquierda útil”: “Queremos gobernar”",
+      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-05/jose-ignacio-garcia-de-adelante-andalucia-al-senor-moreno-se-le-ha-caido-la-campana-en-el-debate.html",
+      "desc": "El candidato de Por Andalucía confronta con la lista que encabeza José Ignacio García, de Adelante Andalucía, que carga contra el aspirante popular: “Al señor Moreno se le ha caído la campaña en el debate”",
+      "date": "Tue, 05 May 2026 18:37:54 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/HZLQHHF4C5I4BG5J7P542WC2IQ.jpg?auth=f5f4c9ef341cf37888cf5fec9f95edd827afc4c487e9a5ff662902374d99f815"
+    },
+    {
       "title": "Moreno presenta el debate electoral como ejemplo del “lío”: “Candidatos mintiendo y falta de corrección”",
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-05/moreno-presenta-el-debate-electoral-como-ejemplo-del-lio-candidatos-mintiendo-y-falta-de-correccion.html",
-      "desc": "El presidente de la Junta pelea en Granada por los escaños que le garanticen la mayoría absoluta",
+      "desc": "El presidente de la Junta pelea en Granada por uno de los escaños que le garanticen la mayoría absoluta",
       "date": "Tue, 05 May 2026 12:56:18 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/2W5D556DZREUXG53OKS6MMKM2U.jpg?auth=b7b1f638d52706313fb6165a522e86b0b61a8561a16be94532163b8a9a336aeb"
     },
@@ -125,14 +132,7 @@
       "desc": "El juez, a petición de la Fiscalía, quiere saber si ya existe una causa antes de decidir si puede abrir un procedimiento en España",
       "date": "Tue, 05 May 2026 06:51:45 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/CGQ7YOSKDFIGZGFIIAHXO6D4MM.jpg?auth=61430e60fd720188c3ecf2d7ce46afd204d635684778bc14b24169d7ca45c3c1"
-    },
-    {
-      "title": "De la masificación turística al narcotráfico: la Costa del Sol dos décadas después de Malaya",
-      "link": "https://elpais.com/espana/2026-05-05/de-la-masificacion-turistica-al-narcotrafico-la-costa-del-sol-dos-decadas-despues-de-malaya.html",
-      "desc": "El litoral malagueño, donde viven 1,3 millones de personas, es el principal motor económico de Málaga aunque sufre la falta de vivienda, las dificultades de movilidad y la escasez de recursos naturales",
-      "date": "Tue, 05 May 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/UEDFKHJEKBGUFM6ASWBWB33EE4.jpg?auth=b3fe367c2a8565f818d024f80b8ab3c46e5963699fe59e118ea7801aa3983909"
     }
   ],
-  "fetchedAt": 1778000586079
+  "fetchedAt": 1778007123052
 }
