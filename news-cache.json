@@ -57,11 +57,18 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/IQC2O37WJRHHBGFIQSUED66FJU.jpg?auth=a6649eed578e9b7213c3659e8727215e4c25b12255b025f7bf6c395fe99b654f"
     },
     {
+      "title": "La Guardia Civil vincula el alijo récord de cocaína con la Mocro Maffia y el fugitivo holandés Jos ‘El Gordito’",
+      "link": "https://elpais.com/espana/2026-05-05/la-guardia-civil-vincula-el-alijo-record-de-cocaina-con-la-mocro-maffia-y-el-fugitivo-holandes-jos-el-gordito.html",
+      "desc": "Las autoridades de Países Bajos sitúan al narco Joseph Johannes Leijdekkers en Sierra Leona, país desde el que partió el mercante con la droga",
+      "date": "Tue, 05 May 2026 19:32:35 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/ADAVVJMFKVDQLPIAGXKRYQ2IPU.jpg?auth=f09e8f47d912e3818aec0b7cb100427d356bddb4503fd97c151e7966cbe0e016"
+    },
+    {
       "title": "Moreno presenta el debate electoral como ejemplo del “lío”: “Candidatos mintiendo y falta de corrección”",
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-05/moreno-presenta-el-debate-electoral-como-ejemplo-del-lio-candidatos-mintiendo-y-falta-de-correccion.html",
       "desc": "El presidente de la Junta pelea en Granada por uno de los escaños que le garanticen la mayoría absoluta",
       "date": "Tue, 05 May 2026 12:56:18 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/2W5D556DZREUXG53OKS6MMKM2U.jpg?auth=b7b1f638d52706313fb6165a522e86b0b61a8561a16be94532163b8a9a336aeb"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260505/1167707_195653_video_1800.mp4"
     },
     {
       "title": "Montero: “Moreno quiere estabilidad para seguir privatizando”",
@@ -69,6 +76,13 @@
       "desc": "“No sé cómo no se puede vivir sin condenar el asesinato de niños en Gaza”, dice Zapatero en un mitin del PSOE en Huelva",
       "date": "Tue, 05 May 2026 19:25:46 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260505/1167697_194104_video_1800.mp4"
+    },
+    {
+      "title": "Abascal acusa a Sánchez de ser “la X de la corrupción”",
+      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-05/abascal-acusa-a-sanchez-de-ser-la-x-de-la-corrupcion.html",
+      "desc": "El líder de Vox carga contra el presidente del Gobierno en un mitin en Dos Hermanas, bastión de los socialistas",
+      "date": "Tue, 05 May 2026 20:05:36 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260505/1167711_201039_video_1800.mp4"
     },
     {
       "title": "Maíllo se reivindica como la “izquierda útil”: “Queremos gobernar”",
@@ -118,21 +132,7 @@
       "desc": "El ciudadano capturado por la policía migratoria de Trump en Chicago aterriza en Madrid con un salvoconducto y denuncia la odisea a la que fue sometido desde el pasado octubre",
       "date": "Tue, 05 May 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/LHHTXWD375AHLII5VMH7GJG2JY.jpg?auth=b54cf44b545ec82bf40c3c8158fb45047432d08b1309380cb7939ad6af7f237c"
-    },
-    {
-      "title": "La Fiscalía decide no rebajar la pena de cárcel para Aldama",
-      "link": "https://elpais.com/espana/2026-05-04/anticorrupcion-mantiene-su-peticion-de-penas-y-no-rebaja-la-de-aldama.html",
-      "desc": "La acusación popular, liderada por el PP, reduce las peticiones de prisión por lo que, si el tribunal valora como “muy cualificada” su confesión, el presunto conseguidor podrá eludir la cárcel",
-      "date": "Mon, 04 May 2026 18:05:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/C55EBDIBRZG4PA63I5YLFWMXLQ.jpg?auth=a82101ea4e461842e7080e03ee67a8d75c21b8a3f95a01fdff89526135dc7575"
-    },
-    {
-      "title": "Ábalos y Koldo, una aproximación psicológica al origen de la perdición",
-      "link": "https://elpais.com/espana/2026-05-04/abalos-y-koldo-una-aproximacion-psicologica-al-origen-de-la-perdicion.html",
-      "desc": "“Yo necesitaba un conductor que aguantase mis horarios: 24 horas conmigo”. Y empezaron los dos, como en una novela de Patricia Highsmith, a unir sus destinos",
-      "date": "Mon, 04 May 2026 14:53:39 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/J5BCMZEE7RAXHCNELPQADX33RU.jpg?auth=063786d8ddaa096928c0ef350035aa4c3f209f777f22a909dfd7deeb14611957"
     }
   ],
-  "fetchedAt": 1778011430543
+  "fetchedAt": 1778016838727
 }
