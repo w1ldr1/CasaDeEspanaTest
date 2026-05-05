@@ -5,14 +5,14 @@
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-04/el-primer-debate-electoral-en-andalucia-los-cinco-principales-candidatos-se-ven-las-caras.html",
       "desc": "Los partidos cargan contra el PP por la gestión sanitaria y de vivienda y el presidente de la Junta se defiende apelando a la herencia recibida",
       "date": "Mon, 04 May 2026 22:15:55 GMT",
-      "imgUrl": "https://www.youtube.com/watch?v=-DxlEoJ1rb4"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260505/1167404_083203_video_1800.mp4"
     },
     {
-      "title": "A Moreno se le hace larga la campaña",
-      "link": "https://elpais.com/espana/2026-05-05/a-moreno-se-le-hace-larga-la-campana.html",
-      "desc": "La izquierda salió mejor de lo que entró en un debate en el que se esforzaron en desmontar a “Juanma” y recordar sus razones para impugnar el relato de quien va por delante en las encuestas",
-      "date": "Tue, 05 May 2026 06:23:56 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/3AEUJ2OVJ5MY7PZ3RHT363TJHM.jpg?auth=1fb72d33ace863c01f25a66d9bf12851a58b556f08e2373528a8005e5deef52a"
+      "title": "El ‘CIS andaluz’ sitúa a Moreno al borde de la mayoría absoluta",
+      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-05/el-cis-andaluz-situa-a-moreno-al-borde-de-la-mayoria-absoluta.html",
+      "desc": "Los socialistas horadarían su suelo electoral con 25-27 escaños y el 20,1% de los votos",
+      "date": "Tue, 05 May 2026 07:50:22 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/23YZP4WTHBEIBMATTXTCG35FKE.jpg?auth=94afde7538bc459b863bfcbcaffa4e9bdd739082de2e3f1d83eb7610d7118e9f"
     },
     {
       "title": "Carmen Romero: “La derecha utiliza a Felipe González y Alfonso Guerra”",
@@ -55,6 +55,13 @@
       "desc": "El problema no son los extranjeros, sino los servicios públicos. Exijamos acción a sus responsables y tengamos empatía",
       "date": "Sat, 02 May 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/IQC2O37WJRHHBGFIQSUED66FJU.jpg?auth=a6649eed578e9b7213c3659e8727215e4c25b12255b025f7bf6c395fe99b654f"
+    },
+    {
+      "title": "A Moreno se le hace larga la campaña",
+      "link": "https://elpais.com/espana/2026-05-05/a-moreno-se-le-hace-larga-la-campana.html",
+      "desc": "La izquierda salió mejor de lo que entró en un debate en el que se esforzaron en desmontar a “Juanma” y recordar sus razones para impugnar el relato de quien va por delante en las encuestas",
+      "date": "Tue, 05 May 2026 06:23:56 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260505/1167406_083351_video_1800.mp4"
     },
     {
       "title": "La Fiscalía decide no rebajar la pena de cárcel para Aldama",
@@ -125,14 +132,7 @@
       "desc": "En un proyecto legislativo de la Cámara de Representantes se insta a un “compromiso diplomático” entre Rabat y Madrid sobre el “estatuto futuro” de ambas ciudades",
       "date": "Mon, 04 May 2026 18:15:17 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/UJVSZG72DJDMJJ5G2EVZYMIY2U.jpg?auth=069192fb4769057a9eb653c4a94048327a1efa5def140af10566b494dbd91533"
-    },
-    {
-      "title": "El CNI se desmarca de Kitchen y la califica de “ilegal”",
-      "link": "https://elpais.com/espana/2026-05-04/juicio-de-kitchen-en-directo-el-exdirector-del-cni-sanz-roldan-declara-tras-negar-saenz-de-santamaria-su-implicacion.html",
-      "desc": "Sanz Roldán, exdirector de la institución, en el juicio: “Ningún Gobierno me pidió que hiciese nada ilegal y esto lo hubiese sido”",
-      "date": "Mon, 04 May 2026 15:03:04 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260504/1167106_141425_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1777966255613
+  "fetchedAt": 1777975106231
 }
