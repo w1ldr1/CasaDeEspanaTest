@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Moreno recibe el ataque en bloque de la izquierda y no confronta con Vox",
-      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-04/el-primer-debate-electoral-en-andalucia-los-cinco-principales-candidatos-se-ven-las-caras.html",
-      "desc": "Los partidos cargan contra el PP por la gestión sanitaria y de vivienda y el presidente de la Junta se defiende apelando a la herencia recibida",
-      "date": "Mon, 04 May 2026 22:15:55 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260505/1167404_083203_video_1800.mp4"
-    },
-    {
       "title": "El ‘CIS andaluz’ sitúa a Moreno al borde de la mayoría absoluta",
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-05/el-cis-andaluz-situa-a-moreno-al-borde-de-la-mayoria-absoluta.html",
       "desc": "Los socialistas horadarían su suelo electoral con 25-27 escaños y el 20,1% de los votos",
@@ -15,11 +8,18 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/23YZP4WTHBEIBMATTXTCG35FKE.jpg?auth=94afde7538bc459b863bfcbcaffa4e9bdd739082de2e3f1d83eb7610d7118e9f"
     },
     {
-      "title": "Carmen Romero: “La derecha utiliza a Felipe González y Alfonso Guerra”",
-      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-05/carmen-romero-la-derecha-utiliza-a-felipe-gonzalez-y-alfonso-guerra.html",
-      "desc": "La exdiputada socialista y exesposa de González cree que esta etapa es más difícil que la de sus últimos años en La Moncloa y asegura que “si de verdad la derecha cree en la democracia, es una mezquindad atacar la familia de un presidente”",
+      "title": "A Moreno se le hace larga la campaña",
+      "link": "https://elpais.com/espana/2026-05-05/a-moreno-se-le-hace-larga-la-campana.html",
+      "desc": "La izquierda salió mejor de lo que entró en un debate en el que se esforzaron en desmontar a “Juanma” y recordar sus razones para impugnar el relato de quien va por delante en las encuestas",
+      "date": "Tue, 05 May 2026 06:23:56 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260505/1167406_083351_video_1800.mp4"
+    },
+    {
+      "title": "El español Miguel Barreno regresa tras pasar más de seis meses detenido por el ICE en Estados Unidos: “Se te va apagando la vida”",
+      "link": "https://elpais.com/espana/2026-05-05/el-espanol-miguel-barreno-regresa-tras-pasar-mas-de-seis-meses-detenido-por-el-ice-en-estados-unidos-se-te-va-apagando-la-vida.html",
+      "desc": "El ciudadano capturado por la policía migratoria de Trump en Chicago aterriza en Madrid con un salvoconducto y denuncia la odisea a la que fue sometido desde el pasado octubre",
       "date": "Tue, 05 May 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/EEWPXCJHNBBK5OTBIAW4XC2MNE.jpg?auth=6aafd35dc21aaadd1df347e0e2e8cf120cfc00bf146f708ff7ee76123405438f"
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/LHHTXWD375AHLII5VMH7GJG2JY.jpg?auth=b54cf44b545ec82bf40c3c8158fb45047432d08b1309380cb7939ad6af7f237c"
     },
     {
       "title": "No te molestes en ocultar ese cadáver o ese fardo de droga, ellos lo encontrarán",
@@ -57,11 +57,32 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/IQC2O37WJRHHBGFIQSUED66FJU.jpg?auth=a6649eed578e9b7213c3659e8727215e4c25b12255b025f7bf6c395fe99b654f"
     },
     {
-      "title": "A Moreno se le hace larga la campaña",
-      "link": "https://elpais.com/espana/2026-05-05/a-moreno-se-le-hace-larga-la-campana.html",
-      "desc": "La izquierda salió mejor de lo que entró en un debate en el que se esforzaron en desmontar a “Juanma” y recordar sus razones para impugnar el relato de quien va por delante en las encuestas",
-      "date": "Tue, 05 May 2026 06:23:56 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260505/1167406_083351_video_1800.mp4"
+      "title": "El Gobierno prioriza las medidas económicas y sociales en su plan normativo anual ante la convulsa situación internacional",
+      "link": "https://elpais.com/espana/2026-05-05/el-gobierno-pretende-impulsar-179-medidas-legislativas-este-ano.html",
+      "desc": "El Ejecutivo aprueba una hoja de ruta con 179 iniciativas en la que no renuncia a presentar los Presupuestos e incluye la subida del salario mínimo en 2027",
+      "date": "Tue, 05 May 2026 10:30:27 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/BEWT3UW5MVL5BFAFHAWZU3XA64.jpg?auth=568043999408e2ec4d928f118bb591a08f90bb10b7824590dee0e3ecb416ae7e"
+    },
+    {
+      "title": "Ada Colau, tras denunciar a Israel por torturas y detención ilegal: “Toda la humanidad está en peligro”",
+      "link": "https://elpais.com/espana/2026-05-05/ada-colau-tras-denunciar-a-israel-por-torturas-y-detencion-ilegal-toda-la-humanidad-esta-en-peligro.html",
+      "desc": "La exalcaldesa de Barcelona ratifica ante la Audiencia Nacional una denuncia contra el Gobierno de Netanyahu por las agresiones sufridas en octubre en la flotilla",
+      "date": "Tue, 05 May 2026 10:35:44 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/RD7UKKTPZBOW3JSRAM57CMEQDY.jpg?auth=1c0e6ab3a9a9434a0039a1c088081b290576f25574a618cf3ba1e3341d583a9f"
+    },
+    {
+      "title": "Borja Sémper, en su regreso a la política tras superar un cáncer: “Es mucho mejor que el PP gobierne sin Vox”",
+      "link": "https://elpais.com/espana/2026-05-05/borja-semper-en-su-regreso-a-la-politica-tras-superar-un-cancer-es-mucho-mejor-que-el-pp-gobierne-sin-vox.html",
+      "desc": "El portavoz del PP y representante del ala moderada defiende la “prioridad nacional” porque “no influye el color de la piel” y admite que durante su baja tuvo la tentación de no volver a la política",
+      "date": "Tue, 05 May 2026 10:19:30 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/ZWPGEISHHBP6LLK46TCSLMSJYA.jpg?auth=df4fcfc671b77eb78d1cce1f6cbdc59c5e990d139553589d5525246ee8c669cd"
+    },
+    {
+      "title": "Los obispos andaluces critican la “polarización” política en plena confrontación con Vox y defienden “la acogida del inmigrante”",
+      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-05/los-obispos-andaluces-critican-la-polarizacion-politica-en-plena-confrontacion-con-vox-y-defienden-la-acogida-del-inmigrante.html",
+      "desc": "Los prelados piden a los ciudadanos votar “con responsabilidad” en las elecciones autonómicas y a los políticos católicos respetar la dignidad de todas las personas",
+      "date": "Tue, 05 May 2026 09:08:58 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/TUFGIMFNABK4PDUU6H5EC76RIU.jpg?auth=8360cc235cd1ecb87f343cbb200fdcbb216581feee425b0573b33f3f22fd5531"
     },
     {
       "title": "La Fiscalía decide no rebajar la pena de cárcel para Aldama",
@@ -78,11 +99,11 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/J5BCMZEE7RAXHCNELPQADX33RU.jpg?auth=063786d8ddaa096928c0ef350035aa4c3f209f777f22a909dfd7deeb14611957"
     },
     {
-      "title": "El español Miguel Barreno regresa tras pasar más de seis meses detenido por el ICE en Estados Unidos: “Se te va apagando la vida”",
-      "link": "https://elpais.com/espana/2026-05-05/el-espanol-miguel-barreno-regresa-tras-pasar-mas-de-seis-meses-detenido-por-el-ice-en-estados-unidos-se-te-va-apagando-la-vida.html",
-      "desc": "El ciudadano capturado por la policía migratoria de Trump en Chicago aterriza en Madrid con un salvoconducto y denuncia la odisea a la que fue sometido desde el pasado octubre",
-      "date": "Tue, 05 May 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/LHHTXWD375AHLII5VMH7GJG2JY.jpg?auth=b54cf44b545ec82bf40c3c8158fb45047432d08b1309380cb7939ad6af7f237c"
+      "title": "La Audiencia Nacional pregunta a la ONU si ya investiga a Netanyahu por la detención de un casco azul español",
+      "link": "https://elpais.com/espana/2026-05-05/la-audiencia-nacional-pregunta-a-la-onu-si-ya-investiga-a-netanyahu-por-la-retencion-de-un-casco-azul-espanol.html",
+      "desc": "El juez, a petición de la Fiscalía, quiere saber si ya existe una causa antes de decidir si puede abrir un procedimiento en España",
+      "date": "Tue, 05 May 2026 06:51:45 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/CGQ7YOSKDFIGZGFIIAHXO6D4MM.jpg?auth=61430e60fd720188c3ecf2d7ce46afd204d635684778bc14b24169d7ca45c3c1"
     },
     {
       "title": "De la masificación turística al narcotráfico: la Costa del Sol dos décadas después de Malaya",
@@ -92,11 +113,18 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/UEDFKHJEKBGUFM6ASWBWB33EE4.jpg?auth=b3fe367c2a8565f818d024f80b8ab3c46e5963699fe59e118ea7801aa3983909"
     },
     {
-      "title": "La Audiencia Nacional pregunta a la ONU si ya investiga a Netanyahu por la detención de un casco azul español",
-      "link": "https://elpais.com/espana/2026-05-05/la-audiencia-nacional-pregunta-a-la-onu-si-ya-investiga-a-netanyahu-por-la-retencion-de-un-casco-azul-espanol.html",
-      "desc": "El juez, a petición de la Fiscalía, quiere saber si ya existe una causa antes de decidir si puede abrir un procedimiento en España",
-      "date": "Tue, 05 May 2026 06:51:45 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/CGQ7YOSKDFIGZGFIIAHXO6D4MM.jpg?auth=61430e60fd720188c3ecf2d7ce46afd204d635684778bc14b24169d7ca45c3c1"
+      "title": "Carmen Romero: “La derecha utiliza a Felipe González y Alfonso Guerra”",
+      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-05/carmen-romero-la-derecha-utiliza-a-felipe-gonzalez-y-alfonso-guerra.html",
+      "desc": "La exdiputada socialista y exesposa de González cree que esta etapa es más difícil que la de sus últimos años en La Moncloa y asegura que “si de verdad la derecha cree en la democracia, es una mezquindad atacar la familia de un presidente”",
+      "date": "Tue, 05 May 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/EEWPXCJHNBBK5OTBIAW4XC2MNE.jpg?auth=6aafd35dc21aaadd1df347e0e2e8cf120cfc00bf146f708ff7ee76123405438f"
+    },
+    {
+      "title": "Moreno recibe el ataque en bloque de la izquierda y no confronta con Vox",
+      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-04/el-primer-debate-electoral-en-andalucia-los-cinco-principales-candidatos-se-ven-las-caras.html",
+      "desc": "Los partidos cargan contra el PP por la gestión sanitaria y de vivienda y el presidente de la Junta se defiende apelando a la herencia recibida",
+      "date": "Mon, 04 May 2026 22:15:55 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260505/1167404_083203_video_1800.mp4"
     },
     {
       "title": "La injusticia cotidiana",
@@ -104,35 +132,7 @@
       "desc": "Los procesos judiciales con notoriedad pública, pese al enorme ruido que hacen, son sólo una gota de agua en el océano",
       "date": "Tue, 05 May 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/5745FWMINZHTTIXXUTLKVKTQFM.jpg?auth=accb5bd0876a33ae07883d9a2c9624f3f0a019f6296fd338cc10672825437800"
-    },
-    {
-      "title": "Muere Carlos Garaikoetxea, el primer lehendakari tras la recuperación de las libertades",
-      "link": "https://elpais.com/espana/2026-05-04/muere-carlos-garaikoetxea-el-primer-lehendakari-tras-la-recuperacion-de-las-libertades.html",
-      "desc": "Tras su paso por la presidencia del Gobierno Vasco con el PNV, fundó y presidió Eusko Alkartasuna",
-      "date": "Mon, 04 May 2026 21:15:43 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260504/1167219_180250_video_1800.mp4"
-    },
-    {
-      "title": "Seis vigilantes armados custodiaban la droga del barco con el alijo gigante de cocaína",
-      "link": "https://elpais.com/espana/2026-05-04/seis-vigilantes-armados-custodiaban-la-droga-del-barco-con-el-alijo-gigante-de-cocaina.html",
-      "desc": "El cargamento estaba oculto tras una pared metálica sellada que daba paso a un pasillo estrecho lleno de fardos",
-      "date": "Mon, 04 May 2026 19:40:12 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/WZ7YRHH7MZMMVFCOAMMFKHBVDY.jpg?auth=f0e811221893cc1d73e820dc5a83687b2e3caa95f671203b7b0987434ea56b1d"
-    },
-    {
-      "title": "El PSOE denuncia que Vito Quiles usó un despacho del PP para un vídeo contra Begoña Gómez",
-      "link": "https://elpais.com/espana/2026-05-04/el-psoe-denuncia-que-vito-quiles-uso-un-despacho-del-pp-para-un-video-contra-begona-gomez.html",
-      "desc": "Los populares no desmienten que el agitador utilizase sus dependencias parlamentarias y este se limita a decir que se le acusa de “tomar café con una diputada”",
-      "date": "Mon, 04 May 2026 17:57:12 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/E2JYY4QC4FFQFKE4BUD6IGAWQI.jpg?auth=8460f6ee4d664fba190330e0419225b0e61aac219c4f00de96963f403cffa144"
-    },
-    {
-      "title": "Un informe del Congreso de EE UU sitúa a Ceuta y Melilla en territorio de Marruecos “bajo administración española”",
-      "link": "https://elpais.com/espana/2026-05-04/un-informe-del-congreso-de-ee-uu-situa-a-ceuta-y-melilla-en-territorio-de-marruecos-bajo-administracion-espanola.html",
-      "desc": "En un proyecto legislativo de la Cámara de Representantes se insta a un “compromiso diplomático” entre Rabat y Madrid sobre el “estatuto futuro” de ambas ciudades",
-      "date": "Mon, 04 May 2026 18:15:17 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/UJVSZG72DJDMJJ5G2EVZYMIY2U.jpg?auth=069192fb4769057a9eb653c4a94048327a1efa5def140af10566b494dbd91533"
     }
   ],
-  "fetchedAt": 1777975106231
+  "fetchedAt": 1777979899038
 }
