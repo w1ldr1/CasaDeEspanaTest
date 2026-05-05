@@ -3,7 +3,7 @@
     {
       "title": "El Gobierno acusa al PP de tener un pacto con Víctor de Aldama: “Es evidente que están colaborando”",
       "link": "https://elpais.com/espana/2026-05-05/el-gobierno-acusa-al-pp-de-tener-un-pacto-con-victor-de-aldama-es-evidente-que-estan-colaborando.html",
-      "desc": "PSOE y Vox atacan a los populares por rebajar la petición de pena al empresario",
+      "desc": "Feijóo acusa a la fiscal del Estado de presiones a la Fiscalía Anticorrupción, pero esta lo desmiente",
       "date": "Tue, 05 May 2026 12:15:50 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/PJNMPLMAR5GIXCY5JY3GMWXIOI.jpg?auth=7f705c490393d5461b13dca003151d92bab8cbb6b98a76353e5fd7172a585b61"
     },
@@ -55,6 +55,13 @@
       "desc": "El problema no son los extranjeros, sino los servicios públicos. Exijamos acción a sus responsables y tengamos empatía",
       "date": "Sat, 02 May 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/IQC2O37WJRHHBGFIQSUED66FJU.jpg?auth=a6649eed578e9b7213c3659e8727215e4c25b12255b025f7bf6c395fe99b654f"
+    },
+    {
+      "title": "Moreno presenta el debate electoral como ejemplo del “lío”: “Candidatos mintiendo y falta de corrección”",
+      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-05/moreno-presenta-el-debate-electoral-como-ejemplo-del-lio-candidatos-mintiendo-y-falta-de-correccion.html",
+      "desc": "El presidente de la Junta pelea en Granada por los escaños que le garanticen la mayoría absoluta",
+      "date": "Tue, 05 May 2026 12:56:18 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/2W5D556DZREUXG53OKS6MMKM2U.jpg?auth=b7b1f638d52706313fb6165a522e86b0b61a8561a16be94532163b8a9a336aeb"
     },
     {
       "title": "El ‘CIS andaluz’ sitúa a Moreno al borde de la mayoría absoluta",
@@ -122,17 +129,10 @@
     {
       "title": "De la masificación turística al narcotráfico: la Costa del Sol dos décadas después de Malaya",
       "link": "https://elpais.com/espana/2026-05-05/de-la-masificacion-turistica-al-narcotrafico-la-costa-del-sol-dos-decadas-despues-de-malaya.html",
-      "desc": "El litoral malagueño, donde viven 1,3 millones de personas, es el principal motor económico de Málaga aunque sufre la falta vivienda, las dificultades de movilidad y la escasez de recursos naturales",
+      "desc": "El litoral malagueño, donde viven 1,3 millones de personas, es el principal motor económico de Málaga aunque sufre la falta de vivienda, las dificultades de movilidad y la escasez de recursos naturales",
       "date": "Tue, 05 May 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/UEDFKHJEKBGUFM6ASWBWB33EE4.jpg?auth=b3fe367c2a8565f818d024f80b8ab3c46e5963699fe59e118ea7801aa3983909"
-    },
-    {
-      "title": "Carmen Romero: “La derecha utiliza a Felipe González y Alfonso Guerra”",
-      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-05/carmen-romero-la-derecha-utiliza-a-felipe-gonzalez-y-alfonso-guerra.html",
-      "desc": "La exdiputada socialista y exesposa de González cree que esta etapa es más difícil que la de sus últimos años en La Moncloa y asegura que “si de verdad la derecha cree en la democracia, es una mezquindad atacar la familia de un presidente”",
-      "date": "Tue, 05 May 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/EEWPXCJHNBBK5OTBIAW4XC2MNE.jpg?auth=6aafd35dc21aaadd1df347e0e2e8cf120cfc00bf146f708ff7ee76123405438f"
     }
   ],
-  "fetchedAt": 1777985138638
+  "fetchedAt": 1778000586079
 }
