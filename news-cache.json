@@ -19,7 +19,7 @@
       "link": "https://elpais.com/espana/2026-05-06/el-vaticano-confirma-oficialmente-que-el-papa-dara-un-historico-discurso-en-el-congreso-el-8-de-junio.html",
       "desc": "La Santa Sede publica el programa del viaje de León XIV a España, que incluye encuentros con migrantes, personas sin hogar y reclusos, pero aún no prevé una cita con víctimas de pederastia del clero",
       "date": "Wed, 06 May 2026 10:53:07 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/YYBFXDJ7UZOFJBPJ366W2IYVNU.jpg?auth=9e0f14784a4ddf2955e3d5f5b9b821bb2c2c482c9ffca1fcc9c61f03180f2bb0"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260506/1168041_151654_video_1800.mp4"
     },
     {
       "title": "Ayuso, la nueva Hernanda Cortés",
@@ -59,7 +59,7 @@
     {
       "title": "El hantavirus desata una guerra política entre el Gobierno y Canarias mientras Clavijo intenta impedir que llegue allí el barco",
       "link": "https://elpais.com/espana/2026-05-06/el-hantavirus-desata-una-guerra-politica-entre-el-gobierno-y-canarias-mientras-clavijo-intenta-impedir-que-llegue-alli-el-barco.html",
-      "desc": "Sánchez convoca una reunión de crisis y sus ministros señalan que no recibir el barco no es una opción porque lo exige la OMS y además hay 14 españoles a bordo",
+      "desc": "El Gobierno decide que la nave irá a Canarias como exige la OMS y reprocha a Clavijo su irresponsabilidad e insolidaridad con los 14 españoles que hay a bordo",
       "date": "Wed, 06 May 2026 09:57:43 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260506/1168003_140647_video_1800.mp4"
     },
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/ADAVVJMFKVDQLPIAGXKRYQ2IPU.jpg?auth=f09e8f47d912e3818aec0b7cb100427d356bddb4503fd97c151e7966cbe0e016"
     }
   ],
-  "fetchedAt": 1778080212347
+  "fetchedAt": 1778086727179
 }
