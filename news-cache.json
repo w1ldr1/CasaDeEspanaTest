@@ -1,11 +1,11 @@
 {
   "items": [
     {
-      "title": "El PP aviva la guerra política por el hantavirus mientras Moncloa intenta rebajar para que el barco pueda fondear en Canarias",
+      "title": "Sánchez y Clavijo rebajan la tensión por el hantavirus mientras Feijóo se lanza contra el Gobierno",
       "link": "https://elpais.com/espana/2026-05-07/el-pp-aviva-la-guerra-politica-por-el-hantavirus-esto-es-un-caos-absoluto.html",
-      "desc": "El Gobierno habla con Clavijo y Ayuso y trata de calmar: “No habrá contacto con la población. Escuchemos a los científicos”",
+      "desc": "El presidente llama al líder canario para suavizar. El Ejecutivo trata de tranquilizar: “No habrá contacto con la población”. El líder del PP exige ver los informes técnicos",
       "date": "Thu, 07 May 2026 12:16:01 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260507/1168524_140120_video_1800.mp4"
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/ZANFERCEVFN6XBALNJTULVGCCA.jpg?auth=7836f5396b036246d90b8d31f0ce49076e20fc3887f441d5d740e3e36e154d2e"
     },
     {
       "title": "La Policía distribuye un protocolo a los agentes para actuar contra el hantavirus: mascarillas y ventilación",
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/T74W37UJFFDZPPA5LK37Y6ATOE.jpg?auth=26e3b7b358e7a21d8aaf7f7a967522d5831c99988b452b0d763207b49cb3ac28"
     }
   ],
-  "fetchedAt": 1778175844807
+  "fetchedAt": 1778182734536
 }
