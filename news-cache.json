@@ -1,11 +1,11 @@
 {
   "items": [
     {
-      "title": "El PP aviva la guerra política por el hantavirus: “Esto es un caos absoluto”",
+      "title": "El PP aviva la guerra política por el hantavirus mientras Moncloa intenta rebajar para que el barco pueda fondear en Canarias",
       "link": "https://elpais.com/espana/2026-05-07/el-pp-aviva-la-guerra-politica-por-el-hantavirus-esto-es-un-caos-absoluto.html",
-      "desc": "El Gobierno se reúne con Clavijo y trata de bajar la tensión: “No habrá contacto con la población. Escuchemos a los científicos”",
+      "desc": "El Gobierno habla con Clavijo y Ayuso y trata de calmar: “No habrá contacto con la población. Escuchemos a los científicos”",
       "date": "Thu, 07 May 2026 12:16:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/P3WRQ7JF4NOEHKUCEHRQPRTHP4.jpg?auth=b263655f97e10314071cdc300ca2c95109bd1231781deb68b0db683ad7bb4b47"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260507/1168524_140120_video_1800.mp4"
     },
     {
       "title": "La Policía distribuye un protocolo a los agentes para actuar contra el hantavirus: mascarillas y ventilación",
@@ -67,7 +67,7 @@
       "title": "Moreno, sobre la prioridad nacional: “Es un eslogan hueco. El PP nunca va a vulnerar la ley”",
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-07/moreno-sobre-la-prioridad-nacional-es-un-eslogan-hueco-el-pp-nunca-va-a-vulnerar-la-ley.html",
       "desc": "El presidente de la Junta de Andalucía y candidato popular a la reelección considera que las propuestas de Vox son “algunas irreales y otras ilegales”",
-      "date": "Thu, 07 May 2026 09:01:13 GMT",
+      "date": "Thu, 07 May 2026 14:08:54 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260507/1168446_112842_video_1800.mp4"
     },
     {
@@ -81,7 +81,7 @@
       "title": "El cargamento del ‘Arconian’: 30 toneladas de cocaína valoradas en 812 millones de euros",
       "link": "https://elpais.com/espana/2026-05-07/las-30-toneladas-de-cocaina-del-buque-arconian-estan-valoradas-en-812-millones-de-euros.html",
       "desc": "La DEA estadounidense y la policía holandesa colaboraron con la Guardia Civil en la localización del mayor alijo de la historia",
-      "date": "Thu, 07 May 2026 12:25:01 GMT",
+      "date": "Thu, 07 May 2026 13:45:09 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/WZ7YRHH7MZMMVFCOAMMFKHBVDY.jpg?auth=f0e811221893cc1d73e820dc5a83687b2e3caa95f671203b7b0987434ea56b1d"
     },
     {
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/T74W37UJFFDZPPA5LK37Y6ATOE.jpg?auth=26e3b7b358e7a21d8aaf7f7a967522d5831c99988b452b0d763207b49cb3ac28"
     }
   ],
-  "fetchedAt": 1778159650322
+  "fetchedAt": 1778168478103
 }
