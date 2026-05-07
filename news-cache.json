@@ -57,6 +57,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/LLBPNBHQKRLIDKTHQOOOENM7VA.jpg?auth=786e247ad081dc8970373fb28e3e64b03e6e83d7d57b57e7c6191af864d28719"
     },
     {
+      "title": "Moreno, sobre la prioridad nacional: “Es un eslogan hueco. El PP nunca va a vulnerar la ley”",
+      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-07/moreno-sobre-la-prioridad-nacional-es-un-eslogan-hueco-el-pp-nunca-va-a-vulnerar-la-ley.html",
+      "desc": "El presidente de la Junta de Andalucía y candidato popular a la reelección considera que las propuestas de Vox son “algunas irreales y otras ilegales”",
+      "date": "Thu, 07 May 2026 09:01:13 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/2VMMNR7NSBCGJN3GVHJVZURKZY.JPG?auth=b7577f1662e76451aae2fb0eb84fd7f0440ab53d95d2fa3681b7e34ddd7e281d"
+    },
+    {
       "title": "El alijo récord de 30 toneladas de cocaína tenía como destino España",
       "link": "https://elpais.com/espana/2026-05-07/el-alijo-record-de-30-toneladas-de-cocaina-tenia-como-destino-espana.html",
       "desc": "El mercante ‘Arconian’ transportaba también en su bodega miles de litros de gasolina para que las narcolanchas que iban a llevar la droga a tierra repostaran",
@@ -92,6 +99,13 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260506/1168041_151654_video_1800.mp4"
     },
     {
+      "title": "Un guardia civil en prácticas desmonta el relato del acusado por el crimen de los colombianos en Málaga",
+      "link": "https://elpais.com/espana/2026-05-07/un-guardia-civil-en-practicas-desmonta-el-relato-del-acusado-por-el-crimen-de-los-colombianos-en-malaga.html",
+      "desc": "El acusado, Manuel Alonso, que alega “legítima defensa” confesó al agente que le custodiaba en el lugar de los hechos: “Se me fue de las manos y les disparé”",
+      "date": "Thu, 07 May 2026 06:18:36 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/3SKF5I55JRETPBSAPMSQ6J3EFI.jpg?auth=efdae95c81415cd1675b1b18077c37ff7f5da5c4aa39d80213f9dbed8d2fe59e"
+    },
+    {
       "title": "Feijóo se lanza contra Montero: “Hay que mandar a Madrid a la ministra de los chanchullos”",
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-06/feijoo-se-lanza-contra-montero-hay-que-mandar-a-madrid-a-la-ministra-de-los-chanchullos.html",
       "desc": "El líder del PP viaja a Granada, donde creen que pueden ganar un escaño más. La formación celebrará el sábado en Ceuta el Día de Europa, después de que un informe del Congreso de EE UU situara a las dos ciudades autónomas en territorio marroquí",
@@ -118,21 +132,7 @@
       "desc": "La dirección general emite un documento en el que explica que el riesgo está en los contactos y en zonas donde hay roedores",
       "date": "Wed, 06 May 2026 15:05:23 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/L56A3OKE5VJHBA5KJS5D4LTZ2A.jpg?auth=ce83c83be7e7f33313399d772a787b9766d6c6b79adc1378ae49535ca7b53723"
-    },
-    {
-      "title": "María Jesús Montero propone un cheque de 350 euros para paliar la crisis energética por la guerra de Irán",
-      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-06/montero-propone-un-cheque-de-350-euros-para-paliar-la-crisis-energetica-por-la-guerra-de-iran.html",
-      "desc": "Adelante Andalucía propone vincular el precio del alquiler al nivel de los salarios",
-      "date": "Wed, 06 May 2026 17:14:22 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/OMCHM7XE35MEVDGTQPC54SMMTI.jpg?auth=f8f087555299e6bd19cd0cccc20861a25e6a188493371b55f529b43404a88152"
-    },
-    {
-      "title": "El hantavirus desata una guerra política entre el Gobierno y Canarias mientras Clavijo intenta impedir que llegue allí el barco",
-      "link": "https://elpais.com/espana/2026-05-06/el-hantavirus-desata-una-guerra-politica-entre-el-gobierno-y-canarias-mientras-clavijo-intenta-impedir-que-llegue-alli-el-barco.html",
-      "desc": "El Gobierno decide que la nave irá a Canarias como exige la OMS y reprocha a Clavijo su irresponsabilidad e insolidaridad con los 14 españoles que hay a bordo",
-      "date": "Wed, 06 May 2026 09:57:43 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260506/1168003_140647_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1778143175550
+  "fetchedAt": 1778151964572
 }
