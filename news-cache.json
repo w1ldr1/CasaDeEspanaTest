@@ -1,18 +1,18 @@
 {
   "items": [
     {
-      "title": "Dos guardias civiles muertos y uno herido grave al chocar dos embarcaciones en la persecución a una narcolancha",
+      "title": "Dos guardias civiles muertos y otros dos heridos al chocar dos embarcaciones en la persecución a una narcolancha",
       "link": "https://elpais.com/espana/2026-05-08/muere-un-guardia-civil-al-chocar-dos-embarcaciones-persiguiendo-una-narcolancha-en-huelva.html",
       "desc": "El accidente ha ocurrido a 80 millas de la costa de Huelva y a 47 de la de Marruecos. La Junta de Andalucía decreta luto oficial para este sábado",
-      "date": "Fri, 08 May 2026 12:59:36 GMT",
+      "date": "Fri, 08 May 2026 17:40:47 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/4Q7DE2RIG5ASHIHFUAWQ5V7DJQ.jpg?auth=b0c21a3d131c5de94e43cf47ee5d85f8c146595f274400cead32ba388ec6ea9d"
     },
     {
       "title": "PP y PSOE suspenden los actos de campaña este viernes y sábado por la muerte de los dos agentes de la Guardia Civil",
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-08/el-pp-suspende-los-actos-de-campana-este-viernes-y-sabado-por-la-muerte-de-los-dos-agentes-de-la-guardia-civil.html",
       "desc": "La Junta decreta luto oficial para el sábado y Moreno también cancela su asistencia a un evento de Netflix esta tarde, mientras el resto de partidos mantienen, en principio, los mítines de hoy",
-      "date": "Fri, 08 May 2026 16:28:36 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/F2JF5W73TJM3FDU4ILSOLV3X4A.jpg?auth=79d76e7b596161af5f86e93310d59c92234fb50d86875be814fc738628800f11"
+      "date": "Fri, 08 May 2026 18:04:23 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/FE2TC3YZP5FCXGZZNMJVN2L5LA.JPG?auth=6c21bb9a6831f4796a0beb1b776338f98f97a785ead2424d003e7d6f02404e34"
     },
     {
       "title": "Moreno se abre a una coalición con Vox: “Los ciudadanos tienen siete días para decidir si gobierno solo o acompañado”",
@@ -71,6 +71,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/WJU355ENOFGTZNCQHVCA6LYFRY.jpg?auth=a798a741172a58c0ab3a1f69b0272b0b5193c63a7a2a0774bfc01b302ae4a871"
     },
     {
+      "title": "La Fiscalía pide incorporar las declaraciones de Koldo y Aldama en la causa sobre obra pública y los pagos al PSOE",
+      "link": "https://elpais.com/espana/2026-05-08/la-fiscalia-pide-incorporar-las-declaraciones-de-koldo-y-aldama-en-la-causa-sobre-obra-publica-y-los-pagos-al-psoe.html",
+      "desc": "El fiscal considera que los testimonios de los juicios del ‘caso mascarillas’ pueden “aportar datos que hasta ahora no eran conocidos”",
+      "date": "Fri, 08 May 2026 17:04:59 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/X7SGYJ7NNBDPVEWFHKEFZSQZ7E.jpg?auth=b158105d986310d28e41a2ce3360f6da17b963bbcbde529114ac403328271d8d"
+    },
+    {
       "title": "El Gobierno incrementa la aportación a Cáritas en pleno choque de la Iglesia con la derecha por la regularización de inmigrantes",
       "link": "https://elpais.com/espana/2026-05-08/el-gobierno-incrementa-la-aportacion-a-caritas-en-pleno-choque-de-la-iglesia-con-la-derecha-por-la-regularizacion-de-inmigrantes.html",
       "desc": "Hacienda firma en Extremadura un convenio con la ONG de 13,3 millones hasta 2029: “Nos da una lección de valores en un momento de mucha polarización”",
@@ -125,14 +132,7 @@
       "desc": "Desde 2018, se han duplicado los seguros sanitarios, abierto cuatro nuevas universidades privadas y disparado las plazas de pago de FP",
       "date": "Fri, 08 May 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/NPTEUJP5LVAJXGHZJOCF6CFNHA.jpg?auth=1f966f2f60d8d00f4b8c039d649e26f2475600310ec4a5d8966483b4280c586f"
-    },
-    {
-      "title": "Moreno se apunta al ‘yo o el caos’",
-      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-08/moreno-se-apunta-al-yo-o-el-caos.html",
-      "desc": "El líder del PP andaluz dice que se paralizarían las oposiciones y ayudas económicas si nadie se “abstiene” en su investidura. Los partidos de izquierda lo acusan de “chantaje”",
-      "date": "Fri, 08 May 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/A4W2H5TK3NA23FMVJ7U5722XGQ.jpg?auth=4921914bb71b1bdcdafca3234ffb1c379663b1f139d9eab4b38227b11551863d"
     }
   ],
-  "fetchedAt": 1778258995803
+  "fetchedAt": 1778263603185
 }
