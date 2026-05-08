@@ -1,17 +1,17 @@
 {
   "items": [
     {
-      "title": "Dos guardias civiles muertos y uno herido grave tras chocar dos embarcaciones durante una persecución a una narcolancha en Huelva",
+      "title": "Dos guardias civiles muertos y uno herido grave al chocar dos embarcaciones en la persecución a una narcolancha",
       "link": "https://elpais.com/espana/2026-05-08/muere-un-guardia-civil-al-chocar-dos-embarcaciones-persiguiendo-una-narcolancha-en-huelva.html",
-      "desc": "El accidente ha ocurrido a unas 47 millas de la costa norte de Marruecos. La Junta de Andalucía decreta luto oficial para este sábado",
+      "desc": "El accidente ha ocurrido a 80 millas de la costa de Huelva y a 47 de la de Marruecos. La Junta de Andalucía decreta luto oficial para este sábado",
       "date": "Fri, 08 May 2026 12:59:36 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/4Q7DE2RIG5ASHIHFUAWQ5V7DJQ.jpg?auth=b0c21a3d131c5de94e43cf47ee5d85f8c146595f274400cead32ba388ec6ea9d"
     },
     {
-      "title": "El PP suspende los actos de campaña este viernes y sábado por la muerte de los dos agentes de la Guardia Civil",
+      "title": "PP y PSOE suspenden los actos de campaña este viernes y sábado por la muerte de los dos agentes de la Guardia Civil",
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-08/el-pp-suspende-los-actos-de-campana-este-viernes-y-sabado-por-la-muerte-de-los-dos-agentes-de-la-guardia-civil.html",
       "desc": "La Junta decreta luto oficial para el sábado y Moreno también cancela su asistencia a un evento de Netflix esta tarde, mientras el resto de partidos mantienen, en principio, los mítines de hoy",
-      "date": "Fri, 08 May 2026 15:13:12 GMT",
+      "date": "Fri, 08 May 2026 16:28:36 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/F2JF5W73TJM3FDU4ILSOLV3X4A.jpg?auth=79d76e7b596161af5f86e93310d59c92234fb50d86875be814fc738628800f11"
     },
     {
@@ -99,9 +99,9 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/E7FBNAWHQ5GNPICRP4NW46UOJY.jpg?auth=f054f304679a8f424241d1ca4a590549e0a57ee455ced8d0079d423739ded213"
     },
     {
-      "title": "La Audiencia Nacional rechaza dejar en semilibertad al etarra Gregorio Vicario",
+      "title": "La Audiencia Nacional vuelve a corregir la política del Gobierno vasco con los presos de ETA",
       "link": "https://elpais.com/espana/2026-05-08/la-audiencia-nacional-rechaza-dejar-en-semilibertad-al-etarra-gregorio-vicario.html",
-      "desc": "El órgano destaca que el pronóstico de reincidencia es “medio alto” y que no hay permisos previos de salida que permitan valorar su evolución ni escrito de arrepentimiento",
+      "desc": "La jueza rechaza la semilibertad para el etarra Vicario Setién, del que destaca que no ha pedido perdón por escrito a sus víctimas",
       "date": "Fri, 08 May 2026 11:20:03 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/2KIAYDT2TFDMXIOLU2BMJONW3M.jpg?auth=e28ce0d997c485f633b537de4e2f5bbb3d11069a81d26f4a1fc375eb7f48131d"
     },
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/A4W2H5TK3NA23FMVJ7U5722XGQ.jpg?auth=4921914bb71b1bdcdafca3234ffb1c379663b1f139d9eab4b38227b11551863d"
     }
   ],
-  "fetchedAt": 1778254033767
+  "fetchedAt": 1778259152379
 }
