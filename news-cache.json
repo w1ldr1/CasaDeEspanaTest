@@ -5,7 +5,7 @@
       "link": "https://elpais.com/espana/2026-05-09/un-centenar-de-guardias-civiles-despiden-en-huelva-a-los-dos-companeros-muertos-este-viernes-mientras-perseguian-una-narcolancha.html",
       "desc": "Al funeral han asistido la directora general de la Guardia Civil, el presidente de la Junta y la candidata socialista",
       "date": "Sat, 09 May 2026 13:18:39 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/U2VLCQFZ6JNYDJWRCJPKENCGTE.jpg?auth=cefdfe90760f60eb7a54cfdf268bf70c01bf60c791295a3c4de31aafbfee0185"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260509/1169437_163322_video_1800.mp4"
     },
     {
       "title": "PP y PSOE suspenden los actos de campaña este viernes y sábado por la muerte de los dos agentes de la Guardia Civil",
@@ -71,6 +71,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/WJU355ENOFGTZNCQHVCA6LYFRY.jpg?auth=a798a741172a58c0ab3a1f69b0272b0b5193c63a7a2a0774bfc01b302ae4a871"
     },
     {
+      "title": "El voto por correo para las elecciones andaluzas sube un 1% con respecto a las de 2022",
+      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-09/el-voto-por-correo-para-las-elecciones-andaluzas-sube-un-1-con-respecto-a-las-de-2022.html",
+      "desc": "Correos admite 178.540 solicitudes y ha enviado ya 156.253 sobres con las papeletas",
+      "date": "Sat, 09 May 2026 15:46:33 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/O5EP7LKPIVP7TE6V2U5C5DP6H4.jpg?auth=70b48696414d2e16b97ea2672a54a48d6df9e090e6bedbc090221ce8e8c40c5b"
+    },
+    {
       "title": "Dos guardias civiles muertos y otros dos heridos al chocar dos embarcaciones en la persecución a una narcolancha",
       "link": "https://elpais.com/espana/2026-05-08/muere-un-guardia-civil-al-chocar-dos-embarcaciones-persiguiendo-una-narcolancha-en-huelva.html",
       "desc": "El accidente ha ocurrido a 80 millas de la costa de Huelva y a 47 de la de Marruecos. La Junta de Andalucía decreta luto oficial para este sábado",
@@ -125,14 +132,7 @@
       "desc": "El bombero apunta al ‘president’ como responsable de la gestión de la riada y asegura que, como a los forestales, a la exconsejera de Mazón “le cortaron las alas”",
       "date": "Fri, 08 May 2026 09:18:11 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/LK2ACKW62JFPZFRTLXLZB7XDZQ.JPG?auth=b5bc2092d845c1117acbf816656cfd04f24283cddadb36281fa35d810873dab0"
-    },
-    {
-      "title": "La espiral sin fin de los extorsionadores de Valencia: “Mi jefe lleva dos días vigilándote”",
-      "link": "https://elpais.com/espana/2026-05-08/la-espiral-sin-fin-de-los-extorsionadores-de-valencia-mi-jefe-lleva-dos-dias-vigilandote.html",
-      "desc": "Más de 500 personas cayeron en la trampa de un grupo organizado que amenaza con enviarles sicarios a ellos o a sus familias si no les ingresaban dinero",
-      "date": "Fri, 08 May 2026 07:33:03 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/VJWBSBJ5CBDCDDD5QTM3AIE3H4.JPG?auth=4e46c7b1f9fa49d720273bf05be011d5f9314db246b4e0537250ff1b8cd9fd76"
     }
   ],
-  "fetchedAt": 1778342149787
+  "fetchedAt": 1778346002453
 }
