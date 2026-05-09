@@ -1,11 +1,11 @@
 {
   "items": [
     {
-      "title": "Dos guardias civiles muertos y otros dos heridos al chocar dos embarcaciones en la persecución a una narcolancha",
-      "link": "https://elpais.com/espana/2026-05-08/muere-un-guardia-civil-al-chocar-dos-embarcaciones-persiguiendo-una-narcolancha-en-huelva.html",
-      "desc": "El accidente ha ocurrido a 80 millas de la costa de Huelva y a 47 de la de Marruecos. La Junta de Andalucía decreta luto oficial para este sábado",
-      "date": "Fri, 08 May 2026 17:40:47 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260508/1169207_190215_video_1800.mp4"
+      "title": "Un centenar de guardias civiles despiden en Huelva a los dos compañeros muertos este viernes mientras perseguían una narcolancha",
+      "link": "https://elpais.com/espana/2026-05-09/un-centenar-de-guardias-civiles-despiden-en-huelva-a-los-dos-companeros-muertos-este-viernes-mientras-perseguian-una-narcolancha.html",
+      "desc": "Al funeral han asistido la directora general de la Guardia Civil, el presidente de la Junta y la candidata socialista",
+      "date": "Sat, 09 May 2026 13:18:39 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/QRBPSSHAQ5LANKSDWS5AD3XLJU.jpg?auth=b160795c981dac2ca62eb8ab4202d6e8d1bf4a82a2cb238f3d064b4fc0d73659"
     },
     {
       "title": "PP y PSOE suspenden los actos de campaña este viernes y sábado por la muerte de los dos agentes de la Guardia Civil",
@@ -71,6 +71,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/WJU355ENOFGTZNCQHVCA6LYFRY.jpg?auth=a798a741172a58c0ab3a1f69b0272b0b5193c63a7a2a0774bfc01b302ae4a871"
     },
     {
+      "title": "Dos guardias civiles muertos y otros dos heridos al chocar dos embarcaciones en la persecución a una narcolancha",
+      "link": "https://elpais.com/espana/2026-05-08/muere-un-guardia-civil-al-chocar-dos-embarcaciones-persiguiendo-una-narcolancha-en-huelva.html",
+      "desc": "El accidente ha ocurrido a 80 millas de la costa de Huelva y a 47 de la de Marruecos. La Junta de Andalucía decreta luto oficial para este sábado",
+      "date": "Fri, 08 May 2026 17:40:47 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260508/1169207_190215_video_1800.mp4"
+    },
+    {
       "title": "La Fiscalía pide incorporar las declaraciones de Koldo y Aldama en la causa sobre obra pública y los pagos al PSOE",
       "link": "https://elpais.com/espana/2026-05-08/la-fiscalia-pide-incorporar-las-declaraciones-de-koldo-y-aldama-en-la-causa-sobre-obra-publica-y-los-pagos-al-psoe.html",
       "desc": "El fiscal considera que los testimonios de los juicios del ‘caso mascarillas’ pueden “aportar datos que hasta ahora no eran conocidos”",
@@ -125,14 +132,7 @@
       "desc": "Más de 500 personas cayeron en la trampa de un grupo organizado que amenaza con enviarles sicarios a ellos o a sus familias si no les ingresaban dinero",
       "date": "Fri, 08 May 2026 07:33:03 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/VJWBSBJ5CBDCDDD5QTM3AIE3H4.JPG?auth=4e46c7b1f9fa49d720273bf05be011d5f9314db246b4e0537250ff1b8cd9fd76"
-    },
-    {
-      "title": "El negocio privado se expande en la enseñanza y la sanidad de Andalucía",
-      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-08/el-negocio-privado-se-expande-en-la-ensenanza-y-la-sanidad-de-andalucia.html",
-      "desc": "Desde 2018, se han duplicado los seguros sanitarios, abierto cuatro nuevas universidades privadas y disparado las plazas de pago de FP",
-      "date": "Fri, 08 May 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/NPTEUJP5LVAJXGHZJOCF6CFNHA.jpg?auth=1f966f2f60d8d00f4b8c039d649e26f2475600310ec4a5d8966483b4280c586f"
     }
   ],
-  "fetchedAt": 1778332074958
+  "fetchedAt": 1778337196644
 }
