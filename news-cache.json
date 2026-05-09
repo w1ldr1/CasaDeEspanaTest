@@ -1,13 +1,6 @@
 {
   "items": [
     {
-      "title": "Feijóo irrumpe en el día de luto por los dos guardias civiles cargando contra el Gobierno",
-      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-09/feijoo-irrumpe-en-el-dia-de-luto-por-los-dos-guardias-civiles-cargando-contra-el-gobierno.html",
-      "desc": "El presidente del PP pide la “retirada” de Marlaska por su “incompetencia” tras el accidente mortal de dos agentes que seguían a una narcolancha",
-      "date": "Sat, 09 May 2026 17:26:31 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/7WVZUVARMZIGDP6TRVBBCD3CEA.jpg?auth=aa02be77ae6e713b702f912dfff8f65d68ea6d96884943d5a5bd21d8ab0188e7"
-    },
-    {
       "title": "Un centenar de guardias civiles despiden en Huelva a los dos compañeros muertos este viernes mientras perseguían una narcolancha",
       "link": "https://elpais.com/espana/2026-05-09/un-centenar-de-guardias-civiles-despiden-en-huelva-a-los-dos-companeros-muertos-este-viernes-mientras-perseguian-una-narcolancha.html",
       "desc": "Al funeral han asistido la directora general de la Guardia Civil, el presidente de la Junta y la candidata socialista",
@@ -15,11 +8,18 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260509/1169437_163322_video_1800.mp4"
     },
     {
-      "title": "PP y PSOE suspenden los actos de campaña este viernes y sábado por la muerte de los dos agentes de la Guardia Civil",
-      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-08/el-pp-suspende-los-actos-de-campana-este-viernes-y-sabado-por-la-muerte-de-los-dos-agentes-de-la-guardia-civil.html",
-      "desc": "La Junta decreta luto oficial para el sábado y Moreno también cancela su asistencia a un evento de Netflix esta tarde. Por Andalucía y Adelante modifican la agenda",
-      "date": "Fri, 08 May 2026 19:32:40 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/FE2TC3YZP5FCXGZZNMJVN2L5LA.JPG?auth=6c21bb9a6831f4796a0beb1b776338f98f97a785ead2424d003e7d6f02404e34"
+      "title": "Feijóo irrumpe en el día de luto por los dos guardias civiles cargando contra el Gobierno",
+      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-09/feijoo-irrumpe-en-el-dia-de-luto-por-los-dos-guardias-civiles-cargando-contra-el-gobierno.html",
+      "desc": "El presidente del PP pide la “retirada” de Marlaska por su “incompetencia” tras el accidente mortal de dos agentes que seguían a una narcolancha",
+      "date": "Sat, 09 May 2026 17:26:31 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260509/1169475_184952_video_1800.mp4"
+    },
+    {
+      "title": "Vox en Andalucía: “¡En una tarde, la Guardia Civil acaba con toda la mierda del narcotráfico! ¡En una tarde!”",
+      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-09/vox-en-andalucia-en-una-tarde-la-guardia-civil-acaba-con-toda-la-mierda-del-narcotrafico-en-una-tarde.html",
+      "desc": "Manuel Gavira justifica que su partido sea el único que no ha cancelado actos de campaña porque tiene que “señalar a los culpables” de las muertes de los dos guardias en Huelva",
+      "date": "Sat, 09 May 2026 12:42:49 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260509/1169402_144421_video_1800.mp4"
     },
     {
       "title": "Ayuso, la nueva Hernanda Cortés",
@@ -55,6 +55,13 @@
       "desc": "Quienes hemos sufrido el terrorismo tenemos la responsabilidad de no permitir que nuestro dolor se use contra la verdad",
       "date": "Sat, 02 May 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/LLBPNBHQKRLIDKTHQOOOENM7VA.jpg?auth=786e247ad081dc8970373fb28e3e64b03e6e83d7d57b57e7c6191af864d28719"
+    },
+    {
+      "title": "PP y PSOE suspenden los actos de campaña este viernes y sábado por la muerte de los dos agentes de la Guardia Civil",
+      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-08/el-pp-suspende-los-actos-de-campana-este-viernes-y-sabado-por-la-muerte-de-los-dos-agentes-de-la-guardia-civil.html",
+      "desc": "La Junta decreta luto oficial para el sábado y Moreno también cancela su asistencia a un evento de Netflix esta tarde. Por Andalucía y Adelante modifican la agenda",
+      "date": "Fri, 08 May 2026 19:32:40 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/FE2TC3YZP5FCXGZZNMJVN2L5LA.JPG?auth=6c21bb9a6831f4796a0beb1b776338f98f97a785ead2424d003e7d6f02404e34"
     },
     {
       "title": "Moreno se abre a una coalición con Vox: “Los ciudadanos tienen siete días para decidir si gobierno solo o acompañado”",
@@ -125,14 +132,7 @@
       "desc": "La titular del juzgado adopta esta decisión tras examinar las grabaciones de seguridad de la Cámara alta",
       "date": "Fri, 08 May 2026 08:28:21 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/E7FBNAWHQ5GNPICRP4NW46UOJY.jpg?auth=f054f304679a8f424241d1ca4a590549e0a57ee455ced8d0079d423739ded213"
-    },
-    {
-      "title": "La Audiencia Nacional vuelve a corregir la política del Gobierno vasco con los presos de ETA",
-      "link": "https://elpais.com/espana/2026-05-08/la-audiencia-nacional-rechaza-dejar-en-semilibertad-al-etarra-gregorio-vicario.html",
-      "desc": "La jueza rechaza la semilibertad para el etarra Vicario Setién, del que destaca que no ha pedido perdón por escrito a sus víctimas",
-      "date": "Fri, 08 May 2026 11:20:03 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/2KIAYDT2TFDMXIOLU2BMJONW3M.jpg?auth=e28ce0d997c485f633b537de4e2f5bbb3d11069a81d26f4a1fc375eb7f48131d"
     }
   ],
-  "fetchedAt": 1778352884599
+  "fetchedAt": 1778356512717
 }
