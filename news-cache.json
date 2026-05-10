@@ -57,6 +57,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/LLBPNBHQKRLIDKTHQOOOENM7VA.jpg?auth=786e247ad081dc8970373fb28e3e64b03e6e83d7d57b57e7c6191af864d28719"
     },
     {
+      "title": "Fallece el alcalde de Murcia, José Ballesta, a los 67 años",
+      "link": "https://elpais.com/espana/2026-05-10/fallece-el-alcalde-de-murcia-jose-ballesta-a-los-67-anos.html",
+      "desc": "El regidor popular, que gobernaba con mayoría absoluta, llevaba dos años en tratamiento por un cáncer",
+      "date": "Sun, 10 May 2026 17:44:19 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/LHUHWVP5A5CFXJUW5WVZ6T7I54.jpg?auth=48c5a83e252c50b616c6ec03594fb3472887e2f4deeac07b912c408c9254722d"
+    },
+    {
       "title": "María Jesús Montero, la niña copiloto en un coche abarrotado camino a Chipiona",
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-10/maria-jesus-montero-una-mujer-atipica-en-combate-contra-el-cliche-se-ha-pisoteado-mi-imagen.html",
       "desc": "La candidata socialista a la Junta aparca la agenda para ver a su madre, doña Conchita, que le prepara un picoteo. “Yo soy una persona muy atípica en muchos sentidos”, dice",
@@ -125,14 +132,7 @@
       "desc": "La Junta decreta luto oficial para el sábado y Moreno también cancela su asistencia a un evento de Netflix esta tarde. Por Andalucía y Adelante modifican la agenda",
       "date": "Fri, 08 May 2026 19:32:40 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/FE2TC3YZP5FCXGZZNMJVN2L5LA.JPG?auth=6c21bb9a6831f4796a0beb1b776338f98f97a785ead2424d003e7d6f02404e34"
-    },
-    {
-      "title": "Moreno se abre a una coalición con Vox: “Los ciudadanos tienen siete días para decidir si gobierno solo o acompañado”",
-      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-08/moreno-se-abre-a-una-coalicion-con-vox-los-ciudadanos-tienen-siete-dias-para-decidir-si-gobierno-solo-o-acompanado.html",
-      "desc": "El presidente de la Junta y candidato del PP insiste en que su voluntad no es gobernar con la formación ultra, pero que la decisión depende de lo que los andaluces decidan el 17M",
-      "date": "Fri, 08 May 2026 11:28:19 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/MFAYBUDLUJM4PO24HD7V3IEP54.jpg?auth=cef26d51a12cce40a31d5f3a20e68f43ba1bd13996c811f9d7511df12e401890"
     }
   ],
-  "fetchedAt": 1778432597653
+  "fetchedAt": 1778437901542
 }
