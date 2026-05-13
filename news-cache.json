@@ -57,11 +57,11 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/LLBPNBHQKRLIDKTHQOOOENM7VA.jpg?auth=786e247ad081dc8970373fb28e3e64b03e6e83d7d57b57e7c6191af864d28719"
     },
     {
-      "title": "España y Arabia Saudí elevan su relación a “asociación estratégica”",
-      "link": "https://elpais.com/espana/2026-05-13/espana-y-arabia-saudi-elevan-su-relacion-a-asociacion-estrategica.html",
-      "desc": "Albares y el príncipe Faisal acuerdan la creación de un consejo bilateral para impulsar la cooperación",
-      "date": "Wed, 13 May 2026 19:39:05 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/3HIX3SZYIBO63MOU2CTCMEHNNU.jpg?auth=40721a7e7806c6dd4f3d6436ad75c3ebf57d87b5250873d51c9d2cda1a92de33"
+      "title": "Susana Díaz se autorreivindica en su debut en la campaña: “Fuimos pioneros”",
+      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-13/susana-diaz-se-autorreivindica-en-su-debut-en-la-campana-fuimos-pioneros.html",
+      "desc": "La expresidenta de la Junta, ausente de los actos del PSOE en las últimas elecciones, reaparece para recordar medidas sociales aprobadas bajo su mandato",
+      "date": "Wed, 13 May 2026 20:42:21 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/WWEUAAW5ZZDDPJA3Q2E23PFJ3U.jpg?auth=45538fdf6f3a323befe62bbe2852406308a91baeaf79bf5cb376bbe7c43593a2"
     },
     {
       "title": "El PSOE apela a sus antiguos votantes en un ‘sprint’ para movilizar a indecisos: “Si nos votaste antes, vuélvenos a votar, que no te vamos a fallar”",
@@ -69,6 +69,13 @@
       "desc": "Sánchez llama al voto útil en su penúltimo mitin con Montero: “Si quieres un proyecto de derechos esta es tu casa, no hay otra”",
       "date": "Wed, 13 May 2026 19:13:28 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/UYSFA642ARASJFYHDZ3UF4OKBA.jpg?auth=5372c41408cf711092282d82b46daf194aad89902749971e4ae04720a5062386"
+    },
+    {
+      "title": "España y Arabia Saudí elevan su relación a “asociación estratégica”",
+      "link": "https://elpais.com/espana/2026-05-13/espana-y-arabia-saudi-elevan-su-relacion-a-asociacion-estrategica.html",
+      "desc": "Albares y el príncipe Faisal acuerdan la creación de un consejo bilateral para impulsar la cooperación",
+      "date": "Wed, 13 May 2026 19:39:05 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/3HIX3SZYIBO63MOU2CTCMEHNNU.jpg?auth=40721a7e7806c6dd4f3d6436ad75c3ebf57d87b5250873d51c9d2cda1a92de33"
     },
     {
       "title": "El fin de la excepción venezolana: el 12 de junio, España cierra la vía que regularizó a 240.000 personas en ocho años",
@@ -125,14 +132,7 @@
       "desc": "Un recorrido en busca de los porqués de la hegemonía conservadora en tierra de invernaderos, donde domina el PP y la ultraderecha aspira al segundo puesto",
       "date": "Tue, 12 May 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/SS7ZKLYOCZAA7AWLSZJGJAWNDU.jpg?auth=032c0462fd7670d0c1689e99e7c7df47e55404babeabbb08c28ad3dfd105cb98"
-    },
-    {
-      "title": "El alcalde de Adamuz: “Me sorprendió la manipulación de Moreno en el debate”",
-      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-12/el-alcalde-de-adamuz-me-sorprendio-la-manipulacion-de-moreno-en-el-debate.html",
-      "desc": "Rafael Moreno Reyes critica la alusión del presidente andaluz sobre el siniestro con 46 víctimas en plena campaña",
-      "date": "Tue, 12 May 2026 12:46:06 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/C34WO62JRBHLNIBAPAIMICMCDA.jpeg?auth=077431dd41a828028ef1e408c500e01775c3353827e2911badd89725113cf31f"
     }
   ],
-  "fetchedAt": 1778703445664
+  "fetchedAt": 1778709160655
 }
