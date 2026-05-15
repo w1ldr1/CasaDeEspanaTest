@@ -8,7 +8,7 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/HJ7QWRWZHFOILP6VFURY3ZDP4I.jpg?auth=2eb6fdcbc41e6f3ecc5621bb31479d7dbb3bd7753dbd354d1a2dd2b3a101e1fe"
     },
     {
-      "title": "Moreno carga contra la gestión del narcotráfico por parte del Gobierno",
+      "title": "Moreno carga contra la gestión de la lucha contra el narcotráfico por parte del Gobierno",
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-15/moreno-carga-contra-la-gestion-del-narcotrafico-por-parte-del-gobierno.html",
       "desc": "El candidato del PP se multiplica en el último día para pedir el voto con actos en Sevilla, Granada y Málaga en el último esfuerzo para conseguir los restos que le garanticen la mayoría absoluta",
       "date": "Fri, 15 May 2026 12:06:56 GMT",
@@ -64,10 +64,10 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/XJMLZOWENNBYZON4TKNQNDYKZI.png?auth=2dda1e61a6e4ee90ba2eb2b6132722c814bbccb6d4865fa712afad00d9958974"
     },
     {
-      "title": "Una narcolancha embiste a una patrullera de Aduanas durante una persecución en Almería",
+      "title": "Una narcolancha golpea a una patrullera de Aduanas durante una persecución en Almería",
       "link": "https://elpais.com/espana/2026-05-15/una-narcolancha-embiste-a-una-patrullera-de-aduanas-durante-una-persecucion-en-almeria.html",
-      "desc": "Ningún funcionario ha resultado herido en el incidente",
-      "date": "Fri, 15 May 2026 11:23:06 GMT",
+      "desc": "Ningún funcionario ha resultado herido en el incidente, ocurrido la pasada madrugada",
+      "date": "Fri, 15 May 2026 15:35:54 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/4NGKONVTJ5GL7NCDDAJCQH5FWU.jpg?auth=f6de3bea124c5d707e51c009db1efbaa272d32b1493518a7686b21d2a5b2b00f"
     },
     {
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/UQU3UTCOLJOFRNTD7YGEGFORDY.jpg?auth=fe4866b18c33e53e5416168b83a4a3376485d8692eee12a521a4e19d499b3dd4"
     }
   ],
-  "fetchedAt": 1778853427612
+  "fetchedAt": 1778861006249
 }
