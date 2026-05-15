@@ -57,11 +57,25 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/EU5XZH7XS5EXFJNHTQ5B75O54A.jpg?auth=a7c4f0b131ac296f9d28890bbd64417d69669a26c6fc17eb75a34d1160fb1735"
     },
     {
+      "title": "Abascal pide para el 17M andaluz no dejarse “traicionar” por Sánchez y Moreno",
+      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-15/abascal-pide-para-el-17m-andaluz-no-dejarse-traicionar-por-sanchez-y-moreno.html",
+      "desc": "El líder de Vox cierra la campaña en Sevilla atacando la regularización de inmigrantes y acompañado de su cúpula ultra",
+      "date": "Fri, 15 May 2026 20:34:17 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/JYCMMVPPDNJI3FML5UXAJCEVZE.jpg?auth=fc2bb6cb23f9f09482785995e6876857de71c23e7bdbf92155b4ff8a35519e3c"
+    },
+    {
       "title": "Maíllo llama en Sevilla a reflexionar sobre la “utilidad del voto”",
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-15/maillo-llama-en-sevilla-a-reflexionar-sobre-la-utilidad-del-voto.html",
       "desc": "El candidato a la Junta de Por Andalucía cierra una campaña que en sus filas señalan que ha ido “de menos a más”",
       "date": "Fri, 15 May 2026 18:59:57 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/HPPPWHFOR5GELPL5UG6XYCGG3Q.jpg?auth=79f28967ba105c2456241ceb879c43287975bf2720050aa6b7af468c2cf2e830"
+    },
+    {
+      "title": "Adelante Andalucía cierra una campaña de 5.300 kilómetros mostrándose como voto útil contra la derecha",
+      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-15/adelante-andalucia-cierra-una-campana-de-5300-kilometros-mostrandose-como-voto-util-contra-la-derecha.html",
+      "desc": "El partido andalucista de izquierdas ha reivindicado “la alegría” de ser de izquierdas en un multitudinario acto en Sevilla",
+      "date": "Fri, 15 May 2026 19:48:05 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/45TZCSCZQZC3JFMXWU4TJDRT3I.JPG?auth=15e526bede86f9ce4df328d0716d0da14382a7e07c030cc0244ae65fde572ebd"
     },
     {
       "title": "El Supremo deja sin efecto la decisión del Ayuntamiento de Madrid de declarar inviables 232 proyectos de los presupuestos participativos",
@@ -118,21 +132,7 @@
       "desc": "El eurodiputado sevillano, con las encuestas en contra, hace el tercer intento de meter a su partido en una autonomía con la vista ya puesta en las generales",
       "date": "Fri, 15 May 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/VHTMKPLXIFGDFJGXZDP2ZUVREA.jpg?auth=ab03d02d6fa26e15e7c3c2ced243ace5a4e777770688432c5822e441d41fdcbb"
-    },
-    {
-      "title": "Radiografía de la vivienda en Andalucía: poca oferta, mucha demanda y el factor turístico",
-      "link": "https://elpais.com/espana/2026-05-15/radiografia-de-la-vivienda-en-andalucia-poca-oferta-mucha-demanda-y-el-factor-turistico.html",
-      "desc": "La comunidad cuenta con 152.000 viviendas turísticas y casi 3.000 conjuntos de apartamentos, una de las grandes claves que explican los precios de récord del metro cuadrado",
-      "date": "Fri, 15 May 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/BNBTWCTYJ5BXBL5ZJPLMCAPKNY.jpg?auth=3412817636848ef88549ee8a87e548ef4bbdf8a897e02e66816a87ebfd852b7f"
-    },
-    {
-      "title": "La falta del número de la Seguridad Social frena el acceso inmediato al trabajo legal de miles de migrantes",
-      "link": "https://elpais.com/espana/2026-05-15/la-falta-del-numero-de-la-seguridad-social-frena-el-acceso-inmediato-al-trabajo-legal-de-miles-de-migrantes.html",
-      "desc": "Los extranjeros cuya solicitud de regularización ha sido admitida a trámite siguen esperando para formalizar sus contratos de trabajo",
-      "date": "Fri, 15 May 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/3ON7W22XEBBPFKT2WVGRUJQBDA.jpg?auth=4b4ae4f7fc05a703f4829dc408bff759a02a02ebce3cb5272cc4a59464d4f696"
     }
   ],
-  "fetchedAt": 1778874498856
+  "fetchedAt": 1778878577269
 }
