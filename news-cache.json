@@ -57,6 +57,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/F4H2LQTSQRL35C6B263CWIP5YE.jpg?auth=cdbc6c0c2f209c212a1f3cbeb6591e215956145760ed0477ad7f3e92dca3c1ce"
     },
     {
+      "title": "¿Qué dicen las encuestas en Andalucía? El pinchazo del PP y otras posibles sorpresas",
+      "link": "https://elpais.com/actualidad/newsletter-kiko-llaneras/2026-05-16/que-dicen-las-encuestas-en-andalucia-el-pinchazo-del-pp-y-otras-posibles-sorpresas.html",
+      "desc": "El resultado central de nuestro modelo es que el PP tenga 55 escaños y mayoría absoluta. Pero pende de un hilo: el 43% de las veces —casi la mitad— los populares se quedan cortos",
+      "date": "Sat, 16 May 2026 03:30:01 GMT",
+      "imgUrl": null
+    },
+    {
       "title": "Los ‘chats’ encriptados de los narcos del puerto de Valencia: “Controlamos todas las unidades policiales”",
       "link": "https://elpais.com/espana/comunidad-valenciana/2026-05-16/los-chats-encriptados-de-los-narcos-del-puerto-de-valencia-controlamos-todas-las-unidades-policiales.html",
       "desc": "Los miembros de una red que almacenaba 4,5 toneladas de cocaína presumían de su infiltración en las Fuerzas de Seguridad. La organización abonaba 120.000 euros por operación a cada camionero. “Si pagas mucho, se hacen ricos y dejan de currar”, advertía un cabecilla",
@@ -125,14 +132,7 @@
       "desc": "Los agentes descubrieron las armas al seguir la pista de 1.600 kilos de droga que entraron por el río Guadalete",
       "date": "Fri, 15 May 2026 10:00:49 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/XJMLZOWENNBYZON4TKNQNDYKZI.png?auth=2dda1e61a6e4ee90ba2eb2b6132722c814bbccb6d4865fa712afad00d9958974"
-    },
-    {
-      "title": "Una narcolancha golpea a una patrullera de Aduanas durante una persecución en Almería",
-      "link": "https://elpais.com/espana/2026-05-15/una-narcolancha-embiste-a-una-patrullera-de-aduanas-durante-una-persecucion-en-almeria.html",
-      "desc": "Ningún funcionario ha resultado herido en el incidente, ocurrido la pasada madrugada",
-      "date": "Fri, 15 May 2026 15:35:54 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/4NGKONVTJ5GL7NCDDAJCQH5FWU.jpg?auth=f6de3bea124c5d707e51c009db1efbaa272d32b1493518a7686b21d2a5b2b00f"
     }
   ],
-  "fetchedAt": 1778935010355
+  "fetchedAt": 1778941343587
 }
