@@ -1,16 +1,16 @@
 {
   "items": [
     {
-      "title": "La participación en las elecciones andaluzas sube tres puntos a las 14.00 respecto a 2022",
+      "title": "La participación en las elecciones andaluzas se dispara siete puntos a las 18.00 respecto a 2022",
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-17/datos-de-participacion-de-las-elecciones-en-andalucia-17m.html",
-      "desc": "Un 37,25% de los votantes ha acudido ya a las urnas, frente al 34,24% de hace cuatro años",
-      "date": "Sun, 17 May 2026 13:08:36 GMT",
+      "desc": "Un 52,16% de los votantes ha acudido ya a las urnas, frente al 44,51% de hace cuatro años",
+      "date": "Sun, 17 May 2026 16:47:55 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260517/1172481_115438_video_1800.mp4"
     },
     {
       "title": "Buen tiempo, playas y comuniones en el día de las elecciones andaluzas",
       "link": "https://elpais.com/espana/2026-05-17/buen-tiempo-playas-y-comuniones-en-el-dia-de-las-elecciones-andaluzas.html",
-      "desc": "La jornada electoral transcurre con “absoluta normalidad” y un porcentaje de participación a las 14.00 tres puntos mayor que en 2022",
+      "desc": "La jornada electoral transcurre con “absoluta normalidad” y un porcentaje de participación a las 18.00 casi ocho puntos mayor que en 2022",
       "date": "Sun, 17 May 2026 14:04:19 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/22MA2SNZ4RCHBCOPHWJPOS3F7I.jpg?auth=3141b9f703b2633bdfbf18710d7c639b00fca4656ee304319c573050e851af52"
     },
@@ -134,5 +134,5 @@
       "imgUrl": null
     }
   ],
-  "fetchedAt": 1779032140297
+  "fetchedAt": 1779036796675
 }
