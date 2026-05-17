@@ -1,10 +1,10 @@
 {
   "items": [
     {
-      "title": "La participación en las elecciones andaluzas se dispara siete puntos a las 18.00 respecto a 2022",
+      "title": "La participación en las elecciones andaluzas sube más de ocho puntos respecto a 2022",
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-17/datos-de-participacion-de-las-elecciones-en-andalucia-17m.html",
-      "desc": "Un 52,16% de los votantes ha acudido ya a las urnas, frente al 44,51% de hace cuatro años",
-      "date": "Sun, 17 May 2026 16:47:55 GMT",
+      "desc": "Un 64% de los votantes ha acudido a las urnas. La provincia de Almería lidera el alza, con un incremento de la movilización de más de 11 puntos",
+      "date": "Sun, 17 May 2026 20:49:55 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260517/1172481_115438_video_1800.mp4"
     },
     {
@@ -110,7 +110,7 @@
       "link": "https://elpais.com/espana/2026-05-17/podra-la-ia-poner-sentencias-la-justicia-se-prepara-para-la-revolucion-sin-haber-terminado-la-digitalizacion.html",
       "desc": "El Ministerio de Justicia instala Copilot a todos sus trabajadores; la Fiscalía tiene un proyecto piloto en seguridad vial; los abogados crean sistemas inteligentes adaptados para no fallar en juicio",
       "date": "Sun, 17 May 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/KBOPEEMYMZBYJHU4M3JJKLHQ7A.jpg?auth=6f23aee1138b5f051aa3aadf30a3f997ff84f233159a923ba2babbf650999ee7"
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/5CQ7F34WNZHIXKGMZ7ATDQFZ5A.jpg?auth=6e60925f14b53fb5ae6e1e8456b549597b04ca06757f1ed7a004ee07ea69608b"
     },
     {
       "title": "El Gobierno rescata un plan con seis leyes para combatir los pseudomedios",
@@ -134,5 +134,5 @@
       "imgUrl": null
     }
   ],
-  "fetchedAt": 1779047078333
+  "fetchedAt": 1779051379811
 }
