@@ -8,10 +8,10 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/BV4425SXNFG43LRDTE575YCAVA.JPG?auth=03a4e536800f9d399fe81c2509202f8f0a3497bfa4c3a9a2bc66ff43764b8737"
     },
     {
-      "title": "La participación en las elecciones andaluzas se mantiene a las 11.30 en niveles similares a 2022",
+      "title": "La participación en las elecciones andaluzas sube tres puntos a las 14.00 respecto a 2022",
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-17/datos-de-participacion-de-las-elecciones-en-andalucia-17m.html",
-      "desc": "Un 15,10% de los votantes ha acudido ya a las urnas, frente al 15,44% de hace cuatro años",
-      "date": "Sun, 17 May 2026 10:24:36 GMT",
+      "desc": "Un 37,25% de los votantes ha acudido ya a las urnas, frente al 34,24% de hace cuatro años",
+      "date": "Sun, 17 May 2026 13:08:36 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/J6ZWHEF6M5NNJD6BLRHMLGYXZ4.jpg?auth=49af5f2bd3480b9191219691960311f1b21613af874f16f90ded62a3b3478b65"
     },
     {
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/ECOMFCP4LVBSLELLFZKECSMZ7I.JPG?auth=1ff7dad82642dd757e6e54f19a662873401c92d5e139ab2fd46a14e040a43721"
     }
   ],
-  "fetchedAt": 1779019873964
+  "fetchedAt": 1779026690521
 }
