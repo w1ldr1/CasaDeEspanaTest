@@ -12,7 +12,7 @@
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-17/moreno-mete-a-andalucia-en-el-lio-de-vox-y-de-la-campana-nacional.html",
       "desc": "“A los de Vox no es igual hablarles de tú que de usted”",
       "date": "Sun, 17 May 2026 21:48:31 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/VCXLAAQ6W5B63CR5AO5UJBT5W4.jpg?auth=4aad28fbbcab6a532582e8adf71b034ba776a16849ab37176c5f1054bf9b1ce0"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260517/1172667_215614_video_1800.mp4"
     },
     {
       "title": "El PSOE fía las generales al voto útil de la izquierda",
@@ -66,16 +66,23 @@
     {
       "title": "El PP baja cinco diputados y se mete en “el lío” contra el que ha alertado toda la campaña",
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-17/el-pp-baja-cinco-diputados-y-se-mete-en-el-lio-contra-el-que-ha-alertado-toda-la-campana.html",
-      "desc": "Con 53 escaños y mayor número de votos, el PP queda en manos de Vox para gobernar en Andalucía",
+      "desc": "Con 53 escaños, mayor número de votos y en manos de Vox, el dirigente popular se ha mostrado dispuesto a formar gobierno: “Nos corresponde la responsabilidad de gobernar”",
       "date": "Sun, 17 May 2026 21:02:58 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/VCXLAAQ6W5B63CR5AO5UJBT5W4.jpg?auth=4aad28fbbcab6a532582e8adf71b034ba776a16849ab37176c5f1054bf9b1ce0"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260517/1172667_215614_video_1800.mp4"
     },
     {
       "title": "Sánchez encaja la cuarta derrota consecutiva y vuelve a fracasar con otro ministro como candidato",
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-17/los-socialistas-se-aferran-a-la-dependencia-de-moreno-de-vox-para-camuflar-su-peor-resultado.html",
-      "desc": "Líderes territoriales socialistas cuestionan la elección de ministros como candidatos en sus comunidades",
+      "desc": "Líderes territoriales socialistas cuestionan la elección de miembros del Consejo de Ministros para liderar los proyectos en sus comunidades",
       "date": "Sun, 17 May 2026 21:26:35 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/TUH6AZ7E7ZH2BLLSU4HHCZ5XH4.jpg?auth=c96af4937222363348823eb4fb6e042c6d3e864d6a162deac16348ff03371830"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260517/1172676_221430_video_1800.mp4"
+    },
+    {
+      "title": "“Lo logramos”, proclama Abascal ante la pérdida de la mayoría absoluta del PP",
+      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-17/lo-logramos-proclama-abascal-ante-la-perdida-de-la-mayoria-absoluta-del-pp.html",
+      "desc": "El partido de Abascal sube un escaño y logra 80.000 votos más que en 2022",
+      "date": "Sun, 17 May 2026 22:02:23 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/A7UH2MDCSVDSNFQS43SE7BOUUU.jpg?auth=9aded9f096878d5e54a83db1a42ebf5c9ac385c30aa82d70223991480c56e65e"
     },
     {
       "title": "Del ‘superdomingo’ a echarse al monte",
@@ -125,14 +132,7 @@
       "desc": "El exministro Jorge Fernández Díaz despliega su defensa sin la oposición de su ex número dos, que lo señaló en instrucción. El tribunal se prepara para escuchar más pruebas del espionaje a Bárcenas",
       "date": "Sun, 17 May 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/M4O4PHPXZVPSLKT32IQKRW5DBI.jpg?auth=ed37c116b86af1415174412acb529abbb37a0f976911b648930f4d967ff70f19"
-    },
-    {
-      "title": "Adelante Andalucía pulveriza su mejor resultado electoral y le complica la absoluta a Moreno",
-      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-17/adelante-andalucia-pulveriza-su-mejor-resultado-electoral-y-le-complica-la-absoluta-a-moreno.html",
-      "desc": "La formación andalucista de izquierdas consigue ocho diputados, supera a Por Andalucía y es el partido que más crece en estas elecciones",
-      "date": "Sun, 17 May 2026 20:58:06 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260517/1172659_214600_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1779055997485
+  "fetchedAt": 1779060484877
 }
