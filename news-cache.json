@@ -1,25 +1,25 @@
 {
   "items": [
     {
-      "title": "El PP prueba la eficacia de la “vía andaluza” para frenar a Vox",
-      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-17/el-pp-prueba-la-eficacia-de-la-via-andaluza-para-frenar-a-vox.html",
-      "desc": "Feijóo intentará capitalizar la holgada victoria del “barón moderado”. El PSOE se expone a su peor resultado histórico y Vox a no ser decisivo por primera vez en este ciclo electoral",
-      "date": "Sun, 17 May 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/BV4425SXNFG43LRDTE575YCAVA.JPG?auth=03a4e536800f9d399fe81c2509202f8f0a3497bfa4c3a9a2bc66ff43764b8737"
-    },
-    {
       "title": "La participación en las elecciones andaluzas sube tres puntos a las 14.00 respecto a 2022",
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-17/datos-de-participacion-de-las-elecciones-en-andalucia-17m.html",
       "desc": "Un 37,25% de los votantes ha acudido ya a las urnas, frente al 34,24% de hace cuatro años",
       "date": "Sun, 17 May 2026 13:08:36 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/J6ZWHEF6M5NNJD6BLRHMLGYXZ4.jpg?auth=49af5f2bd3480b9191219691960311f1b21613af874f16f90ded62a3b3478b65"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260517/1172481_115438_video_1800.mp4"
     },
     {
-      "title": "La crónica | Andalucía cierra ciclo electoral sin alterar el plan de Pedro Sánchez",
-      "link": "https://elpais.com/espana/2026-05-17/sanchez-descarta-cambios-ante-un-mal-resultado-las-andaluzas-no-son-las-generales.html",
-      "desc": "Nadie espera grandes movimientos en política nacional, pase lo que pase. Los Presupuestos catalanes, cada vez más cerca, serían la principal novedad. Hay nervios en algunos alcaldes, pero no un movimiento crítico frente al presidente",
-      "date": "Sun, 17 May 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/O7PA4IT6C5FXPL244HADIDWIFY.jpg?auth=d1db8a8612e102822365afd6b55747072031edf3d382e29701bed7fa9cf53a10"
+      "title": "Buen tiempo, playas y comuniones en el día de las elecciones andaluzas",
+      "link": "https://elpais.com/espana/2026-05-17/buen-tiempo-playas-y-comuniones-en-el-dia-de-las-elecciones-andaluzas.html",
+      "desc": "La jornada electoral transcurre con “absoluta normalidad” y un porcentaje de participación a las 14.00 tres puntos mayor que en 2022",
+      "date": "Sun, 17 May 2026 14:04:19 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/22MA2SNZ4RCHBCOPHWJPOS3F7I.jpg?auth=3141b9f703b2633bdfbf18710d7c639b00fca4656ee304319c573050e851af52"
+    },
+    {
+      "title": "De la Andalucía roja a la azul: así se comporta en elecciones la comunidad más poblada",
+      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-17/de-la-andalucia-roja-a-la-azul-asi-se-comporta-en-elecciones-la-comunidad-mas-poblada.html",
+      "desc": "Los andaluces han pasado de conceder rotundas mayorías a los socialistas a darle el poder al PP cuando cosechó uno de sus peores resultados",
+      "date": "Sun, 17 May 2026 10:05:04 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/WSGM4FV5HZFXBBN6PKF3D7MSNA.jpg?auth=78508afff9fc20b38ffe590de1598a049b4773b3be7dd83372a01b26263a77d0"
     },
     {
       "title": "El misterio del liderazgo: ¿Moreno Bonilla o Ayuso?",
@@ -57,11 +57,18 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/PHZZMZOZAKXUD7ZUACUZHLUBGU.jpg?auth=3b61a731f549c0d4535747c4fc89e3f6d9d1ccb7aaa826d1819ba720333b8966"
     },
     {
-      "title": "De la Andalucía roja a la azul: así se comporta en elecciones la comunidad más poblada",
-      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-17/de-la-andalucia-roja-a-la-azul-asi-se-comporta-en-elecciones-la-comunidad-mas-poblada.html",
-      "desc": "Los andaluces han pasado de conceder rotundas mayorías a los socialistas a darle el poder al PP cuando cosechó uno de sus peores resultados",
-      "date": "Sun, 17 May 2026 10:05:04 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/WSGM4FV5HZFXBBN6PKF3D7MSNA.jpg?auth=78508afff9fc20b38ffe590de1598a049b4773b3be7dd83372a01b26263a77d0"
+      "title": "El PP prueba la eficacia de la “vía andaluza” para frenar a Vox",
+      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-17/el-pp-prueba-la-eficacia-de-la-via-andaluza-para-frenar-a-vox.html",
+      "desc": "Feijóo intentará capitalizar la holgada victoria del “barón moderado”. El PSOE se expone a su peor resultado histórico y Vox a no ser decisivo por primera vez en este ciclo electoral",
+      "date": "Sun, 17 May 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/BV4425SXNFG43LRDTE575YCAVA.JPG?auth=03a4e536800f9d399fe81c2509202f8f0a3497bfa4c3a9a2bc66ff43764b8737"
+    },
+    {
+      "title": "La crónica | Andalucía cierra ciclo electoral sin alterar el plan de Pedro Sánchez",
+      "link": "https://elpais.com/espana/2026-05-17/sanchez-descarta-cambios-ante-un-mal-resultado-las-andaluzas-no-son-las-generales.html",
+      "desc": "Nadie espera grandes movimientos en política nacional, pase lo que pase. Los Presupuestos catalanes, cada vez más cerca, serían la principal novedad. Hay nervios en algunos alcaldes, pero no un movimiento crítico frente al presidente",
+      "date": "Sun, 17 May 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/O7PA4IT6C5FXPL244HADIDWIFY.jpg?auth=d1db8a8612e102822365afd6b55747072031edf3d382e29701bed7fa9cf53a10"
     },
     {
       "title": "Un pacto de no agresión sobrevuela el juicio de Kitchen",
@@ -125,14 +132,7 @@
       "desc": "Consulte los resultados de cada localidad en todas las elecciones autonómicas de Andalucía celebradas desde la Transición",
       "date": "Sat, 16 May 2026 03:30:01 GMT",
       "imgUrl": null
-    },
-    {
-      "title": "Familia, amigos y vida cotidiana, así pasan el día de reflexión los candidatos a la Junta de Andalucía",
-      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-16/familia-amigos-y-vida-cotidiana-asi-pasan-el-dia-de-reflexion-los-candidatos-a-la-junta-de-andalucia.html",
-      "desc": "Los aspirantes tratan de relajarse el día previo a las elecciones autonómicas tras una campaña átona en la que han buscado movilizar a los indecisos y desencantados",
-      "date": "Sat, 16 May 2026 17:04:09 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/ECOMFCP4LVBSLELLFZKECSMZ7I.JPG?auth=1ff7dad82642dd757e6e54f19a662873401c92d5e139ab2fd46a14e040a43721"
     }
   ],
-  "fetchedAt": 1779026534125
+  "fetchedAt": 1779032140297
 }
