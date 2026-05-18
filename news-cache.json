@@ -22,6 +22,20 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/ZOIPJPUZVNFE3NKIYZC7EVDD7I.jpg?auth=3cc963671ca97cb19b3ba206475eb3147b640af33200213532769c815e73d083"
     },
     {
+      "title": "Esos ciudadanos que votan dos veces",
+      "link": "https://elpais.com/opinion/2026-05-18/esos-ciudadanos-que-votan-dos-veces.html",
+      "desc": "Cada vez más electores parecen tener la necesidad de expresar sus preferencias en las redes antes de ir a las urnas",
+      "date": "Mon, 18 May 2026 03:30:00 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/2AZDXX3KIBORPCGBGAMQPLMAEA.jpg?auth=3b2fd1444a7a3d3ae30492275cddd8548ee57f3cd95ab8d583282b4f6fcff0b1"
+    },
+    {
+      "title": "Excusas para una derrota",
+      "link": "https://elpais.com/opinion/2026-05-18/excusas-para-una-derrota.html",
+      "desc": "Es verdad que Montero no era una buena candidata y que su campaña fue torpe. Pero cuesta seguir fingiendo que el problema del PSOE se limita a eso",
+      "date": "Mon, 18 May 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/GVDLNSHSOBI43I5DV746H5ZEMY.jpg?auth=a95f088180b09762cf7883536ce23698bf34c3571f02c7340794ac57d52a9ccc"
+    },
+    {
       "title": "El misterio del liderazgo: ¿Moreno Bonilla o Ayuso?",
       "link": "https://elpais.com/opinion/2026-05-17/el-misterio-del-liderazgo-moreno-bonilla-o-ayuso.html",
       "desc": "El PP puede alcanzar grandes resultados en Andalucía con un candidato moderado en las formas y el discurso. Justo lo contrario que en Madrid",
@@ -41,20 +55,6 @@
       "desc": "Se echan de menos los tiempos en que el populismo consistía en regalar anchoas",
       "date": "Sat, 16 May 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/4RLFFEC5WFKXXHUJXGCPTRUJ4Y.jpg?auth=be3e286b2ece2d175b3c26bcb79560f8306facbe13eab22652d0373215439d2f"
-    },
-    {
-      "title": "La generación 15-M, pasados 15 años",
-      "link": "https://elpais.com/opinion/2026-05-15/la-generacion-15-m-pasados-15-anos.html",
-      "desc": "Los jóvenes socializados políticamente bajo los partidos que surgieron de las protestas de 2011 desconfían del Estado, están enfadados y asustados e identifican al sistema con la izquierda",
-      "date": "Fri, 15 May 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/DQRD4IWSX5DC3G2GKKBNJMUZTU.jpg?auth=81ce1066b0380790d583fb5f271b954c58657c864d1cb8ec25095ae6dbf7339b"
-    },
-    {
-      "title": "El inmenso poder de Andalucía",
-      "link": "https://elpais.com/opinion/2026-05-15/el-inmenso-poder-de-andalucia.html",
-      "desc": "Para calibrar hasta qué punto la comunidad ha sido un éxito basta pensar en el estrépito si hubiese sido una autonomía fallida",
-      "date": "Fri, 15 May 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/PHZZMZOZAKXUD7ZUACUZHLUBGU.jpg?auth=3b61a731f549c0d4535747c4fc89e3f6d9d1ccb7aaa826d1819ba720333b8966"
     },
     {
       "title": "Montero lleva al PSOE andaluz a su peor resultado histórico",
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/M4O4PHPXZVPSLKT32IQKRW5DBI.jpg?auth=ed37c116b86af1415174412acb529abbb37a0f976911b648930f4d967ff70f19"
     }
   ],
-  "fetchedAt": 1779067694550
+  "fetchedAt": 1779083158502
 }
