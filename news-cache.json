@@ -15,10 +15,10 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/46MBSVDO7FKTHFBOPFT4C7UURU.jpg?auth=ed0458980e73daea1b828ebaf01a4aa125472b4fb5d767b6461fa8395feb9b13"
     },
     {
-      "title": "La Audiencia Nacional suspende la declaración de la sede de la Presidencia de la Comunidad Madrid como lugar de memoria",
+      "title": "La Audiencia Nacional suspende la declaración de la sede del Gobierno madrileño como lugar de memoria",
       "link": "https://elpais.com/espana/2026-05-18/la-audiencia-nacional-suspende-la-declaracion-de-la-sede-de-la-presidencia-de-madrid-como-lugar-de-memoria-democratica.html",
-      "desc": "Los magistrados atienden a la medida cautelar solicitada por el Gobierno autonómico de Isabel Díaz Ayuso",
-      "date": "Mon, 18 May 2026 13:25:48 GMT",
+      "desc": "Los magistrados atienden a la medida cautelar solicitada por el Ejecutivo autonómico de Isabel Díaz Ayuso",
+      "date": "Mon, 18 May 2026 14:53:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/54UBIGQHD5HQVB6QDKWTCSV46A.jpg?auth=736172101569b690f1ae5d5305809f4abd3ff04215ede56f4a49b1fa1d1744c7"
     },
     {
@@ -33,7 +33,7 @@
       "link": "https://elpais.com/opinion/2026-05-18/excusas-para-una-derrota.html",
       "desc": "Es verdad que Montero no era una buena candidata y que su campaña fue torpe. Pero cuesta seguir fingiendo que el problema del PSOE se limita a eso",
       "date": "Mon, 18 May 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/GVDLNSHSOBI43I5DV746H5ZEMY.jpg?auth=a95f088180b09762cf7883536ce23698bf34c3571f02c7340794ac57d52a9ccc"
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/S2JU64QTNFDB3NJ4CE5HMKFG5Q.JPG?auth=ecc8aa881e8d8ce86e6940502b171ba0a22dcfa8da6e6701806b15189fb9edb7"
     },
     {
       "title": "El misterio del liderazgo: ¿Moreno Bonilla o Ayuso?",
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/WSGM4FV5HZFXBBN6PKF3D7MSNA.jpg?auth=78508afff9fc20b38ffe590de1598a049b4773b3be7dd83372a01b26263a77d0"
     }
   ],
-  "fetchedAt": 1779111690990
+  "fetchedAt": 1779122682101
 }
