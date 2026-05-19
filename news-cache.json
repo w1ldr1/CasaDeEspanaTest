@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "title": "La imputación de Zapatero revienta el plan de Sánchez para salir del agujero de las andaluzas",
+      "link": "https://elpais.com/espana/2026-05-19/la-imputacion-de-zapatero-revienta-el-plan-de-sanchez-para-salir-del-agujero-de-las-andaluzas.html",
+      "desc": "El presidente mantiene su apoyo al hombre clave del sanchismo en un ambiente de ‘shock’",
+      "date": "Tue, 19 May 2026 20:40:00 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/4ANEOH5XNBNKLCZVHT4POJNRLY.jpg?auth=42a86242023d6b4c599f274f1c0796d79917cdb877aea4e6956790b87855189a"
+    },
+    {
       "title": "Zapatero, imputado en la Audiencia Nacional por liderar “una estructura organizada y estable orientada al ejercicio ilícito de influencias”",
       "link": "https://elpais.com/espana/2026-05-19/zapatero-imputado-por-blanqueo-de-capitales-en-el-caso-plus-ultra.html",
       "desc": "El juez cita al expresidente a declarar el 2 de junio. La UDEF registra este martes su oficina, la empresa de sus hijas y otra de una familia venezolana",
@@ -12,13 +19,6 @@
       "link": "https://elpais.com/espana/2026-05-19/el-juez-atribuye-a-zapatero-el-cobro-de-cerca-de-dos-millones-en-comisiones.html",
       "desc": "El magistrado describe una compleja red de sociedades instrumentales para “ocultar el origen y destino de los fondos”",
       "date": "Tue, 19 May 2026 17:24:18 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260519/1173307_123538_video_1800.mp4"
-    },
-    {
-      "title": "¿Por qué se investiga a Zapatero? ¿De qué se lo acusa? Preguntas y respuestas del ‘caso Plus Ultra’",
-      "link": "https://elpais.com/espana/2026-05-19/por-que-se-investiga-a-zapatero-de-que-se-le-acusa-preguntas-y-respuestas-del-caso-plus-ultra.html",
-      "desc": "El juez de la Audiencia Nacional ha levantado el secreto de la investigación que dirige desde hace meses junto a la Fiscalía Anticorrupción",
-      "date": "Tue, 19 May 2026 18:42:24 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260519/1173307_123538_video_1800.mp4"
     },
     {
@@ -55,6 +55,13 @@
       "desc": "Se echan de menos los tiempos en que el populismo consistía en regalar anchoas",
       "date": "Sat, 16 May 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/4RLFFEC5WFKXXHUJXGCPTRUJ4Y.jpg?auth=be3e286b2ece2d175b3c26bcb79560f8306facbe13eab22652d0373215439d2f"
+    },
+    {
+      "title": "¿Por qué se investiga a Zapatero? ¿De qué se lo acusa? Preguntas y respuestas del ‘caso Plus Ultra’",
+      "link": "https://elpais.com/espana/2026-05-19/por-que-se-investiga-a-zapatero-de-que-se-le-acusa-preguntas-y-respuestas-del-caso-plus-ultra.html",
+      "desc": "El juez de la Audiencia Nacional ha levantado el secreto de la investigación que dirige desde hace meses junto a la Fiscalía Anticorrupción",
+      "date": "Tue, 19 May 2026 18:42:24 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260519/1173307_123538_video_1800.mp4"
     },
     {
       "title": "El PSOE se revuelve ante un golpe durísimo al núcleo del sanchismo: “El que pueda hacer que haga”",
@@ -125,14 +132,7 @@
       "desc": "El expresidente, investigado por tráfico de influencias por la Audiencia Nacional, asegura que colaborará con la justicia y defiende que su actividad se ha desarrollado con “respeto a la legalidad”",
       "date": "Tue, 19 May 2026 12:43:52 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260519/1173307_123538_video_1800.mp4"
-    },
-    {
-      "title": "La Eurocámara también levanta la inmunidad de Alvise Pérez por presunta financiación irregular de su partido",
-      "link": "https://elpais.com/espana/2026-05-19/la-eurocamara-tambien-levanta-la-inmunidad-de-alvise-perez-por-presunta-financiacion-irregular-de-su-partido.html",
-      "desc": "Es el segundo suplicatorio del Supremo que valida el Parlamento Europeo, que acaba de recibir una tercera petición para poder investigar si acosó a sus dos antiguos eurodiputados y espera una cuarta demanda",
-      "date": "Tue, 19 May 2026 11:28:40 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/LJCRUIME4BF2NHGUNXSRTHVET4.jpg?auth=774670d07cdd6c9b53c11385247d04f3b37ea8c731904f9069c67c2d08d997e2"
     }
   ],
-  "fetchedAt": 1779220062703
+  "fetchedAt": 1779225349110
 }
