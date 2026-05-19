@@ -1,25 +1,25 @@
 {
   "items": [
     {
+      "title": "Zapatero, imputado en el ‘caso Plus Ultra’ de la Audiencia Nacional por organización criminal, tráfico de influencias y falsedad documental",
+      "link": "https://elpais.com/espana/2026-05-19/zapatero-imputado-por-blanqueo-de-capitales-en-el-caso-plus-ultra.html",
+      "desc": "El juez le ha citado a declarar el 2 de junio. La UDEF está registrando este martes la oficina del expresidente y la empresa de sus hijas",
+      "date": "Tue, 19 May 2026 07:53:36 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/2DD4DDDNKBBPXDV3DGC6COYRU4.jpg?auth=c11850223fd438af36c16e92895e97cddc47fa05efdc6e98f866f58e76842cf5"
+    },
+    {
+      "title": "Golpe durísimo al corazón del sanchismo tras la imputación de Zapatero",
+      "link": "https://elpais.com/espana/2026-05-19/golpe-durisimo-al-corazon-del-sanchismo-tras-la-imputacion-de-zapatero.html",
+      "desc": "El Gobierno ya prepara la estrategia de defensa del expresidente, persona de máxima confianza de Sánchez",
+      "date": "Tue, 19 May 2026 08:11:59 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/ZIRH4ZHVCVDX5JO7BL3LJYY37A.jpg?auth=aee6e80d03d279ef19d86c4f9f8aed4a59b879b1064559a8b137003fc9554434"
+    },
+    {
       "title": "El ciclo electoral consolida la derechización de España a la espera de las generales",
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-19/el-ciclo-electoral-consolida-la-derechizacion-de-espana-a-la-espera-de-las-generales.html",
       "desc": "El bloque conservador ha subido en todos los últimos comicios salvo en Andalucía, donde se ha frenado ligeramente  |  El PP da por hecho que es imparable mientras el Gobierno cree que con la movilización de generales todo está por escribir, como en 2023",
       "date": "Tue, 19 May 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/5B74YBJR4FGOBPK4B3X366JW3Y.png?auth=080c24180cc468e1cd01afca50d6b12fe3d9b1a514c851acff981b18943f762a"
-    },
-    {
-      "title": "El ala dura del PP se revuelve contra la moderación tras el resultado andaluz: “Así no se llega”",
-      "link": "https://elpais.com/espana/2026-05-19/el-ala-dura-del-pp-se-revuelve-contra-la-moderacion-tras-el-resultado-andaluz-asi-no-se-llega.html",
-      "desc": "La pérdida de la mayoría absoluta reabre el debate estratégico en el PP sobre la ‘vía Moreno’ o la ‘vía Ayuso’, con los moderados debilitados",
-      "date": "Tue, 19 May 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/FRFB5FHZ3VP2BDYFZ7JOWYYYSY.jpg?auth=196ed7ac05b2efa9955827e1a32260496413b886cb87ccf48db4922be30183bc"
-    },
-    {
-      "title": "Andalucía agrava el calvario de la socialdemocracia en Europa",
-      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-19/andalucia-agrava-el-calvario-de-la-socialdemocracia-en-europa.html",
-      "desc": "Tras Reino Unido y Dinamarca, la familia progresista acumula otra importante decepción y evidencia su dificultad para adaptar el discurso a la arena política contemporánea",
-      "date": "Tue, 19 May 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/RJYTGB6RVREF7HCLBTVWMTGNK4.jpg?auth=f802cef5bc2689c06bafbfcda2f7b284b95a331fa676e085fac165f9fa4663ef"
     },
     {
       "title": "Esos ciudadanos que votan dos veces",
@@ -57,18 +57,32 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/4RLFFEC5WFKXXHUJXGCPTRUJ4Y.jpg?auth=be3e286b2ece2d175b3c26bcb79560f8306facbe13eab22652d0373215439d2f"
     },
     {
+      "title": "El ala dura del PP se revuelve contra la moderación tras el resultado andaluz: “Así no se llega”",
+      "link": "https://elpais.com/espana/2026-05-19/el-ala-dura-del-pp-se-revuelve-contra-la-moderacion-tras-el-resultado-andaluz-asi-no-se-llega.html",
+      "desc": "La pérdida de la mayoría absoluta reabre el debate estratégico en el PP sobre la ‘vía Moreno’ o la ‘vía Ayuso’, con los moderados debilitados",
+      "date": "Tue, 19 May 2026 03:30:01 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260518/1172871_134817_video_1800.mp4"
+    },
+    {
+      "title": "Andalucía agrava el calvario de la socialdemocracia en Europa",
+      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-19/andalucia-agrava-el-calvario-de-la-socialdemocracia-en-europa.html",
+      "desc": "Tras el Reino Unido y Dinamarca, la familia progresista acumula otra importante decepción y evidencia su dificultad para adaptar el discurso a la arena política contemporánea",
+      "date": "Tue, 19 May 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/RJYTGB6RVREF7HCLBTVWMTGNK4.jpg?auth=f802cef5bc2689c06bafbfcda2f7b284b95a331fa676e085fac165f9fa4663ef"
+    },
+    {
       "title": "El PSOE andaluz se busca y no se encuentra tras más de siete años en la oposición",
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-19/el-psoe-andaluz-se-busca-y-no-se-encuentra-tras-mas-de-siete-anos-en-la-oposicion.html",
       "desc": "El partido “ha perdido el distintivo de ser el partido referente de Andalucía”, asegura un dirigente andaluz y antiguo consejero socialista",
       "date": "Tue, 19 May 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/PUOOCFYH7ZB5RIUS5FTSJSW5X4.jpg?auth=16cc171ebe45db3a133f042b2a89464308f1dd47c004f427cf4aa191fba0181c"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260518/1172799_102425_video_1800.mp4"
     },
     {
       "title": "José Ignacio García ‘El Gafa’, el heredero de Teresa Rodríguez que devolvió el brillo al andalucismo",
       "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-19/jose-ignacio-garcia-el-gafa-el-heredero-de-teresa-rodriguez-que-devolvio-el-brillo-al-andalucismo.html",
       "desc": "Profesor jerezano de 38 años, el candidato de Adelante Andalucía cuadruplica los resultados de su carismática predecesora con un mensaje que recurre con frecuencia al humor",
       "date": "Tue, 19 May 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/MJKEHEHY4RHZJNO7PXQ5UOIOAM.JPG?auth=d3ed2eccfc0755d9032f374068a71cbfba563f99ce3ace6430e865a6a14cbfd6"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260517/1172659_214600_video_1800.mp4"
     },
     {
       "title": "Peramato se enfrenta al plebiscito improvisado de las elecciones al Consejo Fiscal",
@@ -113,26 +127,12 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/WITOAMPVGFA7BIJRLIPQE3VS2M.jpg?auth=2796497a2a3f631f273310dd886de571d9736e715ea9d43504d495d4e46ef01e"
     },
     {
-      "title": "Pere Navarro sobre la baliza V-16: “Ha venido para quedarse”",
-      "link": "https://elpais.com/espana/2026-05-18/pere-navarro-sobre-la-baliza-v-16-ha-venido-para-quedarse.html",
-      "desc": "El director general de Tráfico califica al PP de “chivato” y lo acusa de “falta de lealtad” por denunciar a la DGT en Bruselas",
-      "date": "Mon, 18 May 2026 17:37:56 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/PNGXQ4YCXNK5BCYJ3T43J2T7WA.jpg?auth=b76d73f009a0a614f40d1eb9cfd29467bec2011ae75a2f5179b0b442a9412fad"
-    },
-    {
-      "title": "El récord sin premio del PP: así se cruzó Adelante en el camino de Moreno a la “mayoría suficiente”",
-      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-18/el-record-sin-premio-del-pp-asi-se-cruzo-adelante-en-el-camino-de-moreno-a-la-mayoria-suficiente.html",
-      "desc": "El partido de Moreno subió un 9,2% sus votos y alcanzó su máximo histórico de papeletas en unas autonómicas, pero se vio perjudicado por una subida de la participación impulsada por la izquierda andalucista",
-      "date": "Mon, 18 May 2026 17:02:00 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/PYGCYAHCYBGYRO4ZQ3EWGYKH6Y.jpg?auth=3340b7ad51b40d37a32a29a4a1ba4cb7088c33c173a22380a6b4d88223d6fcdb"
-    },
-    {
-      "title": "Begoña Gómez recurre la absolución de la agitadora que la llamó “Begoño” y la relacionó con el “narcotráfico en Marruecos”",
-      "link": "https://elpais.com/espana/2026-05-18/begona-gomez-recurre-la-absolucion-de-la-agitadora-que-la-llamo-begono-y-la-relaciono-con-el-narcotrafico-en-marruecos.html",
-      "desc": "La defensa incluye en el recurso un nuevo vídeo donde Pilar Baselga, tras resultar absuelta, se mofa de la mujer del presidente",
-      "date": "Mon, 18 May 2026 17:03:49 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/TJOWLKVOJNECBGUYEZA27HHBUM.jpg?auth=f2f778dc543dbf09b346838ce4915d116a11ef708cefa8ac96a5e4f4a26c29bd"
+      "title": "Una alianza entre municipalistas, socialistas y disidentes de Vox quitará la alcaldía de Cartagena al PP de Noelia Arroyo",
+      "link": "https://elpais.com/espana/2026-05-19/una-alianza-entre-municipalistas-socialistas-y-disidentes-de-vox-quitara-la-alcaldia-de-cartagena-al-pp-de-noelia-arroyo.html",
+      "desc": "La crisis interna del partido ultra en la Región de Murcia tras la expulsión de su presidente tiene como primera consecuencia la caída de la coalición municipal por una moción de censura",
+      "date": "Tue, 19 May 2026 06:36:13 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/VRM65ST7PBIHTN6KMJDHVITVKQ.jpg?auth=648e2b68549a8f8bc5bb5f459e86e97b5bea06ba92cfe628da428824c892b02e"
     }
   ],
-  "fetchedAt": 1779165586071
+  "fetchedAt": 1779179007070
 }
