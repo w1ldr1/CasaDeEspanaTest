@@ -1,18 +1,18 @@
 {
   "items": [
     {
-      "title": "Plus Ultra rompe su silencio: asegura funcionar con normalidad y estar abierta a colaborar con la justicia",
-      "link": "https://elpais.com/espana/2026-05-21/plus-ultra-rompe-su-silencio-asegura-funcionar-con-normalidad-y-estar-abierta-a-colaborar-con-la-justicia.html",
-      "desc": "La dirección analiza el contenido del sumario y el auto en que se imputa al expresidente José Luis Rodríguez Zapatero por el rescate de la compañía con dinero público en 2021",
-      "date": "Thu, 21 May 2026 11:30:36 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/IXK35TBWG5WAVGT3MVESO2FGUI.jpg?auth=53c8c504f85859862d9a501b1b9f5182b7f364053d4e81c305560f42b3b47032"
-    },
-    {
       "title": "El PP anuncia una “ofensiva total” en la comisión de la SEPI en el Senado por el ‘caso Plus Ultra’ y cita al exministro Escrivá",
       "link": "https://elpais.com/espana/2026-05-21/el-pp-anuncia-una-ofensiva-total-en-la-comision-de-la-sepi-en-el-senado-por-el-caso-plus-ultra-y-cita-al-exministro-escriva.html",
       "desc": "Los populares también llaman a declarar a la secretaria de Zapatero, a la mano derecha de Julio Martínez y a Manuel Aaron Fajardo, “el hombre del expresidente en Venezuela”",
       "date": "Thu, 21 May 2026 10:51:57 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260521/1174249_113011_video_1800.mp4"
+    },
+    {
+      "title": "Plus Ultra rompe su silencio: asegura funcionar con normalidad y estar abierta a colaborar con la justicia",
+      "link": "https://elpais.com/espana/2026-05-21/plus-ultra-rompe-su-silencio-asegura-funcionar-con-normalidad-y-estar-abierta-a-colaborar-con-la-justicia.html",
+      "desc": "La dirección analiza el contenido del sumario y el auto en que se imputa al expresidente José Luis Rodríguez Zapatero por el rescate de la compañía con dinero público en 2021",
+      "date": "Thu, 21 May 2026 11:30:36 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/IXK35TBWG5WAVGT3MVESO2FGUI.jpg?auth=53c8c504f85859862d9a501b1b9f5182b7f364053d4e81c305560f42b3b47032"
     },
     {
       "title": "Aldama desvincula a Armengol y su Gobierno balear del cobro de comisiones a la trama de mascarillas",
@@ -87,7 +87,7 @@
     {
       "title": "Una empresa con elevadas pérdidas pagó más de medio millón de euros a la sociedad de las hijas de Zapatero",
       "link": "https://elpais.com/espana/2026-05-21/una-empresa-con-elevadas-perdidas-pago-mas-de-medio-millon-de-euros-a-la-sociedad-de-las-hijas-de-zapatero.html",
-      "desc": "Inteligencia Prospectiva es señalada por el juez como una mercantil “instrumental” utilizada por la trama para introducir fondos en España",
+      "desc": "La sede de Inteligencia Prospectiva, señalada por el juez como mercantil “instrumental para introducir fondos en España”, no pudo ser registrada al encontrarse en obras",
       "date": "Thu, 21 May 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/4O7MOFUREVGOFO6X6NVB5IVKEM.jpg?auth=75e70ea7969c4de93d272520e3217033c75b807d2829d67ae1c8ec5edd6ba60c"
     },
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/S3CXKNLCKJMHHM5HEHWDIBDS6Q.jpg?auth=43950fe99a16a47bee4b5085b989c27ece39bee3b07541d7785a189508379a34"
     }
   ],
-  "fetchedAt": 1779372701648
+  "fetchedAt": 1779383451053
 }
