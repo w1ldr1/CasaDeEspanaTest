@@ -64,11 +64,25 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/Y46IDZYCQNKUBGAEICJKYUQ7RE.jpg?auth=518e3e3adb65c4979edb51e5b6eec48c4327ceef71148f3e17508246892dfa3a"
     },
     {
+      "title": "Israel inicia la deportación de más de 400 activistas de la flotilla, entre ellos los españoles",
+      "link": "https://elpais.com/espana/2026-05-21/albares-asegura-que-los-espanoles-de-la-flotilla-detenidos-en-israel-seran-devueltos-hoy.html",
+      "desc": "Albares tacha de “odioso” y “monstruoso” el comportamiento del ministro israelí de Seguridad, y dos miembros italianos de la misión denuncian malos tratos",
+      "date": "Thu, 21 May 2026 10:43:09 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/RRU5RPMYJRCNPDB2GRDSAMBDRI.jpg?auth=508fbaa2f95aafb25920792fe33514c2d5332dfc91382a40d8cdaa9070267316"
+    },
+    {
       "title": "Teresa Rodríguez: “Hablar de mi cáncer en la campaña era demasiado fácil y demasiado feo”",
       "link": "https://elpais.com/podcasts/hoy-en-el-pais/2026-05-21/teresa-rodriguez-hablar-de-mi-enfermedad-en-la-campana-era-demasiado-facil-y-demasiado-feo.html",
       "desc": "La fundadora de Adelante Andalucía defiende la vuelta del andalucismo a la política nacional porque sus reivindicaciones “son buenas para el conjunto de la sociedad”",
       "date": "Thu, 21 May 2026 03:30:01 GMT",
       "imgUrl": null
+    },
+    {
+      "title": "Rufián se ofrece a encabezar un nuevo frente de izquierdas en las generales",
+      "link": "https://elpais.com/espana/2026-05-20/rufian-se-ofrece-a-encabezar-un-nuevo-frente-de-izquierdas-en-las-generales.html",
+      "desc": "El portavoz parlamentario de ERC, que no cuenta con el beneplácito de su partido a esa posible candidatura, dice que “no se irá de su formación hasta que le echen”",
+      "date": "Wed, 20 May 2026 19:33:06 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260520/1174053_234934_video_1800.mp4"
     },
     {
       "title": "Sánchez da “todo el apoyo” a Zapatero pero evita más explicaciones",
@@ -118,21 +132,7 @@
       "desc": "El juez detalla en el auto en el que lo cita como investigado las conversaciones, correos y movimientos de dinero que apuntan al presunto liderazgo del expresidente en la trama",
       "date": "Wed, 20 May 2026 03:30:01 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260519/1173307_123538_video_1800.mp4"
-    },
-    {
-      "title": "Rufián se ofrece a encabezar un nuevo frente de izquierdas en las generales",
-      "link": "https://elpais.com/espana/2026-05-20/rufian-se-ofrece-a-encabezar-un-nuevo-frente-de-izquierdas-en-las-generales.html",
-      "desc": "El portavoz parlamentario de ERC, que no cuenta con el beneplácito de su partido a esa posible candidatura, dice que “no se irá de su formación hasta que le echen”",
-      "date": "Wed, 20 May 2026 19:33:06 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260520/1174053_234934_video_1800.mp4"
-    },
-    {
-      "title": "El Gobierno y la Generalitat acuerdan la financiación necesaria para aumentar la plantilla de los Mossos a 25.000 agentes",
-      "link": "https://elpais.com/espana/2026-05-20/el-gobierno-y-la-generalitat-acuerdan-la-financiacion-necesaria-para-aumentar-la-plantilla-de-los-mossos-a-25000-agentes.html",
-      "desc": "El Ejecutivo de Sánchez asume el coste progresivo de 210 millones anuales que supondrá la creación de 3.000 nuevas plazas de agentes hasta 2030",
-      "date": "Wed, 20 May 2026 18:17:19 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/KSKMBOAD4VNWPDFXUHEPMIE5S4.jpg?auth=e8adf50c1c1f579c6c3831874a63ed2b088eb41144fe85066962ce0013ab3a8f"
     }
   ],
-  "fetchedAt": 1779350448120
+  "fetchedAt": 1779363992293
 }
