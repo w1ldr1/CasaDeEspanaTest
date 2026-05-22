@@ -57,6 +57,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/DXYJ5M76IRHTRLBAPXYEDWFWEM.jpg?auth=d9eab0744e569b2cb69da05e0a80fef81dd9f7b297c0b5379945a24e75bb9ddb"
     },
     {
+      "title": "El Supremo rechaza suspender el decreto de regularización de inmigrantes",
+      "link": "https://elpais.com/espana/2026-05-22/el-supremo-rechaza-suspender-el-decreto-de-regularizacion-de-inmigrantes.html",
+      "desc": "La Sala de lo Contencioso desestima la petición cautelar de la Comunidad de Madrid, Vox y tres asociaciones",
+      "date": "Fri, 22 May 2026 15:41:13 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/KSSUMA7YN5DKJDHONZIVARMF7E.jpg?auth=18d8706a1cee2c7105fa80ac26477c42a398d6f14f3abf151a2451c595819273"
+    },
+    {
       "title": "El chat “AR” coloca a Javier de Paz en el origen de la consultora vinculada a Zapatero",
       "link": "https://elpais.com/espana/2026-05-22/el-chat-ar-coloca-a-javier-de-paz-en-el-origen-de-la-consultora-vinculada-a-zapatero.html",
       "desc": "De Paz, presidente de Movistar+, formaba parte de un chat grupal de la empresa situada en el epicentro de la presunta trama que, según fuentes cercanas al caso, dejó de utilizarse en octubre de 2020",
@@ -125,14 +132,7 @@
       "desc": "El líder popular apuesta por no precipitar los tiempos a pesar de la impaciencia de algunos sectores porque cree que un intento fallido puede cohesionar al Gobierno",
       "date": "Fri, 22 May 2026 03:30:01 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260521/1174249_113011_video_1800.mp4"
-    },
-    {
-      "title": "Rufián pugna por controlar la futura lista de ERC al Congreso",
-      "link": "https://elpais.com/espana/catalunya/2026-05-22/rufian-pugna-por-controlar-la-futura-lista-de-erc-al-congreso.html",
-      "desc": "Los críticos afean que Junqueras no defienda la labor del grupo en Madrid ante los cuestionamientos de su portavoz",
-      "date": "Fri, 22 May 2026 03:30:01 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260520/1174053_234934_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1779464100985
+  "fetchedAt": 1779472452990
 }
