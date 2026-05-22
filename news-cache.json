@@ -10,7 +10,7 @@
     {
       "title": "El juez señala a la secretaria de Zapatero como una “pieza operativa esencial” de la supuesta trama",
       "link": "https://elpais.com/espana/2026-05-22/el-juez-senala-a-la-secretaria-de-zapatero-como-una-pieza-operativa-esencial-de-la-supuesta-trama.html",
-      "desc": "El PP cita en el Senado a Gertrudis Alcázar, a quien el magistrado sitúa en el “nodo central de comunicación y gestión documental” de la red de influencias",
+      "desc": "El PP cita en el Senado a Gertrudis Alcázar, a quien el magistrado sitúa en el “nodo central de comunicación y gestión documental” de la red de “influencias”",
       "date": "Fri, 22 May 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/QL25KY7UGRDX3LPAE3NNC3MZ6A.jpg?auth=a90815dc7e3db965d9ee19d0a5351111f5ac03a981a626e6265efa2a5bc5bc74"
     },
@@ -75,7 +75,7 @@
       "link": "https://elpais.com/espana/catalunya/2026-05-22/rufian-pugna-por-controlar-la-futura-lista-de-erc-al-congreso.html",
       "desc": "Los críticos afean que Junqueras no defienda la labor del grupo en Madrid ante los cuestionamientos de su portavoz",
       "date": "Fri, 22 May 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/JHL7RIP3N5JVDFRMSXZ33YZSWQ.jpg?auth=3238c27c649f5af3b85f7211bb9034508e4d74a254b1530fa7365e16e279228f"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260520/1174053_234934_video_1800.mp4"
     },
     {
       "title": "Los socios de investidura reformarán el reglamento del Congreso para asegurar la voz de partidos minoritarios",
@@ -134,5 +134,5 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260520/1173636_070314_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1779447125388
+  "fetchedAt": 1779456493459
 }
