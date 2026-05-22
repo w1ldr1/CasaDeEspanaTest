@@ -57,6 +57,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/DXYJ5M76IRHTRLBAPXYEDWFWEM.jpg?auth=d9eab0744e569b2cb69da05e0a80fef81dd9f7b297c0b5379945a24e75bb9ddb"
     },
     {
+      "title": "El principal implicado en el crimen del cantaor Matías de Paula reconoce que le mató",
+      "link": "https://elpais.com/espana/2026-05-22/el-principal-implicado-en-el-crimen-del-cantaor-matias-de-paula-reconoce-que-le-mato.html",
+      "desc": "La jueza decreta prisión provisional para los seis arrestados, cinco de ellos investigados por homicidio y pertenencia a organización criminal",
+      "date": "Fri, 22 May 2026 17:08:30 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260522/1174899_181212_video_1800.mp4"
+    },
+    {
       "title": "El Supremo rechaza suspender el decreto de regularización de inmigrantes",
       "link": "https://elpais.com/espana/2026-05-22/el-supremo-rechaza-suspender-el-decreto-de-regularizacion-de-inmigrantes.html",
       "desc": "La Sala de lo Contencioso desestima la petición cautelar de la Comunidad de Madrid, Vox y tres asociaciones",
@@ -125,14 +132,7 @@
       "desc": "La primera visita de un pontífice a Canarias reúne a migrantes, supervivientes y testimonios de la ruta atlántica más mortífera",
       "date": "Fri, 22 May 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/UADDE7AAKVBXLHQIKZXMO7JQ5U.jpg?auth=62ee21ff19b67aaa3079e0802187e961d771731a96e9b434ca1b001018d0d506"
-    },
-    {
-      "title": "Feijóo prioriza la derrota de Sánchez en las municipales frente a la moción de censura",
-      "link": "https://elpais.com/espana/2026-05-22/feijoo-prioriza-la-derrota-de-sanchez-en-las-municipales-frente-a-la-mocion-de-censura.html",
-      "desc": "El líder popular apuesta por no precipitar los tiempos a pesar de la impaciencia de algunos sectores porque cree que un intento fallido puede cohesionar al Gobierno",
-      "date": "Fri, 22 May 2026 03:30:01 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260521/1174249_113011_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1779473599427
+  "fetchedAt": 1779481061480
 }
