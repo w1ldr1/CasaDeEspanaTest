@@ -15,11 +15,11 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/RUNX54CIQBKYNIDDQLPW77XVPU.jpg?auth=5ff2d6db9fbb41e96c806098091c6b1aa9ca1cf17110c927d9262cada7e0f876"
     },
     {
-      "title": "La izquierda abatida",
-      "link": "https://elpais.com/espana/2026-05-23/la-izquierda-abatida.html",
-      "desc": "La pesada mochila de causas globales que cargan algunos ciudadanos no encuentra eco en la política diaria y la desesperanza hace mella en los resultados electorales",
-      "date": "Sat, 23 May 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/JFNH4Y3B55BYHM4RWN3TD2QCHI.jpg?auth=b1cd99e1561a49d72bf27f08f6eb3f1af1af844d3789977484c6d4189afe9134"
+      "title": "Miles de personas protestan en Madrid contra el “Gobierno corrupto” de Sánchez en una marcha marcada por la imputación de Zapatero",
+      "link": "https://elpais.com/espana/2026-05-23/cientos-de-personas-protestan-en-madrid-contra-el-gobierno-corrupto-de-sanchez-en-una-marcha-marcada-por-la-imputacion-de-zapatero.html",
+      "desc": "La manifestación estaba convocada antes de la decisión del juez Calama. Abascal pide prisión provisional para el expresidente y el comisionista Aldama es aclamado en la marcha",
+      "date": "Sat, 23 May 2026 10:32:26 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/KPRKEMVB4JDC7D2UYMLD75PCCE.jpg?auth=53206fe498a05f69d40752fe49b0dd09abe4686756a623203e73e0258a47655a"
     },
     {
       "title": "Querido PSOE, gracias por impulsar a la derecha",
@@ -55,6 +55,13 @@
       "desc": "La Justicia no está para satisfacer a una parte del respetable con actuaciones espectaculares, sino para averiguar la realidad de los hechos y aplicar las leyes a los mismos",
       "date": "Wed, 20 May 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/YT5XFZTUZRFGJFUQPHQKK2SK7E.jpg?auth=e1e169e2e80ae2cdfc834f30bb6f53e005d9c10ba64d130700dc114f03b74de2"
+    },
+    {
+      "title": "La izquierda abatida",
+      "link": "https://elpais.com/espana/2026-05-23/la-izquierda-abatida.html",
+      "desc": "La pesada mochila de causas globales que cargan algunos ciudadanos no encuentra eco en la política diaria y la desesperanza hace mella en los resultados electorales",
+      "date": "Sat, 23 May 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/JFNH4Y3B55BYHM4RWN3TD2QCHI.jpg?auth=b1cd99e1561a49d72bf27f08f6eb3f1af1af844d3789977484c6d4189afe9134"
     },
     {
       "title": "El juez Calama pide a Estados Unidos información sobre los investigados del ‘caso Plus Ultra’",
@@ -125,14 +132,7 @@
       "desc": "El PSOE y el Gobierno sospechan que en el PP ha tenido acceso a detalles secretos de la investigación contra Zapatero",
       "date": "Fri, 22 May 2026 09:56:48 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/FY45ENOJPNG33CHJ4WHWK476RE.jpg?auth=f3114b68d0d1bf58c222d882248a7bf47b69c221142f78ab9dd0141a0cb431fe"
-    },
-    {
-      "title": "Transportes pide personarse en la causa de Adamuz para recuperar las indemnizaciones adelantadas a las víctimas",
-      "link": "https://elpais.com/espana/2026-05-22/transportes-pide-personarse-en-la-causa-de-adamuz-para-recuperar-las-indemnizaciones-adelantadas-a-las-victimas.html",
-      "desc": "El ministerio invoca su derecho a subrogarse tras haber acordado abonar anticipos a los afectados en el accidente ferroviario",
-      "date": "Fri, 22 May 2026 10:16:28 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/RF2PL5GF2BHD3HQIV7QWAYUBEU.JPG?auth=bbac1cdf7e8499b7952de30f931f54f93e0335651551fd146a8a4aa6d29de0d1"
     }
   ],
-  "fetchedAt": 1779527926164
+  "fetchedAt": 1779533434754
 }
