@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "title": "El PNV ve “irresponsable” que Sánchez siga más allá de 2026 por una “agenda descontrolada y judicializada”",
+      "link": "https://elpais.com/espana/2026-05-24/el-pnv-ve-irresponsable-que-sanchez-siga-mas-alla-de-2026-por-una-agenda-descontrolada-y-judicializada.html",
+      "desc": "El líder de la formación ‘jeltzale’, Aitor Esteban, considera “muy difícil que Sánchez pueda culminar la legislatura”",
+      "date": "Sun, 24 May 2026 11:58:36 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260524/1175330_132846_video_1800.mp4"
+    },
+    {
       "title": "El ‘caso Zapatero’ sacude un final de legislatura agónico",
       "link": "https://elpais.com/espana/2026-05-24/el-caso-zapatero-revienta-un-final-de-legislatura-agonico.html",
       "desc": "Sánchez decide resistir y confía en que el expresidente pueda aclarar todo. El PP espera un lento desgaste para ocupar todo el poder en 2027 sin oposición. Los socios, muy preocupados, no quieren moverse porque tienen muchos acuerdos por cumplir y para no abrir la puerta a los populares y Vox",
@@ -13,13 +20,6 @@
       "desc": "Dos informes de la UDEF colocan a Zapatero en un entramado de empresas ‘off shore’ gestionado por su amigo Julio Martínez y en contactos directos con Plus Ultra",
       "date": "Sun, 24 May 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/A2PVJKJYNFBEFOYWQX5ELMDJ64.jpg?auth=28fbee0a40255c8517cdbe15833a9bde3ffb1ad51dd14fe7903b05f67029383f"
-    },
-    {
-      "title": "Cómo se investigó por primera vez a un presidente del Gobierno",
-      "link": "https://elpais.com/espana/2026-05-24/como-se-investigo-por-primera-vez-a-un-presidente-del-gobierno.html",
-      "desc": "La UDEF se personó este martes en la casa de Zapatero para entregarle un durísimo escrito en el que se le acusa de ser líder de una red de tráfico de influencias",
-      "date": "Sun, 24 May 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/NQUA4FOBGVDC7N6GJCEM7W2OLQ.jpg?auth=6624188d52c2eb235cdc45ebfbc493f1e4b64d24c00cfbbdc47f50997dcb1fe9"
     },
     {
       "title": "Los consejos de los expresidentes",
@@ -55,6 +55,13 @@
       "desc": "El partido parece navegar en un barco podrido donde el agua solo busca cobrarse la gran pieza: el capitán ensimismado",
       "date": "Sat, 23 May 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/PZD446KMIZN57AMNOIZDL4CKZE.jpg?auth=6a0c9d508bba11cf25b9cf560d6a6427f9b19630d1f62ef59b65fc81af3caa6e"
+    },
+    {
+      "title": "Cómo se investigó por primera vez a un presidente del Gobierno",
+      "link": "https://elpais.com/espana/2026-05-24/como-se-investigo-por-primera-vez-a-un-presidente-del-gobierno.html",
+      "desc": "La UDEF se personó este martes en la casa de Zapatero para entregarle un durísimo escrito en el que se le acusa de ser líder de una red de tráfico de influencias",
+      "date": "Sun, 24 May 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/NQUA4FOBGVDC7N6GJCEM7W2OLQ.jpg?auth=6624188d52c2eb235cdc45ebfbc493f1e4b64d24c00cfbbdc47f50997dcb1fe9"
     },
     {
       "title": "Las mil caras de Zapatero",
@@ -125,14 +132,7 @@
       "desc": "Abascal pide prisión provisional para Zapatero y el comisionista Aldama es aclamado en una marcha convocada antes de conocerse el auto del juez Calama",
       "date": "Sat, 23 May 2026 10:32:26 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260523/1175056_110548_video_1800.mp4"
-    },
-    {
-      "title": "El ‘caso Plus Ultra’ destapa una operativa de facturas falsas: “Podemos consensuar los conceptos”",
-      "link": "https://elpais.com/espana/2026-05-23/el-caso-plus-ultra-destapa-una-operativa-de-facturas-falsas-podemos-consensuar-los-conceptos.html",
-      "desc": "El auto de imputación de Zapatero recoge mensajes de implicados con instrucciones para elaborar documentos mercantiles supuestamente fraudulentos",
-      "date": "Sat, 23 May 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/RUNX54CIQBKYNIDDQLPW77XVPU.jpg?auth=5ff2d6db9fbb41e96c806098091c6b1aa9ca1cf17110c927d9262cada7e0f876"
     }
   ],
-  "fetchedAt": 1779647889083
+  "fetchedAt": 1779653251329
 }
