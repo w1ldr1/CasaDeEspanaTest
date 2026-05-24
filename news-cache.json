@@ -57,9 +57,9 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/PZD446KMIZN57AMNOIZDL4CKZE.jpg?auth=6a0c9d508bba11cf25b9cf560d6a6427f9b19630d1f62ef59b65fc81af3caa6e"
     },
     {
-      "title": "Las mil caras del expresidente",
+      "title": "Las mil caras de Zapatero",
       "link": "https://elpais.com/espana/2026-05-24/de-paria-a-heroe-y-de-heroe-a-paria.html",
-      "desc": "Recorrido por las trasformaciones de José Luis Rodríguez Zapatero a lo largo de su vida política: diputado, presidente, apartado, rehabilitado, referente e imputado",
+      "desc": "Recorrido por las transformaciones del expresidente a lo largo de su vida política: diputado, presidente, apartado, rehabilitado, referente e imputado",
       "date": "Sun, 24 May 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/72LMEUFFT5BQLCSZCHO5U34NRE.jpg?auth=1c0b5dc5a07b35472407e1914b45722fe920a1afff316a3ddd1ca8bbf3a483d6"
     },
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/YOS4Z4FEHZF7BPGH7QLNU5Y3EE.jpg?auth=b366a8b7a2ec4d7519a65873ad0c5af96b15001ceb21e372575376c82fd51347"
     }
   ],
-  "fetchedAt": 1779620200386
+  "fetchedAt": 1779624255921
 }
