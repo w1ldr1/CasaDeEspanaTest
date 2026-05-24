@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "title": "El ‘caso Zapatero’ revienta un final de legislatura agónico",
+      "title": "El ‘caso Zapatero’ sacude un final de legislatura agónico",
       "link": "https://elpais.com/espana/2026-05-24/el-caso-zapatero-revienta-un-final-de-legislatura-agonico.html",
       "desc": "Sánchez decide resistir y confía en que el expresidente pueda aclarar todo. El PP espera un lento desgaste para ocupar todo el poder en 2027 sin oposición. Los socios, muy preocupados, no quieren moverse porque tienen muchos acuerdos por cumplir y para no abrir la puerta a los populares y Vox",
       "date": "Sun, 24 May 2026 03:30:01 GMT",
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/YOS4Z4FEHZF7BPGH7QLNU5Y3EE.jpg?auth=b366a8b7a2ec4d7519a65873ad0c5af96b15001ceb21e372575376c82fd51347"
     }
   ],
-  "fetchedAt": 1779601237998
+  "fetchedAt": 1779611031809
 }
