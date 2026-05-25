@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "title": "La UCO no encuentra movimientos sospechosos en las cuentas de Begoña Gómez",
+      "title": "La UCO no encuentra ingresos sospechosos en las cuentas de Begoña Gómez",
       "link": "https://elpais.com/espana/2026-05-25/la-uco-no-encuentra-movimientos-sospechosos-en-las-cuentas-de-begona-gomez.html",
       "desc": "La Guardia Civil concluye que la “información bancaria” de la esposa de Sánchez “concuerda” con sus “actividades profesionales”, pero siembra dudas sobre el desarrollo del ‘software’ en la cátedra que codirigía en la Complutense",
       "date": "Mon, 25 May 2026 12:15:43 GMT",
@@ -57,13 +57,6 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/PZD446KMIZN57AMNOIZDL4CKZE.jpg?auth=6a0c9d508bba11cf25b9cf560d6a6427f9b19630d1f62ef59b65fc81af3caa6e"
     },
     {
-      "title": "El Rey reivindica la fuerza de la diversidad europea frente a quienes “exaltan las diferencias en contra del bien común”",
-      "link": "https://elpais.com/espana/2026-05-25/el-rey-reivindica-la-fuerza-de-la-diversidad-europea-frente-a-quienes-exaltan-las-diferencias-en-contra-del-bien-comun.html",
-      "desc": "Felipe VI exalta la labor del Comité Europeo de las Regiones en la transición energética, la búsqueda de un urbanismo sostenible y la lucha contra la despoblación",
-      "date": "Mon, 25 May 2026 12:15:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/ETIWIW2GFBMITIMKWPUX4O6I24.jpg?auth=ba056b8299c79653bc8f5bdecff6cb9dfe0ba4f3b479ff0f7be34dd730a57e05"
-    },
-    {
       "title": "Mario Samper, representante de las víctimas de Adamuz: “El tren en España no es seguro. Dios quiera que no vuelva a pasar”",
       "link": "https://elpais.com/espana/2026-05-25/mario-samper-representante-de-las-victimas-de-adamuz-el-tren-en-espana-no-es-seguro-dios-quiera-que-no-vuelva-a-pasar.html",
       "desc": "El presidente de la mayor asociación de víctimas pide la dimisión del ministro Puente y explica en el Senado que la ayuda al Alvia apareció 45 minutos después del choque",
@@ -71,11 +64,25 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260525/1175640_122045_video_1800.mp4"
     },
     {
+      "title": "El Rey reivindica la fuerza de la diversidad europea frente a quienes “exaltan las diferencias en contra del bien común”",
+      "link": "https://elpais.com/espana/2026-05-25/el-rey-reivindica-la-fuerza-de-la-diversidad-europea-frente-a-quienes-exaltan-las-diferencias-en-contra-del-bien-comun.html",
+      "desc": "Felipe VI exalta la labor del Comité Europeo de las Regiones en la transición energética, la búsqueda de un urbanismo sostenible y la lucha contra la despoblación",
+      "date": "Mon, 25 May 2026 12:15:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/ETIWIW2GFBMITIMKWPUX4O6I24.jpg?auth=ba056b8299c79653bc8f5bdecff6cb9dfe0ba4f3b479ff0f7be34dd730a57e05"
+    },
+    {
       "title": "Una alcaldesa del PP alertó a la Generalitat de la dana: “Tengo el barranco desbordado”",
       "link": "https://elpais.com/espana/comunidad-valenciana/2026-05-25/una-alcaldesa-del-pp-alerto-a-la-generalitat-de-la-dana-tengo-el-barranco-desbordado.html",
       "desc": "La primera edil de Torrent declara ante la jueza que se puso en contacto con la cúpula de Emergencias en lo peor de la crisis para reportar una víctima",
       "date": "Mon, 25 May 2026 10:32:06 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/7EF53FQPNFL35JD7ZHT5PV33WQ.jpg?auth=9420b59a59afb275d2b459dc1f77b39d257cf08fd8e73100656dc9a79c4b1b5b"
+    },
+    {
+      "title": "El Supremo envía a la Audiencia de Barcelona la causa por el ‘procés’ contra Rovira para que decida si la juzga o la amnistía",
+      "link": "https://elpais.com/espana/2026-05-25/el-supremo-envia-a-la-audiencia-de-barcelona-la-causa-por-el-proces-contra-rovira-para-que-decida-si-la-juzga-o-la-amnistia.html",
+      "desc": "La Sala Penal confirma el procesamiento por desobediencia, pero se declara no competente para continuar con la causa",
+      "date": "Mon, 25 May 2026 11:18:26 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/Q5GI4RDO6H6Z7RXO4CBXLTEBEY.jpg?auth=d8105ddfee20fb650d94c31a708c9d614e9026304ea6ad2bf215297d2bf63d38"
     },
     {
       "title": "Sumar propone un encuentro estatal de todas las izquierdas después del verano",
@@ -92,32 +99,11 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/GJCH3EDJTBAOTMV7P6W3RWTXJQ.jpg?auth=881ff4f7ff379b14551273e13170fbc3ad526561fa880310baac1ef0ddc530db"
     },
     {
-      "title": "El Supremo envía a la Audiencia de Barcelona la causa por el ‘procés’ contra Rovira para que decida si la juzga o la amnistía",
-      "link": "https://elpais.com/espana/2026-05-25/el-supremo-envia-a-la-audiencia-de-barcelona-la-causa-por-el-proces-contra-rovira-para-que-decida-si-la-juzga-o-la-amnistia.html",
-      "desc": "La Sala Penal confirma el procesamiento por desobediencia, pero se declara no competente para continuar con la causa",
-      "date": "Mon, 25 May 2026 11:18:26 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/Q5GI4RDO6H6Z7RXO4CBXLTEBEY.jpg?auth=d8105ddfee20fb650d94c31a708c9d614e9026304ea6ad2bf215297d2bf63d38"
-    },
-    {
       "title": "Condenan a tres años y medio de cárcel al capitán del barco hundido en Indonesia con una familia valenciana",
       "link": "https://elpais.com/espana/2026-05-25/condenan-a-tres-anos-y-medio-de-carcel-al-capitan-del-barco-hundido-en-indonesia-con-una-familia-valenciana.html",
       "desc": "Los jueces determinan que actuó de manera negligente al no informar a los pasajeros sobre los procedimientos de seguridad",
       "date": "Mon, 25 May 2026 10:01:29 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/CY3HHEDIVFJHDKG67Y7I2YTOE4.jpg?auth=3e5421715eeec62eac9d0afd6d23036b1b261bf6263c52f73ffefaefbd562dda"
-    },
-    {
-      "title": "El PNV ve “irresponsable” que Sánchez siga más allá de 2026 por una “agenda descontrolada y judicializada”",
-      "link": "https://elpais.com/espana/2026-05-24/el-pnv-ve-irresponsable-que-sanchez-siga-mas-alla-de-2026-por-una-agenda-descontrolada-y-judicializada.html",
-      "desc": "El líder de la formación ‘jeltzale’, Aitor Esteban, considera “muy difícil que Sánchez pueda culminar la legislatura”",
-      "date": "Sun, 24 May 2026 11:58:36 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260524/1175330_132846_video_1800.mp4"
-    },
-    {
-      "title": "La Policía se queja al juez de que el Gobierno le ha remitido “carpetas vacías” sobre el rescate de Plus Ultra",
-      "link": "https://elpais.com/espana/2026-05-25/la-policia-se-queja-al-juez-de-que-el-gobierno-le-ha-remitido-carpetas-vacias-sobre-el-rescate-de-plus-ultra.html",
-      "desc": "La UDEF alerta de que el expediente enviado por la SEPI carece de documentos clave como un certificado de la Seguridad Social y correos electrónicos",
-      "date": "Mon, 25 May 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/KBVZLENYMBKR3LYQZPOOITE4FU.jpg?auth=193ef2b8761d927ce7edeffc91256f3042d8f42ed0005b47e7fb67bd83ceabd3"
     },
     {
       "title": "Madrid cuela un copago a los enfermos más graves de ELA con la ley de Dependencia",
@@ -127,12 +113,26 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/OZN72ITMLFGKXDBT5ASYJQJ2GI.jpg?auth=a4a6018cee7390c16d3b5528d23e0f4432c160e1127c30e2a7a4141ac0baaf62"
     },
     {
-      "title": "El ‘caso Plus Ultra’ sacude al negocio de la influencia política: “El ‘lobby’ no es corrupción”",
-      "link": "https://elpais.com/espana/2026-05-25/el-caso-plus-ultra-sacude-al-negocio-de-la-influencia-politica-el-lobby-no-es-corrupcion.html",
-      "desc": "El sector urge a aprobar una ley que rebaje un estigma agravado por los escándalos judiciales. Las consultoras que trabajan con expolíticos niegan que busquen “acceso” preferente al poder",
+      "title": "La obsesión de Nando con el cantaor Matías de Paula: “Estaba harto de que le llamaran cornudo”",
+      "link": "https://elpais.com/espana/2026-05-25/la-obsesion-de-nando-con-el-cantaor-matias-de-paula-estaba-harto-de-que-le-llamaran-cornudo.html",
+      "desc": "Fernando S., de 54 años, fue detenido en mitad de una plantación de soja después de acuchillar a un taxista e intentar robar un tractor a un agricultor",
       "date": "Mon, 25 May 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/Q5G7TXNJV5A4TMMGOBN6CHZ46U.jpg?auth=c46ace09a74f252693635731249dc41f559f7ba801eaf8f20e0ede41116ecef5"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260522/1174702_121353_video_1800.mp4"
+    },
+    {
+      "title": "La crónica | El PP abre una causa general a Pedro Sánchez",
+      "link": "https://elpais.com/espana/2026-05-25/la-cronica-el-pp-abre-una-causa-general-a-pedro-sanchez.html",
+      "desc": "Los socialistas quedan resignados a convivir con el sumario abierto de Zapatero hasta el fin de la legislatura",
+      "date": "Mon, 25 May 2026 03:30:01 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260525/1175504_065511_video_1800.mp4"
+    },
+    {
+      "title": "José Ignacio García (Adelante Andalucía): “Hemos sacado a la gente de la desafección”",
+      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-25/jose-ignacio-garcia-adelante-andalucia-hemos-sacado-a-la-gente-de-la-desafeccion.html",
+      "desc": "El líder de la formación confirma que no concurrirá en ninguna coalición de izquierdas: “Parte del mandato del 17M es que haya voces andalucistas en el Congreso”",
+      "date": "Mon, 25 May 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/MJ25ZBG6GVGX5F6HNJCJIKDEFE.jpg?auth=27c57b639c54435cc2fefe1420893e22d63d5302e3bb90f4300eec22e9ee370d"
     }
   ],
-  "fetchedAt": 1779713334993
+  "fetchedAt": 1779724349771
 }
