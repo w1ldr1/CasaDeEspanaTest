@@ -3,7 +3,7 @@
     {
       "title": "El juez Calama pospone la declaración de Zapatero al 17 y 18 de junio",
       "link": "https://elpais.com/espana/2026-05-26/zapatero-pide-al-juez-que-aplace-su-citacion-del-2-de-junio.html",
-      "desc": "El abogado del expresidente ha pedido aplazarla porque necesita más tiempo para preparar la defensa tras conocerse el sumario",
+      "desc": "El abogado del expresidente explica que “dada la extensión de la causa” y para “salvaguardar adecuadamente los derechos” del expresidente necesita un “plazo prudencial” para prepararse",
       "date": "Tue, 26 May 2026 11:38:00 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/CE5LGRZW5JBGJKXYNOED7CCVNM.jpg?auth=53f510cf2b49adee452daa05c7d61c69213182653261da576b915a38c3db9141"
     },
@@ -68,7 +68,7 @@
       "link": "https://elpais.com/espana/2026-05-26/feijoo-reta-al-pnv-y-a-junts-aunque-elude-la-mocion-lo-que-dicen-no-concuerda-con-sus-actos.html",
       "desc": "El PP no iniciará una ronda de contactos, mientras Junts y PNV descartan la moción: “No está sobre la mesa”",
       "date": "Tue, 26 May 2026 12:30:32 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/3MJIDOLNZNGIHIMNO63OEV64KI.jpg?auth=750f440736231d36dacfb5d4d92eee13508b3a1332bd66b05ea2d72ad1828784"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260526/1176203_172106_video_1800.mp4"
     },
     {
       "title": "Aznar, tras la investigación a Zapatero: “El que pueda hacer que haga’ cobra más sentido que nunca”",
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/7RREWZUT5ZKATJ56TXH2LSCQ4A.jpg?auth=b1c82e0e7c242d312410510d1435068f71f417ffb5aa55ee217aec53f31190d6"
     }
   ],
-  "fetchedAt": 1779812695384
+  "fetchedAt": 1779820936114
 }
