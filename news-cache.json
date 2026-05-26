@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "title": "El retraso de la declaración de Zapatero inquieta al Gobierno porque alarga el calvario",
+      "link": "https://elpais.com/espana/2026-05-26/el-retraso-de-la-declaracion-de-zapatero-inquieta-al-gobierno-porque-alarga-el-calvario.html",
+      "desc": "El Ejecutivo tendrá al menos un mes la agenda bloqueada. Los ministros evitan dar explicaciones pero confían en la inocencia",
+      "date": "Tue, 26 May 2026 20:40:45 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/6OV75JVPHZDIVERWYADDLDGORU.jpg?auth=270c3510b21837a15f57c1c1554ded2999a7de948b0cafd6440f3825bfab69f8"
+    },
+    {
       "title": "El juez Calama pospone la declaración de Zapatero al 17 y 18 de junio",
       "link": "https://elpais.com/espana/2026-05-26/zapatero-pide-al-juez-que-aplace-su-citacion-del-2-de-junio.html",
       "desc": "El abogado del expresidente explica que “dada la extensión de la causa” y para “salvaguardar adecuadamente los derechos” del expresidente necesita un “plazo prudencial” para prepararse",
@@ -13,13 +20,6 @@
       "desc": "El presidente de Castilla-La Mancha marca distancias con Zapatero: “Con la corrupción no valen amigos ni compañeros”",
       "date": "Tue, 26 May 2026 13:49:56 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260526/1176058_122023_video_1800.mp4"
-    },
-    {
-      "title": "La Policía pedirá a un joyero una valoración inicial de las joyas encontradas en la caja fuerte de Zapatero",
-      "link": "https://elpais.com/espana/2026-05-26/la-policia-pedira-a-un-joyero-una-valoracion-inicial-de-las-joyas-encontradas-en-la-caja-fuerte-de-zapatero.html",
-      "desc": "La UDEF trasladará al magistrado Calama si las piezas son de alto valor para decidir si es necesaria realizar una pericial",
-      "date": "Tue, 26 May 2026 10:35:34 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XTSDR7HDEBCCVCNKFIQSNHJ2PE.jpg?auth=b5b481a2396230cb05392b023ba5faac9eef31f972f7a30b8f3e039959510a91"
     },
     {
       "title": "El menoscabo del olvido",
@@ -57,7 +57,35 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/UPMJM7YDJVMOLL5UA47G53EYUM.jpg?auth=32ca1ebd4c3521a15a9b28b42f0f60c1966860850689aa1fecf48ed886cc3c75"
     },
     {
-      "title": "Los indicios de la UDEF sobre el origen de la ‘off shore’ en Dubái no incluyen ninguna instrucción expresa de Zapatero o su secretaria",
+      "title": "La Policía pedirá a un joyero una valoración inicial de las joyas encontradas en la caja fuerte de Zapatero",
+      "link": "https://elpais.com/espana/2026-05-26/la-policia-pedira-a-un-joyero-una-valoracion-inicial-de-las-joyas-encontradas-en-la-caja-fuerte-de-zapatero.html",
+      "desc": "La UDEF trasladará al magistrado Calama si las piezas son de alto valor para decidir si es necesaria realizar una pericial",
+      "date": "Tue, 26 May 2026 10:35:34 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XTSDR7HDEBCCVCNKFIQSNHJ2PE.jpg?auth=b5b481a2396230cb05392b023ba5faac9eef31f972f7a30b8f3e039959510a91"
+    },
+    {
+      "title": "Podemos pide por carta al Papa la apertura “inmediata” de los archivos relacionados con el Patronato de Protección de la Mujer",
+      "link": "https://elpais.com/espana/2026-05-26/podemos-pide-por-carta-al-papa-la-apertura-inmediata-de-los-archivos-relacionados-con-el-patronato-de-proteccion-de-la-mujer.html",
+      "desc": "El partido exige al Vaticano que tenga “una actuación clara” respecto a los casos de bebés robados",
+      "date": "Tue, 26 May 2026 17:40:42 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/WG2FTVZWU5E45EWNCEC3O6EFYI.JPG?auth=60dc269d647aa1ffee41ce9914f8c340ff6b9b5c5553a98308dccf17aaa8ebc2"
+    },
+    {
+      "title": "El Constitucional avala por unanimidad la reforma laboral",
+      "link": "https://elpais.com/espana/2026-05-26/el-constitucional-avala-por-unanimidad-la-reforma-laboral.html",
+      "desc": "Aprobada tras la pandemia de coronavirus, se ideó para combatir la temporalidad",
+      "date": "Tue, 26 May 2026 14:21:02 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/OO7BS7SAAJJVFF4J5ITTKOMF6M.jpg?auth=cdeb7565bbda6708510b3e2ff633820e6a61748de7108c65bc95e47cb74e355f"
+    },
+    {
+      "title": "Desarticuladas dos tramas ilegales por empadronar a migrantes a cambio de dinero en Ávila y Toledo",
+      "link": "https://elpais.com/espana/2026-05-26/desarticuladas-dos-tramas-ilegales-por-empadronar-a-migrantes-a-cambio-de-dinero-en-avila-y-toledo.html",
+      "desc": "Policía y Guardia Civil arrestan a un total de seis personas que cobraban a los extranjeros por registrarlos en domicilios amañados",
+      "date": "Tue, 26 May 2026 13:17:36 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/GFYFQND365BNLENLLGD4FCMHMU.jpg?auth=43aeb7da54e8ebfc134fd71afb73ae87eb0ae8a45ba5b3abd011e2b08043687f"
+    },
+    {
+      "title": "Los indicios de la UDEF sobre el origen de la ‘offshore’ en Dubái no incluyen ninguna instrucción expresa de Zapatero o su secretaria",
       "link": "https://elpais.com/espana/2026-05-26/la-iniciativa-de-gertru-un-escolta-y-seis-correos-los-indicios-de-la-udef-sobre-zapatero-y-la-off-shore-de-dubai.html",
       "desc": "Los agentes empiezan a reconstruir el relato con una cadena de correos electrónicos intercambiados entre Gertrudis Alcázar y Cristóbal Cano",
       "date": "Tue, 26 May 2026 14:46:45 GMT",
@@ -104,35 +132,7 @@
       "desc": "La formación de extrema derecha anuncia el pacto condicionado a una “profunda rebaja fiscal” y a la lucha contra la inmigración irregular",
       "date": "Tue, 26 May 2026 10:32:57 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/B6JW7MPS3JPP3IN6BC4W3I6SDQ.jpg?auth=471919010d9b35931a9f48a570c879ee32c480d1313cc5dad2ee49b86b24f44b"
-    },
-    {
-      "title": "La Policía Nacional interviene tres armas de fuego y siete toneladas de plantas de marihuana en Almería",
-      "link": "https://elpais.com/espana/2026-05-26/la-policia-nacional-interviene-tres-armas-de-fuego-y-siete-toneladas-de-plantas-de-marihuana-en-almeria.html",
-      "desc": "La investigación, dirigida por Udyco y que ha culminado con diez personas detenidas, partió de los constantes cortes de suministro eléctrico en tres barriadas de la ciudad",
-      "date": "Tue, 26 May 2026 10:39:40 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/IHEDE5BS2JFUFJNA5G4UTC7PXU.jpg?auth=c009f4b9a8ed0a0dfcfd3f260c01a20cdd90fbeb91fef577c5fe0cce6684a07b"
-    },
-    {
-      "title": "El Gobierno declara la visita del Papa como “evento de interés público”",
-      "link": "https://elpais.com/espana/2026-05-26/el-gobierno-declara-la-visita-del-papa-como-evento-de-interes-publico.html",
-      "desc": "La medida, que será aprobada este martes en el Consejo de Ministros, conlleva deducciones fiscales para los promotores del evento",
-      "date": "Tue, 26 May 2026 08:28:50 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/JPRFNED63NKBXI5JCX73XCYC5A.jpg?auth=ba9f8b35099f5e1efe58cdc6f02a779d9334251d15420700a226cb0686683598"
-    },
-    {
-      "title": "Zapatero se enfrenta a una investigación de años con ramificaciones en Venezuela y China",
-      "link": "https://elpais.com/espana/2026-05-26/zapatero-se-enfrenta-a-una-investigacion-de-anos-con-ramificaciones-en-venezuela-y-china.html",
-      "desc": "El sumario arroja nuevos detalles sobre supuestos entramados que incluyen referencias a la compra de oro y petróleo más allá del rescate de Plus Ultra",
-      "date": "Tue, 26 May 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/33X5OEWNNJFGRNI7T7PCOM4F3I.jpg?auth=62e8cc67745b3e5f2fbf44abf9968e2e0a660a4c52db00e7dcf983f101308160"
-    },
-    {
-      "title": "Sánchez se aferra a la agenda compartida con el Papa en medio de una enorme presión por Zapatero",
-      "link": "https://elpais.com/espana/2026-05-26/sanchez-se-aferra-a-la-agenda-compartida-con-el-papa-en-medio-de-una-enorme-presion-por-zapatero.html",
-      "desc": "El presidente viaja a Roma a hablar del hambre en la FAO y de inmigración e inteligencia artificial con León XIV",
-      "date": "Tue, 26 May 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/7RREWZUT5ZKATJ56TXH2LSCQ4A.jpg?auth=b1c82e0e7c242d312410510d1435068f71f417ffb5aa55ee217aec53f31190d6"
     }
   ],
-  "fetchedAt": 1779820936114
+  "fetchedAt": 1779828914834
 }
