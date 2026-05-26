@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "title": "El retraso de la declaración de Zapatero inquieta al Gobierno porque alarga el calvario",
+      "link": "https://elpais.com/espana/2026-05-26/el-retraso-de-la-declaracion-de-zapatero-inquieta-al-gobierno-porque-alarga-el-calvario.html",
+      "desc": "El Ejecutivo tendrá al menos un mes la agenda bloqueada. Los ministros evitan dar explicaciones pero confían en la inocencia",
+      "date": "Tue, 26 May 2026 20:40:45 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/6OV75JVPHZDIVERWYADDLDGORU.jpg?auth=270c3510b21837a15f57c1c1554ded2999a7de948b0cafd6440f3825bfab69f8"
+    },
+    {
       "title": "El juez Calama pospone la declaración de Zapatero al 17 y 18 de junio",
       "link": "https://elpais.com/espana/2026-05-26/zapatero-pide-al-juez-que-aplace-su-citacion-del-2-de-junio.html",
       "desc": "El abogado del expresidente explica que “dada la extensión de la causa” y para “salvaguardar adecuadamente los derechos” del expresidente necesita un “plazo prudencial” para prepararse",
@@ -13,13 +20,6 @@
       "desc": "El presidente de Castilla-La Mancha marca distancias con Zapatero: “Con la corrupción no valen amigos ni compañeros”",
       "date": "Tue, 26 May 2026 13:49:56 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260526/1176058_122023_video_1800.mp4"
-    },
-    {
-      "title": "La Policía pedirá a un joyero una valoración inicial de las joyas encontradas en la caja fuerte de Zapatero",
-      "link": "https://elpais.com/espana/2026-05-26/la-policia-pedira-a-un-joyero-una-valoracion-inicial-de-las-joyas-encontradas-en-la-caja-fuerte-de-zapatero.html",
-      "desc": "La UDEF trasladará al magistrado Calama si las piezas son de alto valor para decidir si es necesaria realizar una pericial",
-      "date": "Tue, 26 May 2026 10:35:34 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XTSDR7HDEBCCVCNKFIQSNHJ2PE.jpg?auth=b5b481a2396230cb05392b023ba5faac9eef31f972f7a30b8f3e039959510a91"
     },
     {
       "title": "El menoscabo del olvido",
@@ -55,6 +55,13 @@
       "desc": "Me es imposible reconciliar al José Luis Rodríguez Zapatero que conocí en su día con quien ahora mismo está siendo imputado",
       "date": "Sun, 24 May 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/UPMJM7YDJVMOLL5UA47G53EYUM.jpg?auth=32ca1ebd4c3521a15a9b28b42f0f60c1966860850689aa1fecf48ed886cc3c75"
+    },
+    {
+      "title": "La Policía pedirá a un joyero una valoración inicial de las joyas encontradas en la caja fuerte de Zapatero",
+      "link": "https://elpais.com/espana/2026-05-26/la-policia-pedira-a-un-joyero-una-valoracion-inicial-de-las-joyas-encontradas-en-la-caja-fuerte-de-zapatero.html",
+      "desc": "La UDEF trasladará al magistrado Calama si las piezas son de alto valor para decidir si es necesaria realizar una pericial",
+      "date": "Tue, 26 May 2026 10:35:34 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XTSDR7HDEBCCVCNKFIQSNHJ2PE.jpg?auth=b5b481a2396230cb05392b023ba5faac9eef31f972f7a30b8f3e039959510a91"
     },
     {
       "title": "Podemos pide por carta al Papa la apertura “inmediata” de los archivos relacionados con el Patronato de Protección de la Mujer",
@@ -125,14 +132,7 @@
       "desc": "La formación de extrema derecha anuncia el pacto condicionado a una “profunda rebaja fiscal” y a la lucha contra la inmigración irregular",
       "date": "Tue, 26 May 2026 10:32:57 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/B6JW7MPS3JPP3IN6BC4W3I6SDQ.jpg?auth=471919010d9b35931a9f48a570c879ee32c480d1313cc5dad2ee49b86b24f44b"
-    },
-    {
-      "title": "La Policía Nacional interviene tres armas de fuego y siete toneladas de plantas de marihuana en Almería",
-      "link": "https://elpais.com/espana/2026-05-26/la-policia-nacional-interviene-tres-armas-de-fuego-y-siete-toneladas-de-plantas-de-marihuana-en-almeria.html",
-      "desc": "La investigación, dirigida por Udyco y que ha culminado con diez personas detenidas, partió de los constantes cortes de suministro eléctrico en tres barriadas de la ciudad",
-      "date": "Tue, 26 May 2026 10:39:40 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/IHEDE5BS2JFUFJNA5G4UTC7PXU.jpg?auth=c009f4b9a8ed0a0dfcfd3f260c01a20cdd90fbeb91fef577c5fe0cce6684a07b"
     }
   ],
-  "fetchedAt": 1779826081244
+  "fetchedAt": 1779833064401
 }
