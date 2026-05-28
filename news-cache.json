@@ -1,9 +1,9 @@
 {
   "items": [
     {
-      "title": "El Gobierno denuncia una conspiración para derribarlo “con métodos no democráticos”",
+      "title": "Sánchez solicita una comparecencia en el Congreso para rendir cuentas por los escándalos del PSOE",
       "link": "https://elpais.com/espana/2026-05-28/el-gobierno-denuncia-una-conspiracion-para-derribarlo-con-metodos-no-democraticos.html",
-      "desc": "El PSOE, que alega que los pagos a Díez eran indetectables para la auditoria externa que hicieron, niega haber “ordenado, amparado ni cooperado” la presunta trama para “desestabilizar” procesos judiciales",
+      "desc": "El Gobierno denuncia una conspiración para derribarlo con “métodos no democráticos” y el PSOE alega que los pagos a Díez eran indetectables en la auditoría externa",
       "date": "Thu, 28 May 2026 13:09:05 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260528/1176964_121426_video_1800.mp4"
     },
@@ -64,6 +64,20 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260528/1176898_095212_video_1800.mp4"
     },
     {
+      "title": "El Supremo contesta a Vox sobre la regularización de inmigrantes: “En absoluto queda acreditado” que el proceso altere el censo de forma “inmediata”",
+      "link": "https://elpais.com/espana/2026-05-28/el-supremo-contesta-a-vox-sobre-la-regularizacion-de-inmigrantes-en-absoluto-queda-acreditado-que-el-proceso-altere-el-censo-de-forma-inmediata.html",
+      "desc": "La Sala de lo Contencioso tampoco advierte los riesgos para los servicios públicos que alega Ayuso",
+      "date": "Thu, 28 May 2026 17:50:20 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/HRU66ZRSWBBNPB55DS5ZCWATUA.JPG?auth=93556d5b8c224449d4281ed64ffa24260f645bd123ecc4f87cb398f7350f6452"
+    },
+    {
+      "title": "El Ayuntamiento de Sevilla rechaza la prioridad nacional de Vox en la antesala de las negociaciones para la investidura de Moreno",
+      "link": "https://elpais.com/espana/elecciones-andalucia/2026-05-28/el-ayuntamiento-de-sevilla-rechaza-la-prioridad-nacional-de-vox-en-la-antesala-de-las-negociaciones-para-la-investidura-de-moreno.html",
+      "desc": "El líder del partido ultra en Andalucía urge al PP a iniciar los contactos para pactar, pero los populares no tienen prisa y cuestionan la ausencia pública de María Jesús Montero",
+      "date": "Thu, 28 May 2026 13:40:52 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/DJJUIK5PMRCZZHZKJAUE4XLSJE.png?auth=1aee4fb2254e86a28bc02b5e2d75ab0c5fe12b67e39dcca8d231ca5662ebc10d"
+    },
+    {
       "title": "El abogado del empresario Julio Martínez, amigo de Zapatero, renuncia a su defensa por “diferencias irreconciliables”",
       "link": "https://elpais.com/espana/2026-05-28/el-abogado-del-empresario-julio-martinez-amigo-de-zapatero-renuncia-a-su-defensa-por-diferencias-irreconciliables.html",
       "desc": "Bernardo del Rosal será sustituido por María Dolores Márquez de Prado, que fue letrada de la esposa de Bárcenas",
@@ -118,21 +132,7 @@
       "desc": "El PSOE trata de encapsular el caso a los movimientos turbios del ex secretario de organización pero los socios se tensan",
       "date": "Thu, 28 May 2026 03:30:01 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260527/1176454_100454_video_1800.mp4"
-    },
-    {
-      "title": "La Fiscalía ve prescrito uno de los delitos por los que el hermano de Sánchez se sienta en el banquillo",
-      "link": "https://elpais.com/espana/2026-05-28/el-hermano-de-sanchez-en-el-banquillo-por-las-supuestas-irregularidades-en-su-contratacion-en-la-diputacion-de-badajoz.html",
-      "desc": "El ministerio público defiende la instrucción de la jueza Beatriz Biedma, duramente atacada por las defensas de los 11 acusados",
-      "date": "Thu, 28 May 2026 13:10:45 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260528/1177013_141232_video_1800.mp4"
-    },
-    {
-      "title": "Héroes y traidores de la carrera diplomática: los secretos del servicio exterior durante la Guerra Civil",
-      "link": "https://elpais.com/espana/2026-05-28/heroes-y-traidores-de-la-carrera-diplomatica-los-secretos-del-servicio-exterior-durante-la-guerra-civil.html",
-      "desc": "Un libro homenajea a los pocos embajadores que permanecieron fieles a la República y retrata con nuevos documentos a los que conspiraron por la sublevación",
-      "date": "Thu, 28 May 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/AVOP7NR2ANBLJLONL56X4HD6QY.jpg?auth=3be892e8711278846e515d89dd304ed27e28c8392a5dd7568b4fb1ae1debf853"
     }
   ],
-  "fetchedAt": 1779986382690
+  "fetchedAt": 1779997010509
 }
