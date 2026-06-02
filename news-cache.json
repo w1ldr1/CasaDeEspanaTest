@@ -15,10 +15,10 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/FTARWTCZYZFIZMQDFK6CESUU34.jpg?auth=c77bcce977037abd652d837a4f1cc87c24559d6f189745e24fddbbf6e4036ffe"
     },
     {
-      "title": "La defensa de David Sánchez, a una testigo clave de las acusaciones: “¿Por qué no interpuso denuncia en 2017?”",
+      "title": "Una candidata al puesto de David Sánchez denuncia irregularidades, pero una docena de funcionarios defienden la legalidad del proceso",
       "link": "https://elpais.com/espana/2026-06-02/la-defensa-de-david-sanchez-a-una-testigo-clave-de-las-acusaciones-por-que-no-interpuso-denuncia-en-2017.html",
-      "desc": "Cristina de Frutos, que aspiraba al puesto que finalmente logró el hermano del presidente, insiste en sus sospechas sobre la adjudicación sin aportar pruebas",
-      "date": "Tue, 02 Jun 2026 11:56:01 GMT",
+      "desc": "Cristina de Frutos insiste en el juicio en sus sospechas sobre la adjudicación y la Fiscalía y las defensas cuestionan su testimonio",
+      "date": "Tue, 02 Jun 2026 19:56:01 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260602/1178840_130421_video_1800.mp4"
     },
     {
@@ -85,6 +85,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/NJYNK5E2RZD5PC33YEMKJYM6UI.jpg?auth=3e1294476a949d38291c1ece024492bfbe5888291df4cdb98a6dd3d4be875950"
     },
     {
+      "title": "Anticorrupción apunta a “nuevas imputaciones” por los presuntos amaños de obra pública del ‘caso Koldo’",
+      "link": "https://elpais.com/espana/2026-06-02/anticorrupcion-apunta-a-nuevas-imputaciones-por-los-presuntos-amanos-de-obra-publica-del-caso-koldo.html",
+      "desc": "El fiscal pide a la Audiencia Nacional que prorrogue otros seis meses la investigación sobre esta presunta trama",
+      "date": "Tue, 02 Jun 2026 16:00:46 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/7FPZXLB3G5F6BLLID6I7UR5M6E.jpg?auth=e25c1a93098097d97b4880d19b058f46fcddf9b60197f854cf9b15ea38c5c993"
+    },
+    {
       "title": "La Audiencia Nacional obliga al juez Pedraz a reabrir la causa contra el venezolano dueño de las gafas Hawkers",
       "link": "https://elpais.com/espana/2026-06-02/la-audiencia-nacional-obliga-al-juez-pedraz-a-reabrir-la-causa-contra-el-venezolano-dueno-de-las-gafas-hawkers.html",
       "desc": "El instructor había archivado la investigación por blanqueo de capitales y la Fiscalía Anticorrupción había presentado un recurso",
@@ -125,14 +132,7 @@
       "desc": "El líder del PP plantea un Ejecutivo popular que “limpiaría las instituciones”, entre ellas RTVE, para convocar después los comicios. Fuentes del PNV se remiten a las palabras de Aitor Esteban, quien ha descartado apoyar una moción",
       "date": "Mon, 01 Jun 2026 10:06:31 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/DXS63NE4QZB53JVDJCQ2UOGCLA.jpeg?auth=59380e6a1a65267573f2363383c11d0ff9b2c002213b76d68f87ce9ef1f2a534"
-    },
-    {
-      "title": "El Defensor del Pueblo pide evitar la expulsión de inmigrantes en proceso de regularización",
-      "link": "https://elpais.com/espana/2026-06-01/el-defensor-del-pueblo-pide-evitar-la-expulsion-de-inmigrantes-en-proceso-de-regularizacion.html",
-      "desc": "La recomendación llega tras las quejas de ciudadanos extranjeros y se ciñe a los que carecen de antecedentes",
-      "date": "Mon, 01 Jun 2026 11:59:04 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/3GSX5SBJQFJ4FALMUSCNUJCE6E.jpg?auth=f71c31d104cca57f0c022d3647ef24fe72e532847a2d9f746a666a65d3614ef3"
     }
   ],
-  "fetchedAt": 1780423522056
+  "fetchedAt": 1780435759889
 }
