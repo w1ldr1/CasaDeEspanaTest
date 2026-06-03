@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "title": "La UCO constata “al menos” tres reuniones de Leire Díez con la directora de la Guardia Civil, a la que instó a iniciar una “investigación interna” contra la Unidad",
+      "link": "https://elpais.com/espana/2026-06-03/la-uco-constata-que-leire-diez-se-reunio-tres-veces-con-la-directora-de-la-guardia-civil-a-la-que-insto-a-iniciar-una-investigacion-interna.html",
+      "desc": "El sumario del ‘caso Leire’ recoge que la supuesta ‘fontanera’ del PSOE mantuvo además conversaciones de WhatsApp con Mercedes González, que esta borró",
+      "date": "Wed, 03 Jun 2026 17:11:53 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/UINKNK52ZJJDXIMTZ3FO4EBDZU.jpg?auth=a0f416332bac1abc03d0d9eaf64227ccc227320df45d5debbefe1a312939f351"
+    },
+    {
       "title": "La UCO afirma que el puesto de alta dirección en la Diputación de Badajoz estaba “predeterminado” para el hermano de Sánchez",
       "link": "https://elpais.com/espana/2026-06-03/la-uco-atribuye-al-exlider-socialista-miguel-angel-gallardo-la-decision-politica-de-contratar-a-david-sanchez-en-la-diputacion-de-badajoz.html",
       "desc": "La Guardia Civil señala al exlíder del PSOE extremeño, Miguel Ángel Gallardo, como el instigador de las supuestas irregularidades",
@@ -13,13 +20,6 @@
       "desc": "El magistrado Calama quiere saber “su naturaleza, autenticidad y valor económico” además del “fabricante”",
       "date": "Wed, 03 Jun 2026 12:45:02 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/NQCZ6HXTLJBDJEEFJL6H6WA2UY.jpg?auth=cf360ac9df17cce5203c43d3f4881e79a8216b9a1146f5c2949f823bc0549020"
-    },
-    {
-      "title": "Pedro Sánchez anuncia que el Gobierno presentará el proyecto de Presupuestos para 2027",
-      "link": "https://elpais.com/espana/catalunya/2026-06-03/pedro-sanchez-anuncia-que-el-gobierno-presentara-el-proyecto-de-presupuestos-para-2027.html",
-      "desc": "El presidente expresa su determinación de culminar la legislatura en la reunión anual del Cercle d’Economia",
-      "date": "Wed, 03 Jun 2026 11:52:47 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260603/1179357_143846_video_1800.mp4"
     },
     {
       "title": "El debate | ¿La izquierda tiene que asumir identidades territoriales para crecer electoralmente?",
@@ -57,6 +57,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/NZG2VQABQFDPLJKWA3LG5NILOI.jpg?auth=76575d0eb0a5e8eb98f74134f42c30b4e8c114034b2b35301c30f9eb76347b70"
     },
     {
+      "title": "Pedro Sánchez anuncia que el Gobierno presentará el proyecto de Presupuestos para 2027",
+      "link": "https://elpais.com/espana/catalunya/2026-06-03/pedro-sanchez-anuncia-que-el-gobierno-presentara-el-proyecto-de-presupuestos-para-2027.html",
+      "desc": "El presidente expresa su determinación de culminar la legislatura en la reunión anual del Cercle d’Economia",
+      "date": "Wed, 03 Jun 2026 11:52:47 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260603/1179357_143846_video_1800.mp4"
+    },
+    {
       "title": "El PP acepta en Castilla y León la “prioridad nacional” y cede a Vox la política medioambiental y cultural",
       "link": "https://elpais.com/espana/elecciones-castilla-y-leon/2026-06-03/el-pp-y-vox-alcanzan-un-acuerdo-en-castilla-y-leon-para-investir-a-manueco-que-incluye-la-prioridad-nacional.html",
       "desc": "Los ultras asumen una vicepresidencia y tres consejerías para investir a Mañueco presidente de un gobierno de coalición. El PP se queda la gestión de los incendios",
@@ -83,6 +90,13 @@
       "desc": "El choque entre una furgoneta y un camión cisterna obliga a cerrar la AP-8",
       "date": "Wed, 03 Jun 2026 19:14:14 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260603/1179351_142842_video_1800.mp4"
+    },
+    {
+      "title": "La Justicia francesa autoriza la entrega a España de Josu Ternera para juzgarlo por su presunta responsabilidad como jefe de ETA",
+      "link": "https://elpais.com/espana/2026-06-03/la-justicia-francesa-autoriza-la-entrega-a-espana-de-josu-ternera-para-juzgarlo-por-su-presunta-responsabilidad-como-jefe-de-eta.html",
+      "desc": "El Tribunal de Apelación acepta la euroorden española, aunque queda a la espera de que se resuelva la última causa que el etarra tiene en Francia, ya juzgada, cuyo fallo se dictará el 2 de julio",
+      "date": "Wed, 03 Jun 2026 14:12:00 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/66UU7WOGHNCCDO6HQLGS3AEUBA.jpg?auth=c2b44c86bad539c83346521f951dd6e19502e4590d3b0ae380e3d8324769265b"
     },
     {
       "title": "Sumar propone elevar a diez años el veto a los expresidentes para trabajar en empresas privadas",
@@ -118,21 +132,7 @@
       "desc": "El juez Pedraz solicita al instructor que ya investigaba a Leire Díez por entorpecer causas judiciales que le remita toda la investigación",
       "date": "Wed, 03 Jun 2026 07:57:14 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/KXTQVUEZFNEP5BXRQ2ZASQTGSY.jpg?auth=cb2741f860c1db82b9290f259864c599c27c8d92b5fcbffbf295089bc011b2b1"
-    },
-    {
-      "title": "El centenar de vecinos desalojados por el incendio en el municipio de Murcia capital regresa a sus casas",
-      "link": "https://elpais.com/espana/2026-06-03/el-centenar-de-vecinos-desalojados-por-el-incendio-en-un-municipio-de-murcia-regresa-a-sus-casas.html",
-      "desc": "El fuego, que ya está estabilizado, ha arrasado 177 hectáreas en Garres y Lages. Más de 200 militares de la UME han trabajado esta noche en la extinción",
-      "date": "Wed, 03 Jun 2026 06:49:57 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/MFF5WGFRFNCQXFIERETTNQDZMY.jpg?auth=672583a8c0482ae600e2ef95ac1534a3ad6f717d73691290ed32fc14df81d327"
-    },
-    {
-      "title": "La burocracia atasca por meses la regularización de los extranjeros casados con españoles",
-      "link": "https://elpais.com/espana/2026-06-03/la-burocracia-atasca-por-meses-la-regularizacion-de-los-extranjeros-casados-con-espanoles.html",
-      "desc": "Las reclamaciones se acumulan en el Defensor del Pueblo, quien recuerda el derecho a “proteger la vida familiar” y a un matrimonio sin discriminaciones",
-      "date": "Wed, 03 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/UD6K6GMSX5BZXEW7SYJJDHUS4Q.jpg?auth=62732594471bb81877ed9a93ef771bab475ce0662e1721e6d07fa64759121e3d"
     }
   ],
-  "fetchedAt": 1780518922700
+  "fetchedAt": 1780527787912
 }
