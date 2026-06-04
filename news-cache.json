@@ -1,25 +1,25 @@
 {
   "items": [
     {
+      "title": "La directora de la Guardia Civil dice que cortó con Leire Díez cuando esta le pidió que recuperara a un comandante implicado en el ‘caso Koldo’",
+      "link": "https://elpais.com/espana/2026-06-04/la-directora-de-la-guardia-civil-dice-que-corto-con-leire-diez-cuando-le-pidio-que-recuperara-a-un-comandante-implicado-en-el-caso-koldo.html",
+      "desc": "Mercedes González asegura que mantuvo dos citas con Díez en las que no habló de las investigaciones contra el PSOE y que interrumpió la relación cuando la espía planteó su teoría de la conspiración",
+      "date": "Thu, 04 Jun 2026 20:24:54 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/FHBLAWJNSZCQBEBV6MQMMMUURY.jpg?auth=c9176069239d1ffbbc17e519f911c0a2625369366e6a1ce17e99402e1e5721fe"
+    },
+    {
+      "title": "El juez reclama los movimientos bancarios de seis cuentas del PSOE entre 2024 y 2025",
+      "link": "https://elpais.com/espana/2026-06-04/la-uco-pide-al-juez-que-recabe-todos-los-movimientos-bancarios-del-psoe-y-el-psc-en-2024-y-2025.html",
+      "desc": "La petición parte de la UCO, que reclama también un informe fiscal exhaustivo del Partido Socialista y del PSC y que varias empresas remitan “las relaciones comerciales” con ambos",
+      "date": "Thu, 04 Jun 2026 18:48:41 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/TH6DAWNWNRHNFMGYZTE6M4623Q.JPG?auth=e87a4c0fbd392e5e3e8c4d7ac5350891cb5f2600009751f891b0764cc82e69e7"
+    },
+    {
       "title": "Los audios del ‘caso Leire Díez’: “Mi siguiente conversación va a ser con la directora de la Guardia Civil [...] es de mi confianza”",
       "link": "https://elpais.com/espana/2026-06-04/los-audios-del-caso-leire-diez-mi-siguiente-conversacion-va-a-ser-con-la-directora-de-la-guardia-civil-es-de-mi-confianza.html",
       "desc": "EL PAÍS accede a las grabaciones del sumario judicial, que expone que la exmilitante socialista se reunió al menos tres veces con la directora del instituto armado",
       "date": "Thu, 04 Jun 2026 08:56:36 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260604/1179649_084703_video_1800.mp4"
-    },
-    {
-      "title": "Marlaska: “Me consta la actuación ejemplar y plena honestidad de la directora de la Guardia Civil”",
-      "link": "https://elpais.com/espana/2026-06-04/marlaska-me-consta-la-actuacion-ejemplar-y-plena-honestidad-de-la-directora-de-la-guardia-civil.html",
-      "desc": "El PP pide la dimisión del ministro de Interior y de la directora de la Guardia Civil",
-      "date": "Thu, 04 Jun 2026 09:16:56 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260604/1179660_092245_video_1800.mp4"
-    },
-    {
-      "title": "David Sánchez niega haber hecho valer su apellido: “No tengo capacidad de influir en nada”",
-      "link": "https://elpais.com/espana/2026-06-04/david-sanchez-no-tengo-capacidad-de-influir-en-nada.html",
-      "desc": "El hermano del presidente califica de “malentendido” el mensaje que intercambió con un amigo sobre la adjudicación a este de un puesto en la Diputación de Badajoz",
-      "date": "Thu, 04 Jun 2026 16:54:24 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260604/1179666_092930_video_1800.mp4"
     },
     {
       "title": "El debate | ¿La izquierda tiene que asumir identidades territoriales para crecer electoralmente?",
@@ -57,6 +57,20 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/NZG2VQABQFDPLJKWA3LG5NILOI.jpg?auth=76575d0eb0a5e8eb98f74134f42c30b4e8c114034b2b35301c30f9eb76347b70"
     },
     {
+      "title": "Marlaska: “Me consta la actuación ejemplar y plena honestidad de la directora de la Guardia Civil”",
+      "link": "https://elpais.com/espana/2026-06-04/marlaska-me-consta-la-actuacion-ejemplar-y-plena-honestidad-de-la-directora-de-la-guardia-civil.html",
+      "desc": "El PP pide la dimisión del ministro de Interior y de la directora de la Guardia Civil",
+      "date": "Thu, 04 Jun 2026 09:16:56 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260604/1179660_092245_video_1800.mp4"
+    },
+    {
+      "title": "David Sánchez niega haber hecho valer su apellido: “No tengo capacidad de influir en nada”",
+      "link": "https://elpais.com/espana/2026-06-04/david-sanchez-no-tengo-capacidad-de-influir-en-nada.html",
+      "desc": "El hermano del presidente califica de “malentendido” el mensaje que intercambió con un amigo sobre la adjudicación a este de un puesto en la Diputación de Badajoz",
+      "date": "Thu, 04 Jun 2026 16:54:24 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260604/1179666_092930_video_1800.mp4"
+    },
+    {
       "title": "Gallardo y el resto de imputados niegan irregularidades en el nombramiento de David Sánchez",
       "link": "https://elpais.com/espana/2026-06-04/miguel-angel-gallardo-tilda-los-informes-de-la-uco-de-novela-de-ficcion.html",
       "desc": "El exlíder del PSOE extremeño tilda los informes de la UCO de “novela de ficción” y asegura que cuando se enteró de que el hermano de Sánchez aspiraba al puesto dijo: “Que gane el mejor”",
@@ -85,6 +99,20 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/DA5LVDZIGRFCXLAXG3H35ATYBA.jpg?auth=75418e944e1530135f58fd52afb187ada459c77965576dd1d8b0a5f5b783362f"
     },
     {
+      "title": "PP, Vox y cuatro acusaciones elevan por sorpresa su petición de pena para David Sánchez a seis años de cárcel",
+      "link": "https://elpais.com/espana/2026-06-04/pp-vox-y-cuatro-acusaciones-elevan-por-sorpresa-su-peticion-de-pena-de-carcel-para-david-sanchez-a-seis-anos.html",
+      "desc": "El tribunal ha aceptado el cambio, pese a la frontal oposición de la Fiscalía y las defensas, que consideran que les causa indefensión",
+      "date": "Thu, 04 Jun 2026 20:07:47 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/SUW2MO36JRLWBPS23FKKYJUMFM.jpg?auth=da9190a53e5306e90c5ffcb9fc8e8aeb81547d8f7eca7e2481f425038f4e4657"
+    },
+    {
+      "title": "El comisionista del ‘caso mascarillas de la Diputación de Almería’ defiende la legalidad de sus contratos con la entidad provincial",
+      "link": "https://elpais.com/espana/2026-06-04/el-comisionista-del-caso-mascarillas-de-la-diputacion-de-almeria-defiende-la-legalidad-de-sus-contratos-con-la-entidad-provincial.html",
+      "desc": "El exvicepresidente tercero, uno de los principales señalados en la causa, se acoge a su derecho a no declarar",
+      "date": "Thu, 04 Jun 2026 13:18:22 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/MSBQBYYV55E4BAG22CQJZAPR3Y.jpg?auth=e2ebfe7ecceb27e0ef6f40f225d7364849dfb60d9ca167e71bb77f497f6d5cf6"
+    },
+    {
       "title": "La Guardia Civil detiene en Tenerife a un fugitivo buscado por el FBI por estafar 558 millones en una red piramidal",
       "link": "https://elpais.com/espana/2026-06-04/la-guardia-civil-detiene-en-tenerife-a-un-fugitivo-buscado-por-el-fbi-por-estafar-558-millones-en-una-red-piramidal.html",
       "desc": "El acusado, que tenía en vigor una orden internacional de detención, se encontraba alojado en un hotel de la isla",
@@ -104,35 +132,7 @@
       "desc": "El sumario expone que Díez se reunió al menos tres veces con la directora del instituto armado y que se abrieron investigaciones internas a agentes de la UCO que indagaban en la corrupción del Gobierno",
       "date": "Thu, 04 Jun 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/OLQZ7FL6VNHMPJF5TANY4ANIOM.jpg?auth=481ebc85392d2770db62dbe92877ad10bd418cfd5cdea77ccf1de4f0a028bee0"
-    },
-    {
-      "title": "Los chats de Leire Díez con los miembros de la trama para influir en la jefatura de la Guardia Civil: “Tengo amistad con la directora general”",
-      "link": "https://elpais.com/espana/2026-06-04/los-chats-de-leire-diez-con-los-miembros-de-la-trama-para-influir-en-la-jefatura-de-la-guardia-civil-tengo-amistad-con-la-directora-general.html",
-      "desc": "La supuesta ‘fontanera’ del PSOE informó a otros investigados de sus gestiones con Mercedes González según la UCO",
-      "date": "Thu, 04 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/D4OCNRBVJ5C5JEQMVMEZF6DOHE.jpg?auth=671bde900014e839cf44f7b446be8c59790278ab0b107fb018223ba77d5a4974"
-    },
-    {
-      "title": "La tesis del ‘fin último’ y las necesarias explicaciones",
-      "link": "https://elpais.com/espana/2026-06-05/la-tesis-del-fin-ultimo-y-las-necesarias-explicaciones.html",
-      "desc": "A ver quién interpreta correctamente qué responsabilidades pueden derivarse para un presidente del Gobierno de aquello que supuestamente llevó a cabo una exmilitante de su partido",
-      "date": "Thu, 04 Jun 2026 06:29:43 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/TZAQK6CONZGGJDNFZIPBQMIZ7M.jpg?auth=f38b35dfccef041ad7559589caa066c91a1e75e9103685feb37d63ad01d9c5ff"
-    },
-    {
-      "title": "El Círculo de Empresarios pide “un nuevo mandato ciudadano” para acometer las reformas que “reclama España”",
-      "link": "https://elpais.com/economia/2026-06-04/el-circulo-de-empresarios-pide-un-nuevo-mandato-ciudadano-para-acometer-las-reformas-que-reclama-espana.html",
-      "desc": "La organización señala que la falta de Presupuestos Generales del Estado “debilita la capacidad efectiva de gobierno” para afrontar el contexto actual",
-      "date": "Thu, 04 Jun 2026 03:45:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/UZYOQFTSQREYBKAHDMVPECK6CE.jpg?auth=10e0d6a2a20af9d66303084f72710093f2199919a5555fdb91b4ea6dbc5623d3"
-    },
-    {
-      "title": "PP y Vox ahondan en su relación de socios en Castilla y León: de la “ley de concordia” al requisito del empadronamiento en la comunidad y “en España”",
-      "link": "https://elpais.com/espana/elecciones-castilla-y-leon/2026-06-04/pp-y-vox-ahondan-en-su-relacion-de-socios-en-castilla-y-leon-de-la-ley-de-concordia-al-requisito-del-empadronamiento-en-la-comunidad-y-en-espana.html",
-      "desc": "El acuerdo incluye también el retorno de menores, prohibición del burka y una especial atención al apartado de incendios, con el acuerdo de un nuevo marco de actuación",
-      "date": "Thu, 04 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/33SIXEHOWJL7RAJHNHTG25DSIQ.jpg?auth=29a5c4a824bee180de880909a59fe2058b9d397560fbac2fdaa8e2a62acd6dde"
     }
   ],
-  "fetchedAt": 1780600869875
+  "fetchedAt": 1780607413392
 }
