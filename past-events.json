@@ -1,6 +1,18 @@
 {
   "events": [
     {
+      "id": "faeusa-charla-mayo-2026",
+      "date": "2026-05-30",
+      "year": 2026,
+      "type": "Charla FAEUSA",
+      "title": "FAEUSA National Member Gathering — May 2026",
+      "location": "Virtual",
+      "description": "Casa de España en Indiana joined FAEUSA's virtual national gathering — a cross-country conversation among Spanish cultural associations across the United States. Members discussed community initiatives, cultural programming, and the federation's upcoming plans.",
+      "video": "https://www.youtube.com/embed/kjrmScgLPUs",
+      "photos": [],
+      "highlight": true
+    },
+    {
       "id": "feria-2025",
       "date": "2025-04-06",
       "year": 2025,

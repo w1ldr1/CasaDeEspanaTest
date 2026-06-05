@@ -1062,6 +1062,9 @@
   // ─── RENDER ──────────────────────────────────────────────
   function renderCard(ev, delayIdx) {
     const hl = ev.highlight ? 'highlight' : '';
+    const coverImg = ev.photos.length > 0
+      ? ev.photos[0]
+      : `https://placehold.co/800x450/1C1410/C13B2B?text=${encodeURIComponent(ev.type)}`;
     const thumbs = ev.photos.slice(1, 4).map(p =>
       `<img class="card-thumb" src="${p}" alt="" loading="lazy" data-event-id="${ev.id}" data-photo-idx="${ev.photos.indexOf(p)}">`
     ).join('');
@@ -1069,7 +1072,7 @@
     return `
 <article class="event-card ${hl} scroll-reveal" data-delay="${Math.min(delayIdx, 3)}" data-event-id="${ev.id}">
   <div class="card-cover">
-    <img src="${ev.photos[0]}" alt="${ev.title}" loading="lazy">
+    <img src="${coverImg}" alt="${ev.title}" loading="lazy">
     <div class="card-cover-overlay" aria-hidden="true"></div>
     <div class="card-cover-overlay-color" aria-hidden="true"></div>
     <span class="type-badge">${ev.type}</span>
@@ -1083,12 +1086,24 @@
     <h2 class="card-title">${ev.title}</h2>
     <div class="card-location">${PIN_SVG}<span>${ev.location}</span></div>
     <p class="card-desc">${ev.description}</p>
+    ${ev.video ? `
+    <div style="margin-top:24px;position:relative;padding-bottom:56.25%;height:0;overflow:hidden;border-radius:8px;">
+      <iframe
+        src="${ev.video}"
+        title="${ev.title}"
+        style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+        loading="lazy"
+      ></iframe>
+    </div>` : ''}
+    ${ev.photos.length > 0 ? `
     <div class="card-footer">
       <button class="btn-gallery" data-event-id="${ev.id}" data-photo-idx="0">
         ${t('viewPhotos')} ${ARROW_SVG}
       </button>
       <div class="card-photo-thumbs">${thumbs}</div>
-    </div>
+    </div>` : ''}
   </div>
 </article>`;
   }
