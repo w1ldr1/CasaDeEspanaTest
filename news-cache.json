@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "title": "Qué apuntó Leire Díez en sus cuadernos: contactos, objetivos y “asuntos abiertos”",
+      "link": "https://elpais.com/espana/2026-06-06/que-apunto-leire-diez-en-su-cuaderno-contactos-objetivos-y-asuntos-abiertos.html",
+      "desc": "La exmilitante socialista anotó en una de sus libretas “reunión con P. S.”, pero La Moncloa asegura que Sánchez no ha tenido jamás una reunión ni un encuentro con ella",
+      "date": "Fri, 05 Jun 2026 18:34:33 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/AZ4IKEF5KJBAVLF2OGKGKBDHRU.jpg?auth=abe3392cdc96681283d8151b7335039b77893ae1236031b2ad28948154dc633e"
+    },
+    {
       "title": "Sánchez: “Nunca avalé, conocí o permití nada de lo que hacía Leire Díez. Yo no he hecho lo que me hicieron a mí”",
       "link": "https://elpais.com/espana/2026-06-05/sanchez-nunca-avale-conoci-o-permiti-nada-de-lo-que-hacia-leire-diez-yo-no-he-hecho-lo-que-me-hicieron-a-mi.html",
       "desc": "El presidente mantiene el apoyo a la directora de la Guardia Civil y asegura que no habrá superdomingo electoral",
@@ -13,13 +20,6 @@
       "desc": "Anticorrupción también quiere saber si Díez y sus colaboradores acudieron a reuniones en la Fiscalía General del Estado cuando la presunta trama estuvo activa",
       "date": "Fri, 05 Jun 2026 13:18:47 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/XLAS6LFR2NJM3MV3DURZQU7RNA.jpg?auth=40b157cdfbee14766ebeaa91925fec721ed3b981c4e354c8459847e5ff3d79ba"
-    },
-    {
-      "title": "Marlaska mantiene su apoyo a la directora de la Guardia Civil si las reuniones con Leire Díez han sido “como se han descrito”",
-      "link": "https://elpais.com/espana/2026-06-05/marlaska-mantiene-su-apoyo-a-la-directora-de-la-guardia-civil-si-las-reuniones-con-leire-diez-son-como-se-han-descrito.html",
-      "desc": "El PP cita a Mercedes González en el Senado ante “la gravedad de lo que estamos conociendo”. Bolaños sale en defensa de Sánchez: “El presidente es una persona íntegra”",
-      "date": "Fri, 05 Jun 2026 09:24:58 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260605/1180139_101542_video_1800.mp4"
     },
     {
       "title": "León XIV visita la casa de Tarancón y Rouco",
@@ -55,6 +55,13 @@
       "desc": "La revelación irrelevante de conductas personales es políticamente devastadora porque desplaza el juicio de la prueba a la insinuación.",
       "date": "Fri, 29 May 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/VACAU3XRVNDUJH2VCUUDHPA43U.jpg?auth=b082b38c9077da6e581bd24ef297d82702b99ddfbce4b0ddf79921c6e85d3657"
+    },
+    {
+      "title": "Marlaska mantiene su apoyo a la directora de la Guardia Civil si las reuniones con Leire Díez han sido “como se han descrito”",
+      "link": "https://elpais.com/espana/2026-06-05/marlaska-mantiene-su-apoyo-a-la-directora-de-la-guardia-civil-si-las-reuniones-con-leire-diez-son-como-se-han-descrito.html",
+      "desc": "El PP cita a Mercedes González en el Senado ante “la gravedad de lo que estamos conociendo”. Bolaños sale en defensa de Sánchez: “El presidente es una persona íntegra”",
+      "date": "Fri, 05 Jun 2026 09:24:58 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260605/1180139_101542_video_1800.mp4"
     },
     {
       "title": "Dentro del grupo de WhatsApp de Leire Díez o cómo tratar de anular la causa del hermano de Sánchez: “Mi prioridad: el presidente”",
@@ -125,14 +132,7 @@
       "desc": "El exvicepresidente tercero, uno de los principales señalados en la causa, se acoge a su derecho a no declarar",
       "date": "Thu, 04 Jun 2026 13:18:22 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/MSBQBYYV55E4BAG22CQJZAPR3Y.jpg?auth=e2ebfe7ecceb27e0ef6f40f225d7364849dfb60d9ca167e71bb77f497f6d5cf6"
-    },
-    {
-      "title": "La Guardia Civil detiene en Tenerife a un fugitivo buscado por el FBI por estafar 558 millones en una red piramidal",
-      "link": "https://elpais.com/espana/2026-06-04/la-guardia-civil-detiene-en-tenerife-a-un-fugitivo-buscado-por-el-fbi-por-estafar-558-millones-en-una-red-piramidal.html",
-      "desc": "El acusado, que tenía en vigor una orden internacional de detención, se encontraba alojado en un hotel de la isla",
-      "date": "Thu, 04 Jun 2026 12:38:58 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/563M2NUCU5MIVBSGVEATB7WKCY.jpg?auth=89167adbda66a11ff388ac7807e5b32e2e24a52a440c2ba1b8040b75f37d0265"
     }
   ],
-  "fetchedAt": 1780680443063
+  "fetchedAt": 1780687098946
 }
