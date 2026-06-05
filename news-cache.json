@@ -8,18 +8,18 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260605/1180185_114930_video_1800.mp4"
     },
     {
+      "title": "La Fiscalía pide al juez que interrogue a Narbona como testigo por el ‘caso Leire Díez’",
+      "link": "https://elpais.com/espana/2026-06-05/la-fiscalia-pide-al-juez-que-interrogue-a-narbona-como-testigo-por-el-caso-leire-diez.html",
+      "desc": "Anticorrupción también quiere saber si Díez y sus colaboradores acudieron a reuniones en la Fiscalía General del Estado cuando la presunta trama estuvo activa",
+      "date": "Fri, 05 Jun 2026 13:18:47 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XLAS6LFR2NJM3MV3DURZQU7RNA.jpg?auth=40b157cdfbee14766ebeaa91925fec721ed3b981c4e354c8459847e5ff3d79ba"
+    },
+    {
       "title": "Marlaska mantiene su apoyo a la directora de la Guardia Civil si las reuniones con Leire Díez han sido “como se han descrito”",
       "link": "https://elpais.com/espana/2026-06-05/marlaska-mantiene-su-apoyo-a-la-directora-de-la-guardia-civil-si-las-reuniones-con-leire-diez-son-como-se-han-descrito.html",
       "desc": "El PP cita a Mercedes González en el Senado ante “la gravedad de lo que estamos conociendo”. Bolaños sale en defensa de Sánchez: “El presidente es una persona íntegra”",
       "date": "Fri, 05 Jun 2026 09:24:58 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260605/1180139_101542_video_1800.mp4"
-    },
-    {
-      "title": "Dentro del grupo de WhatsApp de Leire Díez o cómo tratar de anular la causa del hermano de Sánchez: “Mi prioridad: el presidente”",
-      "link": "https://elpais.com/espana/2026-06-05/dentro-del-grupo-de-whatsapp-de-leire-diez-o-como-tratar-de-anular-la-causa-del-hermano-de-sanchez-mi-prioridad-el-presidente.html",
-      "desc": "La Guardia Civil localiza un chat interno donde se habla de actuaciones contra la jueza Beatriz Biedma, que investigaba el caso del hermano de Sánchez",
-      "date": "Fri, 05 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/A3V4DAVQLBFHPNX7YW733ZT7EI.jpg?auth=b66833be4adbe20ee94b9636445079a7190343e5dde80ea99aab247abb1f0ead"
     },
     {
       "title": "León XIV visita la casa de Tarancón y Rouco",
@@ -55,6 +55,13 @@
       "desc": "La revelación irrelevante de conductas personales es políticamente devastadora porque desplaza el juicio de la prueba a la insinuación.",
       "date": "Fri, 29 May 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/VACAU3XRVNDUJH2VCUUDHPA43U.jpg?auth=b082b38c9077da6e581bd24ef297d82702b99ddfbce4b0ddf79921c6e85d3657"
+    },
+    {
+      "title": "Dentro del grupo de WhatsApp de Leire Díez o cómo tratar de anular la causa del hermano de Sánchez: “Mi prioridad: el presidente”",
+      "link": "https://elpais.com/espana/2026-06-05/dentro-del-grupo-de-whatsapp-de-leire-diez-o-como-tratar-de-anular-la-causa-del-hermano-de-sanchez-mi-prioridad-el-presidente.html",
+      "desc": "La Guardia Civil localiza un chat interno donde se habla de actuaciones contra la jueza Beatriz Biedma, que investigaba el caso del hermano de Sánchez",
+      "date": "Fri, 05 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/A3V4DAVQLBFHPNX7YW733ZT7EI.jpg?auth=b66833be4adbe20ee94b9636445079a7190343e5dde80ea99aab247abb1f0ead"
     },
     {
       "title": "El Supremo anula la sanción de 862.496 euros que impuso el Tribunal de Cuentas a Vox",
@@ -125,14 +132,7 @@
       "desc": "El acusado, que tenía en vigor una orden internacional de detención, se encontraba alojado en un hotel de la isla",
       "date": "Thu, 04 Jun 2026 12:38:58 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/563M2NUCU5MIVBSGVEATB7WKCY.jpg?auth=89167adbda66a11ff388ac7807e5b32e2e24a52a440c2ba1b8040b75f37d0265"
-    },
-    {
-      "title": "El Supremo abre una causa contra un senador del PSOE por proponer el nombramiento de su esposa como jueza de Paz",
-      "link": "https://elpais.com/espana/2026-06-04/el-supremo-abre-una-causa-contra-un-senador-del-psoe-por-proponer-el-nombramiento-de-su-esposa-como-jueza-de-paz.html",
-      "desc": "El Alto Tribunal también investigará a la mujer del parlamentario Alfonso Carlos Moscoso e indagará un presunto delito de prevaricación de funcionarios públicos",
-      "date": "Thu, 04 Jun 2026 11:42:26 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/WH42XP33BVEIJD5VPPQOJJTLLM.jpg?auth=62037f59b487d966efcfbdf627fc6b63feaf9699c34d3f92551865a7afa752f5"
     }
   ],
-  "fetchedAt": 1780672720586
+  "fetchedAt": 1780680443063
 }
