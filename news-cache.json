@@ -57,6 +57,20 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/FM3T7STCUZO23KUU5WDV6MD7MI.jpg?auth=6b137cde83a419cb12c0e831e84f5e664d21fab26ff6ec16b66a06863fa2a3d0"
     },
     {
+      "title": "Un centenar de bomberos luchan contra un incendio que cubre de humo y cenizas el cielo de Huelva",
+      "link": "https://elpais.com/espana/2026-06-08/un-centenar-de-bomberos-luchan-contra-un-incendio-que-cubre-de-humo-y-cenizas-el-cielo-de-huelva.html",
+      "desc": "El 112 Andalucía recomienda cerrar puertas y ventanas y el uso de mascarillas",
+      "date": "Mon, 08 Jun 2026 18:27:40 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/5DNP7CA2KZH6VJ6PQBALDBH2ZA.jpg?auth=2af3408b56e4c78480266d5b95f9ab6f4ae53a8ecc15ba86aa709e6c973371f2"
+    },
+    {
+      "title": "El Papa, en el Bernabéu: “Hoy la Iglesia de Madrid ha marcado un golazo en este estadio”",
+      "link": "https://elpais.com/espana/2026-06-08/el-papa-en-el-bernabeu-hoy-la-iglesia-de-madrid-ha-marcado-un-golazo-en-este-estadio.html",
+      "desc": "El Pontífice pide reflexionar sobre la inmigración para comprender “los cambios culturales” y resolver las “tensiones sociales”",
+      "date": "Mon, 08 Jun 2026 19:19:38 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/WTEPR5MEUJBFVEJ55CBQNRDQUQ.jpg?auth=a99fc09a3339747f13f29dc010c7a15998724749a5e0a8b32ab6fc73726c4f0b"
+    },
+    {
       "title": "El PP ignora el rechazo del Papa a la “prioridad nacional” y afirma que comparte “de la A a la Z” su discurso",
       "link": "https://elpais.com/espana/2026-06-08/el-pp-ignora-el-rechazo-del-papa-a-la-prioridad-nacional-y-afirma-que-comparte-de-la-a-a-la-z-su-discurso.html",
       "desc": "Feijóo, ante la petición del Pontífice a los políticos para que “desarmen el lenguaje”, admite que se siente “interpelado” por todo lo que ha defendido León XIV",
@@ -118,21 +132,7 @@
       "desc": "Vox deja de ser el partido favorito entre los jóvenes de 18 a 24 años. Los socialistas pierden casi un punto en estimación de voto en un mes y aumenta el porcentaje de su electorado que se declara indeciso",
       "date": "Mon, 08 Jun 2026 03:30:01 GMT",
       "imgUrl": null
-    },
-    {
-      "title": "Tráfico alerta de importantes cortes en la circulación durante la visita del Papa a Gran Canaria y Tenerife",
-      "link": "https://elpais.com/espana/2026-06-08/trafico-alerta-de-importantes-cortes-en-la-circulacion-durante-la-visita-del-papa-a-gran-canaria-y-tenerife.html",
-      "desc": "La DGT recomienda que se eviten los desplazamientos que no sean imprescindibles el jueves 11 y el viernes 12",
-      "date": "Mon, 08 Jun 2026 11:01:22 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/A7AAKP6IVJENVPED2BFUVY25DQ.jpg?auth=bba242032ea967e500fb7174d48c10604aae18a2ef6671851883d84c87b5857a"
-    },
-    {
-      "title": "Joan Tardà: “Rufián se ha colocado de liebre en una carrera de galgos”",
-      "link": "https://elpais.com/espana/2026-06-08/joan-tarda-rufian-se-ha-colocado-de-liebre-en-una-carrera-de-galgos.html",
-      "desc": "El exdiputado trata de convencer a ERC para crear un frente de izquierdas y asegura que la postura de su partido con Sánchez sería distinta si en frente no estuvieran PP y Vox",
-      "date": "Mon, 08 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/64CZFZZFWJCQLDBVOW424QNZZI.jpg?auth=33d5d547c6a374f19ad7e559fa1c06ef609f6b4c5d0206028c40c08a18730fb0"
     }
   ],
-  "fetchedAt": 1780940950895
+  "fetchedAt": 1780949316753
 }
