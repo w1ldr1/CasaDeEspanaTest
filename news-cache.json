@@ -57,10 +57,10 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/FM3T7STCUZO23KUU5WDV6MD7MI.jpg?auth=6b137cde83a419cb12c0e831e84f5e664d21fab26ff6ec16b66a06863fa2a3d0"
     },
     {
-      "title": "Un centenar de bomberos luchan contra un incendio que cubre de humo y cenizas el cielo de Huelva",
+      "title": "Dos centenares de bomberos luchan contra un incendio que cubre de humo y cenizas el cielo de Huelva",
       "link": "https://elpais.com/espana/2026-06-08/un-centenar-de-bomberos-luchan-contra-un-incendio-que-cubre-de-humo-y-cenizas-el-cielo-de-huelva.html",
-      "desc": "El 112 Andalucía recomienda cerrar puertas y ventanas y el uso de mascarillas",
-      "date": "Mon, 08 Jun 2026 18:27:40 GMT",
+      "desc": "Unas 365 personas, residentes en fincas y en viviendas rurales diseminadas por el monte, han sido desalojadas de manera preventiva",
+      "date": "Mon, 08 Jun 2026 21:05:34 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/5DNP7CA2KZH6VJ6PQBALDBH2ZA.jpg?auth=2af3408b56e4c78480266d5b95f9ab6f4ae53a8ecc15ba86aa709e6c973371f2"
     },
     {
@@ -68,7 +68,7 @@
       "link": "https://elpais.com/espana/2026-06-08/el-papa-en-el-bernabeu-hoy-la-iglesia-de-madrid-ha-marcado-un-golazo-en-este-estadio.html",
       "desc": "El Pontífice pide reflexionar sobre la inmigración para comprender “los cambios culturales” y resolver las “tensiones sociales”",
       "date": "Mon, 08 Jun 2026 19:19:38 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/WTEPR5MEUJBFVEJ55CBQNRDQUQ.jpg?auth=a99fc09a3339747f13f29dc010c7a15998724749a5e0a8b32ab6fc73726c4f0b"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260608/1181299_195515_video_1800.mp4"
     },
     {
       "title": "El PP ignora el rechazo del Papa a la “prioridad nacional” y afirma que comparte “de la A a la Z” su discurso",
@@ -134,5 +134,5 @@
       "imgUrl": null
     }
   ],
-  "fetchedAt": 1780949316753
+  "fetchedAt": 1780956516473
 }
