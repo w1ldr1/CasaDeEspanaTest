@@ -71,6 +71,13 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260608/1181043_094904_video_1800.mp4"
     },
     {
+      "title": "El ‘ensayo’ de la ruta africana del buque de las 30 toneladas de cocaína",
+      "link": "https://elpais.com/espana/2026-06-08/el-ensayo-de-la-ruta-africana-del-buque-de-las-30-toneladas-de-cocaina.html",
+      "desc": "Dos barcos vinculados a Jos ‘El Gordito’, sospechoso de organizar el traslado del alijo récord de cocaína, realizaron recorridos similares en 2024",
+      "date": "Mon, 08 Jun 2026 15:01:05 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/ADAVVJMFKVDQLPIAGXKRYQ2IPU.jpg?auth=f09e8f47d912e3818aec0b7cb100427d356bddb4503fd97c151e7966cbe0e016"
+    },
+    {
       "title": "Recados, reproches y guiños para todos en el discurso del Papa en el Congreso",
       "link": "https://elpais.com/espana/2026-06-08/recados-reproches-y-guinos-para-todos-en-la-visita-del-papa-al-congreso.html",
       "desc": "León XIV se lleva un inédito aplauso de babor a estribor en su visita al templo español de la polarización",
@@ -102,7 +109,7 @@
       "title": "La Fiscalía mantiene su petición de absolución para David Sánchez, Miguel Ángel Gallardo y el resto de acusados",
       "link": "https://elpais.com/espana/2026-06-08/la-audiencia-de-badajoz-rechaza-la-peticion-de-david-sanchez-de-volver-a-declarar-en-el-juicio.html",
       "desc": "Las acusaciones fían su relato sobre supuestas irregularidades en la contratación del hermano del presidente al informe de la UCO y aluden al ‘caso Leire’",
-      "date": "Mon, 08 Jun 2026 15:48:15 GMT",
+      "date": "Mon, 08 Jun 2026 16:34:41 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/HUJK46Z7R5BVTLY2CWC4CQHTZE.jpg?auth=9ac81d4a72285cd151fb61dcce1f0143fac883fee3291fb8284f50c70c272590"
     },
     {
@@ -125,14 +132,7 @@
       "desc": "El exdiputado trata de convencer a ERC para crear un frente de izquierdas y asegura que la postura de su partido con Sánchez sería distinta si en frente no estuvieran PP y Vox",
       "date": "Mon, 08 Jun 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/64CZFZZFWJCQLDBVOW424QNZZI.jpg?auth=33d5d547c6a374f19ad7e559fa1c06ef609f6b4c5d0206028c40c08a18730fb0"
-    },
-    {
-      "title": "La legislatura continuará, con o sin Presupuestos",
-      "link": "https://elpais.com/espana/2026-06-08/la-legislatura-continuara-con-o-sin-presupuestos.html",
-      "desc": "El PP seguirá centrando su estrategia de oposición en los casos judiciales",
-      "date": "Mon, 08 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/U4RUNFU5AZJU7NJFVPAD7DZQIA.jpg?auth=cebc7294ca447ae8b7c2eedb1f8d170fed4b0fda2aa618e61e3cdcbbb17f89a6"
     }
   ],
-  "fetchedAt": 1780935113286
+  "fetchedAt": 1780944137468
 }
