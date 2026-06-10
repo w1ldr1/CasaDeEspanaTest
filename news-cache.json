@@ -73,7 +73,7 @@
     {
       "title": "El Congreso aprueba el tratado de amistad entre España y Francia pese al rechazo del PP y Vox",
       "link": "https://elpais.com/espana/2026-06-10/el-congreso-aprueba-el-tratado-de-amistad-entre-espana-y-francia-con-el-rechazo-del-pp-y-vox.html",
-      "desc": "El apoyo de Podemos y Junts permite que salga adelante el convenio bilateral firmado en 2023 entre Macron y Sánchez en Barcelona",
+      "desc": "El voto de Podemos y Junts, que se abstuvieron hace un año, evita que naufrague el acuerdo firmado en 2023 por Macron y Sánchez en Barcelona",
       "date": "Wed, 10 Jun 2026 18:21:35 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/WBIVD7X4KZW3PKRMI5LIQUSNJM.jpg?auth=f072dadbc540caa66ad3e1e1688105606749b84c83520ebd8fe0bcde118a4bb6"
     },
@@ -127,12 +127,12 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/XP6HBONC2JGUDEIP2AMPMK7VUA.JPG?auth=4a30bb3f656ef7d62c5e2e53e46e6717a8cfe41a22e43a11e92e6a88c2425d68"
     },
     {
-      "title": "La UME se incorpora a los trabajos para sofocar el incendio de Huelva, que ha quemado más de 5.000 hectáreas y evoluciona favorablemente",
+      "title": "La UME se incorpora a los trabajos para sofocar el incendio de Huelva, que ha quemado más de 5.000 hectáreas y ya está estabilizado",
       "link": "https://elpais.com/espana/2026-06-10/la-ume-se-incorpora-a-los-trabajos-para-sofocar-el-incendio-de-huelva-que-ha-quemado-mas-de-3000-hectareas.html",
-      "desc": "La Junta de Andalucía valora la coordinación entre administraciones y vaticina que la noche va a afrontarse con “un alto grado de optimismo”",
-      "date": "Wed, 10 Jun 2026 20:02:19 GMT",
+      "desc": "La Junta de Andalucía valora la coordinación entre administraciones y desciende a situación operativa 1 el plan de emergencia",
+      "date": "Wed, 10 Jun 2026 22:24:30 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260610/1181778_080133_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1781123036488
+  "fetchedAt": 1781130324516
 }
