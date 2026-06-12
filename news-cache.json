@@ -22,6 +22,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/NYLE3SOV5JDPFO6O4B74SRAY2E.jpg?auth=4137fa5bfacdde14a08e6e932b9fe4484daf6d2a96456ff689071bc15424707f"
     },
     {
+      "title": "Los dos cuerpos del Papa",
+      "link": "https://elpais.com/opinion/2026-06-12/los-dos-cuerpos-del-papa.html",
+      "desc": "No se entiende del todo que León XIV hablase en el Congreso, donde todas las palabras acaban vertidas a un único y restringido lenguaje",
+      "date": "Fri, 12 Jun 2026 14:22:10 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/V2LJFGW7IVJFXNQEK3VBEV7ULI.jpg?auth=ac821173004feea39c269d895b4819aa74574523d463072cef72fe54bfdffd87"
+    },
+    {
       "title": "El cuerpo de Cristo es suyo, el mío no",
       "link": "https://elpais.com/opinion/2026-06-09/el-cuerpo-de-cristo-es-suyo-el-mio-no.html",
       "desc": "Llevan siglos usando conceptos teológicos como canicas de trile para convencer a los hombres de buena voluntad de que la última palabra la deben tener siempre ellos",
@@ -50,13 +57,6 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/S75R5UBWSZBF5MB4IDX2FEXDBI.JPG?auth=37e0c8657aca7a1def23abec16566640fed86b73326c79a4a304706d9f3ae9f1"
     },
     {
-      "title": "Relato de un ‘excombatiente’ de la Transición",
-      "link": "https://elpais.com/opinion/2026-06-08/relato-de-un-excombatiente-de-la-transicion.html",
-      "desc": "Las leyes de memoria pueden, y deben, atender a la reparación de todas las víctimas y completar la acción de los gobiernos. Lo que no deben es imponer una memoria única.",
-      "date": "Mon, 08 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/J5ET2Z2XXBDZHKYEB4LQEVV2EQ.jpg?auth=25bc4d629abc8e201b4d07abea4002c2d037ba4d8c0998569f5a624cb7b14da6"
-    },
-    {
       "title": "El PP llama a declarar en el Senado a la fiscal general del Estado por las reuniones de la mano derecha de García Ortiz con Leire Díez",
       "link": "https://elpais.com/espana/2026-06-12/el-pp-llama-a-declarar-en-el-senado-a-la-fiscal-general-del-estado-por-las-reuniones-de-la-mano-derecha-de-garcia-ortiz-con-leire-diez.html",
       "desc": "Los populares anuncian que el ministro del Interior tendrá que “rendir cuentas” en la comisión del ‘caso Koldo’",
@@ -78,10 +78,31 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/4W2JFAATENMHHMLDDVJP6HVVHU.jpg?auth=5dd00c4e5ac12bfeecc06dec1d8454a46e6bc7d860164f2202eeca488edb0ca1"
     },
     {
+      "title": "Los canarios valoran al Papa, pero la migración es otro cantar: “El problema está en África, no aquí”",
+      "link": "https://elpais.com/espana/2026-06-12/los-canarios-valoran-al-papa-pero-la-migracion-es-otro-cantar-el-problema-esta-en-africa-no-aqui.html",
+      "desc": "El abrazo del Pontífice a los extranjeros que llegan en pateras no convence a los isleños: “Aquí no cabe más gente”",
+      "date": "Fri, 12 Jun 2026 16:04:20 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/M56YHUD3HVPFJOQTQCB7RCWFBI.jpg?auth=a2afe2555439bc80b683d62861c513d4a0a4f0fec582c3dd77d5801aabfe7395"
+    },
+    {
+      "title": "Feijóo urge a una “reconstrucción nacional” ante la “degradación” de España",
+      "link": "https://elpais.com/espana/2026-06-12/feijoo-urge-a-una-reconstruccion-nacional-ante-la-degradacion-de-espana.html",
+      "desc": "El líder del PP reclama que se “devuelva la voz” a los españoles",
+      "date": "Fri, 12 Jun 2026 15:06:25 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/IB6PWWWJUJLRZJA2GCWLLR46AQ.jpg?auth=02e1098f63e7c0beb0f98cb9a8bd86cab4d5da4e295e185a4108fd6e30c610a7"
+    },
+    {
+      "title": "El TJUE dictará la sentencia sobre la amnistía el 16 de julio",
+      "link": "https://elpais.com/espana/2026-06-12/el-tjue-dictara-la-sentencia-sobre-la-amnistia-el-16-de-julio.html",
+      "desc": "El tribunal determinará si los gastos del ‘procés’ pusieron en riesgo los intereses de la UE y si el olvido de los delitos de terrorismo fue acorde a la normativa comunitaria",
+      "date": "Fri, 12 Jun 2026 13:10:42 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/CQOTKZ3ESZBEDFWVUWB62Z46CA.jpg?auth=4e4f01274aff4280ff0356ea9f3d221b1f6d0bb53ccbc47c63c21bc862c29974"
+    },
+    {
       "title": "El Papa se despide de España con un baño de abrazos a los migrantes: “El extranjero de ayer puede ser el hermano y vecino de hoy”",
       "link": "https://elpais.com/espana/2026-06-12/el-papa-se-despide-de-espana-con-un-bano-de-abrazos-a-los-migrantes-el-extranjero-de-ayer-puede-ser-el-hermano-y-vecino-de-hoy.html",
       "desc": "León XIV remacha en Canarias su defensa de la inmigración y clama contra quienes “se aprovechan de la desesperación, retienen documentos y explotan trabajadores”. Recuerda también que integrarse en un país es “aprender su lengua y respetar sus leyes”",
-      "date": "Fri, 12 Jun 2026 11:35:17 GMT",
+      "date": "Fri, 12 Jun 2026 17:11:49 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/XUCXXF2GERPPNE3Q4B6AVYYICU.jpg?auth=0bedbae1e540da1b5b00beda5bf7193b31b44e6fde3f1c1673b21198d5dd4654"
     },
     {
@@ -111,28 +132,7 @@
       "desc": "Detrás de las rutas migratorias, la trata representa el rostro más vulnerable y trágico del desplazamiento humano",
       "date": "Fri, 12 Jun 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/RY4E2BSOVJGQLDSCUPWYYOL3QY.JPG?auth=91ff6654f2975d60c221b7731eed7e27da2af0b79c4ab8d2eb16b61161e1bde9"
-    },
-    {
-      "title": "El juez autoriza a la UCO a rastrear las cuentas del novio de Ayuso desde 2014",
-      "link": "https://elpais.com/espana/2026-06-11/el-juez-autoriza-a-la-uco-a-rastrear-las-cuentas-del-novio-de-ayuso-desde-2014.html",
-      "desc": "El magistrado Antonio Viejo acuerda esta diligencia seis meses después de que así lo reclamara la Guardia Civil",
-      "date": "Thu, 11 Jun 2026 11:10:23 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/FEVTLPARVFGT5A3Z4YMT252BU4.JPG?auth=50e2b06a7d6b18291aa7f0d1bbaf8d48d3743d18938809bd217f5abe0b8d4752"
-    },
-    {
-      "title": "Leire Díez intenta anular la investigación de la Audiencia Nacional sobre la “trama para desestabilizar” causas judiciales",
-      "link": "https://elpais.com/espana/2026-06-11/leire-diez-intenta-anular-la-investigacion-de-la-audiencia-nacional-sobre-la-trama-para-desestabilizar-causas-judiciales.html",
-      "desc": "La defensa de la exmilitante del PSOE denuncia que se le han abierto dos procesos “paralelos” e “idénticos” sobre los mismos hechos",
-      "date": "Thu, 11 Jun 2026 17:10:29 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/NQCRWDAESVBKDDQL2JLFAK2WQI.jpg?auth=e2979b8d8ba5cbf5d9bba51f2177ccbfd33984dacf278494f721f894ef7decc1"
-    },
-    {
-      "title": "El PSOE cae casi cinco puntos tras la imputación de Zapatero y el sumario del ‘caso Leire’, según el CIS",
-      "link": "https://elpais.com/espana/2026-06-11/el-psoe-cae-casi-cinco-puntos-tras-la-imputacion-de-zapatero-y-el-sumario-del-caso-leire-segun-el-cis.html",
-      "desc": "El PP sube 2,2 puntos y recorta su distancia con los socialistas",
-      "date": "Thu, 11 Jun 2026 10:32:28 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/A6XNXZIYPVBGXBYX6NNU2UDM4A.jpg?auth=29750d268ea4695d25a334f78d8c2e251d33bd5e3d0c8dfa8c31b1cad712856f"
     }
   ],
-  "fetchedAt": 1781273483437
+  "fetchedAt": 1781284825299
 }
