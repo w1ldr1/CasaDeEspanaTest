@@ -1,54 +1,190 @@
 # CLAUDE.md — Frontend Website Rules
 
-## Always Do First
-- **Invoke the `frontend-design` skill** before writing any frontend code, every session, no exceptions.
+## 1. Mandatory First Step
 
-## Reference Images
-- If a reference image is provided: match layout, spacing, typography, and color exactly. Swap in placeholder content (images via `https://placehold.co/`, generic copy). Do not improve or add to the design.
-- If no reference image: design from scratch with high craft (see guardrails below).
-- Screenshot your output, compare against reference, fix mismatches, re-screenshot. Do at least 2 comparison rounds. Stop only when no visible differences remain or user says so.
+Invoke the `frontend-design` skill before writing any frontend code. This applies at the start of every session.
 
-## Local Server
-- **Always serve on localhost** — never screenshot a `file:///` URL.
-- Start the dev server: `node serve.mjs` (serves the project root at `http://localhost:3000`)
-- `serve.mjs` lives in the project root. Start it in the background before taking any screenshots.
-- If the server is already running, do not start a second instance.
+## Core Operating Principles
 
-## Screenshot Workflow
-- Chrome cache is at `C:/Users/wildr/.cache/puppeteer/`.
-- **Always screenshot from localhost:** `node screenshot.mjs http://localhost:3000`
-- Screenshots are saved automatically to `./temporary screenshots/screenshot-N.png` (auto-incremented, never overwritten).
-- Optional label suffix: `node screenshot.mjs http://localhost:3000 label` → saves as `screenshot-N-label.png`
-- `screenshot.mjs` lives in the project root. Use it as-is.
-- After screenshotting, read the PNG from `temporary screenshots/` with the Read tool — Claude can see and analyze the image directly.
-- When comparing, be specific: "heading is 32px but reference shows ~24px", "card gap is 16px but should be 24px"
-- Check: spacing/padding, font size/weight/line-height, colors (exact hex), alignment, border-radius, shadows, image sizing
+- Don’t assume. Don’t hide confusion. Surface tradeoffs.
+- Minimum code that solves the problem. Nothing speculative.
+- Touch only what you must. Clean up only your own mess.
+- Define success criteria. Loop until verified
 
-## Output Defaults
-- Single `index.html` file, all styles inline, unless user says otherwise
-- Tailwind CSS via CDN: `<script src="https://cdn.tailwindcss.com"></script>`
+## 2. UI/UX Guidelines
+
+- Follow design system components.
+- Implement responsive, mobile-first layout.
+- Use semantic HTML elements with proper ARIA labels.
+- Optimize for Core Web Vitals.
+- Test across major browsers.
+
+## 3. Reference Image Protocol
+
+### When a reference image is provided
+- Match layout, spacing, typography, and color exactly.
+- Use placeholder content (`https://placehold.co/`) and generic text.
+- Do not reinterpret, improve, or add new design elements.
+
+### When no reference image is provided
+- Create a high-craft design following the Anti-Generic Guardrails in §8.
+
+### Comparison workflow
+- Minimum two full comparison rounds: screenshot → compare → fix → screenshot again.
+- Stop only when no visible differences remain or the user ends the process.
+- Be specific when reporting differences: element name, actual value, expected value.
+
+## 4. Local Server Requirements
+
+- Always serve from `http://localhost:3000` — never screenshot from `file:///`.
+- Start the server: `node serve.mjs` (project root).
+- Do not start another instance if the server is already running.
+
+## 5. Screenshot Workflow
+
+Chrome cache: `C:/Users/wildr/.cache/puppeteer/`
+
+```bash
+node screenshot.mjs http://localhost:3000
+node screenshot.mjs http://localhost:3000 <label>   # optional label
+```
+
+Output: `./temporary screenshots/screenshot-N.png`
+
+After each screenshot, load the PNG via the Read tool and check:
+- Spacing and padding
+- Font size, weight, line-height
+- Exact hex colors
+- Alignment
+- Border-radius and shadows
+- Image sizing
+
+## 6. Output Defaults
+
+- Single `index.html` unless the user specifies otherwise.
+- All styles inline — no external stylesheets.
+- Tailwind via CDN: `<script src="https://cdn.tailwindcss.com"></script>`
 - Placeholder images: `https://placehold.co/WIDTHxHEIGHT`
-- Mobile-first responsive
+- Mobile-first responsive layout.
 
-## Brand Assets
-- Always check the `brand_assets/` folder before designing. It may contain logos, color guides, style guides, or images.
-- If assets exist there, use them. Do not use placeholders where real assets are available.
-- If a logo is present, use it. If a color palette is defined, use those exact values — do not invent brand colors.
+## 7. Brand Assets
 
-## Anti-Generic Guardrails
-- **Colors:** Never use default Tailwind palette (indigo-500, blue-600, etc.). Pick a custom brand color and derive from it.
-- **Shadows:** Never use flat `shadow-md`. Use layered, color-tinted shadows with low opacity.
-- **Typography:** Never use the same font for headings and body. Pair a display/serif with a clean sans. Apply tight tracking (`-0.03em`) on large headings, generous line-height (`1.7`) on body.
-- **Gradients:** Layer multiple radial gradients. Add grain/texture via SVG noise filter for depth.
-- **Animations:** Only animate `transform` and `opacity`. Never `transition-all`. Use spring-style easing.
-- **Interactive states:** Every clickable element needs hover, focus-visible, and active states. No exceptions.
-- **Images:** Add a gradient overlay (`bg-gradient-to-t from-black/60`) and a color treatment layer with `mix-blend-multiply`.
-- **Spacing:** Use intentional, consistent spacing tokens — not random Tailwind steps.
-- **Depth:** Surfaces should have a layering system (base → elevated → floating), not all sit at the same z-plane.
+Always inspect the `brand_assets/` folder before designing.
 
-## Hard Rules
-- Do not add sections, features, or content not in the reference
-- Do not "improve" a reference design — match it
-- Do not stop after one screenshot pass
-- Do not use `transition-all`
-- Do not use default Tailwind blue/indigo as primary color
+If assets exist:
+- Use logos, palettes, style guides, and imagery as-is.
+- Do not use placeholders where real assets exist.
+- Use exact brand colors; do not invent new ones.
+
+## 8. Anti-Generic Guardrails
+
+### Colors
+- Never use default Tailwind colors (e.g., `indigo-500`, `blue-600`).
+- Choose a custom brand hue and derive a full scale from it.
+
+### Shadows
+- Never use flat `shadow-md`.
+- Use layered, tinted, low-opacity shadows (see §11.2).
+
+### Typography
+- Use different font families for headings and body.
+- Headings: display or serif, tight tracking (`-0.03em`).
+- Body: clean sans-serif, generous line-height (`1.7`).
+
+### Gradients
+- Use multiple radial gradients.
+- Add texture via SVG noise filters.
+
+### Animations
+- Only animate `transform` and `opacity`.
+- Never use `transition-all`.
+- Prefer spring-style easing.
+
+### Interactive States
+Every interactive element must have all three states:
+- Hover: subtle lift, slight tint.
+- Focus-visible: 2px outline in brand color.
+- Active: pressed state with reduced elevation.
+
+### Images
+- Add gradient overlay: `bg-gradient-to-t from-black/60`.
+- Apply color treatment using `mix-blend-multiply`.
+
+### Spacing
+- Use spacing tokens from §11.1.
+- Avoid arbitrary Tailwind increments.
+
+### Depth
+Maintain a three-tier layering system: `base` → `elevated` → `floating`.
+
+## 9. Hard Rules
+
+- Do not add sections or features not present in the reference.
+- Do not improve a reference design — match it exactly.
+- Do not stop after one screenshot pass.
+- Do not use `transition-all`.
+- Do not use Tailwind default blues or indigos as primary colors.
+
+## 10. Code Review Standards
+
+- Refactor any function exceeding 30 lines.
+- Extract logic duplicated three or more times into a shared utility.
+- Replace every TypeScript `any` with a specific type.
+- Group components with more than three props into a single props object.
+- Every async operation must include error handling.
+
+## 11. Design Token Reference
+
+### 11.1 Spacing Tokens
+
+```css
+--space-1: 4px;
+--space-2: 8px;
+--space-3: 12px;
+--space-4: 16px;
+--space-6: 24px;
+--space-8: 32px;
+```
+
+### 11.2 Shadow Scale
+
+```css
+/* Base     — single-layer, subtle, low opacity */
+/* Elevated — two-layer, tinted */
+/* Floating — three-layer, wide spread, very low opacity */
+```
+
+### 11.3 Border-Radius Tokens
+
+```css
+--radius-sm: 4px;
+--radius-md: 8px;
+--radius-lg: 16px;
+```
+
+### 11.4 Color Tokens
+
+Derived from a single brand hue. Define the full scale before use.
+
+### 11.5 Typography Tokens
+
+```css
+--font-display:    /* display or serif family */;
+--font-sans:       /* clean sans-serif family */;
+--heading-tight:   -0.03em;
+--body-leading:    1.7;
+```
+
+### 11.6 Typography Scale
+
+```css
+--text-xs:   12px;
+--text-sm:   14px;
+--text-base: 16px;
+--text-lg:   18px;
+--text-xl:   20px;
+--text-2xl:  24px;
+--text-3xl:  30px;
+--text-4xl:  36px;
+--text-5xl:  48px;
+```
