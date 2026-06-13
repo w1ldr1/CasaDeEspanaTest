@@ -8,18 +8,18 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260612/1182990_190648_video_1800.mp4"
     },
     {
+      "title": "¿Qué dice la ley sobre los regalos que reciben los altos cargos del Estado?",
+      "link": "https://elpais.com/espana/2026-06-13/que-dice-la-ley-sobre-los-regalos-que-reciben-los-altos-cargos-del-estado.html",
+      "desc": "Hasta 2005 no existía un código que los regulara. Fue Zapatero, un año después de llegar a La Moncloa, cuando aprobó en un Consejo de Ministros una normativa al respecto",
+      "date": "Sat, 13 Jun 2026 15:34:21 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/WCRXQ5PERZEX3CORG53UYLANWA.JPG?auth=271fe4b8f0290245d9338e74517b0be52ce79e9fe1ed2bfdbfb897e623427548"
+    },
+    {
       "title": "El álbum inédito de los zulos del ‘Anodino’, el policía que escondía millones de euros del narco entre sus paredes",
       "link": "https://elpais.com/espana/2026-06-13/el-album-inedito-de-los-zulos-del-anodino-el-policia-que-escondia-millones-de-euros-del-narco-entre-sus-paredes.html",
       "desc": "Los 19 millones intervenidos en la vivienda familiar del inspector jefe Óscar Sánchez, estaban ocultos en dobles techos, una habitación del pánico o maceteros",
       "date": "Sat, 13 Jun 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/IEUEE5RUAFBZFL7I6FDPG3OOPE.jpg?auth=1a93c01dc968cec489f2f57763e38e65c4d966437cbe419b7d2c8547a9cb6267"
-    },
-    {
-      "title": "León XIV orilla a los católicos LGTBIQ+, que en la Iglesia aún llevan el estigma de pecadores",
-      "link": "https://elpais.com/espana/2026-06-13/leon-xiv-orilla-a-los-catolicos-lgtbiq-que-en-la-iglesia-aun-llevan-el-estigma-de-pecadores.html",
-      "desc": "El Papa evita referencias al colectivo, cuya discriminación está incrustada en el Catecismo. “Con la excusa de que hay que buscar lo que nos une, el tema ha quedado postergado”, lamenta Niurka Gibaja, teóloga y mujer ‘trans’",
-      "date": "Sat, 13 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/YLJHUOBTFNGZBMEADIB5YLIJFQ.jpg?auth=f3fe88ab4bf9284508523328ece9725a008e56b0377484060b50e68f20bcbbb6"
     },
     {
       "title": "Zapatero y Sissi Emperatriz",
@@ -55,6 +55,13 @@
       "desc": "Llevan siglos usando conceptos teológicos como canicas de trile para convencer a los hombres de buena voluntad de que la última palabra la deben tener siempre ellos",
       "date": "Tue, 09 Jun 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/MOLDI6SOOVLSVHI4BECW2TNLDE.jpg?auth=112f81e32b06b953b0c40d0845f0a2c962a52986e81d16f95140e55b2efb0291"
+    },
+    {
+      "title": "León XIV orilla a los católicos LGTBIQ+, que en la Iglesia aún llevan el estigma de pecadores",
+      "link": "https://elpais.com/espana/2026-06-13/leon-xiv-orilla-a-los-catolicos-lgtbiq-que-en-la-iglesia-aun-llevan-el-estigma-de-pecadores.html",
+      "desc": "El Papa evita referencias al colectivo, cuya discriminación está incrustada en el Catecismo. “Con la excusa de que hay que buscar lo que nos une, el tema ha quedado postergado”, lamenta Niurka Gibaja, teóloga y mujer ‘trans’",
+      "date": "Sat, 13 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/YLJHUOBTFNGZBMEADIB5YLIJFQ.jpg?auth=f3fe88ab4bf9284508523328ece9725a008e56b0377484060b50e68f20bcbbb6"
     },
     {
       "title": "Ione Belarra anuncia que encabezará la candidatura de Podemos a la Comunidad de Madrid",
@@ -125,14 +132,7 @@
       "desc": "El abrazo del Pontífice a los extranjeros que llegan en pateras no convence a los isleños: “Aquí no cabe más gente”",
       "date": "Fri, 12 Jun 2026 16:04:20 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260612/1182990_190648_video_1800.mp4"
-    },
-    {
-      "title": "Feijóo urge a una “reconstrucción nacional” ante la “degradación” de España",
-      "link": "https://elpais.com/espana/2026-06-12/feijoo-urge-a-una-reconstruccion-nacional-ante-la-degradacion-de-espana.html",
-      "desc": "El líder del PP reclama que se “devuelva la voz” a los españoles",
-      "date": "Fri, 12 Jun 2026 15:06:25 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/IB6PWWWJUJLRZJA2GCWLLR46AQ.jpg?auth=02e1098f63e7c0beb0f98cb9a8bd86cab4d5da4e295e185a4108fd6e30c610a7"
     }
   ],
-  "fetchedAt": 1781361386479
+  "fetchedAt": 1781367071545
 }
