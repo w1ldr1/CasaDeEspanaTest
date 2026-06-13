@@ -57,6 +57,20 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/MOLDI6SOOVLSVHI4BECW2TNLDE.jpg?auth=112f81e32b06b953b0c40d0845f0a2c962a52986e81d16f95140e55b2efb0291"
     },
     {
+      "title": "Ione Belarra anuncia que encabezará la candidatura de Podemos a la Comunidad de Madrid",
+      "link": "https://elpais.com/espana/2026-06-13/ione-belarra-anuncia-que-encabezara-la-candidatura-de-podemos-a-la-comunidad-de-madrid.html",
+      "desc": "La líder del partido se propone ante la militancia para dar el paso como hizo Pablo Iglesias en 2021",
+      "date": "Sat, 13 Jun 2026 11:53:30 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260613/1183156_120448_video_1800.mp4"
+    },
+    {
+      "title": "Mañueco mantiene a buena parte de sus consejeros, cambia de área a su polémico titular de Medio Ambiente y Vox elige perfiles técnicos",
+      "link": "https://elpais.com/espana/elecciones-castilla-y-leon/2026-06-13/manueco-mantiene-a-buena-parte-de-sus-consejeros-cambia-de-area-a-su-polemico-titular-de-medio-ambiente-y-vox-elige-perfiles-tecnicos.html",
+      "desc": "Juan Carlos Suárez-Quiñones abandona la dirección de los incendios y pasa a Industria. El vicepresidente Carlos Pollán asumirá Desregularización",
+      "date": "Sat, 13 Jun 2026 11:21:36 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/LNUN3KAA7JO57NACNKJS5JWLQA.jpg?auth=96a4281377de01f501bb9d8f7ac78adcea080e7c35fac3ef97d8d1194d84e347"
+    },
+    {
       "title": "Los excursionistas que auxiliaron a Jonathan Andic, el quebradero de cabeza de los Mossos",
       "link": "https://elpais.com/espana/catalunya/2026-06-13/los-excursionistas-que-auxiliaron-a-jonathan-andic-el-quebradero-de-cabeza-de-los-mossos.html",
       "desc": "El hijo del fundador de Mango declaró que no había intercambiado teléfonos con ellos, pese a realizar una llamada perdida a uno de los hombres",
@@ -118,21 +132,7 @@
       "desc": "El líder del PP reclama que se “devuelva la voz” a los españoles",
       "date": "Fri, 12 Jun 2026 15:06:25 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/IB6PWWWJUJLRZJA2GCWLLR46AQ.jpg?auth=02e1098f63e7c0beb0f98cb9a8bd86cab4d5da4e295e185a4108fd6e30c610a7"
-    },
-    {
-      "title": "El TJUE dictará la sentencia sobre la amnistía el 16 de julio",
-      "link": "https://elpais.com/espana/2026-06-12/el-tjue-dictara-la-sentencia-sobre-la-amnistia-el-16-de-julio.html",
-      "desc": "El tribunal determinará si los gastos del ‘procés’ pusieron en riesgo los intereses de la UE y si el olvido de los delitos de terrorismo fue acorde a la normativa comunitaria",
-      "date": "Fri, 12 Jun 2026 13:10:42 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/CQOTKZ3ESZBEDFWVUWB62Z46CA.jpg?auth=4e4f01274aff4280ff0356ea9f3d221b1f6d0bb53ccbc47c63c21bc862c29974"
-    },
-    {
-      "title": "El Papa se despide de España con un baño de abrazos a los migrantes: “El extranjero de ayer puede ser el hermano y vecino de hoy”",
-      "link": "https://elpais.com/espana/2026-06-12/el-papa-se-despide-de-espana-con-un-bano-de-abrazos-a-los-migrantes-el-extranjero-de-ayer-puede-ser-el-hermano-y-vecino-de-hoy.html",
-      "desc": "León XIV remacha en Canarias su defensa de la inmigración y clama contra quienes “se aprovechan de la desesperación, retienen documentos y explotan trabajadores”. Recuerda también que integrarse en un país es “aprender su lengua y respetar sus leyes”",
-      "date": "Fri, 12 Jun 2026 17:11:49 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260612/1182990_190648_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1781353386199
+  "fetchedAt": 1781361386479
 }
