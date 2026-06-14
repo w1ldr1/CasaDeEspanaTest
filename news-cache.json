@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "title": "El caso Zapatero pone al Gobierno al límite de la resistencia",
+      "title": "El ‘caso Zapatero’ pone al Gobierno al límite de la resistencia",
       "link": "https://elpais.com/espana/2026-06-14/el-caso-zapatero-pone-al-gobierno-al-limite-de-la-resistencia.html",
       "desc": "Los socios aguantan por el rechazo a Vox, pero temen que una imputación por financiación ilegal remate la legislatura",
       "date": "Sun, 14 Jun 2026 03:30:01 GMT",
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/LNUN3KAA7JO57NACNKJS5JWLQA.jpg?auth=96a4281377de01f501bb9d8f7ac78adcea080e7c35fac3ef97d8d1194d84e347"
     }
   ],
-  "fetchedAt": 1781418961236
+  "fetchedAt": 1781432494324
 }
