@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "title": "El caso Zapatero pone al Gobierno al límite de la resistencia",
+      "title": "El ‘caso Zapatero’ pone al Gobierno al límite de la resistencia",
       "link": "https://elpais.com/espana/2026-06-14/el-caso-zapatero-pone-al-gobierno-al-limite-de-la-resistencia.html",
       "desc": "Los socios aguantan por el rechazo a Vox, pero temen que una imputación por financiación ilegal remate la legislatura",
       "date": "Sun, 14 Jun 2026 03:30:01 GMT",
@@ -19,7 +19,7 @@
       "link": "https://elpais.com/espana/2026-06-14/espana-descubre-un-papa-que-le-cae-bien.html",
       "desc": "León XIV triunfa en su visita y se consagra como un líder global contra las políticas de ultraderecha, pero el perfil bajo dado a la pederastia y retoques en los discursos dejan entrever su oposición interna",
       "date": "Sun, 14 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/KGFNDH3O4NLG3OQI5QKJFMHVCM.jpg?auth=d3d795e074985e52fdb2d1b98f6eeff6975772a35732d1f6e080c32eed8e5237"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260612/1182990_190648_video_1800.mp4"
     },
     {
       "title": "El niño perdido Gabriel Rufián",
@@ -68,7 +68,7 @@
       "link": "https://elpais.com/espana/2026-06-14/el-discurso-del-papa-sobre-la-inmigracion-sacude-al-pp-nos-ha-enmendado-la-plana.html",
       "desc": "Aunque la dirección insiste en que mantendrá su rumbo, el mensaje de León XIV abre una discusión incómoda sobre hasta qué punto el PP puede seguir endureciendo su discurso migratorio",
       "date": "Sun, 14 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/ROP2IY4GYZCOVLLE6QVDEKS7A4.jpg?auth=a3deda5d257bea785c92d2a915a9fe24da70fbac0e774f35bf05a3d9e0bbc986"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260608/1181043_094904_video_1800.mp4"
     },
     {
       "title": "La izquierda echa el resto contra Ayuso",
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/LNUN3KAA7JO57NACNKJS5JWLQA.jpg?auth=96a4281377de01f501bb9d8f7ac78adcea080e7c35fac3ef97d8d1194d84e347"
     }
   ],
-  "fetchedAt": 1781414150267
+  "fetchedAt": 1781427216071
 }
