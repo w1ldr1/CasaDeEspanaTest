@@ -10,7 +10,7 @@
     {
       "title": "Ninguna de las medidas anticorrupción que Sánchez anunció hace casi un año se ha ejecutado plenamente",
       "link": "https://elpais.com/espana/2026-06-15/ninguna-de-las-medidas-anticorrupcion-que-sanchez-anuncio-hace-casi-un-ano-se-ha-ejecutado-plenamente.html",
-      "desc": "La inclusión de la mayoría de propuestas en una ley orgánica actúa como cuello de botella para activar el plan",
+      "desc": "La ley orgánica que incluye la mayoría de propuestas es el cuello de botella del plan",
       "date": "Mon, 15 Jun 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/A6XNXZIYPVBGXBYX6NNU2UDM4A.jpg?auth=29750d268ea4695d25a334f78d8c2e251d33bd5e3d0c8dfa8c31b1cad712856f"
     },
@@ -85,6 +85,20 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/UIJEMX2KDZCRRHKFFHCNAFJJ4A.jpg?auth=73bcabf84c9d7b0948e1809dca6c1124ab8e6a0c961f4024cc66c87c24e7b37c"
     },
     {
+      "title": "Al menos 13 muertos por ahogamiento durante el fin de semana",
+      "link": "https://elpais.com/espana/2026-06-15/al-menos-13-muertos-por-ahogamiento-durante-el-fin-de-semana.html",
+      "desc": "Diez de las muertes han ocurrido en playas de la península ibérica y al menos seis de los fallecidos eran mayores de 70 años",
+      "date": "Mon, 15 Jun 2026 09:37:12 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/QNAEGR6O7ZHHJLZAUXMZ4DBNDA.jpg?auth=ee6281eb7a10efbcad423caca2940dd89f521fd75aec35abb6641c382d10e686"
+    },
+    {
+      "title": "El BOE publica la convocatoria de 700 plazas de jueces y fiscales, la mayor de la historia",
+      "link": "https://elpais.com/espana/2026-06-15/el-boe-publica-la-convocatoria-de-700-plazas-de-jueces-y-fiscales-la-mayor-de-la-historia.html",
+      "desc": "El proceso empezará en octubre y contempla 575 puestos por oposición y 125 plazas de magistrados del denominado cuarto turno",
+      "date": "Mon, 15 Jun 2026 06:16:16 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/OMKOHOUOLFADJNFHZOHKODVSZA.jpg?auth=832b2c0a3dab224180adbcf4a3d365a261f51576cd7a138c2d7cd3ad7752b5ea"
+    },
+    {
       "title": "El protocolo sobre desapariciones que surgió en la farmacia de Teresa",
       "link": "https://elpais.com/espana/2026-06-15/como-ayudar-a-que-no-desaparezcan-los-mayores-de-teresa.html",
       "desc": "Una boticaria rural sembró el germen de un protocolo de colaboración entre farmacias y Guardia Civil y Policía para prevenir desapariciones de personas vulnerables. El proyecto ya funciona en Zamora y Murcia",
@@ -118,21 +132,7 @@
       "desc": "León XIV triunfa en su visita y se consagra como un líder global contra las políticas de ultraderecha, pero el perfil bajo dado a la pederastia y retoques en los discursos dejan entrever su oposición interna",
       "date": "Sun, 14 Jun 2026 03:30:01 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260612/1182990_190648_video_1800.mp4"
-    },
-    {
-      "title": "León XIV deja en el aire qué hará con el escándalo de pederastia en la Iglesia española",
-      "link": "https://elpais.com/espana/2026-06-14/leon-xiv-deja-en-el-aire-que-hara-con-el-escandalo-de-pederastia-en-la-iglesia-espanola.html",
-      "desc": "El Papa se limita a lo mínimo al abordar el tema de los abusos en su viaje: lo define como “plaga”, pero no  recibe a todas las asociaciones de víctimas",
-      "date": "Sun, 14 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XT53SNAEVNJ2ZBYBX5NXZBV5TU.jpg?auth=e2e3fb477c5d08922529529d727e31db50cb5fc71aeb60e6124d6193dff0b38e"
-    },
-    {
-      "title": "El discurso del Papa sobre la inmigración sacude al PP: “Nos ha enmendado la plana”",
-      "link": "https://elpais.com/espana/2026-06-14/el-discurso-del-papa-sobre-la-inmigracion-sacude-al-pp-nos-ha-enmendado-la-plana.html",
-      "desc": "Aunque la dirección insiste en que mantendrá su rumbo, el mensaje de León XIV abre una discusión incómoda sobre hasta qué punto el PP puede seguir endureciendo su discurso migratorio",
-      "date": "Sun, 14 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260608/1181043_094904_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1781495070993
+  "fetchedAt": 1781517496533
 }
