@@ -64,9 +64,9 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260616/1184047_063851_video_1800.mp4"
     },
     {
-      "title": "Dos detenidos en Bizkaia por su relación con Hezbolá",
+      "title": "La Policía precipita la detención en Bizkaia de dos presuntos miembros de Hezbolá tras difundirse que eran investigados",
       "link": "https://elpais.com/espana/2026-06-16/dos-detenidos-en-bizkaia-por-su-relacion-con-hezbola.html",
-      "desc": "Los arrestados son los presuntos responsables de un canal de Telegram que difundía propaganda de la milicia chií y grupos armados palestinos",
+      "desc": "El CGPJ subió a internet un documento judicial que detallaba que los ahora arrestados eran sospechosos de gestionar un canal de Telegram con propaganda de la milicia chií",
       "date": "Tue, 16 Jun 2026 19:31:45 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/K4CTR4FJDFKFLNKCI5ITQUWLIA.jpg?auth=992abd0c6cf107cdb34c26dac7ddf4c381d952206f32defbb4147891b6411e4b"
     },
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/3MMTHOSLWFFLBBOBUBTEPDC3YQ.jpg?auth=b5c9172faf4708e52f29b9c4f777cf8f6fbcf99bcbefe3d6cf3f3ae424e98922"
     }
   ],
-  "fetchedAt": 1781639640278
+  "fetchedAt": 1781647672214
 }
