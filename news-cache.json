@@ -64,6 +64,13 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260616/1184047_063851_video_1800.mp4"
     },
     {
+      "title": "Dos detenidos en Bizkaia por su relación con Hezbolá",
+      "link": "https://elpais.com/espana/2026-06-16/dos-detenidos-en-bizkaia-por-su-relacion-con-hezbola.html",
+      "desc": "Los arrestados son los presuntos responsables de un canal de Telegram que difundía propaganda de la milicia chií y grupos armados palestinos",
+      "date": "Tue, 16 Jun 2026 19:31:45 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/K4CTR4FJDFKFLNKCI5ITQUWLIA.jpg?auth=992abd0c6cf107cdb34c26dac7ddf4c381d952206f32defbb4147891b6411e4b"
+    },
+    {
       "title": "Junqueras defiende la continuidad de la legislatura para “cerrar carpetas fundamentales para Cataluña”",
       "link": "https://elpais.com/espana/catalunya/2026-06-16/junqueras-defiende-la-continuidad-de-la-legislatura-para-cerrar-carpetas-fundamentales-para-cataluna.html",
       "desc": "El líder de ERC visita Madrid para verse con otros partidos, empresarios e intentar encauzar la crisis del grupo parlamentario que lidera Rufián",
@@ -125,14 +132,7 @@
       "desc": "Los investigadores ahondan en la economía del agente que supuestamente facilitó teléfonos seguros a la trama",
       "date": "Mon, 15 Jun 2026 18:08:59 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/3MMTHOSLWFFLBBOBUBTEPDC3YQ.jpg?auth=b5c9172faf4708e52f29b9c4f777cf8f6fbcf99bcbefe3d6cf3f3ae424e98922"
-    },
-    {
-      "title": "La jueza del siniestro de Adamuz niega a Renfe la ampliación de la causa con la actuación del 112 de Andalucía",
-      "link": "https://elpais.com/espana/2026-06-15/la-jueza-del-siniestro-de-adamuz-niega-a-renfe-la-ampliacion-de-la-causa-con-la-actuacion-del-112-de-andalucia.html",
-      "desc": "La titular del Juzgado de Instrucción de Montoro desestima el recurso de la operadora para incorporar las grabaciones y el informe del servicio de emergencias, con lo que esclarecer el motivo de la tardanza en atender a las víctimas del tren Alvia",
-      "date": "Mon, 15 Jun 2026 17:48:37 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/7GJBFYJTUVAHPHIDTGS7SMZSN4.jpg?auth=05d7a5ee475fc4f8faca23d2fcbef670387dd851a4f759808b6d0cf5f40319b1"
     }
   ],
-  "fetchedAt": 1781633776749
+  "fetchedAt": 1781645151916
 }
