@@ -1,18 +1,11 @@
 {
   "items": [
     {
-      "title": "El juez mantiene la imputación de Zapatero tras un interrogatorio “exigente” y cuatro “fuentes de prueba”",
-      "link": "https://elpais.com/espana/2026-06-18/el-juez-mantiene-la-imputacion-de-zapatero-tras-un-interrogatorio-exigente-y-cuatro-fuentes-de-prueba.html",
-      "desc": "Según fuentes de su entorno, el expresidente salió con la tranquilidad de haber contestado a todas las cuestiones en una causa que ahora echa a andar",
-      "date": "Thu, 18 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260617/1184609_112913_video_1800.mp4"
-    },
-    {
-      "title": "El Gobierno mantiene el apoyo a Zapatero: “Hay tranquilidad. No hubo cautelares”",
-      "link": "https://elpais.com/espana/2026-06-18/el-gobierno-mantiene-el-apoyo-a-zapatero-hay-tranquilidad-no-hubo-cautelares.html",
-      "desc": "Sin respuestas todavía sobre las joyas, Sánchez traslada a su entorno la instrucción de que se conserva el respaldo al expresidente",
-      "date": "Thu, 18 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/KK4VTDIAAZFMNJ6YQKBW7I7AMM.jpg?auth=2cc9e256a7ef7a24de7ee6837fa6f6bec915aeb574085463306efcdf1bf1ad14"
+      "title": "El juez del ‘caso Plus Ultra’ cita como imputadas a las hijas y a la secretaria de Zapatero",
+      "link": "https://elpais.com/espana/2026-06-18/el-juez-del-caso-plus-ultra-acuerda-citar-como-investigadas-a-las-hijas-de-zapatero.html",
+      "desc": "El instructor rechaza de momento pedir más información a Estados Unidos, como requería el expresidente del Gobierno",
+      "date": "Thu, 18 Jun 2026 11:25:28 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/PBLMIJGNPFHNPHWOIE7DIUO2FU.jpg?auth=3fce457028221e1e9ac1ac950877f27655f7405baf1faa18bb9fda764b08fa20"
     },
     {
       "title": "Los expertos ven poco recorrido penal a las joyas de Zapatero si se acredita que las recibió como regalo siendo presidente",
@@ -20,6 +13,13 @@
       "desc": "Los especialistas en fiscalidad ven clave el dónde y el cuándo recibió el exmandatario el ajuar porque supondría la desaparición o la prescripción de los presuntos delitos",
       "date": "Thu, 18 Jun 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/H23TAJRDTZGOTNV4W4NLEBCJ4E.jpg?auth=6bdef7c4f7208923e1b4f6adcebceea826f41381119b42415e09917a7b15b214"
+    },
+    {
+      "title": "El juez mantiene la imputación de Zapatero tras un interrogatorio “exigente” y cuatro “fuentes de prueba”",
+      "link": "https://elpais.com/espana/2026-06-18/el-juez-mantiene-la-imputacion-de-zapatero-tras-un-interrogatorio-exigente-y-cuatro-fuentes-de-prueba.html",
+      "desc": "Según fuentes de su entorno, el expresidente salió con la tranquilidad de haber contestado a todas las cuestiones en una causa que ahora echa a andar",
+      "date": "Thu, 18 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260617/1184609_112913_video_1800.mp4"
     },
     {
       "title": "Hundir a Zapatero o sacarlo a relucir",
@@ -57,6 +57,48 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/5IQXZCH4ZFJHHOXGWRD3VSCYWI.jpg?auth=4573594e0f795ec6f4b963c100f34dfc94ebc3ac479760a2d06bb47f381c5817"
     },
     {
+      "title": "El PP recurrirá ante el Constitucional el veto del Congreso a su moción para pedir elecciones: “Es una democracia secuestrada”",
+      "link": "https://elpais.com/espana/2026-06-18/el-pp-recurrira-ante-el-constitucional-el-veto-del-congreso-a-su-mocion-para-pedir-elecciones-es-una-democracia-secuestrada.html",
+      "desc": "La iniciativa se debatirá el miércoles en el Senado, donde los populares tienen mayoría",
+      "date": "Thu, 18 Jun 2026 11:13:17 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/JDXF6GUOSNCOXLUMFL2GHM4FVM.jpg?auth=b93645d7d449b0fe260ccaaeb08cd36a613fc197d43f71df150959ed30226928"
+    },
+    {
+      "title": "La UCO señala que una empresa del novio de Ayuso “carece” de medios para hacer el trabajo por el que Quirón le pagó en 2021",
+      "link": "https://elpais.com/espana/2026-06-18/la-uco-senala-que-una-empresa-del-novio-de-ayuso-carece-de-medios-para-hacer-el-trabajo-por-el-que-quiron-le-pago-en-2021.html",
+      "desc": "El informe de la Guardia Civil apunta a que la sociedad Masterman también contaría con materiales que no tienen nada que ver con una asesoría",
+      "date": "Thu, 18 Jun 2026 10:43:20 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/FEVTLPARVFGT5A3Z4YMT252BU4.JPG?auth=50e2b06a7d6b18291aa7f0d1bbaf8d48d3743d18938809bd217f5abe0b8d4752"
+    },
+    {
+      "title": "Hacienda abrió una investigación al ejecutivo de Quirón y jefe de la pareja de Ayuso por la operación previa al presunto soborno",
+      "link": "https://elpais.com/espana/madrid/2026-06-18/hacienda-abrio-una-investigacion-al-ejecutivo-de-quiron-y-jefe-de-la-pareja-de-ayuso-fernando-camino-por-una-supuesta-comision-de-mascarillas.html",
+      "desc": "La Agencia Tributaria informó al juez en febrero de que había iniciado actuaciones sobre el IRPF de Fernando Camino en 2020, cuando supuestamente le sobornó Alberto González Amador",
+      "date": "Thu, 18 Jun 2026 10:25:10 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/PUDW65NO4RHRXG4MLVKZCZIUXY.jpg?auth=c60d4b4fc70d583953013f018b4d2b6c8bf42859000e48c3141f8af9f5df554f"
+    },
+    {
+      "title": "El Supremo condena al Estado a indemnizar con 2,5 millones al albañil marroquí condenado por 10 violaciones que no cometió",
+      "link": "https://elpais.com/espana/2026-06-18/el-supremo-condena-al-estado-a-indemnizar-con-25-millones-al-albanil-marroqui-condenado-por-10-violaciones-que-no-cometio.html",
+      "desc": "La Sala de lo Contencioso corrige a la Audiencia Nacional y declara la responsabilidad patrimonial del Estado por el error judicial que mantuvo al hombre en prisión durante 15 años",
+      "date": "Thu, 18 Jun 2026 11:21:30 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/ZPHJXETB3RGFVNLYTYYZ2WGUDQ.jpg?auth=d3c8b32397299fdf6473f21660eb22c112e9c6c5a40cc8504f1e5d35e3a34ef8"
+    },
+    {
+      "title": "Morant ve “vergonzosas” las conclusiones de la comisión de la dana de Les Corts y se compromete a reabrirla si gobierna",
+      "link": "https://elpais.com/espana/comunidad-valenciana/2026-06-18/morant-ve-vergonzosas-las-conclusiones-de-la-comision-de-la-dana-de-les-corts-y-se-compromete-a-reabrirla-si-gobierna.html",
+      "desc": "La socialista afirma que la renuncia de la pareja de Pérez Llorca a la plaza en la Diputación es “un reconocimiento explícito de que consideran que ni es ético ni estético y seguramente tampoco legal”",
+      "date": "Thu, 18 Jun 2026 11:03:13 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/S7HXLCJJ7JLNRC7CUEWXI6K334.jpg?auth=fec83664d7c3ba69f3bac6ff12c57a146c85106a25f2a12aa30e29ce06404953"
+    },
+    {
+      "title": "El Gobierno mantiene el apoyo a Zapatero: “Hay tranquilidad. No hubo cautelares”",
+      "link": "https://elpais.com/espana/2026-06-18/el-gobierno-mantiene-el-apoyo-a-zapatero-hay-tranquilidad-no-hubo-cautelares.html",
+      "desc": "Sin respuestas todavía sobre las joyas, Sánchez traslada a su entorno la instrucción de que se conserva el respaldo al expresidente",
+      "date": "Thu, 18 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/KK4VTDIAAZFMNJ6YQKBW7I7AMM.jpg?auth=2cc9e256a7ef7a24de7ee6837fa6f6bec915aeb574085463306efcdf1bf1ad14"
+    },
+    {
       "title": "La pareja de Pérez Llorca no se presentará a la renovación de la plaza en la Diputación de Valencia por la que cobraba 52.070 euros",
       "link": "https://elpais.com/espana/comunidad-valenciana/2026-06-18/la-pareja-de-perez-llorca-no-se-presentara-a-la-renovacion-de-la-plaza-en-la-diputacion-por-la-que-cobraba-52070-euros.html",
       "desc": "El organismo provincial, que controla el PP, fichó en marzo a Vanesa Soler “por urgente necesidad”",
@@ -85,54 +127,12 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260617/1184533_082854_video_1800.mp4"
     },
     {
-      "title": "El PP lleva al Senado la iniciativa para reclamar a Sánchez un adelanto electoral tras el veto del Congreso",
-      "link": "https://elpais.com/espana/2026-06-17/el-pp-lleva-al-senado-la-iniciativa-para-reclamar-a-sanchez-un-adelanto-electoral-tras-el-veto-del-congreso.html",
-      "desc": "La Cámara alta debatirá el próximo miércoles la moción del Partido Popular para pedir la convocatoria de elecciones",
-      "date": "Wed, 17 Jun 2026 10:45:40 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/5XQ5T4NUNRBBNNRQJLFZOXEU6Q.jpg?auth=88c02dd316a16c72529e67fa21669f2be40a071332fc8779e0038cc2955927cb"
-    },
-    {
-      "title": "El juez, tras la declaración de Zapatero: “No ha logrado desvirtuar los indicios racionales de criminalidad”",
-      "link": "https://elpais.com/espana/2026-06-17/el-juez-tras-la-declaracion-de-zapatero-no-ha-logrado-desvirtuar-los-indicios-racionales-de-criminalidad.html",
-      "desc": "El magistrado resalta que se intervinieron al socialista joyas por valor de 1,3 millones, “sin que, a día de hoy, se haya acreditado su origen ni su correspondiente liquidación tributaria y aduanera”",
-      "date": "Wed, 17 Jun 2026 12:32:21 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260617/1184609_112913_video_1800.mp4"
-    },
-    {
-      "title": "Zapatero asegura ante el juez que nunca influyó en el rescate de Plus Ultra y no declara por las joyas",
-      "link": "https://elpais.com/espana/2026-06-17/zapatero-asegura-ante-el-juez-que-nunca-influyo-en-el-rescate-de-plus-ultra.html",
-      "desc": "El magistrado Calama ha rechazado imponer medidas cautelares al expresidente, como la retirada de pasaporte y las comparecencias quincenales que pedía Anticorrupción",
-      "date": "Wed, 17 Jun 2026 10:57:06 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260617/1184609_112913_video_1800.mp4"
-    },
-    {
-      "title": "Comunicado íntegro de Zapatero tras declarar ante el juez: “Pido confianza. La verdad se abrirá paso”",
-      "link": "https://elpais.com/espana/2026-06-17/comunicado-de-zapatero-tras-declarar-ante-el-juez-pido-confianza-la-verdad-se-abrira-paso.html",
-      "desc": "El expresidente asegura que se le acusa de delitos muy graves que no ha cometido y que continuará dando explicaciones en los próximos días",
-      "date": "Wed, 17 Jun 2026 10:58:16 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260617/1184609_112913_video_1800.mp4"
-    },
-    {
-      "title": "Más Madrid descarta una alianza con IU para las autonómicas de 2027 contra Ayuso",
-      "link": "https://elpais.com/espana/2026-06-17/mas-madrid-descarta-una-alianza-con-iu-para-las-autonomicas-de-2027-contra-ayuso.html",
-      "desc": "El rechazo del partido de Mónica García, que trabaja en la construcción de una coalición para las generales, abre una crisis interna en el espacio",
-      "date": "Wed, 17 Jun 2026 14:52:22 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/F5ZCFZGV6BJDHHVWC42ZY2SVJM.jpg?auth=2196825865b7ae8ddb1f022878b7261d662942f09531fd58e72ef5a9cb2b1158"
-    },
-    {
-      "title": "Nolasco (Vox): “La Ley de Memoria Democrática de Aragón no se aplica”",
-      "link": "https://elpais.com/espana/2026-06-17/nolasco-vox-la-ley-de-memoria-democratica-de-aragon-no-se-aplica.html",
-      "desc": "El vicepresidente aragonés confirma que la norma de Lambán no se ha reactivado pese a la admisión del recurso del Constitucional",
-      "date": "Wed, 17 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/FLK5ZIWAENJGZKUDAQPSKVJFNQ.jpg?auth=78d06cc27a8bb5516624f843c8267da86e98bfec218c8651d337c7b911cb25f8"
-    },
-    {
-      "title": "Pedro Sánchez mantiene el apoyo a la directora de la Guardia Civil porque cree que ha probado que no hizo caso a Leire Díez",
-      "link": "https://elpais.com/espana/2026-06-17/pedro-sanchez-mantiene-el-apoyo-a-la-directora-de-la-guardia-civil-porque-cree-que-ha-probado-que-no-hizo-caso-a-leire-diez.html",
-      "desc": "El Gobierno mantiene de momento su respaldo a Zapatero a la espera de sus explicaciones ante el juez",
-      "date": "Wed, 17 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260616/1184254_155147_video_1800.mp4"
+      "title": "Uno de cada tres vehículos obligados a pasar la ITV no pasa la inspección",
+      "link": "https://elpais.com/espana/2026-06-18/uno-de-cada-tres-vehiculos-obligados-a-pasar-la-itv-no-pasa-la-inspeccion.html",
+      "desc": "Las estaciones rechazan al 19% de los automóviles por defectos graves o muy graves",
+      "date": "Thu, 18 Jun 2026 10:16:34 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/B5SBXG2M4VEOPBQHHRUNF6DVZU.JPG?auth=369410fcac112dd726e10410ec2010f5f40587d403ca4c3948c1cae55bef3da2"
     }
   ],
-  "fetchedAt": 1781776301860
+  "fetchedAt": 1781786891276
 }
