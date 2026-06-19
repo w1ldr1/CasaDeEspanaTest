@@ -22,6 +22,20 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/PBLMIJGNPFHNPHWOIE7DIUO2FU.jpg?auth=3fce457028221e1e9ac1ac950877f27655f7405baf1faa18bb9fda764b08fa20"
     },
     {
+      "title": "Las víctimas olvidadas de la Transición",
+      "link": "https://elpais.com/opinion/2026-06-19/las-victimas-olvidadas-de-la-transicion.html",
+      "desc": "Si el Estado mató y torturó, en cualquier país democrático se impone un ejercicio de reconocimiento, que no equivale a un homenaje",
+      "date": "Fri, 19 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/TCJAVSLKQFCKPOGTY5X2TG42ZY.jpg?auth=c7c6ac2d90f71330c55053a2bb79d3804438006ffefeef7ca3fdb8b9adcff878"
+    },
+    {
+      "title": "Hace 20 años aceptábamos sobornos",
+      "link": "https://elpais.com/opinion/2026-06-19/hace-20-anos-aceptabamos-sobornos.html",
+      "desc": "No sé nada de lo que pasa cuando te hacen la pelota los mandatarios más sanguinarios, pero entonces ya existían la ética y las leyes que no permitían untar a cargos públicos",
+      "date": "Fri, 19 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/IE5XUBAJZJE7JN3F5KQK677XGE.jpg?auth=172eff15791671ae52666a6d0e086b801ff6c693605fcbf276b49d68a2540527"
+    },
+    {
       "title": "Hundir a Zapatero o sacarlo a relucir",
       "link": "https://elpais.com/opinion/2026-06-17/hundir-a-zapatero-o-sacarlo-a-relucir.html",
       "desc": "No solo el infierno está hecho de buenas intenciones: las manos que intentan sacar del pozo al amigo caído suelen ahogarlo",
@@ -41,20 +55,6 @@
       "desc": "Resulta muy peligrosa la estrategia que confunde el respeto a la justicia con la indiferencia ante el comportamiento de algunos jueces",
       "date": "Mon, 15 Jun 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/HOMHUHQKI5MH5LQGBKLQ4MWO5Y.jpg?auth=41032b98d77fe8358102a7b54b86d9383ee757f957382d1d8d9abfe26a2d9439"
-    },
-    {
-      "title": "El niño perdido Gabriel Rufián",
-      "link": "https://elpais.com/opinion/2026-06-14/el-nino-perdido-gabriel-rufian.html",
-      "desc": "Poco a poco, ha ido abandonando el barco varado del ‘procés’ para acabar siendo el espabilado que un día soñó ser",
-      "date": "Sun, 14 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/JG5T2KRERRCGJGVTEXF6KKCVNU.jpg?auth=010d56b813ea91d77eb8279a3f6442bbb37c830bac862002c4260ce5afae04b2"
-    },
-    {
-      "title": "La política de la sospecha",
-      "link": "https://elpais.com/opinion/2026-06-14/la-politica-de-la-sospecha.html",
-      "desc": "Una democracia no puede admitir la erosión sistemática de la confianza en los procedimientos judiciales",
-      "date": "Sun, 14 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/5IQXZCH4ZFJHHOXGWRD3VSCYWI.jpg?auth=4573594e0f795ec6f4b963c100f34dfc94ebc3ac479760a2d06bb47f381c5817"
     },
     {
       "title": "El juez mantiene la imputación de Zapatero tras un interrogatorio “exigente” y cuatro “fuentes de prueba”",
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/C5M3752QFNH45F5KU5NZTC5WM4.JPG?auth=d16522bdf712be0a0e85fe0db0543f3bdea4c8ef67faf53a618bdd7e5861611e"
     }
   ],
-  "fetchedAt": 1781835294131
+  "fetchedAt": 1781854600512
 }
