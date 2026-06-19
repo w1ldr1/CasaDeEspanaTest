@@ -57,6 +57,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/HOMHUHQKI5MH5LQGBKLQ4MWO5Y.jpg?auth=41032b98d77fe8358102a7b54b86d9383ee757f957382d1d8d9abfe26a2d9439"
     },
     {
+      "title": "Libertad para los dos presuntos colaboradores de Hezbolá cuya detención se precipitó tras difundirse por error que eran investigados",
+      "link": "https://elpais.com/espana/2026-06-19/libertad-para-los-dos-presuntos-colaboradores-de-hezbola-cuya-detencion-se-precipito-tras-difundirse-por-error-que-eran-investigados.html",
+      "desc": "El juez retira a ambos el pasaporte y les prohíbe salir de España. Los arrestos provocaron protestas callejeras",
+      "date": "Fri, 19 Jun 2026 17:22:30 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/33AHMI4GKZNKPOABXANEX6NLPM.jpg?auth=7d4316f59e746eae38a8679dd93cad39314d115a2bc15b8cf7aeef5070753ab4"
+    },
+    {
       "title": "Detenido un discípulo del pirata informático Alcasec por acceder a información confidencial",
       "link": "https://elpais.com/espana/2026-06-19/detenido-un-discipulo-del-pirata-informatico-alcasec-por-acceder-a-informacion-confidencial.html",
       "desc": "El arrestado utilizaba un programa tipo ‘bot’ creado por el conocido ‘hacker’ para acceder a bases de acceso restringido",
@@ -125,14 +132,7 @@
       "desc": "El representante del Ejecutivo central en la región defiende el sistema de reparto y denuncia una estrategia política de la ultraderecha a nivel nacional",
       "date": "Thu, 18 Jun 2026 12:59:16 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/Z3KUZB5IFNDRPPC6RRFEA4D3AQ.jpg?auth=905b37b2b85cec655d524bb6818c6d0e8bea98a0fa06498d85c57000ce7f67db"
-    },
-    {
-      "title": "Morant ve “vergonzosas” las conclusiones de la comisión de la dana de Les Corts y se compromete a reabrirla si gobierna",
-      "link": "https://elpais.com/espana/comunidad-valenciana/2026-06-18/morant-ve-vergonzosas-las-conclusiones-de-la-comision-de-la-dana-de-les-corts-y-se-compromete-a-reabrirla-si-gobierna.html",
-      "desc": "La socialista afirma que la renuncia de la pareja de Pérez Llorca a la plaza en la Diputación es “un reconocimiento explícito de que consideran que ni es ético ni estético y seguramente tampoco legal”",
-      "date": "Thu, 18 Jun 2026 11:03:13 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/S7HXLCJJ7JLNRC7CUEWXI6K334.jpg?auth=fec83664d7c3ba69f3bac6ff12c57a146c85106a25f2a12aa30e29ce06404953"
     }
   ],
-  "fetchedAt": 1781891548515
+  "fetchedAt": 1781898200483
 }
