@@ -57,6 +57,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/HOMHUHQKI5MH5LQGBKLQ4MWO5Y.jpg?auth=41032b98d77fe8358102a7b54b86d9383ee757f957382d1d8d9abfe26a2d9439"
     },
     {
+      "title": "Marlaska pide al CGPJ medidas contra Peinado por cuestionar a los policías que escoltan a Begoña Gómez",
+      "link": "https://elpais.com/espana/2026-06-20/marlaska-pide-al-cgpj-medidas-contra-peinado-por-cuestionar-a-los-policias-que-escoltan-a-begona-gomez.html",
+      "desc": "El ministro califica de “un hecho de la máxima gravedad” que el juez ponga en duda la profesionalidad de los agentes para justificar la retirada del pasaporte a la mujer de Sánchez",
+      "date": "Sat, 20 Jun 2026 18:15:18 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/MJCKKKJZTRPM5EETQJIB555LPA.jpg?auth=0a150c7ec15385d18977b8ea2a1690569e32fe90b1824bfc86acae12ce29397b"
+    },
+    {
       "title": "El juez, a Zapatero sobre los pagos de Análisis Relevante: “El dato mata el relato. Quien cobra es usted”",
       "link": "https://elpais.com/espana/2026-06-20/el-juez-a-zapatero-sobre-los-pagos-de-analisis-relevante-el-dato-mata-el-relato-quien-cobra-es-usted.html",
       "desc": "El expresidente eludió concretar los trabajos que hizo para una empresa peruana que le pagó 200.000 euros",
@@ -125,14 +132,7 @@
       "desc": "El arrestado utilizaba un programa tipo ‘bot’ creado por el conocido ‘hacker’ para acceder a bases de acceso restringido",
       "date": "Fri, 19 Jun 2026 13:09:38 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/U7N2IYO3O5AJFIDLMT4SPTKG2A.jpg?auth=fb5c35a126775fb38c5bd45590d7ecdc20309415eeb14adee02c8900aef4336e"
-    },
-    {
-      "title": "La dirección del PP, sobre los pagos millonarios de Quirón a González Amador: “Es un caso  de un particular”",
-      "link": "https://elpais.com/espana/2026-06-19/la-direccion-del-pp-sobre-los-pagos-millonarios-de-quiron-a-gonzalez-amador-es-un-caso-de-un-particular.html",
-      "desc": "El Partido Popular registra una nueva moción en el Congreso pidiendo la dimisión de Pedro Sánchez. La Mesa admite que se debata el texto pero eliminando la exigencia de adelanto electoral",
-      "date": "Fri, 19 Jun 2026 12:47:56 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260619/1185606_135626_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1781983134366
+  "fetchedAt": 1781988517275
 }
