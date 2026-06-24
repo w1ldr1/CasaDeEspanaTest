@@ -1,6 +1,69 @@
 {
   "items": [
     {
+      "title": "Sánchez saldrá al ataque con la idea de que él limpia y Feijóo no",
+      "link": "https://elpais.com/espana/2026-06-24/sanchez-saldra-al-ataque-con-la-idea-de-que-el-limpia-y-feijoo-no.html",
+      "desc": "Un año después del debate tras el ‘caso Cerdán’ en el que pidió perdón y admitió que pensó en dimitir, el presidente cambia de estrategia y busca poner el foco en Ayuso",
+      "date": "Wed, 24 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XRKIOJWAXJGYXO63ULEOTQG5DU.jpg?auth=d6b02196b6e8ccc423e94ac09e95e4ca762ac511fcfa2b20c4c04c5271d3ed65"
+    },
+    {
+      "title": "La sentencia del Supremo da por probado que Ábalos y García “urdieron” una trama de amaño de obra pública",
+      "link": "https://elpais.com/espana/2026-06-24/la-sentencia-del-supremo-da-por-probado-que-abalos-y-garcia-urdieron-una-trama-de-amano-de-obra-publica.html",
+      "desc": "El tribunal asume la versión de Aldama sobre el origen de sus negocios con Ábalos y Koldo García, pero no que las comisiones fueran para financiar el PSOE ni el ‘modus operandi’ con constructoras",
+      "date": "Wed, 24 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/X7SGYJ7NNBDPVEWFHKEFZSQZ7E.jpg?auth=b158105d986310d28e41a2ce3360f6da17b963bbcbde529114ac403328271d8d"
+    },
+    {
+      "title": "Anticorrupción ve en la sentencia del Supremo una vía para actuar contra la expareja de Ábalos",
+      "link": "https://elpais.com/espana/2026-06-24/anticorrupcion-ve-en-la-sentencia-del-supremo-una-via-para-actuar-contra-la-expareja-de-abalos.html",
+      "desc": "La Fiscalía también baraja ampliar su ofensiva contra la expresidenta de ADIF y el hermano de Koldo",
+      "date": "Wed, 24 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/C7HGFSU6KFH23CVIMZ2KJQYBCA.jpg?auth=a0ecabb74a2a85a2b883c986a9201b919a3d45843540ba3945299e615a70ca04"
+    },
+    {
+      "title": "El debate | ¿Están justificadas las acusaciones de que existe ‘lawfare’ en España?",
+      "link": "https://elpais.com/opinion/2026-06-24/el-debate-estan-justificadas-las-acusaciones-de-que-existe-lawfare-en-espana.html",
+      "desc": "Los posibilidad de que determinados jueces actúen en casos de gran relevancia, especialmente en investigaciones de corrupción, movidos por intereses políticos o ideológicos se ha instalado en los últimos tiempos en la discusión pública",
+      "date": "Wed, 24 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/A7ZVBTOG3RHNFOR2YNTZ24DUVU.jpg?auth=11a768b7a17d69ced88debcea13b5aeb1d662df4ad7842f43ad74935efdf1fad"
+    },
+    {
+      "title": "La migración no es un problema",
+      "link": "https://elpais.com/opinion/2026-06-24/la-migracion-no-es-un-problema.html",
+      "desc": "Declarar enemigos a los más frágiles de la sociedad resulta, como poco, canallesco",
+      "date": "Wed, 24 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/RDEFRSTFDREZPHBXPE2RKVSVLY.jpg?auth=26d0647a11fe7e54875e38aedc49b82d64740d52028fefe1f7d73bc5b5173661"
+    },
+    {
+      "title": "Salvar la socialdemocracia",
+      "link": "https://elpais.com/opinion/2026-06-24/salvar-la-socialdemocracia.html",
+      "desc": "Es preciso desacoplar la propuesta socialdemócrata de las siglas de un partido que en realidad no la defiende, y encomendarla a quienes parezcan dispuestos a ponerla en marcha",
+      "date": "Wed, 24 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/FOBIW4YKZ5CLHPKRG2VP5DKIL4.jpg?auth=91b596529cc0b2ca7c05d20cbc3f6d7ed454d43e446f41ec12fb5285078d2f9b"
+    },
+    {
+      "title": "Contra la descomposición política",
+      "link": "https://elpais.com/opinion/2026-06-23/contra-la-descomposicion-politica.html",
+      "desc": "La corrupción, tanto la real como la atribuida, no es la causa de la crisis de las democracias, sino más bien su reflejo",
+      "date": "Tue, 23 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/QLU7YP2KJ5CDROJM24A5ZM2I4U.jpg?auth=76a10088c21af0243f569e75c38b787a97616d6a8890b36231ad5ff57e2abcc9"
+    },
+    {
+      "title": "Memoria histórica",
+      "link": "https://elpais.com/opinion/2026-06-22/memoria-historica.html",
+      "desc": "Por rabieta metería todas las mañanas a cuatro o cinco jueces en la cárcel, pero la historia me recuerda que es mejor resistir en las difíciles contradicciones de nuestra democracia",
+      "date": "Mon, 22 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/KLZBPQY2ZJFZ5AZBEVX5MZ5FNQ.jpg?auth=47e48519a7679cf2243e0c5f68de54853a4072b83862dca4997f3860c04c79ef"
+    },
+    {
+      "title": "Begoña Gómez, citada este miércoles para entregar su pasaporte a Peinado",
+      "link": "https://elpais.com/espana/2026-06-24/begona-gomez-citada-este-miercoles-para-entregar-su-pasaporte-a-peinado.html",
+      "desc": "La defensa de la esposa del presidente ha recurrido la medida cautelar, por la que la cúpula del Poder Judicial ha iniciado un proceso de expediente contra el juez",
+      "date": "Wed, 24 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/J4EDZVZ75NBKZBHJ6CJ2QGXLBM.jpg?auth=4694baf91881704bd8d74714d30c27318ebe9816661112213b316a936d321837"
+    },
+    {
       "title": "Recorrido visual por la sentencia del Supremo que condena a Ábalos, Koldo y Aldama",
       "link": "https://elpais.com/espana/2026-06-23/recorrido-visual-por-la-sentencia-del-supremo-que-condena-a-abalos-koldo-y-aldama.html",
       "desc": "Navegue por el texto íntegro del fallo del alto tribunal y profundice en las claves del razonamiento jurídico",
@@ -20,41 +83,6 @@
       "desc": "El exministro extinguirá la pena en abril de 2042, aunque podrá aspirar a la libertad condicional a partir de noviembre de 2036",
       "date": "Tue, 23 Jun 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/CBOLY4LRE5GPPDW5RMIONAA73Y.jpg?auth=ffed8565cedeff7ff2bdf18cd1099bf856b3ebc7c5a7fd2caa425f0c2d33a468"
-    },
-    {
-      "title": "Contra la descomposición política",
-      "link": "https://elpais.com/opinion/2026-06-23/contra-la-descomposicion-politica.html",
-      "desc": "La corrupción, tanto la real como la atribuida, no es la causa de la crisis de las democracias, sino más bien su reflejo",
-      "date": "Tue, 23 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/QLU7YP2KJ5CDROJM24A5ZM2I4U.jpg?auth=76a10088c21af0243f569e75c38b787a97616d6a8890b36231ad5ff57e2abcc9"
-    },
-    {
-      "title": "Memoria histórica",
-      "link": "https://elpais.com/opinion/2026-06-22/memoria-historica.html",
-      "desc": "Por rabieta metería todas las mañanas a cuatro o cinco jueces en la cárcel, pero la historia me recuerda que es mejor resistir en las difíciles contradicciones de nuestra democracia",
-      "date": "Mon, 22 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/KLZBPQY2ZJFZ5AZBEVX5MZ5FNQ.jpg?auth=47e48519a7679cf2243e0c5f68de54853a4072b83862dca4997f3860c04c79ef"
-    },
-    {
-      "title": "Los guardianes del mito",
-      "link": "https://elpais.com/opinion/2026-06-22/los-guardianes-del-mito.html",
-      "desc": "Desde que se conoció el auto del juez Calama, no han faltado quienes se han lanzado a fabular hipótesis exculpatorias del expresidente Zapatero con manierismo argumental",
-      "date": "Mon, 22 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/T3BBF4XJSVA67LG32QLRUANUUA.jpg?auth=4fc77961b764681aff9f532135722a937cee037ded25d3295df5ab38f21b5146"
-    },
-    {
-      "title": "El hombre que coleccionaba quijotes",
-      "link": "https://elpais.com/opinion/2026-06-22/el-hombre-que-coleccionaba-quijotes.html",
-      "desc": "Pedro Sánchez sabe que desoír a los prudentes le suele funcionar; quizás no sean tiempos de retirada, sino de resistencia",
-      "date": "Mon, 22 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/VKGBDYQV4REMTHY4TQY3NCD634.jpg?auth=fbc332aa874a2c6d8bdcf71945cfdc8c39f774f0db3685e7a49c0bc1a91dfacd"
-    },
-    {
-      "title": "Votos y vetos",
-      "link": "https://elpais.com/opinion/2026-06-21/votos-y-vetos.html",
-      "desc": "Apoyar en las urnas a cualquiera de los dos grandes partidos equivale a aceptar parte sustancial de las posiciones de las demás formaciones de su bloque",
-      "date": "Sun, 21 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/33WZ7W6F4FNOLMWLILDNQQR77A.jpg?auth=f36e4938bb8ef02221b8a8e08dabfb48665451f0c52335639848afbf049665da"
     },
     {
       "title": "El PP se desmarca del intento de Vox de agitar en el Congreso el fantasma del pucherazo",
@@ -104,35 +132,7 @@
       "desc": "El alto mando elaboró en abril de 2025 la primera nota en la que se advertía de las supuestas maniobras de la exmilitante del PSOE Leire Díez",
       "date": "Tue, 23 Jun 2026 12:05:19 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/ND47FNUYFBEQ3L3M5M2OB3TEPQ.jpg?auth=a2deabe157fdd26f3eee185c3e0f627d2c4159f3390ce84b4ab20766df6ad396"
-    },
-    {
-      "title": "El Gobierno cree que el Supremo envía un mensaje para que los implicados declaren contra el PSOE",
-      "link": "https://elpais.com/espana/2026-06-23/el-gobierno-cree-que-el-supremo-envia-un-mensaje-para-que-los-implicados-declaren-contra-el-psoe.html",
-      "desc": "El Ejecutivo acusa el golpe de la sentencia del ‘caso Koldo’ pero se indigna ante un corruptor que “se va de rositas”",
-      "date": "Tue, 23 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XURIVYHHH5DIDNFZLQIYYCDRYQ.jpg?auth=2d4f72a8fbff6c799b9b245c41c709670ed85d0e889bb7f4b7fc7791fc7cf940"
-    },
-    {
-      "title": "Un directivo de la Confederación Hidrográfica revela a la jueza de la dana que Mazón “no sabía cómo iban las cosas” al llegar al Cecopi",
-      "link": "https://elpais.com/espana/comunidad-valenciana/2026-06-23/un-directivo-de-la-confederacion-hidrografica-dice-que-mazon-no-sabia-como-iban-las-cosas-al-llegar-al-organo-que-gestiono-la-dana.html",
-      "desc": "Ignacio Valero aseguró que la incorporación tardía del ‘expresident’ al dispositivo de crisis supuso una “pérdida de tiempo”, pero no retrasó el envío del Es-Alert",
-      "date": "Tue, 23 Jun 2026 10:18:26 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/DGHLTJLW3FFS5GJTICIPWP6B4M.JPG?auth=c9ddfc05ced356e8cde6cf610d0e90c1102c4ccdd84df71ad9b44b7705b095c8"
-    },
-    {
-      "title": "La Guardia Civil detiene a seis personas tras registrar el Ayuntamiento de Soria en una investigación por tráfico de influencias y blanqueo",
-      "link": "https://elpais.com/espana/2026-06-23/la-policia-judicial-de-la-guardia-civil-registra-dependencias-del-ayuntamiento-de-soria.html",
-      "desc": "Entre los arrestados está la concejala de Comercio, que hasta su nombramiento administró una empresa que contrataba con el Consistorio",
-      "date": "Tue, 23 Jun 2026 13:52:31 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260623/1187234_185005_video_1800.mp4"
-    },
-    {
-      "title": "El nuevo consejero de Agricultura en Castilla y León alega que la adaptación para acceder al máster que no podía cursar fue legal",
-      "link": "https://elpais.com/espana/2026-06-23/el-nuevo-consejero-de-agricultura-en-castilla-y-leon-alega-que-la-adaptacion-para-acceder-al-master-que-no-podia-cursar-fue-legal.html",
-      "desc": "Joaquín Antonio Pino (Vox) asegura que hizo créditos extra que le permitieron entrar en el posgrado en Ingeniería Agronómica que le abrió la puerta a una oposición",
-      "date": "Tue, 23 Jun 2026 11:32:08 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/FWDCJD5GFZAQFP3GS4WMGEK2SM.jpg?auth=34351c44fd58cb58712cbe9e66fec2604e9667464a92f32940f92e3702f052ce"
     }
   ],
-  "fetchedAt": 1782269385247
+  "fetchedAt": 1782283427350
 }
