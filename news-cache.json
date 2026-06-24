@@ -64,6 +64,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/CKVVWRKIVZGCXHEHUMB5B4RP3A.jpg?auth=d4f67e35e4e19b57806f42fd1d95e71c6e2a6e79c48dc1ad97c0bed5d2d011f1"
     },
     {
+      "title": "Zapatero estudia acciones legales tras la filtración de su agenda y mensajes privados con su secretaria",
+      "link": "https://elpais.com/espana/2026-06-24/zapatero-estudia-acciones-legales-tras-la-filtracion-de-su-agenda-y-mensajes-privados-con-su-secretaria.html",
+      "desc": "El entorno del expresidente muestra indignación porque el juez Calama no haya ordenado una criba de todo lo que no tiene relación con la investigación por tráfico de influencias",
+      "date": "Wed, 24 Jun 2026 16:06:21 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/YKRLKHAKNJBQBG5YGUOQABM7CQ.JPG?auth=4743452b2b88d82e5f683ce7f6f1fe4d9034221701d49b617dd8bae8fb0c5cb2"
+    },
+    {
       "title": "Junts no vota en la moción del PP del Senado que pedía adelantar las elecciones",
       "link": "https://elpais.com/espana/2026-06-24/junts-no-vota-en-la-mocion-del-pp-del-senado-que-pedia-adelantar-las-elecciones.html",
       "desc": "Los nacionalistas catalanes piden al Partido Popular la aplicación “efectiva” de la amnistía y cargan contra el Gobierno. El PNV rechaza la iniciativa",
@@ -125,14 +132,7 @@
       "desc": "Sergio Ríos niega que recibiese el encargo de la cúpula policial de Rajoy de localizar y sustraer material que pudiese comprometer al partido en el ‘caso Gürtel’",
       "date": "Wed, 24 Jun 2026 14:23:21 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/J5ERWLOK5ZLWFJPQ7RJJ2LUIF4.jpg?auth=c5444324a57dffa73b9cf69730289f20551ce085353efef61702772329b30a1c"
-    },
-    {
-      "title": "Sánchez saldrá al ataque con la idea de que él limpia y Feijóo no",
-      "link": "https://elpais.com/espana/2026-06-24/sanchez-saldra-al-ataque-con-la-idea-de-que-el-limpia-y-feijoo-no.html",
-      "desc": "Un año después del debate tras el ‘caso Cerdán’ en el que pidió perdón y admitió que pensó en dimitir, el presidente cambia de estrategia y busca poner el foco en Ayuso",
-      "date": "Wed, 24 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XRKIOJWAXJGYXO63ULEOTQG5DU.jpg?auth=d6b02196b6e8ccc423e94ac09e95e4ca762ac511fcfa2b20c4c04c5271d3ed65"
     }
   ],
-  "fetchedAt": 1782315086837
+  "fetchedAt": 1782323420773
 }
