@@ -15,13 +15,6 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260624/1187416_085404_video_1800.mp4"
     },
     {
-      "title": "La UDEF asegura que Zapatero cobró 200.000 euros por influir a favor de una empresa peruana ante el Gobierno de Bolivia",
-      "link": "https://elpais.com/espana/2026-06-24/la-udef-asegura-que-zapatero-cobro-200000-euros-por-influir-a-favor-de-una-empresa-peruana-ante-el-gobierno-de-bolivia.html",
-      "desc": "Fuentes del entorno del expresidente aseguran que fue una consultoría legal y que sería “inaceptable” una investigación “prospectiva” a la tarea profesional de Zapatero",
-      "date": "Wed, 24 Jun 2026 13:24:24 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/CUMXDZOBBRBYRFBTKLTF3MCHBU.jpg?auth=63432bdb0618d4f047a1184e2a6784a4384c7e43ba50bcdca3176ccb1db7e7bf"
-    },
-    {
       "title": "El debate | ¿Están justificadas las acusaciones de que existe ‘lawfare’ en España?",
       "link": "https://elpais.com/opinion/2026-06-24/el-debate-estan-justificadas-las-acusaciones-de-que-existe-lawfare-en-espana.html",
       "desc": "Los posibilidad de que determinados jueces actúen en casos de gran relevancia, especialmente en investigaciones de corrupción, movidos por intereses políticos o ideológicos se ha instalado en los últimos tiempos en la discusión pública",
@@ -57,6 +50,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/KLZBPQY2ZJFZ5AZBEVX5MZ5FNQ.jpg?auth=47e48519a7679cf2243e0c5f68de54853a4072b83862dca4997f3860c04c79ef"
     },
     {
+      "title": "La UDEF asegura que Zapatero cobró 200.000 euros por influir a favor de una empresa peruana ante el Gobierno de Bolivia",
+      "link": "https://elpais.com/espana/2026-06-24/la-udef-asegura-que-zapatero-cobro-200000-euros-por-influir-a-favor-de-una-empresa-peruana-ante-el-gobierno-de-bolivia.html",
+      "desc": "Fuentes del entorno del expresidente aseguran que fue una consultoría legal y que sería “inaceptable” una investigación “prospectiva” a la tarea profesional de Zapatero",
+      "date": "Wed, 24 Jun 2026 13:24:24 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/CUMXDZOBBRBYRFBTKLTF3MCHBU.jpg?auth=63432bdb0618d4f047a1184e2a6784a4384c7e43ba50bcdca3176ccb1db7e7bf"
+    },
+    {
       "title": "El juez del ‘caso Plus Ultra’ cita al empresario Julio Martínez Martínez a declarar el 21 de julio",
       "link": "https://elpais.com/espana/2026-06-24/el-juez-del-caso-plus-ultra-cita-al-empresario-julio-martinez-martinez-declarar-el-21-de-julio.html",
       "desc": "El magistrado llama al administrador de la consultora Análisis Relevante, que pagó durante cinco años al expresidente Zapatero y a la empresa de sus hijas",
@@ -67,7 +67,7 @@
       "title": "Zapatero estudia acciones legales tras la filtración de su agenda y mensajes privados con su secretaria",
       "link": "https://elpais.com/espana/2026-06-24/zapatero-estudia-acciones-legales-tras-la-filtracion-de-su-agenda-y-mensajes-privados-con-su-secretaria.html",
       "desc": "El entorno del expresidente muestra indignación porque el juez Calama no haya ordenado una criba de todo lo que no tiene relación con la investigación por tráfico de influencias",
-      "date": "Wed, 24 Jun 2026 16:06:21 GMT",
+      "date": "Wed, 24 Jun 2026 18:30:42 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/YKRLKHAKNJBQBG5YGUOQABM7CQ.JPG?auth=4743452b2b88d82e5f683ce7f6f1fe4d9034221701d49b617dd8bae8fb0c5cb2"
     },
     {
@@ -125,14 +125,7 @@
       "desc": "El expresidente pide “responsabilidad política” por la sentencia del Supremo a Ábalos e insta a Zapatero a que “devuelva cuanto antes” las joyas tasadas en 1,3 millones que le regalaron",
       "date": "Tue, 23 Jun 2026 19:36:46 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260623/1187236_185354_video_1800.mp4"
-    },
-    {
-      "title": "El exchófer de Bárcenas se desvincula del robo de los móviles del extesorero del PP: “Yo no fui a ese Vips”",
-      "link": "https://elpais.com/espana/2026-06-24/un-inspector-que-trabajo-para-cospedal-y-el-exchofer-de-barcenas-declaran-este-miercoles-en-el-juicio-de-kitchen.html",
-      "desc": "Sergio Ríos niega que recibiese el encargo de la cúpula policial de Rajoy de localizar y sustraer material que pudiese comprometer al partido en el ‘caso Gürtel’",
-      "date": "Wed, 24 Jun 2026 14:23:21 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/J5ERWLOK5ZLWFJPQ7RJJ2LUIF4.jpg?auth=c5444324a57dffa73b9cf69730289f20551ce085353efef61702772329b30a1c"
     }
   ],
-  "fetchedAt": 1782323420773
+  "fetchedAt": 1782330044869
 }
