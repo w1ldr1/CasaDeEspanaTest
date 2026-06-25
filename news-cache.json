@@ -64,9 +64,9 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/NJXU6LLGTBN2BAXYQ7UD65WPUU.jpg?auth=a2b1b0be7e6d4a880f07a949277373b19229f08adf082e03dca41bed8bc816b3"
     },
     {
-      "title": "Un incendio forestal obliga a desalojar a 185 personas en Huesca",
+      "title": "Un incendio forestal arrasa 1.000 hectáreas en Huesca",
       "link": "https://elpais.com/espana/2026-06-25/un-incendio-forestal-obliga-a-desalojar-a-185-personas-en-huesca.html",
-      "desc": "Los vecinos que han evacuado sus casas se encontraban a las localidades de Azanuy y Alins, en el este de la provincia",
+      "desc": "Las llamas han obligado evacuar a más de 200 vecinos de tres municipios y a confinar a la población de un cuarto",
       "date": "Thu, 25 Jun 2026 16:23:11 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/ABHITFVEKJMR5O6SGVGSLKGY7U.jpg?auth=4378afc51f961831d2844566223656d48c9868b8ac911e9595853b3dc1c15785"
     },
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/VDIBYHLQQZLCDEHCUOHFHOR3YM.jpg?auth=892eed3c35ba890688cc2b43209f35ac392ce4d3b8d13364ba2428766fe5329c"
     }
   ],
-  "fetchedAt": 1782412313537
+  "fetchedAt": 1782420757442
 }
