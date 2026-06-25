@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "title": "Sánchez apura los últimos cartuchos para mantener viva la legislatura antes de ir a las urnas",
+      "link": "https://elpais.com/espana/2026-06-24/sanchez-apura-los-ultimos-cartuchos-para-mantener-viva-la-legislatura-antes-de-ir-a-las-urnas.html",
+      "desc": "El Gobierno admite la distancia con los socios pero cree que aún aprobará leyes y decretos —este jueves lleva varios— e intentará los Presupuestos antes de disolver",
+      "date": "Wed, 24 Jun 2026 19:29:52 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260624/1187448_094856_video_1800.mp4"
+    },
+    {
       "title": "La investigación de la compra de voto por correo en Melilla hizo aflorar los indicios de delito de un proyecto empresarial en 2017 del Gobierno del PP",
       "link": "https://elpais.com/espana/2026-06-25/la-investigacion-de-la-compra-de-voto-por-correo-en-melilla-hizo-aflorar-los-indicios-de-delito-de-un-proyecto-empresarial-en-2017-del-gobierno-del-pp.html",
       "desc": "La jueza de la causa abrió diligencias el pasado mayo tras recibir el informe de la UDEF sobre el centro comercial Parque Murias. El presidente Imbroda comparece y niega los hechos en rueda de prensa",
@@ -127,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/3OWYH7Z2JBHLHOPWG37OV46GGU.jpg?auth=a7eb5ee17518564bc668af4a3d0c8b5455a6e7af309c4b5762bfb3c4ad7dc812"
     }
   ],
-  "fetchedAt": 1782362568779
+  "fetchedAt": 1782375565216
 }
