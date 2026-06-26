@@ -1,25 +1,32 @@
 {
   "items": [
     {
-      "title": "Feijóo acusa a Sánchez de “indisciplina” al poder legislativo si no dimite tras la votación no vinculante del Congreso",
-      "link": "https://elpais.com/espana/2026-06-25/feijoo-amaga-con-la-mocion-de-censura-tras-la-votacion-que-pide-la-dimision-a-sanchez.html",
-      "desc": "El líder del PP amaga con la moción de censura y afirma que “ha tomado buena nota” de que PP, Vox y Junts han votado juntos a favor de pedir la renuncia del presidente",
-      "date": "Thu, 25 Jun 2026 13:56:23 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260625/1188028_141157_video_1800.mp4"
+      "title": "Sánchez ignora la petición de dimisión y reta al PP y Junts a presentar una censura juntos",
+      "link": "https://elpais.com/espana/2026-06-26/sanchez-ignora-la-peticion-de-dimision-y-reta-al-pp-y-junts-a-presentar-una-censura-juntos.html",
+      "desc": "El Gobierno está desconcertado con los de Puigdemont pero espera que el 16 de julio, con la decisión favorable del TJUE, se pueda abrir al menos un canal de negociación",
+      "date": "Fri, 26 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/E4DHJG7K2NBBRO3PEATY45JRCI.jpg?auth=d24fe42c78b4addaec026e6e930da5697591ab430a5e9b963964ed83e6c1efc8"
     },
     {
-      "title": "Zapatero pide al juez que declare la “nulidad general” del ‘caso Plus Ultra’ por vulnerar sus derechos fundamentales",
-      "link": "https://elpais.com/espana/2026-06-25/zapatero-pide-al-juez-que-declare-la-nulidad-del-caso-plus-ultra.html",
-      "desc": "El expresidente presenta un escrito ante la Audiencia Nacional para reclamar que se excluyan “todas las evidencias obtenidas”",
-      "date": "Thu, 25 Jun 2026 13:24:53 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/T3BBF4XJSVA67LG32QLRUANUUA.jpg?auth=4fc77961b764681aff9f532135722a937cee037ded25d3295df5ab38f21b5146"
+      "title": "Empieza la verdadera batalla de fondo sobre el ‘caso Plus Ultra’",
+      "link": "https://elpais.com/espana/2026-06-26/empieza-la-verdadera-batalla-de-fondo-sobre-el-caso-plus-ultra.html",
+      "desc": "La petición de nulidad que ha presentado Zapatero bate todo el ámbito de la investigación y abre un debate sobre los límites de la labor indagatoria y el derecho de defensa",
+      "date": "Fri, 26 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/SIVLJOUVOZFMVJDJ4P7QNAOTI4.jpg?auth=304e77a35aa723ece13dc0bdf79a1d102d2ed3a2c00c6ce5c0b3ecc82faa4046"
     },
     {
-      "title": "El juez ordena investigar las filtraciones del caso que mantiene imputado a Zapatero",
-      "link": "https://elpais.com/espana/2026-06-25/el-juez-ordena-investigar-las-filtraciones-del-caso-que-mantiene-imputado-a-zapatero.html",
-      "desc": "El magistrado Calama toma la iniciativa tras difundirse las agendas del expresidente y las conversaciones con su secretaria",
-      "date": "Thu, 25 Jun 2026 12:24:32 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/DQ7UGARYAZFD7LRPC3Q3I2XIMU.jpg?auth=50ebd671217e8a2c6b55d3e5f52428b7e5ae08bd8232dc553d190ab176c8668c"
+      "title": "La Audiencia Nacional pone condiciones a la investigación sobre 14 etarras en Venezuela",
+      "link": "https://elpais.com/espana/2026-06-26/la-audiencia-nacional-pone-condiciones-a-la-investigacion-sobre-14-etarras-en-venezuela.html",
+      "desc": "El tribunal exige que, antes de solicitar a Caracas datos sobre los huidos, se concreten los hechos delictivos atribuidos a cada uno",
+      "date": "Fri, 26 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/6E6CH436EGI27A4QJIDX4MQ2CQ.jpg?auth=aa6c3d20a4e834f46b9196a41a0dbc478f2f067a331dc55bbfa929fb82617f52"
+    },
+    {
+      "title": "El dilema electoral del PSOE",
+      "link": "https://elpais.com/opinion/2026-06-26/el-dilema-electoral-del-psoe.html",
+      "desc": "Convertir las elecciones municipales y autonómicas de 2027 en un plebiscito sobre el Gobierno sería perjudicial para el futuro del partido",
+      "date": "Fri, 26 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/RX7PEZ742JAVRDIP42UVNEENUU.jpg?auth=34aad2ff6988c08053c7b4b134358f4afd4c05c895f757e88c5332f2bdc1f5de"
     },
     {
       "title": "El debate | ¿Están justificadas las acusaciones de que existe ‘lawfare’ en España?",
@@ -50,11 +57,32 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/QLU7YP2KJ5CDROJM24A5ZM2I4U.jpg?auth=76a10088c21af0243f569e75c38b787a97616d6a8890b36231ad5ff57e2abcc9"
     },
     {
-      "title": "Memoria histórica",
-      "link": "https://elpais.com/opinion/2026-06-22/memoria-historica.html",
-      "desc": "Por rabieta metería todas las mañanas a cuatro o cinco jueces en la cárcel, pero la historia me recuerda que es mejor resistir en las difíciles contradicciones de nuestra democracia",
-      "date": "Mon, 22 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/KLZBPQY2ZJFZ5AZBEVX5MZ5FNQ.jpg?auth=47e48519a7679cf2243e0c5f68de54853a4072b83862dca4997f3860c04c79ef"
+      "title": "El expresidente de la Diputación de Almería cierra la ronda de las declaraciones ante el juez de los imputados por el ‘caso mascarillas’",
+      "link": "https://elpais.com/espana/2026-06-26/el-expresidente-de-la-diputacion-de-almeria-cierra-la-ronda-de-las-declaraciones-ante-el-juez-de-los-imputados-por-el-caso-mascarillas.html",
+      "desc": "El instructor cree que hay “indicios muy claros” de su participación en el cobro de comisiones por la supuesta trama de adjudicación de contratos amañados desde el ente supramunicipal",
+      "date": "Fri, 26 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/54KHP6NYWLKYWPUJHPLKDYEOOU.jpg?auth=f5af9070cfa477e5bac45c3c02d353377703b4349bac79c37cb85f3d2266fa99"
+    },
+    {
+      "title": "Feijóo acusa a Sánchez de “indisciplina” al poder legislativo si no dimite tras la votación no vinculante del Congreso",
+      "link": "https://elpais.com/espana/2026-06-25/feijoo-amaga-con-la-mocion-de-censura-tras-la-votacion-que-pide-la-dimision-a-sanchez.html",
+      "desc": "El líder del PP amaga con la moción de censura y afirma que “ha tomado buena nota” de que PP, Vox y Junts han votado juntos a favor de pedir la renuncia del presidente",
+      "date": "Thu, 25 Jun 2026 13:56:23 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260625/1188028_141157_video_1800.mp4"
+    },
+    {
+      "title": "Zapatero pide al juez que declare la “nulidad general” del ‘caso Plus Ultra’ por vulnerar sus derechos fundamentales",
+      "link": "https://elpais.com/espana/2026-06-25/zapatero-pide-al-juez-que-declare-la-nulidad-del-caso-plus-ultra.html",
+      "desc": "El expresidente presenta un escrito ante la Audiencia Nacional para reclamar que se excluyan “todas las evidencias obtenidas”",
+      "date": "Thu, 25 Jun 2026 13:24:53 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/T3BBF4XJSVA67LG32QLRUANUUA.jpg?auth=4fc77961b764681aff9f532135722a937cee037ded25d3295df5ab38f21b5146"
+    },
+    {
+      "title": "El juez ordena investigar las filtraciones del caso que mantiene imputado a Zapatero",
+      "link": "https://elpais.com/espana/2026-06-25/el-juez-ordena-investigar-las-filtraciones-del-caso-que-mantiene-imputado-a-zapatero.html",
+      "desc": "El magistrado Calama toma la iniciativa tras difundirse las agendas del expresidente y las conversaciones con su secretaria",
+      "date": "Thu, 25 Jun 2026 12:24:32 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/DQ7UGARYAZFD7LRPC3Q3I2XIMU.jpg?auth=50ebd671217e8a2c6b55d3e5f52428b7e5ae08bd8232dc553d190ab176c8668c"
     },
     {
       "title": "Un letrado imputado en el caso de Leire Díez: “Están persiguiendo a los abogados que desempeñan la defensa del PSOE”",
@@ -101,38 +129,10 @@
     {
       "title": "Exteriores confirma la muerte de dos españoles en el seísmo y eleva a 80 la cifra de desaparecidos",
       "link": "https://elpais.com/america/2026-06-25/pedro-sanchez-muestra-su-apoyo-al-pueblo-venezolano-tras-los-devastadores-terremotos-registrados-esta-noche.html",
-      "desc": "España ultima el envío de un avión militar a Venezuela con un centenar de rescatadores para buscar supervivientes",
+      "desc": "España envía un avión militar a Venezuela con un centenar de rescatadores para buscar supervivientes",
       "date": "Thu, 25 Jun 2026 16:57:45 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/IEWTX2BXHE266TJOEJG7JJBGO4.jpg?auth=d2e0e61e17ab6dd83bd69e3a8d42a597ff8c95a172653281600ea6e3ff581cb2"
-    },
-    {
-      "title": "Vox reclama que el Estado le pague los intereses exorbitantes que abonó al banco de Orbán",
-      "link": "https://elpais.com/espana/2026-06-25/vox-reclama-que-el-estado-le-pague-los-intereses-exorbitantes-que-abono-al-banco-de-orban.html",
-      "desc": "El partido ultra ha pagado una tasa del 11% a la entidad húngara, hasta seis puntos más que a los bancos españoles",
-      "date": "Thu, 25 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/HK46XK4XLBELFB4DOVXIHORMVQ.jpg?auth=270aca6878c5d792e20aab96f519dd5ea0f279d3f5da1abc4c16769c9215a36b"
-    },
-    {
-      "title": "La investigación de la compra de voto por correo en Melilla hizo aflorar los indicios de delito de un proyecto empresarial en 2017 del Gobierno del PP",
-      "link": "https://elpais.com/espana/2026-06-25/la-investigacion-de-la-compra-de-voto-por-correo-en-melilla-hizo-aflorar-los-indicios-de-delito-de-un-proyecto-empresarial-en-2017-del-gobierno-del-pp.html",
-      "desc": "La jueza de la causa abrió diligencias el pasado mayo tras recibir el informe de la UDEF sobre el centro comercial Parque Murias. El presidente Imbroda comparece y niega los hechos en rueda de prensa",
-      "date": "Thu, 25 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/P4G37B6DWZNXXFRMOXYO5ZFV2Q.jpg?auth=26bf205bd8bf8eb1758df2dbaaf07bf75d9dd35cbc7a62968a7ad39501e18374"
-    },
-    {
-      "title": "Andalucía se prepara para un verano de alto riesgo: “Tenemos que aprender a convivir con el fuego”",
-      "link": "https://elpais.com/espana/andalucia/2026-06-25/andalucia-se-prepara-para-un-verano-de-alto-riesgo-tenemos-que-aprender-a-convivir-con-el-fuego.html",
-      "desc": "La Junta moviliza 271 millones mientras los trabajadores advierten de que las dotaciones están incompletas y los científicos ponen el énfasis en una prevención adaptada a cada zona",
-      "date": "Thu, 25 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/CKDDE5SWOFDN7C5FANOTAZSTDI.JPG?auth=50c2f0dda48f4aa07ca436c10ff59c305e7837f41ad3d73487fa79b856a90c3b"
-    },
-    {
-      "title": "La enigmática estrategia variable de Junts: “Votar lo mismo que PP y Vox no es votar juntos”",
-      "link": "https://elpais.com/espana/2026-06-25/la-enigmatica-estrategia-variable-de-junts-votar-lo-mismo-que-pp-y-vox-no-es-votar-juntos.html",
-      "desc": "El partido de Puigdemont exige en un mismo pleno que Sánchez se retire, no debate su cuestión de confianza, pero la apoya",
-      "date": "Thu, 25 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/VDIBYHLQQZLCDEHCUOHFHOR3YM.jpg?auth=892eed3c35ba890688cc2b43209f35ac392ce4d3b8d13364ba2428766fe5329c"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260625/1188148_181304_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1782442468997
+  "fetchedAt": 1782456722282
 }
