@@ -85,6 +85,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/KKH5ZDJPWFJ3JFM5LYRHFNO2HI.jpg?auth=78e34e11c45ddf885a80c7d1f18ca6c67b28647f59d9f4bc7439cfce67d5c465"
     },
     {
+      "title": "Abascal advierte al PP de que volverá a romper los gobiernos autonómicos si no cumple lo pactado",
+      "link": "https://elpais.com/espana/2026-06-27/abascal-advierte-al-pp-de-que-volvera-a-romper-los-gobiernos-autonomicos-si-no-cumple-lo-pactado.html",
+      "desc": "Vox presenta un programa de desregulación inspirado en la motosierra de Milei",
+      "date": "Sat, 27 Jun 2026 14:25:35 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/MEGWC4YQ5BJ5JBKZC4I6RHSCFU.jpg?auth=1ed7b608319c1c838f80c6c3dad31343171433a5a0ee545c84240ff8472ac7e9"
+    },
+    {
       "title": "La abogada Miriam González registra un nuevo partido mientras sopesa presentarse a las generales",
       "link": "https://elpais.com/espana/2026-06-25/la-abogada-miriam-gonzalez-registra-un-nuevo-partido-mientras-sopesa-presentarse-a-las-generales.html",
       "desc": "González, impulsora del movimiento España Mejor, es esposa de Nick Clegg, antiguo vice primer ministro del Reino Unido",
@@ -106,5 +113,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/VNGVYOG7T5DFZNCSP5PBK4LI5Q.jpg?auth=0e970647da95eb25c85ad6399b1b18484130b51edfb3cded566be41f6739894d"
     }
   ],
-  "fetchedAt": 1782581756404
+  "fetchedAt": 1782587632864
 }
