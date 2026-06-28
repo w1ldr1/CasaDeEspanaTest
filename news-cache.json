@@ -1,11 +1,95 @@
 {
   "items": [
     {
+      "title": "Sánchez ya está en campaña",
+      "link": "https://elpais.com/espana/2026-06-28/sanchez-ya-esta-en-campana.html",
+      "desc": "Casi sin oposición interna, el presidente rechaza el adelanto electoral en 2026 y prepara los ejes de la gran batalla de 2027 para superar la corrupción",
+      "date": "Sun, 28 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260627/1188793_121628_video_1800.mp4"
+    },
+    {
+      "title": "El PSOE lanza las primarias para las candidaturas locales y autonómicas con Madrid en ebullición",
+      "link": "https://elpais.com/espana/2026-06-28/el-psoe-lanza-las-primarias-para-las-candidaturas-locales-con-madrid-en-ebullicion.html",
+      "desc": "La ministra Morant se postula para presidir la Generalitat valenciana en un cónclave marcado por el anuncio de Enma López para ser la cabeza de lista en la capital de España",
+      "date": "Sun, 28 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/7EKHLQE3BZBKHHQWF3LJKR6JSE.jpg?auth=d58f6b5c450d676b1c2442b60ae96d2fe2c81293b1b94d28dabcea0792a20f58"
+    },
+    {
       "title": "Los audios de Page dentro del comité federal: “Falta autocrítica. La gente nos responsabiliza de connivencia con la corrupción”",
       "link": "https://elpais.com/espana/2026-06-27/los-audios-de-page-dentro-del-comite-federal-falta-autocritica-la-gente-nos-responsabiliza-de-connivencia-con-la-corrupcion.html",
       "desc": "EL PAÍS accede a las intervenciones a puerta cerrada de los dirigentes socialistas. El presidente de Castilla-La Mancha se dirige frontalmente contra Pedro Sánchez",
       "date": "Sat, 27 Jun 2026 16:19:46 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260627/1188823_153817_video_1800.mp4"
+    },
+    {
+      "title": "Cuando el Parlamento se vacía",
+      "link": "https://elpais.com/opinion/2026-06-28/cuando-el-parlamento-se-vacia.html",
+      "desc": "Las razones de orden político existen y operan en las instituciones democráticas. Mirar a otro lado no las elimina; solo nos hace más vulnerables a ellas",
+      "date": "Sun, 28 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/KH4OFVUUSVAHNBXZODDRXCFEJI.jpg?auth=08ca6f5841088145178b7ff994e2ad4a2f0fa25394ed762a03784521f72415ad"
+    },
+    {
+      "title": "Lo que hay que exigir a Pedro Sánchez",
+      "link": "https://elpais.com/opinion/2026-06-28/lo-que-hay-que-exigir-a-pedro-sanchez.html",
+      "desc": "El Gobierno debería abordar seis objetivos diáfanos y pactables en lo que reste de legislatura",
+      "date": "Sun, 28 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/BQLODJAKZNKRHCZQ4L2UMZR3RI.jpg?auth=8c4075225f27aad44b25dbf02929fe1dda45c2ae4b283e1ea25b243374a64617"
+    },
+    {
+      "title": "Las agendas de Rodríguez Zapatero",
+      "link": "https://elpais.com/opinion/2026-06-28/las-agendas-de-rodriguez-zapatero.html",
+      "desc": "La mayoría de las noticias pretenden construir una imagen del expresidente que refuerce su condena pública",
+      "date": "Sun, 28 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/T3BBF4XJSVA67LG32QLRUANUUA.jpg?auth=4fc77961b764681aff9f532135722a937cee037ded25d3295df5ab38f21b5146"
+    },
+    {
+      "title": "Corrupción y fin de ciclo político",
+      "link": "https://elpais.com/opinion/2026-06-28/corrupcion-y-fin-de-ciclo-politico.html",
+      "desc": "Un claro hilo conecta venalidad política y cambio de era, y conduce a la erosión de los partidos afectados",
+      "date": "Sun, 28 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/HILRFKHIYBPLFGTBJ5PXQHFXVM.jpg?auth=4be32998512f7f767c2679d0ca52257fdd33251bfb2639a93794b49ffa566098"
+    },
+    {
+      "title": "El dilema electoral del PSOE",
+      "link": "https://elpais.com/opinion/2026-06-26/el-dilema-electoral-del-psoe.html",
+      "desc": "Convertir las elecciones municipales y autonómicas de 2027 en un plebiscito sobre el Gobierno sería perjudicial para el futuro del partido",
+      "date": "Fri, 26 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/RX7PEZ742JAVRDIP42UVNEENUU.jpg?auth=34aad2ff6988c08053c7b4b134358f4afd4c05c895f757e88c5332f2bdc1f5de"
+    },
+    {
+      "title": "Míriam Nogueras: “Sánchez tiene que irse o regalará el Gobierno a la extrema derecha”",
+      "link": "https://elpais.com/espana/catalunya/2026-06-28/miriam-nogueras-sanchez-tiene-que-irse-o-regalara-el-gobierno-a-la-extrema-derecha.html",
+      "desc": "La portavoz de Junts en el Congreso defiende que el PSOE impulse un relevo al frente del Gobierno: “Quien sea presidente tiene que cumplir con Cataluña o la inestabilidad será permanente”",
+      "date": "Sun, 28 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XH6R6DRVVNBR7HA4SJIHLMWIKE.JPG?auth=6fb64b1871bde5e1e34c2255573692e8990ac363a2b1b8c77ba45b5f22290540"
+    },
+    {
+      "title": "La posición de Junts agrava el bloqueo parlamentario",
+      "link": "https://elpais.com/espana/2026-06-28/la-posicion-de-junts-agrava-el-bloqueo-parlamentario.html",
+      "desc": "Los decretos constituyen la principal producción legislativa del Gobierno, mientras importantes reformas llevan meses encalladas",
+      "date": "Sun, 28 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/OL64C6GNPNCF7BWOPJIULCG3IE.jpg?auth=6c651192ce21472776f9be7621db5089d5676b2f7b201088e445b38607a234c2"
+    },
+    {
+      "title": "La suspensión de la pena de Aldama: ¿impunidad o necesidad para investigar la corrupción?",
+      "link": "https://elpais.com/espana/2026-06-28/la-suspension-de-la-pena-de-aldama-impunidad-o-necesidad-para-investigar-la-corrupcion.html",
+      "desc": "La sentencia del ‘caso Koldo’ ha provocado críticas por librar al comisionista de la cárcel. Abogados y catedráticos recelan de los pactos previos a la condena, pero en el Supremo y en la Fiscalía defienden que es la vía más útil para perseguir la corrupción de forma efectiva",
+      "date": "Sun, 28 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/3OWYH7Z2JBHLHOPWG37OV46GGU.jpg?auth=a7eb5ee17518564bc668af4a3d0c8b5455a6e7af309c4b5762bfb3c4ad7dc812"
+    },
+    {
+      "title": "Radiografía de la desconfianza ciudadana en la justicia: “El sistema disciplinario no funciona”",
+      "link": "https://elpais.com/espana/2026-06-28/radiografia-de-la-desconfianza-ciudadana-en-la-justicia-el-sistema-disciplinario-no-funciona.html",
+      "desc": "Magistrados y catedráticos analizan las decisiones  judiciales más controvertidas y los déficits de control sobre los jueces",
+      "date": "Sun, 28 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/VLGZRWQBUJFVVCPD3T26S3EK5E.jpg?auth=3a62e1eac2068054f96622cb72ec0c36aec776e97e9f279d02f71604e639e205"
+    },
+    {
+      "title": "Derechos de las adolescentes y miedo al discurso xenófobo: el debate que divide el Raval",
+      "link": "https://elpais.com/espana/2026-06-28/derechos-de-las-adolescentes-y-miedo-al-discurso-xenofobo-el-debate-que-divide-el-raval.html",
+      "desc": "La denuncia de los educadores sobre las restricciones que sufren las adolescentes de origen migrante ha abierto un debate sobre cómo proteger sus derechos sin estigmatizarlas",
+      "date": "Sun, 28 Jun 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/CAJAPHEM4JGQVJO6ZL5I4EJVZM.jpg?auth=4781512da1ef9b8ad059abde025923050c2d7ca0106693f416f41dcd5ad1b273"
     },
     {
       "title": "España deja el furgón de cola de los países con menos gasto militar de la OTAN pese a los reproches de Trump",
@@ -20,41 +104,6 @@
       "desc": "Cuestiones tan dispares como la condena de Ábalos y la candidatura de Enma López al Ayuntamiento de Madrid sobrevuelan la primera reunión del máximo órgano de decisión entre congresos en un año",
       "date": "Sat, 27 Jun 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/Q5BM7KO3LVEPNERXY72SV4AO7Y.jpg?auth=63d0bca19b3c69209e9dc48e9c1c9973eee01f2515e95c897770714ad95966b1"
-    },
-    {
-      "title": "El dilema electoral del PSOE",
-      "link": "https://elpais.com/opinion/2026-06-26/el-dilema-electoral-del-psoe.html",
-      "desc": "Convertir las elecciones municipales y autonómicas de 2027 en un plebiscito sobre el Gobierno sería perjudicial para el futuro del partido",
-      "date": "Fri, 26 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/RX7PEZ742JAVRDIP42UVNEENUU.jpg?auth=34aad2ff6988c08053c7b4b134358f4afd4c05c895f757e88c5332f2bdc1f5de"
-    },
-    {
-      "title": "El debate | ¿Están justificadas las acusaciones de que existe ‘lawfare’ en España?",
-      "link": "https://elpais.com/opinion/2026-06-24/el-debate-estan-justificadas-las-acusaciones-de-que-existe-lawfare-en-espana.html",
-      "desc": "Los posibilidad de que determinados jueces actúen en casos de gran relevancia, especialmente en investigaciones de corrupción, movidos por intereses políticos o ideológicos se ha instalado en los últimos tiempos en la discusión pública",
-      "date": "Wed, 24 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/A7ZVBTOG3RHNFOR2YNTZ24DUVU.jpg?auth=11a768b7a17d69ced88debcea13b5aeb1d662df4ad7842f43ad74935efdf1fad"
-    },
-    {
-      "title": "La migración no es un problema",
-      "link": "https://elpais.com/opinion/2026-06-24/la-migracion-no-es-un-problema.html",
-      "desc": "Declarar enemigos a los más frágiles de la sociedad resulta, como poco, canallesco",
-      "date": "Wed, 24 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/RDEFRSTFDREZPHBXPE2RKVSVLY.jpg?auth=26d0647a11fe7e54875e38aedc49b82d64740d52028fefe1f7d73bc5b5173661"
-    },
-    {
-      "title": "Salvar la socialdemocracia",
-      "link": "https://elpais.com/opinion/2026-06-24/salvar-la-socialdemocracia.html",
-      "desc": "Es preciso desacoplar la propuesta socialdemócrata de las siglas de un partido que en realidad no la defiende, y encomendarla a quienes parezcan dispuestos a ponerla en marcha",
-      "date": "Wed, 24 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/FOBIW4YKZ5CLHPKRG2VP5DKIL4.jpg?auth=91b596529cc0b2ca7c05d20cbc3f6d7ed454d43e446f41ec12fb5285078d2f9b"
-    },
-    {
-      "title": "Contra la descomposición política",
-      "link": "https://elpais.com/opinion/2026-06-23/contra-la-descomposicion-politica.html",
-      "desc": "La corrupción, tanto la real como la atribuida, no es la causa de la crisis de las democracias, sino más bien su reflejo",
-      "date": "Tue, 23 Jun 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/QLU7YP2KJ5CDROJM24A5ZM2I4U.jpg?auth=76a10088c21af0243f569e75c38b787a97616d6a8890b36231ad5ff57e2abcc9"
     },
     {
       "title": "Cosas de la justicia negociada en el ‘caso Koldo’",
@@ -83,42 +132,7 @@
       "desc": "El Gobierno aumenta a cinco la cifra de fallecidos, entre ellos la delegada del Gobierno canario en Caracas, y hasta 119 la de desaparecidos",
       "date": "Fri, 26 Jun 2026 14:00:20 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/ILAYN2MWDZMMLB4XOKILTVGXN4.jpg?auth=445f316a6bf39b1b1d10080b8ae855be956b4cc9ba4bd3cfc44bf3c52cdf4f56"
-    },
-    {
-      "title": "Tres mujeres referentes de la lucha por los derechos LGTBIQ+ reciben la Medalla de la Orden del Mérito Constitucional",
-      "link": "https://elpais.com/espana/2026-06-26/tres-mujeres-referentes-de-la-lucha-por-los-derechos-lgtbiq-reciben-la-medalla-de-la-orden-del-merito-constitucional.html",
-      "desc": "El acto “Orgullo y Justicia” celebra las trayectorias de María Rosario Alises, Emilia Hernández y Boti García Rodrigo, que lograron convertir su militancia en avances legales y sociales para el colectivo",
-      "date": "Fri, 26 Jun 2026 19:55:14 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/KKH5ZDJPWFJ3JFM5LYRHFNO2HI.jpg?auth=78e34e11c45ddf885a80c7d1f18ca6c67b28647f59d9f4bc7439cfce67d5c465"
-    },
-    {
-      "title": "Abascal advierte al PP de que volverá a romper los gobiernos autonómicos si no cumple lo pactado",
-      "link": "https://elpais.com/espana/2026-06-27/abascal-advierte-al-pp-de-que-volvera-a-romper-los-gobiernos-autonomicos-si-no-cumple-lo-pactado.html",
-      "desc": "Vox presenta un programa de desregulación inspirado en la motosierra de Milei",
-      "date": "Sat, 27 Jun 2026 14:25:35 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/MEGWC4YQ5BJ5JBKZC4I6RHSCFU.jpg?auth=1ed7b608319c1c838f80c6c3dad31343171433a5a0ee545c84240ff8472ac7e9"
-    },
-    {
-      "title": "La abogada Miriam González registra un nuevo partido mientras sopesa presentarse a las generales",
-      "link": "https://elpais.com/espana/2026-06-25/la-abogada-miriam-gonzalez-registra-un-nuevo-partido-mientras-sopesa-presentarse-a-las-generales.html",
-      "desc": "González, impulsora del movimiento España Mejor, es esposa de Nick Clegg, antiguo vice primer ministro del Reino Unido",
-      "date": "Thu, 25 Jun 2026 19:40:28 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/232U3PJG5NEH5LFSCJY6TOAFOM.jpg?auth=0b3ae586bed2b9236c2876055f4917f0aea03d80c4e8d67c3183d0d94a5939e2"
-    },
-    {
-      "title": "La Fundación Felipe González concede el VI Premio Rojana a los valores de entendimiento de Fernando Buesa",
-      "link": "https://elpais.com/espana/2026-06-25/la-fundacion-felipe-gonzalez-concede-el-vi-premio-rojana-a-los-valores-de-entendimiento-de-fernando-buesa.html",
-      "desc": "La hija del dirigente del PSE asesinado hace 26 años enlaza la valentía de su padre con la del exministro Pérez Rubalcaba",
-      "date": "Thu, 25 Jun 2026 19:03:22 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/SHPKCHCEJNNSNIAPE7ZY2CZ4KY.jpg?auth=88c4ffad3094c5a859b0f97e71f82d4d446db03e3be72f49315a800962400409"
-    },
-    {
-      "title": "Muere el atracador de un banco en un pueblo de Cádiz tras un tiroteo contra la policía",
-      "link": "https://elpais.com/espana/2026-06-25/muere-el-atracador-de-un-banco-en-un-pueblo-de-cadiz-tras-un-tiroteo-contra-la-policia.html",
-      "desc": "El hombre, con antecedentes policiales, abrió fuego contra los agentes y estos repelieron el ataque con un disparo en las piernas que ha resultado mortal",
-      "date": "Thu, 25 Jun 2026 18:47:33 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/VNGVYOG7T5DFZNCSP5PBK4LI5Q.jpg?auth=0e970647da95eb25c85ad6399b1b18484130b51edfb3cded566be41f6739894d"
     }
   ],
-  "fetchedAt": 1782610340541
+  "fetchedAt": 1782627223149
 }
