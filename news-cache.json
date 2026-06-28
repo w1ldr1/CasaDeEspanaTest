@@ -38,7 +38,7 @@
     {
       "title": "Las agendas de Rodríguez Zapatero",
       "link": "https://elpais.com/opinion/2026-06-28/las-agendas-de-rodriguez-zapatero.html",
-      "desc": "La mayoría de las noticias pretenden construir una imagen del expresidente que refuerce su condena pública",
+      "desc": "Lo más probable es que el expresidente, reunión tras reunión, gestión tras gestión, no haya calibrado bien el riesgo que asumía",
       "date": "Sun, 28 Jun 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/T3BBF4XJSVA67LG32QLRUANUUA.jpg?auth=4fc77961b764681aff9f532135722a937cee037ded25d3295df5ab38f21b5146"
     },
@@ -57,7 +57,7 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/RX7PEZ742JAVRDIP42UVNEENUU.jpg?auth=34aad2ff6988c08053c7b4b134358f4afd4c05c895f757e88c5332f2bdc1f5de"
     },
     {
-      "title": "Míriam Nogueras: “Sánchez tiene que irse o regalará el Gobierno a la extrema derecha”",
+      "title": "Miriam Nogueras: “Sánchez tiene que irse o regalará el Gobierno a la extrema derecha”",
       "link": "https://elpais.com/espana/catalunya/2026-06-28/miriam-nogueras-sanchez-tiene-que-irse-o-regalara-el-gobierno-a-la-extrema-derecha.html",
       "desc": "La portavoz de Junts en el Congreso defiende que el PSOE impulse un relevo al frente del Gobierno: “Quien sea presidente tiene que cumplir con Cataluña o la inestabilidad será permanente”",
       "date": "Sun, 28 Jun 2026 03:30:01 GMT",
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/ILAYN2MWDZMMLB4XOKILTVGXN4.jpg?auth=445f316a6bf39b1b1d10080b8ae855be956b4cc9ba4bd3cfc44bf3c52cdf4f56"
     }
   ],
-  "fetchedAt": 1782627223149
+  "fetchedAt": 1782639604877
 }
