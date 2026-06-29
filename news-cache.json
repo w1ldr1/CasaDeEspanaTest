@@ -1,11 +1,11 @@
 {
   "items": [
     {
-      "title": "Moreno ignora la inmigración en su discurso y Vox adelanta que no le dará su apoyo en la primera votación de investidura",
+      "title": "Moreno, en su discurso de investidura: “Solo hay dos opciones, la repetición electoral o el pacto de legislatura”",
       "link": "https://elpais.com/espana/2026-06-29/moreno-busca-el-apoyo-de-vox-para-ser-reelegido-presidente-de-la-junta-de-andalucia.html",
-      "desc": "“Que siga por ese camino y saldrá elegido en tercera, cuarta, quinta o nunca”, ha asegurado José Antonio Fúster",
-      "date": "Mon, 29 Jun 2026 11:44:05 GMT",
-      "imgUrl": "https://www.youtube.com/watch?v=5RBx3CvdnoU"
+      "desc": "El dirigente popular silencia el tema de la inmigración, obvia la prioridad nacional y Vox confirma que votará que no",
+      "date": "Mon, 29 Jun 2026 13:11:12 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260629/1189300_121228_video_1800.mp4"
     },
     {
       "title": "La empresaria que asegura que llevó 90.000 euros a Ferraz ratifica que la abogada de Koldo le ofreció dinero por cambiar su testimonio",
@@ -60,7 +60,7 @@
       "title": "La Fiscalía mantiene la petición de 15 años de cárcel para el exministro Fernández Díaz por el ‘caso Kitchen’",
       "link": "https://elpais.com/espana/2026-06-29/la-fiscalia-mantiene-la-peticion-de-15-anos-de-carcel-para-el-exministro-fernandez-diaz-por-el-caso-kitchen.html",
       "desc": "El tribunal anuncia que se retira la acusación contra dos mandos policiales que se han sentado en el banquillo desde el inicio del juicio",
-      "date": "Mon, 29 Jun 2026 11:42:13 GMT",
+      "date": "Mon, 29 Jun 2026 14:00:51 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/WELSCA6XT5H7REJIZSEIPEJ6TQ.jpg?auth=723e448765cbb79fce76da500b47f2e890f3ff6556dfe54fb3e34c5ca98208dc"
     },
     {
@@ -73,7 +73,7 @@
     {
       "title": "Feijóo siembra dudas sobre el incremento del censo por la ‘ley de nietos’: “Es ingeniería electoral, fabricar nuevos votantes”",
       "link": "https://elpais.com/espana/2026-06-29/feijoo-siembra-dudas-sobre-el-incremento-del-censo-y-propone-que-el-partido-que-gane-las-elecciones-tenga-un-plus-de-diputados.html",
-      "desc": "El líder del PP propone cambiar la norma para dar un “plus de diputados” a la lista más votada en unas elecciones",
+      "desc": "El Gobierno califica de “irresponsables” las palabras del líder del PP, que también propone cambiar la norma para dar un “plus de diputados” a la lista más votada en unas elecciones",
       "date": "Mon, 29 Jun 2026 12:57:11 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/T6BQIS2FFRLNPFEPHWTGXII5OA.jpg?auth=6dc665fb9e4f6259fde5a701ee434e05308c85a01f5d9d31ce499bf5966df3fd"
     },
@@ -101,7 +101,7 @@
     {
       "title": "Muere un cabo del Ejército de Tierra en un lanzamiento paracaidista en unas maniobras en Huesca (Aragón)",
       "link": "https://elpais.com/espana/2026-06-29/muere-un-cabo-del-ejercito-de-tierra-en-un-lanzamiento-paracaidista-en-unas-maniobras-en-huesca-aragon.html",
-      "desc": "El militar participó en misiones en Irak y en otras de ámbito nacional; fue condecorado por la Operación Balmis que tuvo lugar durante la pandemia de covid",
+      "desc": "El militar participó en misiones en Irak y en otras de ámbito nacional, y fue condecorado por la Operación Balmis, desplegada en la pandemia de covid",
       "date": "Mon, 29 Jun 2026 09:34:56 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/GPLGXYBMZFDPBI7RCQC5ET35FA.jpg?auth=0b172abcaa99197571e01689ceb6718da4d150fe8f7397522bb000bc97310872"
     },
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/P7L6P2YPDFBUTKC7SOJ4NOA3QQ.jpg?auth=9ab628262da551d9f262e6eae0c5a3783079bff1672bb98aceb8f45e6a71efc5"
     }
   ],
-  "fetchedAt": 1782738159939
+  "fetchedAt": 1782751448517
 }
