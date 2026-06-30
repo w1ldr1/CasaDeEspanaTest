@@ -1,9 +1,9 @@
 {
   "items": [
     {
-      "title": "El Supremo estudia preguntar a la justicia europea si la regularización de inmigrantes choca con la normativa comunitaria",
+      "title": "El Supremo estudia preguntar a la justicia europea si la regularización de inmigrantes choca con el derecho comunitario",
       "link": "https://elpais.com/espana/2026-06-30/el-supremo-estudia-preguntar-a-la-justicia-europea-si-la-regularizacion-de-inmigrantes-choca-con-la-normativa-comunitaria.html",
-      "desc": "La Sala de lo Contencioso pregunta a la Abogacía del Estado y los Gobiernos de Aragón y Comunidad Valenciana si procede platear una cuestión prejudicial",
+      "desc": "La Sala de lo Contencioso pregunta a la Abogacía del Estado y los Gobiernos de Aragón y Comunidad Valenciana si procede plantear una cuestión prejudicial",
       "date": "Tue, 30 Jun 2026 09:16:39 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/EOIVZPGEGVFU5F3YJG654DZS6E.JPG?auth=c889e715862d383cc390a842c96d763e3415a0d48c41ff891db4991af7049ca0"
     },
@@ -78,10 +78,10 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260630/1189632_092945_video_1800.mp4"
     },
     {
-      "title": "Vox, a Moreno: “Los andaluces le han dicho que se tiene que entender con Vox, aunque no quiera ni le guste”",
+      "title": "Montero, a Moreno: “Esta investidura es un fraude. Deje de esconderse detrás del Gobierno de Pedro Sánchez”",
       "link": "https://elpais.com/espana/2026-06-30/moreno-responde-a-los-grupos-de-la-oposicion-con-el-no-de-vox-a-su-investidura.html",
       "desc": "El portavoz ultra ratifica que no apoyará la investidura del dirigente popular esta tarde y éste confía en que el acuerdo se cierre para la votación del jueves",
-      "date": "Tue, 30 Jun 2026 12:34:55 GMT",
+      "date": "Tue, 30 Jun 2026 15:34:01 GMT",
       "imgUrl": "https://www.youtube.com/watch?v=j-LnNKenL14"
     },
     {
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/IMTBOJOEMND7JMJ3BJAVPBOMLQ.jpg?auth=7bfb7c49b8c41984601e96ab32c8475d59d9b96c344d12522137cd247d6cfe04"
     }
   ],
-  "fetchedAt": 1782825661529
+  "fetchedAt": 1782835272954
 }
