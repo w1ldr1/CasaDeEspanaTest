@@ -8,7 +8,7 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/NPVK6D5I7JG5TN7QINQBQ4FISU.jpg?auth=43239a79af3e4121e0446daafb517ccc02bd704842386d7c52070ca17088cb9e"
     },
     {
-      "title": "Los datos desmienten el bulo del fraude electoral con la ‘ley de nietos’: la mayoría de expedientes no se resolverá en esta década",
+      "title": "Los datos desmienten el bulo del fraude electoral con la ‘ley de nietos’: la mayoría de expedientes no se resolverán en esta década",
       "link": "https://elpais.com/espana/2026-07-03/los-datos-desmienten-el-bulo-del-fraude-electoral-con-la-ley-de-nietos-la-mayoria-de-expedientes-no-se-resolvera-en-esta-decada.html",
       "desc": "El Consulado de Buenos Aires, el que más solicitudes ha recibido del mundo, seguirá recogiendo la documentación hasta 2030 o 2031",
       "date": "Fri, 03 Jul 2026 03:30:01 GMT",
@@ -64,6 +64,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/HJOIPU4I6JEA73G2NMUIMBIGQY.jpg?auth=43206ded3d2c9cad367ba9c2646df7d2103dfe467c7a5b84c1d5051884189981"
     },
     {
+      "title": "Maíllo urge a la elección de candidato y marca electoral para las generales y rechaza la ‘vía Rufián’",
+      "link": "https://elpais.com/espana/2026-07-03/maillo-urge-a-la-eleccion-de-candidato-y-marca-electoral-para-las-generales-y-rechaza-la-via-rufian.html",
+      "desc": "El borrador del informe político que el líder de IU debate este sábado ante su dirección apunta a una recuperación del espacio político gracias al “deterioro del PSOE” por los casos de corrupción",
+      "date": "Fri, 03 Jul 2026 06:30:00 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/JEODYBDTDVFONAS76ZW7D7A37I.jpg?auth=175c4238cdfa020669958119c31feefe818f5a6b60d7d7faae989904c0698726"
+    },
+    {
       "title": "Moreno cede y pacta un gobierno de coalición con Vox",
       "link": "https://elpais.com/espana/2026-07-02/pp-y-vox-confirman-el-acuerdo-para-la-investidura-de-moreno.html",
       "desc": "Los ultras entran en el Ejecutivo andaluz con una vicepresidencia de Turismo, desregulación, justicia y administración local",
@@ -96,7 +103,7 @@
       "link": "https://elpais.com/espana/2026-07-02/la-guardia-civil-investiga-el-millon-de-euros-en-patrocinios-que-la-diputacion-de-cadiz-pago-al-empresario-acusado-de-blanqueo-vinculado-al-narco.html",
       "desc": "Los investigadores encontraron al hostelero, cercano al alcalde de El Puerto de Santa María, 1,2 millones de euros en efectivo y le vinculan a un tercer implicado investigado por narcotráfico",
       "date": "Thu, 02 Jul 2026 18:31:51 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XSOGNNL73BDINDP2TQ4KSKWLMU.jpg?auth=584d4ae6692d8027b162a8df65fd7a637a526030b042126905a5d6c3bff60ede"
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/RDNBCYG2TVHNXJSVERMSG23LMA.jpg?auth=781feeedaf71e8f4bf5be96a180b1a8c21240846e78d9113b84bd26747a7b9f8"
     },
     {
       "title": "La Policía Nacional encuentra tres canguros en el registro de una finca con cultivos de marihuana en Ciudad Real",
@@ -125,14 +132,7 @@
       "desc": "Seis descendientes de emigrantes relatan su experiencia como nuevos ciudadanos españoles desde América",
       "date": "Thu, 02 Jul 2026 15:50:29 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260701/1190277_182553_video_1800.mp4"
-    },
-    {
-      "title": "Feijóo admite ahora que todos los nietos de emigrados españoles puedan tener derecho a la nacionalidad",
-      "link": "https://elpais.com/espana/2026-07-02/feijoo-asume-ahora-que-el-pp-esta-de-acuerdo-con-que-los-nietos-que-acrediten-el-parentesco-tengan-derecho-a-la-nacionalidad.html",
-      "desc": "El líder del PP censura, sin embargo, que el proceso se está haciendo “con arbitrariedad” y “sin garantías”",
-      "date": "Thu, 02 Jul 2026 08:44:16 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260702/1190483_093554_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1783052635681
+  "fetchedAt": 1783064675063
 }
