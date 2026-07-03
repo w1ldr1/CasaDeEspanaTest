@@ -12,7 +12,7 @@
       "link": "https://elpais.com/espana/2026-07-03/feijoo-acusa-al-gobierno-de-alterar-el-censo-con-la-ingenieria-social-de-las-nacionalizaciones.html",
       "desc": "El líder del PP critica que la ‘ley de nietos’ y la regularización de inmigrantes no tienen “objetivos inocentes”",
       "date": "Fri, 03 Jul 2026 11:35:13 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/SFPKSNCBMZMI7CTAKL5W7M2YQY.jpg?auth=8205b44b18aa0b64fa4a8616c37777b37f784d5c02ba95cb62d04e49f99ae70a"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260703/1190944_120353_video_1800.mp4"
     },
     {
       "title": "El Gobierno retirará la Gran Cruz de la Orden Civil de Sanidad a Vallejo-Nájera, el psiquiatra que justificó el robo de niños",
@@ -57,6 +57,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/RX7PEZ742JAVRDIP42UVNEENUU.jpg?auth=34aad2ff6988c08053c7b4b134358f4afd4c05c895f757e88c5332f2bdc1f5de"
     },
     {
+      "title": "El juez del ‘caso Koldo’ imputa a Jésica Rodríguez, expareja de Ábalos",
+      "link": "https://elpais.com/espana/2026-07-03/el-juez-del-caso-koldo-imputa-a-jesica-rodriguez-expareja-de-abalos.html",
+      "desc": "La Audiencia Nacional también cita a declarar como investigado a un antiguo alto cargo de Adif",
+      "date": "Fri, 03 Jul 2026 13:13:20 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/C7HGFSU6KFH23CVIMZ2KJQYBCA.jpg?auth=a0ecabb74a2a85a2b883c986a9201b919a3d45843540ba3945299e615a70ca04"
+    },
+    {
       "title": "Pradales advierte de que la legislatura está en un momento “crítico” y ve “muy complicado que aguante”",
       "link": "https://elpais.com/espana/2026-07-03/pradales-advierte-de-que-la-legislatura-esta-en-un-momento-critico-y-ve-muy-complicado-que-aguante.html",
       "desc": "El lehendakari considera una “falta de respeto” los incumplimientos del Gobierno con Euskadi",
@@ -64,9 +71,9 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/PEV6CIFCCVMQRD5IWLYFNTH4RA.jpg?auth=bddc4bcc761add884cd93e8e63a7930aba762aa3e08eff81d5925c28aee0f4b9"
     },
     {
-      "title": "Vito Quiles acude al juzgado que le investiga por un bulo y le cita a declarar el lunes 20",
+      "title": "Vito Quiles se presenta ante la juez que ordenó detenerlo por un bulo contra un empleado público y le cita para el 20 de julio",
       "link": "https://elpais.com/espana/2026-07-03/vito-quiles-asegura-que-acudira-este-viernes-a-declarar-al-juzgado-que-le-investiga-por-un-bulo.html",
-      "desc": "La justicia requería al agitador para que respondiera por un delito contra el honor",
+      "desc": "El agitador asegura que la orden de busca y captura fue “la primera noticia” que tuvo sobre esta nueva causa en su contra",
       "date": "Fri, 03 Jul 2026 12:48:38 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/AWQRZNOCNVOAZD4D63YIXMBY54.jpg?auth=27b5a7d22d9723eb1f18988579cb6f3d7db051337b6f0012feaa75234bea9997"
     },
@@ -125,14 +132,7 @@
       "desc": "El PP y Vox reclaman, además, el cese del ministro del Interior, Fernando Grande-Marlaska",
       "date": "Thu, 02 Jul 2026 12:16:22 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/7RXRCEBQSVNPXGKQM2LXWD6DWY.jpg?auth=361fbc8a45a9ad41c93fded064fe30f4b77c07901b0d61a2ec39f8920923df71"
-    },
-    {
-      "title": "Sánchez y Marlaska mantienen el apoyo a la directora de la Guardia Civil tras ser imputada",
-      "link": "https://elpais.com/espana/2026-07-02/sanchez-y-marlaska-mantienen-el-apoyo-a-la-directora-de-la-guardia-civil-tras-ser-imputada.html",
-      "desc": "El Gobierno asegura que Mercedes González no hizo nada malo y solo la citan para que dé su versión",
-      "date": "Thu, 02 Jul 2026 10:29:59 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/33XFJ7MCGFCD3J5KATMPT2H7AM.jpg?auth=0e08c068d3c31cc8413b694797eb07e5e080484b8b9f7df82b81a296ad67bffb"
     }
   ],
-  "fetchedAt": 1783083233267
+  "fetchedAt": 1783091192287
 }
