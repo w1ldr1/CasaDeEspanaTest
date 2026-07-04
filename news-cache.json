@@ -15,7 +15,7 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260703/1190944_120353_video_1800.mp4"
     },
     {
-      "title": "Los bomberos estabilizan el incendio de la Costa Brava tras afectar 2.400 hectáreas",
+      "title": "Los bomberos estabilizan el incendio de la Costa Brava tras afectar 2.200 hectáreas",
       "link": "https://elpais.com/espana/catalunya/2026-07-04/el-fuego-de-les-gavarres-alcanza-casas-de-una-urbanizacion-de-calonge-en-la-costa-brava.html",
       "desc": "El incendio ha quemado con fuerza durante toda la jornada de hoy cerca de zonas muy pobladas. El Govern revisará en las próximas horas las órdenes de confinamiento",
       "date": "Sat, 04 Jul 2026 20:46:00 GMT",
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/5NT54UGB4RDTLF2US5JXOBT6RQ.jpg?auth=0a661db944dc7342bdae056a188db849f5a95c7d571ad429c46742d34509c65e"
     }
   ],
-  "fetchedAt": 1783198273994
+  "fetchedAt": 1783202063712
 }
