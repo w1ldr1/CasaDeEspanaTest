@@ -1,25 +1,25 @@
 {
   "items": [
     {
-      "title": "Juan Manuel Moreno, de “un Gobierno con Vox es imposible” a asumir todos sus postulados por dos votos",
-      "link": "https://elpais.com/espana/2026-07-03/juan-manuel-moreno-de-gobernar-con-vox-es-imposible-a-asumir-todos-sus-postulados-por-dos-votos.html",
-      "desc": "El recién reelegido presidente de la Junta de Andalucía acuerda con los ultras muchas de las políticas que ha criticado con anterioridad",
-      "date": "Fri, 03 Jul 2026 09:15:15 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260507/1168446_112842_video_1800.mp4"
+      "title": "Moreno, el moderado, se autoenmienda con el pacto con los ultras",
+      "link": "https://elpais.com/espana/2026-07-05/moreno-el-moderado-se-autoenmienda-con-el-pacto-con-los-ultras.html",
+      "desc": "La asunción de los postulados ideológicos de Vox y la entrada de la extrema derecha en su Gobierno cuestiona el liderazgo centrista del barón andaluz en el PP",
+      "date": "Sun, 05 Jul 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/UL5TJNE37JAUJH6Y7474JKONRQ.jpg?auth=d18ee6556513c49990bce0ddccf9fdb63f5de1b555eae0aedde4030da573ba76"
     },
     {
-      "title": "Feijóo acusa al Gobierno de “alterar el censo” con la “ingeniería social” de las nacionalizaciones",
-      "link": "https://elpais.com/espana/2026-07-03/feijoo-acusa-al-gobierno-de-alterar-el-censo-con-la-ingenieria-social-de-las-nacionalizaciones.html",
-      "desc": "El líder del PP critica que la ‘ley de nietos’ y la regularización de inmigrantes no tienen “objetivos inocentes”",
-      "date": "Fri, 03 Jul 2026 11:35:13 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260703/1190944_120353_video_1800.mp4"
+      "title": "Manuel Gavira, un “soldado” de Vox",
+      "link": "https://elpais.com/espana/2026-07-05/manuel-gavira-un-soldado-de-vox.html",
+      "desc": "El nuevo vicepresidente de la Junta de Andalucía se ha mantenido fiel a las consignas ideológicas de la formación de Abascal sobre inmigración, igualdad o cambio climático en el Parlamento autonómico",
+      "date": "Sun, 05 Jul 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/BYCATLOWSJHJ5GUIPTVYFUOBHQ.jpg?auth=4320bfc4a3bf44153517dc3a191d5fa09fc690e1e3277fb5ee68db922b8b48ec"
     },
     {
-      "title": "Los bomberos estabilizan el incendio de la Costa Brava tras afectar 2.200 hectáreas",
-      "link": "https://elpais.com/espana/catalunya/2026-07-04/el-fuego-de-les-gavarres-alcanza-casas-de-una-urbanizacion-de-calonge-en-la-costa-brava.html",
-      "desc": "El incendio ha quemado con fuerza durante toda la jornada de hoy cerca de zonas muy pobladas. El Govern revisará en las próximas horas las órdenes de confinamiento",
-      "date": "Sat, 04 Jul 2026 20:46:00 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260704/1191269_115549_video_1800.mp4"
+      "title": "Réquiem por el votante de centro",
+      "link": "https://elpais.com/opinion/2026-07-05/requiem-por-el-votante-de-centro.html",
+      "desc": "Los grandes partidos fían más su victoria a la confrontación con el otro que a una estrategia de entendimiento",
+      "date": "Sun, 05 Jul 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/CLYDV4AAABDQJDLKDTSCBCV3DE.jpg?auth=507eb0a9d501a8cd5ea51b7b6df33692b2299e07f0792fb7326862f0acb30514"
     },
     {
       "title": "Cuando el Parlamento se vacía",
@@ -55,6 +55,27 @@
       "desc": "Convertir las elecciones municipales y autonómicas de 2027 en un plebiscito sobre el Gobierno sería perjudicial para el futuro del partido",
       "date": "Fri, 26 Jun 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/RX7PEZ742JAVRDIP42UVNEENUU.jpg?auth=34aad2ff6988c08053c7b4b134358f4afd4c05c895f757e88c5332f2bdc1f5de"
+    },
+    {
+      "title": "Juan Manuel Moreno, de “un Gobierno con Vox es imposible” a asumir todos sus postulados por dos votos",
+      "link": "https://elpais.com/espana/2026-07-03/juan-manuel-moreno-de-gobernar-con-vox-es-imposible-a-asumir-todos-sus-postulados-por-dos-votos.html",
+      "desc": "El recién reelegido presidente de la Junta de Andalucía acuerda con los ultras muchas de las políticas que ha criticado con anterioridad",
+      "date": "Fri, 03 Jul 2026 09:15:15 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260507/1168446_112842_video_1800.mp4"
+    },
+    {
+      "title": "Feijóo acusa al Gobierno de “alterar el censo” con la “ingeniería social” de las nacionalizaciones",
+      "link": "https://elpais.com/espana/2026-07-03/feijoo-acusa-al-gobierno-de-alterar-el-censo-con-la-ingenieria-social-de-las-nacionalizaciones.html",
+      "desc": "El líder del PP critica que la ‘ley de nietos’ y la regularización de inmigrantes no tienen “objetivos inocentes”",
+      "date": "Fri, 03 Jul 2026 11:35:13 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260703/1190944_120353_video_1800.mp4"
+    },
+    {
+      "title": "Los bomberos estabilizan el incendio de la Costa Brava tras afectar 2.200 hectáreas",
+      "link": "https://elpais.com/espana/catalunya/2026-07-04/el-fuego-de-les-gavarres-alcanza-casas-de-una-urbanizacion-de-calonge-en-la-costa-brava.html",
+      "desc": "El incendio ha quemado con fuerza durante toda la jornada de hoy cerca de zonas muy pobladas. El Govern revisará en las próximas horas las órdenes de confinamiento",
+      "date": "Sat, 04 Jul 2026 20:46:00 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260704/1191269_115549_video_1800.mp4"
     },
     {
       "title": "El Gobierno retirará la Gran Cruz de la Orden Civil de Sanidad a Vallejo-Nájera, el psiquiatra que justificó el robo de niños",
@@ -111,28 +132,7 @@
       "desc": "El agitador asegura que la orden de busca y captura fue “la primera noticia” que tuvo sobre esta nueva causa en su contra",
       "date": "Fri, 03 Jul 2026 12:48:38 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/AWQRZNOCNVOAZD4D63YIXMBY54.jpg?auth=27b5a7d22d9723eb1f18988579cb6f3d7db051337b6f0012feaa75234bea9997"
-    },
-    {
-      "title": "Sánchez respalda a la directora de la Guardia Civil porque no ve delito en abrir investigaciones por filtraciones en la UCO",
-      "link": "https://elpais.com/espana/2026-07-03/sanchez-respalda-a-la-directora-de-la-guardia-civil-porque-no-ve-delito-en-abrir-investigaciones-por-filtraciones-en-la-uco.html",
-      "desc": "El presidente no entregará más cabezas por imputaciones salvo que haya pruebas inequívocas de comportamiento irregular",
-      "date": "Fri, 03 Jul 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/NPVK6D5I7JG5TN7QINQBQ4FISU.jpg?auth=43239a79af3e4121e0446daafb517ccc02bd704842386d7c52070ca17088cb9e"
-    },
-    {
-      "title": "Los datos desmienten el bulo del fraude electoral con la ‘ley de nietos’: la mayoría de expedientes no se resolverán en esta década",
-      "link": "https://elpais.com/espana/2026-07-03/los-datos-desmienten-el-bulo-del-fraude-electoral-con-la-ley-de-nietos-la-mayoria-de-expedientes-no-se-resolvera-en-esta-decada.html",
-      "desc": "El Consulado de Buenos Aires, el que más solicitudes ha recibido del mundo, seguirá recogiendo la documentación hasta 2030 o 2031",
-      "date": "Fri, 03 Jul 2026 03:30:01 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260702/1190483_093554_video_1800.mp4"
-    },
-    {
-      "title": "¿Quiénes han solicitado la regularización? Sus datos por nacionalidad, edad y sexo",
-      "link": "https://elpais.com/espana/2026-07-03/quienes-han-solicitado-la-regularizacion-sus-datos-por-nacionalidad-edad-y-sexo.html",
-      "desc": "La mayoría de las solicitudes ha llegado de personas de América Latina. Por edades, la franja de 25 a 34 años es la que más peticiones ha presentado",
-      "date": "Fri, 03 Jul 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/5NT54UGB4RDTLF2US5JXOBT6RQ.jpg?auth=0a661db944dc7342bdae056a188db849f5a95c7d571ad429c46742d34509c65e"
     }
   ],
-  "fetchedAt": 1783207890663
+  "fetchedAt": 1783222794173
 }
