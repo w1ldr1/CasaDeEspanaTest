@@ -1,11 +1,11 @@
 {
   "items": [
     {
-      "title": "Trump carga de nuevo contra España por su gasto en defensa y amenaza con cortar todo el comercio bilateral",
+      "title": "Sánchez minimiza el ataque de Trump y dice que después de que llamara “mala gente” a España hablaron de fútbol y golf",
       "link": "https://elpais.com/espana/2026-07-08/trump-carga-de-nuevo-contra-espana-por-su-gasto-en-defensa-y-afirma-que-ha-ordenado-cortar-todo-el-comercio-bilateral.html",
-      "desc": "“Es un socio terrible, no quiero tener nada que ver con ellos, son mala gente”, critica el presidente de Estados Unidos. La Moncloa insiste en que este asunto lo lleva la UE y que EE UU tiene superávit comercial",
+      "desc": "El líder de EE UU amenazó con cortar la relación comercial pero el presidente español no da credibilidad a esa opción",
       "date": "Wed, 08 Jul 2026 10:47:06 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260708/1192721_090705_video_1800.mp4"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260708/1192838_145805_video_1800.mp4"
     },
     {
       "title": "Cinco buques de guerra españoles celebran en Nueva York la independencia de EE UU mientras Trump arremete contra España",
@@ -15,7 +15,7 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/T7WDGNZ47NDEXPRFUFXHIXRZQI.jpg?auth=5858571d8016feed9bf8fa266039a237849ef5761e793602ea626855442ebd92"
     },
     {
-      "title": "El Supremo descarta elevar a la justicia europea la regularización de inmigrantes",
+      "title": "El Supremo descarta, por ahora, elevar a la justicia europea la regularización de inmigrantes",
       "link": "https://elpais.com/espana/2026-07-08/el-supremo-descarta-elevar-a-la-justicia-europea-la-regularizacion-de-inmigrantes.html",
       "desc": "La Sala de lo Contencioso-Administrativo rechaza la suspensión cautelar del real decreto del Gobierno que pedían Aragón y la Comunidad Valenciana",
       "date": "Wed, 08 Jul 2026 11:46:44 GMT",
@@ -59,12 +59,12 @@
     {
       "title": "El PP matiza las palabras de Feijóo sobre las bajas laborales y las circunscribe al fraude",
       "link": "https://elpais.com/espana/2026-07-08/el-pp-matiza-las-palabras-de-feijoo-sobre-las-bajas-laborales-y-las-circunscribe-al-fraude.html",
-      "desc": "Génova admite un fallo de comunicación tras la polémica por el absentismo y apuesta ahora por buscar un acuerdo en el diálogo social",
-      "date": "Wed, 08 Jul 2026 12:46:30 GMT",
+      "desc": "Abascal se desmarca del líder popular: “La culpa no es de los trabajadores”",
+      "date": "Wed, 08 Jul 2026 14:09:02 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/JJF5P24VAVHB7DD3RJ7G3V4FXQ.jpg?auth=a97c2bedc7940008e9ec7cb4f2e0dab9e103406a3e63cc8d07b8cd7f9a94b71f"
     },
     {
-      "title": "Aldama declara otra vez en secreto en la Audiencia Nacional en la investigación sobre los pagos en metálico del PSOE",
+      "title": "Aldama declara otra vez en la Audiencia Nacional en la investigación secreta sobre los pagos en metálico del PSOE",
       "link": "https://elpais.com/espana/2026-07-08/aldama-declara-otra-vez-en-secreto-en-la-audiencia-nacional.html",
       "desc": "El comisionista comparece ante el magistrado Ismael Moreno, instructor del ‘caso Koldo’",
       "date": "Wed, 08 Jul 2026 12:48:08 GMT",
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/RMACCEJBJFM43B63OCRC4DSVVM.jpg?auth=d2dd68ea0238c4f25d5249b322e07cc897e9b11965879201a2256082c3be52f4"
     }
   ],
-  "fetchedAt": 1783515951462
+  "fetchedAt": 1783525300966
 }
