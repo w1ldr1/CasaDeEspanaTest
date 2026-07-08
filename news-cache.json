@@ -1,11 +1,11 @@
 {
   "items": [
     {
-      "title": "Trump carga de nuevo contra España por su gasto en defensa y amenaza con cortar todo el comercio bilateral",
+      "title": "Sánchez minimiza el ataque de Trump y dice que después de que llamara “mala gente” a España hablaron de fútbol y golf",
       "link": "https://elpais.com/espana/2026-07-08/trump-carga-de-nuevo-contra-espana-por-su-gasto-en-defensa-y-afirma-que-ha-ordenado-cortar-todo-el-comercio-bilateral.html",
-      "desc": "“Es un socio terrible, no quiero tener nada que ver con ellos, son mala gente”, critica el presidente de Estados Unidos. La Moncloa insiste en que este asunto lo lleva la UE y que EE UU tiene superávit comercial",
+      "desc": "El líder de EE UU amenazó con cortar la relación comercial pero el presidente español no da credibilidad a esa opción",
       "date": "Wed, 08 Jul 2026 10:47:06 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260708/1192721_090705_video_1800.mp4"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260708/1192838_145805_video_1800.mp4"
     },
     {
       "title": "Cinco buques de guerra españoles celebran en Nueva York la independencia de EE UU mientras Trump arremete contra España",
@@ -57,7 +57,7 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/T3BBF4XJSVA67LG32QLRUANUUA.jpg?auth=4fc77961b764681aff9f532135722a937cee037ded25d3295df5ab38f21b5146"
     },
     {
-      "title": "El PP matiza las palabras de Feijóo sobre las bajas laborales y las circunscribe al fraude",
+      "title": "El PP matiza las palabras de Feijóo sobre las bajas laborales y Sánchez augura que si gana traerá recortes como Rajoy",
       "link": "https://elpais.com/espana/2026-07-08/el-pp-matiza-las-palabras-de-feijoo-sobre-las-bajas-laborales-y-las-circunscribe-al-fraude.html",
       "desc": "Abascal se desmarca del líder popular: “La culpa no es de los trabajadores”",
       "date": "Wed, 08 Jul 2026 14:09:02 GMT",
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/RMACCEJBJFM43B63OCRC4DSVVM.jpg?auth=d2dd68ea0238c4f25d5249b322e07cc897e9b11965879201a2256082c3be52f4"
     }
   ],
-  "fetchedAt": 1783522477035
+  "fetchedAt": 1783528023366
 }
