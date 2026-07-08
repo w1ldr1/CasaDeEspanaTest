@@ -57,11 +57,18 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/T3BBF4XJSVA67LG32QLRUANUUA.jpg?auth=4fc77961b764681aff9f532135722a937cee037ded25d3295df5ab38f21b5146"
     },
     {
+      "title": "El Gobierno confía en que el PP y Junts permitan sacar adelante las reformas en dependencia y discapacidad",
+      "link": "https://elpais.com/espana/2026-07-08/el-gobierno-confia-en-que-el-pp-y-junts-permitan-sacar-adelante-las-reformas-en-dependencia-y-discapacidad.html",
+      "desc": "“Se impone la prudencia”, reconocen fuentes de Derechos Sociales. Las nuevas leyes se votan este jueves en comisión e irían al pleno del Congreso el martes junto al decreto que otorga 6.200 millones extra al sistema",
+      "date": "Wed, 08 Jul 2026 13:00:21 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/R53LKJ6O5VLOBAEZLW225BYG4Q.jpg?auth=5d1960ae94582395070681920690747d0f3f79a1c46f239248929118d43357c6"
+    },
+    {
       "title": "El PP matiza las palabras de Feijóo sobre las bajas laborales y Sánchez augura que si gana traerá recortes como Rajoy",
       "link": "https://elpais.com/espana/2026-07-08/el-pp-matiza-las-palabras-de-feijoo-sobre-las-bajas-laborales-y-las-circunscribe-al-fraude.html",
       "desc": "Abascal se desmarca del líder popular: “La culpa no es de los trabajadores”",
       "date": "Wed, 08 Jul 2026 14:09:02 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/JJF5P24VAVHB7DD3RJ7G3V4FXQ.jpg?auth=a97c2bedc7940008e9ec7cb4f2e0dab9e103406a3e63cc8d07b8cd7f9a94b71f"
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/3RTYC7DXSJK2BKWNH3R6UFBGTM.jpg?auth=05f97b52eea1d13f345db452bfd9c7ce92d093c503ee77ddeddbcfb3364cf914"
     },
     {
       "title": "Aldama declara otra vez en la Audiencia Nacional en la investigación secreta sobre los pagos en metálico del PSOE",
@@ -125,14 +132,7 @@
       "desc": "Tras firmar cuatro acuerdos en las autonomías con Vox, el líder del PP lanza un dardo a Abascal en Euskadi porque “no quiere mucho a España”",
       "date": "Tue, 07 Jul 2026 16:23:42 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/YERWC4H2FZJ65MQZJJ6A6E7NJU.jpg?auth=11ff2de83e0dbf6c95d95201f74553c24cbf93c0bddc0a01c9a10a9896241640"
-    },
-    {
-      "title": "El comandante imputado en el ‘caso Koldo’ ratifica ante el juez que Leire Díez le ofreció ser asesor de la directora de la Guardia Civil",
-      "link": "https://elpais.com/espana/2026-07-07/el-comandante-imputado-en-el-caso-koldo-ratifica-ante-el-juez-que-leire-diez-le-ofrecio-ser-asesor-de-la-directora-de-la-guardia-civil.html",
-      "desc": "Rubén Villalba asegura que la exmilitante socialista le pidió información de mandos de la UCO y fiscales",
-      "date": "Tue, 07 Jul 2026 12:31:56 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/RMACCEJBJFM43B63OCRC4DSVVM.jpg?auth=d2dd68ea0238c4f25d5249b322e07cc897e9b11965879201a2256082c3be52f4"
     }
   ],
-  "fetchedAt": 1783528023366
+  "fetchedAt": 1783533588127
 }
