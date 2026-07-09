@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "title": "La UCO implica al expresidente de Correos en la trama para “desestabilizar” causas que salpicaban al PSOE y al Gobierno",
+      "link": "https://elpais.com/espana/2026-07-09/la-uco-implica-al-expresidente-de-correos-en-la-trama-para-desestabilizar-causas-que-salpicaban-al-psoe-y-al-gobierno.html",
+      "desc": "La Guardia Civil vincula a Juan Manuel Serrano, jefe de gabinete de Sánchez hasta su llegada a La Moncloa, con la exmilitante socialista Leire Díez",
+      "date": "Thu, 09 Jul 2026 10:53:22 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/LM2R2565KVDH3N4OH6TJMURO3I.jpg?auth=8ec3b0af5add913558897470cd13ed7f002b6d4c778f9693d3aa765d5eaf8070"
+    },
+    {
       "title": "La Fiscalía acusa al juez Peinado de idear una “confabulación” para retirar el pasaporte a Begoña Gómez",
       "link": "https://elpais.com/espana/2026-07-09/la-fiscalia-acusa-al-juez-peinado-de-idear-una-confabulacion-para-retirar-el-pasaporte-a-begona-gomez.html",
       "desc": "El ministerio público, que critica al magistrado por su “escaso rigor y mesura”, le reprocha que argumente que la escolta policial puede ayudarla en su fuga",
@@ -13,13 +20,6 @@
       "desc": "El ejecutivo asegura que no tiene relación con la esposa del presidente y muestra confianza en la justicia",
       "date": "Thu, 09 Jul 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/IOLOB3E65NGVZPDGSN7UZSKTNM.jpg?auth=ef85a085d53708d3f9d6fea6fac1ca8e6d1e3f2736a0d2dd63632a4588b60f2e"
-    },
-    {
-      "title": "Moreno crea otras dos vicepresidencias para compensar la presencia de Vox en el Gobierno andaluz",
-      "link": "https://elpais.com/espana/2026-07-09/moreno-crea-otras-dos-vicepresidencias-para-compensar-la-presencia-de-vox-en-el-gobierno-andaluz.html",
-      "desc": "El presidente de la Junta se ha resistido siempre a designar números dos de su partido para no marcar ninguna ruta sucesoria",
-      "date": "Thu, 09 Jul 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XAW5BQZRJBIHXD4CEDWPSSSNAI.jpg?auth=30141d4b891ff15a97949d04b316c80342cc44c1335f008479edb18691ff5fbd"
     },
     {
       "title": "Asimetría de la justicia",
@@ -57,39 +57,53 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/T3BBF4XJSVA67LG32QLRUANUUA.jpg?auth=4fc77961b764681aff9f532135722a937cee037ded25d3295df5ab38f21b5146"
     },
     {
+      "title": "Sánchez explicó en el plenario de la OTAN el aumento de gasto español hasta el 2,1% y eso convenció a Trump",
+      "link": "https://elpais.com/espana/2026-07-09/sanchez-explico-en-el-plenario-el-aumento-de-gasto-espanol-hasta-el-2-y-eso-convencio-a-trump.html",
+      "desc": "El líder de EE UU cambió el tono en su intervención final y dijo que vio “mucho amor”",
+      "date": "Thu, 09 Jul 2026 09:53:08 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/BWOTM5FHXVBH7IVGIPLZORY2G4.jpg?auth=35706262386aff30ef4bf606f0346c0587f057604589001e3ab58b4532230336"
+    },
+    {
+      "title": "EE UU refuerza su presencia en la base de Rota con la llegada de un sexto destructor tras el verano",
+      "link": "https://elpais.com/espana/2026-07-09/ee-uu-refuerza-su-presencia-en-la-base-de-rota-con-la-llegada-de-un-sexto-destructor-tras-el-verano.html",
+      "desc": "Mientras el Pentágono reduce sus tropas en Europa, el despliegue en España se amplía con un buque de última generación y 300 militares",
+      "date": "Thu, 09 Jul 2026 08:34:12 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/4TCXUNN4O5X3R3Y7QISNTL3ABQ.jpg?auth=0b4cf64c25b9c0f57f3d4abbe1e0b4ab6a5109af8efd62db7e4df331a6a85cc0"
+    },
+    {
+      "title": "Moreno crea otras dos vicepresidencias para compensar la presencia de Vox en el Gobierno andaluz",
+      "link": "https://elpais.com/espana/2026-07-09/moreno-crea-otras-dos-vicepresidencias-para-compensar-la-presencia-de-vox-en-el-gobierno-andaluz.html",
+      "desc": "El presidente de la Junta se ha resistido siempre a designar números dos de su partido para no marcar ninguna ruta sucesoria",
+      "date": "Thu, 09 Jul 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XAW5BQZRJBIHXD4CEDWPSSSNAI.jpg?auth=30141d4b891ff15a97949d04b316c80342cc44c1335f008479edb18691ff5fbd"
+    },
+    {
+      "title": "El antiguo DAO pide el cierre del sumario abierto contra él por agresión sexual",
+      "link": "https://elpais.com/espana/2026-07-09/el-antiguo-dao-pide-el-cierre-del-sumario-abierto-contra-el-por-agresion-sexual.html",
+      "desc": "El juez mantiene abiertas las pesquisas desde principios de año por una denuncia presentada contra José Ángel González",
+      "date": "Thu, 09 Jul 2026 09:19:17 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/TNPFCFFB55E3HFLEFFP575HCUA.jpg?auth=79fbb6fb83d2ab813a424a859aacf7fd6522e3af315aec1a7b60dd052d8b4a07"
+    },
+    {
+      "title": "Tellado ensalza la gestión de Pérez Llorca pero evita confirmarlo como candidato a la Generalitat Valenciana",
+      "link": "https://elpais.com/espana/comunidad-valenciana/2026-07-09/tellado-ensalza-la-gestion-de-perez-llorca-pero-sigue-sin-resolver-la-incognita-de-su-candidatura.html",
+      "desc": "El presidente valenciano apunta que cuando el PP le ofreció la presidencia la aceptó por responsabilidad y no pidió nada a cambio",
+      "date": "Thu, 09 Jul 2026 08:41:50 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/4KSZKONGKNC2NKI6OD4RL57R5Q.JPG?auth=44bdc372c0d2046cd5cb7f01e08b57fb9861c03ecb5ee3322505f9d6665541d2"
+    },
+    {
+      "title": "Aliança Catalana sería tercera fuerza y junto a Vox sumarían casi el 30% del Parlament, según el CEO",
+      "link": "https://elpais.com/espana/catalunya/2026-07-09/alianca-catalana-seria-tercera-fuerza-y-junto-a-vox-sumarian-casi-el-30-del-parlament-segun-el-ceo.html",
+      "desc": "Los socialistas siguen liderando el barómetro, con entre 36-38 diputados, y Junts perdería casi la mitad de su representación (16-18)",
+      "date": "Thu, 09 Jul 2026 09:07:34 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/AQ5IKOTRIBM2DA6GMNYXNP5SYQ.jpg?auth=351de2661f22734579be680d1bffbe81e61734dea8de0624b71d346076ff73f0"
+    },
+    {
       "title": "Así intentaba sobornar a un cargo de la Junta de Andalucía el grupo que blanqueaba dinero del narco: “Un jamón y dentro métele tres o cinco mil euros”",
       "link": "https://elpais.com/espana/2026-07-09/asi-intentaba-sobornar-a-un-cargo-de-la-junta-de-andalucia-el-grupo-que-blanqueaba-dinero-del-narco-un-jamon-y-dentro-metele-tres-o-cinco-mil-euros.html",
       "desc": "Empresarios de ocio nocturno y festivales están investigados por más de 1,1 millones en contratos de patrocinio de la Junta y la Diputación de Cádiz",
       "date": "Thu, 09 Jul 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/UWZDKYMYP5F3TCG4SF2Y7XE2YA.jpg?auth=3d1be0927f3fdac237751574e16e41e7c7e4f44957c7987d6708e4674a2db185"
-    },
-    {
-      "title": "Sánchez minimiza el ataque de Trump y dice que después de que llamara “mala gente” a España hablaron de fútbol y golf",
-      "link": "https://elpais.com/espana/2026-07-08/trump-carga-de-nuevo-contra-espana-por-su-gasto-en-defensa-y-afirma-que-ha-ordenado-cortar-todo-el-comercio-bilateral.html",
-      "desc": "El líder de EE UU amenazó con cortar la relación comercial pero el presidente español no da credibilidad a esa opción",
-      "date": "Wed, 08 Jul 2026 10:47:06 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260708/1192838_145805_video_1800.mp4"
-    },
-    {
-      "title": "Cinco buques de guerra españoles celebran en Nueva York la independencia de EE UU mientras Trump arremete contra España",
-      "link": "https://elpais.com/espana/2026-07-08/cinco-buques-de-guerra-espanoles-celebran-en-nueva-york-la-independencia-de-ee-uu-mientras-trump-arremete-contra-espana.html",
-      "desc": "La Armada participa por primera vez con casi 2.500 militares en la misión de la OTAN para vigilar el Ártico",
-      "date": "Wed, 08 Jul 2026 10:47:42 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/T7WDGNZ47NDEXPRFUFXHIXRZQI.jpg?auth=5858571d8016feed9bf8fa266039a237849ef5761e793602ea626855442ebd92"
-    },
-    {
-      "title": "El Supremo descarta, por ahora, elevar a la justicia europea la regularización de inmigrantes",
-      "link": "https://elpais.com/espana/2026-07-08/el-supremo-descarta-elevar-a-la-justicia-europea-la-regularizacion-de-inmigrantes.html",
-      "desc": "La Sala de lo Contencioso-Administrativo rechaza la suspensión cautelar del real decreto del Gobierno que pedían Aragón y la Comunidad Valenciana",
-      "date": "Wed, 08 Jul 2026 11:46:44 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/2W5HJ7MFDZGOJCNON5EP4S5DYY.JPG?auth=93ce478f0c498e2a97ed8bf407686e134c54feaf144617607d9d1ada741b2733"
-    },
-    {
-      "title": "El Gobierno confía en que el PP y Junts permitan sacar adelante las reformas en dependencia y discapacidad",
-      "link": "https://elpais.com/espana/2026-07-08/el-gobierno-confia-en-que-el-pp-y-junts-permitan-sacar-adelante-las-reformas-en-dependencia-y-discapacidad.html",
-      "desc": "“Se impone la prudencia”, reconocen fuentes de Derechos Sociales. Las nuevas leyes se votan este jueves en comisión e irían al pleno del Congreso el martes junto al decreto que otorga 6.200 millones extra al sistema",
-      "date": "Wed, 08 Jul 2026 13:00:21 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/R53LKJ6O5VLOBAEZLW225BYG4Q.jpg?auth=5d1960ae94582395070681920690747d0f3f79a1c46f239248929118d43357c6"
     },
     {
       "title": "El PP matiza las palabras de Feijóo sobre las bajas laborales y Sánchez augura que si gana traerá recortes como Rajoy",
@@ -106,33 +120,19 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/7NPX4XJWM5BPRHXTJK4LHCBOSU.jpg?auth=b5f3f1468d6b4b39e589d59a4b5b31ae4de9858855516ff1ae7ff2fdeb64f866"
     },
     {
-      "title": "El juez Peinado basa ahora la retirada del pasaporte a Begoña Gómez en que presidentes del Gobierno de otros países se han “fugado”",
-      "link": "https://elpais.com/espana/2026-07-08/el-juez-peinado-basa-ahora-la-retirada-del-pasaporte-a-begona-gomez-en-que-presidentes-del-gobierno-de-otros-paises-se-han-fugado.html",
-      "desc": "El magistrado defiende su posición ante la Audiencia de Madrid tras un recurso de queja de la defensa",
-      "date": "Wed, 08 Jul 2026 11:17:18 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/FGHDCETBFVCPLK4SUFHL4B6HZY.jpg?auth=a836eadbc0aaf334b631a57dc69e84dd34c520c84a23fc3b1c6cdebe98a129dd"
+      "title": "El Supremo descarta, por ahora, elevar a la justicia europea la regularización de inmigrantes",
+      "link": "https://elpais.com/espana/2026-07-08/el-supremo-descarta-elevar-a-la-justicia-europea-la-regularizacion-de-inmigrantes.html",
+      "desc": "La Sala de lo Contencioso-Administrativo rechaza la suspensión cautelar del real decreto del Gobierno que pedían Aragón y la Comunidad Valenciana",
+      "date": "Wed, 08 Jul 2026 11:46:44 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/2W5HJ7MFDZGOJCNON5EP4S5DYY.JPG?auth=93ce478f0c498e2a97ed8bf407686e134c54feaf144617607d9d1ada741b2733"
     },
     {
-      "title": "La alcaldesa de Valencia revela que el día de la dana habló por primera vez con Mazón a las dos de la madrugada",
-      "link": "https://elpais.com/espana/comunidad-valenciana/2026-07-08/la-alcaldesa-de-valencia-revela-que-el-dia-de-la-dana-hablo-por-primera-vez-con-mazon-a-las-dos-de-la-madrugada.html",
-      "desc": "María José Catalá asegura ante la jueza que nadie le informó sobre qué era el ES-Alert, la notificación que se envió para informar a la población",
-      "date": "Wed, 08 Jul 2026 09:53:53 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/7WIMRXQ2PRE35ER6KSF6A2NHLM.JPG?auth=e86fba8ddeecf10f812a2613b485b7e170ef3cb1fbc4a7e62541ba5156959b26"
-    },
-    {
-      "title": "La Oficina Antifraude andaluza investiga al director de comunicación de Vox por presunta incompatibilidad con su cargo como consejero de RTVA",
-      "link": "https://elpais.com/espana/2026-07-08/la-oficina-antifraude-andaluza-investiga-al-director-de-comunicacion-de-vox-por-presunta-incompatibilidad-con-su-cargo-como-consejero-de-rtva.html",
-      "desc": "Adelante Andalucía denunció a Álvaro Zancajo por compaginar su puesto en el partido ultra con el de la radiotelevisión pública autonómica, que exige exclusividad y por el que cobra 60.000 euros",
-      "date": "Wed, 08 Jul 2026 12:39:10 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/ZSY366FMHNFYLP27AYC5ZTSNFU.jpg?auth=db8a7dc722ba5d7f40e5e2a14023c553125399039ef03de6fd2bceba4b27df00"
-    },
-    {
-      "title": "Sí a Londres, pero no a Ankara: expertos ven en la decisión sobre Begoña Gómez un “disparate” condicionado por la prohibición inicial de Peinado",
-      "link": "https://elpais.com/espana/2026-07-08/si-a-londres-pero-no-a-ankara-expertos-ven-en-la-decision-sobre-begona-gomez-un-disparate-condicionado-por-la-prohibicion-inicial-de-peinado.html",
-      "desc": "Los juristas consultados no aprecian “riesgo de fuga” en la mujer del presidente del Gobierno",
-      "date": "Wed, 08 Jul 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/QOE54JEKPVCHVL6KRP2LJCUEJM.jpg?auth=8f4e3b82681ca9c65153a50d84c35676c7a6d93a12a232d4419d97e76607f2c2"
+      "title": "El Gobierno confía en que el PP y Junts permitan sacar adelante las reformas en dependencia y discapacidad",
+      "link": "https://elpais.com/espana/2026-07-08/el-gobierno-confia-en-que-el-pp-y-junts-permitan-sacar-adelante-las-reformas-en-dependencia-y-discapacidad.html",
+      "desc": "“Se impone la prudencia”, reconocen fuentes de Derechos Sociales. Las nuevas leyes se votan este jueves en comisión e irían al pleno del Congreso el martes junto al decreto que otorga 6.200 millones extra al sistema",
+      "date": "Wed, 08 Jul 2026 13:00:21 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/R53LKJ6O5VLOBAEZLW225BYG4Q.jpg?auth=5d1960ae94582395070681920690747d0f3f79a1c46f239248929118d43357c6"
     }
   ],
-  "fetchedAt": 1783584074280
+  "fetchedAt": 1783596559208
 }
