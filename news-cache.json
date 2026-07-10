@@ -57,6 +57,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/T3BBF4XJSVA67LG32QLRUANUUA.jpg?auth=4fc77961b764681aff9f532135722a937cee037ded25d3295df5ab38f21b5146"
     },
     {
+      "title": "Una mujer rescatada en el incendio de Los Gallardos: “Nos dieron diez minutos para coger lo esencial”",
+      "link": "https://elpais.com/espana/2026-07-10/una-mujer-rescatada-en-el-incendio-de-los-gallardos-nos-dieron-diez-minutos-para-coger-lo-esencial.html",
+      "desc": "“No sabemos cómo estará nuestra casa: ojalá los bomberos la hayan salvado”, lamentan otro superviviente",
+      "date": "Fri, 10 Jul 2026 18:54:05 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/FJEMHMBM6ZAF7KY725MVZTCP2I.jpeg?auth=32aa8bcce483c93efe2b728d1e530c85425e30237c67ceb1e7343f2318865c27"
+    },
+    {
       "title": "La Guardia Civil investiga la caída de un cable eléctrico como desencadenante del incendio en Los Gallardos",
       "link": "https://elpais.com/espana/2026-07-10/la-guardia-civil-investiga-la-caida-de-un-cable-como-desencadenante-del-incendio-en-los-gallardos.html",
       "desc": "Endesa asegura que el tendido no es de su red, no tenía tensión y estaba abandonado desde hacía años. Red Eléctrica también afirma que la infraestructura no le pertenece",
@@ -125,14 +132,7 @@
       "desc": "La Guardia Civil vincula a Juan Manuel Serrano, jefe de gabinete de Pedro Sánchez hasta su llegada a La Moncloa, con la exmilitante socialista Leire Díez",
       "date": "Thu, 09 Jul 2026 12:53:37 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/LM2R2565KVDH3N4OH6TJMURO3I.jpg?auth=8ec3b0af5add913558897470cd13ed7f002b6d4c778f9693d3aa765d5eaf8070"
-    },
-    {
-      "title": "Los argumentos de la Fiscalía para pedir absolver a Begoña Gómez: “Sin delito no hay autor”",
-      "link": "https://elpais.com/espana/2026-07-09/los-argumentos-de-la-fiscalia-para-pedir-absolver-a-begona-gomez-sin-delito-no-hay-autor.html",
-      "desc": "El ministerio público contrarresta la tesis del magistrado Peinado con vistas a un futuro juicio con jurado",
-      "date": "Thu, 09 Jul 2026 12:21:46 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/2VFR5YDGJBJ6LO3LXO33JM7V3A.jpg?auth=34f8819b56414046ffb2b648b0ce25416c42f3fc0bdbc77caa003043b3e00791"
     }
   ],
-  "fetchedAt": 1783704031492
+  "fetchedAt": 1783709853394
 }
