@@ -1,11 +1,11 @@
 {
   "items": [
     {
-      "title": "Mueren al menos seis personas en el incendio de Los Gallardos, en Almería",
+      "title": "Mueren al menos 12 personas en el incendio de Los Gallardos, en Almería",
       "link": "https://elpais.com/espana/2026-07-09/mas-de-200-bomberos-luchan-contra-dos-incendios-en-almeria-y-malaga.html",
-      "desc": "Varias víctimas han sido halladas en el interior de vehículos quemados. Han sido desalojadas medio centenar de personas de Pinar de Bédar",
-      "date": "Thu, 09 Jul 2026 22:50:52 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/D344ZWS7DVPIRIZIIA2NUAI7IU.jpg?auth=eeea534b4b9a1fb4bdec62488e4611108cb7c5a118716c614b99749c69bb3bf9"
+      "desc": "Varias víctimas han sido halladas en el interior de vehículos quemados. Se trata “del incendio de mayores consecuencias hasta la fecha“ en Andalucía",
+      "date": "Fri, 10 Jul 2026 01:06:07 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260710/1193493_022245_video_1800.mp4"
     },
     {
       "title": "El presidente de los obispos achaca a la falta de ética que el Estado se convierta en “una banda de ladrones”: “A los hechos me remito”",
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/4KSZKONGKNC2NKI6OD4RL57R5Q.JPG?auth=44bdc372c0d2046cd5cb7f01e08b57fb9861c03ecb5ee3322505f9d6665541d2"
     }
   ],
-  "fetchedAt": 1783640667314
+  "fetchedAt": 1783650905693
 }
