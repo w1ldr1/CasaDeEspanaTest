@@ -1,11 +1,11 @@
 {
   "items": [
     {
-      "title": "Mueren al menos 12 personas en el incendio de Los Gallardos, en Almería",
+      "title": "Mueren al menos 12 personas en el incendio de Los Gallardos, en Almería, el más mortífero registrado en Andalucía",
       "link": "https://elpais.com/espana/2026-07-09/mas-de-200-bomberos-luchan-contra-dos-incendios-en-almeria-y-malaga.html",
-      "desc": "Varias víctimas han sido halladas en el interior de vehículos quemados. Se trata “del incendio de mayores consecuencias hasta la fecha“ en Andalucía",
-      "date": "Fri, 10 Jul 2026 01:06:07 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260710/1193493_022245_video_1800.mp4"
+      "desc": "Las autoridades rebajan en una persona el balance de víctimas ofrecido durante la madrugada. Unas 1.000 personas han sido desalojadas. Varios de los cuerpos fueron hallados en el interior de vehículos quemados. Se trata “del incendio de mayores consecuencias hasta la fecha“ en la comunidad andaluza",
+      "date": "Fri, 10 Jul 2026 06:00:48 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260710/1193522_062005_video_1800.mp4"
     },
     {
       "title": "La UCO coloca ahora el foco en la gerente del PSOE y en dos trabajadoras por el ‘caso Leire Díez’",
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/TNPFCFFB55E3HFLEFFP575HCUA.jpg?auth=79fbb6fb83d2ab813a424a859aacf7fd6522e3af315aec1a7b60dd052d8b4a07"
     }
   ],
-  "fetchedAt": 1783658029891
+  "fetchedAt": 1783671851985
 }
