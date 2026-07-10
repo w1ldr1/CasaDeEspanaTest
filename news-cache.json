@@ -1,10 +1,10 @@
 {
   "items": [
     {
-      "title": "Al menos 12 muertos en el incendio de Los Gallardos (Almería), el más mortífero de la historia de Andalucía",
+      "title": "Al menos 12 muertos y 23 personas sin localizar en el incendio más letal de la historia de Andalucía",
       "link": "https://elpais.com/espana/2026-07-10/al-menos-12-muertos-en-el-incendio-de-los-gallardos-almeria-el-mas-mortifero-de-la-historia-de-andalucia.html",
-      "desc": "“Íbamos tocando puerta a puerta sacando a los vecinos”, explica el alcalde de Bédar, que apunta a que las víctimas se vieron sorprendidas por las llamas al intentar huir “por una ruta distinta a la de evacuación”",
-      "date": "Fri, 10 Jul 2026 12:07:54 GMT",
+      "desc": "La principal línea de investigación apunta a la caída de un tendido eléctrico. Juan Manuel Moreno señala como probable causa de las muertes no haber atendido a las recomendaciones de las autoridades",
+      "date": "Fri, 10 Jul 2026 19:13:17 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260710/1193556_082901_video_1800.mp4"
     },
     {
@@ -55,6 +55,13 @@
       "desc": "Lo más probable es que el expresidente, reunión tras reunión, gestión tras gestión, no haya calibrado bien el riesgo que asumía",
       "date": "Sun, 28 Jun 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/T3BBF4XJSVA67LG32QLRUANUUA.jpg?auth=4fc77961b764681aff9f532135722a937cee037ded25d3295df5ab38f21b5146"
+    },
+    {
+      "title": "Una mujer rescatada en el incendio de Los Gallardos: “Nos dieron diez minutos para coger lo esencial”",
+      "link": "https://elpais.com/espana/2026-07-10/una-mujer-rescatada-en-el-incendio-de-los-gallardos-nos-dieron-diez-minutos-para-coger-lo-esencial.html",
+      "desc": "“No sabemos cómo estará nuestra casa: ojalá los bomberos la hayan salvado”, lamentan otro superviviente",
+      "date": "Fri, 10 Jul 2026 19:06:17 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/FJEMHMBM6ZAF7KY725MVZTCP2I.jpeg?auth=32aa8bcce483c93efe2b728d1e530c85425e30237c67ceb1e7343f2318865c27"
     },
     {
       "title": "La Guardia Civil investiga la caída de un cable eléctrico como desencadenante del incendio en Los Gallardos",
@@ -125,14 +132,7 @@
       "desc": "La Guardia Civil vincula a Juan Manuel Serrano, jefe de gabinete de Pedro Sánchez hasta su llegada a La Moncloa, con la exmilitante socialista Leire Díez",
       "date": "Thu, 09 Jul 2026 12:53:37 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/LM2R2565KVDH3N4OH6TJMURO3I.jpg?auth=8ec3b0af5add913558897470cd13ed7f002b6d4c778f9693d3aa765d5eaf8070"
-    },
-    {
-      "title": "Los argumentos de la Fiscalía para pedir absolver a Begoña Gómez: “Sin delito no hay autor”",
-      "link": "https://elpais.com/espana/2026-07-09/los-argumentos-de-la-fiscalia-para-pedir-absolver-a-begona-gomez-sin-delito-no-hay-autor.html",
-      "desc": "El ministerio público contrarresta la tesis del magistrado Peinado con vistas a un futuro juicio con jurado",
-      "date": "Thu, 09 Jul 2026 12:21:46 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/2VFR5YDGJBJ6LO3LXO33JM7V3A.jpg?auth=34f8819b56414046ffb2b648b0ce25416c42f3fc0bdbc77caa003043b3e00791"
     }
   ],
-  "fetchedAt": 1783706022875
+  "fetchedAt": 1783712161320
 }
