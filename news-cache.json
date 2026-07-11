@@ -71,6 +71,20 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260710/1193622_111954_video_1800.mp4"
     },
     {
+      "title": "“La tecnología no llega a niveles como el de Los Gallardos”",
+      "link": "https://elpais.com/espana/2026-07-11/la-tecnologia-no-llega-a-niveles-como-el-de-los-gallardos.html",
+      "desc": "Los expertos reconocen que el sistema Es-Alert es la mejor herramienta para alertar a la población, pero no está preparado para delimitar mensajes en áreas muy pequeñas",
+      "date": "Sat, 11 Jul 2026 13:37:40 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/JRCODG5PFVPY5BJ734MUARDTYU.jpg?auth=fba9a7a5bb149e68834897fedfb1c0772065344b2aa8b906685213bd714d8502"
+    },
+    {
+      "title": "El viento da una tregua y permite pasar “al ataque” contra el letal incendio de Los Gallardos",
+      "link": "https://elpais.com/espana/2026-07-11/el-viento-da-una-tregua-y-permite-pasar-al-ataque-contra-el-letal-incendio-de-los-gallardos.html",
+      "desc": "Las autoridades llaman a los ciudadanos a que atiendan las instrucciones de los servicios de emergencia. El balance de víctimas se mantiene en 12 fallecidos, ocho heridos y 23 personas “sin localizar”",
+      "date": "Sat, 11 Jul 2026 11:57:10 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260711/1194023_125715_video_1800.mp4"
+    },
+    {
       "title": "Una mujer rescatada en el incendio de Los Gallardos: “Nos dieron diez minutos para coger lo esencial”",
       "link": "https://elpais.com/espana/2026-07-10/una-mujer-rescatada-en-el-incendio-de-los-gallardos-nos-dieron-diez-minutos-para-coger-lo-esencial.html",
       "desc": "“No sabemos cómo estará nuestra casa: ojalá los bomberos la hayan salvado”, lamentan otro superviviente",
@@ -118,21 +132,7 @@
       "desc": "El ministro Félix Bolaños replica por carta a Luis Argüello: “¿Qué le parecería si un miembro del Gobierno calificase a la Iglesia como ‘banda de agresores sexuales’?”",
       "date": "Thu, 09 Jul 2026 19:30:30 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/RBT37AUYPRIUHB2XHHLV5ZEBYA.jpg?auth=a01415a65dd5a9b5a50e83a19a27a92c2caa953f7527cd4c63ab29d3f75124e8"
-    },
-    {
-      "title": "El CNI retiró el acceso a secretos a un sargento de la Armada que ocultó su boda con una rusa",
-      "link": "https://elpais.com/espana/2026-07-10/el-cni-retiro-el-acceso-a-secretos-a-un-sargento-de-la-armada-que-oculto-su-boda-con-una-rusa.html",
-      "desc": "La Audiencia Nacional avala en una sentencia las “dudas” del servicio secreto sobre el militar, especialista en guerra electrónica en el submarino ‘Galerna’",
-      "date": "Fri, 10 Jul 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/H7L5QRTFAHQAIECYHWL6GXIZVE.jpg?auth=380a9ba4425c6320f23f6a238a9615aed710e9394cca0c17e918c65b6ded7b48"
-    },
-    {
-      "title": "Vox recupera a un antiguo candidato que renunció tras desvelarse su revisionismo sobre el Holocausto",
-      "link": "https://elpais.com/espana/2026-07-10/vox-recupera-a-un-antiguo-candidato-que-renuncio-tras-desvelarse-su-revisionismo-sobre-el-holocausto.html",
-      "desc": "El partido rescata como historiador a Fernando Paz, del que prescindió como cabeza de lista por Albacete en 2019 tras ser acusado de negacionismo por la comunidad judía",
-      "date": "Fri, 10 Jul 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/KPGWNU7NU5D37BMGSLTKDGYEE4.JPG?auth=d804f1b07195cebaa07c8d219a011007a61bfde38f15c272ec1ba90a143d6ebe"
     }
   ],
-  "fetchedAt": 1783775305720
+  "fetchedAt": 1783780477367
 }
