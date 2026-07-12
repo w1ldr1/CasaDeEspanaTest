@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "title": "Javier Negre Inc, la multinacional del bulo",
+      "link": "https://elpais.com/espana/2026-07-12/javier-negre-inc-la-multinacional-del-bulo.html",
+      "desc": "El controvertido comunicador y padrino de Vito Quiles ha construido un negocio internacional basado en la propaganda política y la venta de acceso a los entornos de Trump y Milei",
+      "date": "Sun, 12 Jul 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/7EGXQOLKAJHTFFZ67DCANLNS3A.jpg?auth=a1e9e4d419a2bb9d452621a835b08ec444fa681d9a5d976d454fc99a8d33397f"
+    },
+    {
       "title": "Las horas más críticas del infierno en Bédar, una isla en el desierto almeriense",
       "link": "https://elpais.com/espana/2026-07-11/cronologia-de-un-incendio-mortifero-en-los-gallardos-una-isla-en-medio-del-desierto.html",
       "desc": "La comarca del Levante almeriense registra uno de los fuegos más letales que se recuerdan: 12 muertos y 23 desaparecidos en 6.600 hectáreas quemadas",
@@ -13,13 +20,6 @@
       "desc": "Los primeros testigos, una familia y dos guardias civiles, apuntalan la hipótesis del fuego en la caída de un viejo poste de la luz y las fuertes rachas de viento",
       "date": "Sun, 12 Jul 2026 03:30:01 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260711/1194046_152448_video_1800.mp4"
-    },
-    {
-      "title": "Ángel Collado, el alcalde que avisó del incendio a los vecinos puerta por puerta y colgó el teléfono al Rey",
-      "link": "https://elpais.com/espana/2026-07-12/angel-collado-el-alcalde-que-aviso-del-incendio-a-los-vecinos-puerta-a-puerta-y-colgo-el-telefono-al-rey.html",
-      "desc": "El regidor lleva 23 años ganando por mayoría absoluta la alcaldía de Bédar, el municipio en el que han muerto al menos 12 personas. Ahora afronta el reto más difícil de su carrera, el de gestionar la mayor crisis de la historia del pueblo",
-      "date": "Sun, 12 Jul 2026 03:30:01 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260710/1193676_135651_video_1800.mp4"
     },
     {
       "title": "Asimetría de la justicia",
@@ -57,18 +57,25 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/T3BBF4XJSVA67LG32QLRUANUUA.jpg?auth=4fc77961b764681aff9f532135722a937cee037ded25d3295df5ab38f21b5146"
     },
     {
+      "title": "Ángel Collado, el alcalde que avisó del incendio a los vecinos puerta por puerta y colgó el teléfono al Rey",
+      "link": "https://elpais.com/espana/2026-07-12/angel-collado-el-alcalde-que-aviso-del-incendio-a-los-vecinos-puerta-a-puerta-y-colgo-el-telefono-al-rey.html",
+      "desc": "El regidor lleva 23 años ganando por mayoría absoluta la alcaldía de Bédar, el municipio en el que han muerto al menos 12 personas. Ahora afronta el reto más difícil de su carrera, el de gestionar la mayor crisis de la historia del pueblo",
+      "date": "Sun, 12 Jul 2026 03:30:01 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260710/1193676_135651_video_1800.mp4"
+    },
+    {
+      "title": "Francia considera “racista” e “inaceptable” el artículo de Rajoy sobre la selección francesa",
+      "link": "https://elpais.com/espana/2026-07-12/francia-considera-racista-e-inaceptable-el-articulo-de-rajoy-sobre-la-seleccion-francesa.html",
+      "desc": "El Gobierno de Macron sale en tromba a condenar las palabras del expresidente español, que aseguró que la selección gala juega “sin franceses”. Pedro Sánchez también las censura a las puertas del España-Francia en el Mundial: “Que gane el mejor y que pierda el racismo”",
+      "date": "Sun, 12 Jul 2026 15:02:56 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/2CD7MQKE3ZG5FNS73GOTOZUGZM.jpg?auth=5bbec2894c7eb3da2a8437d2c801696104a92df09933f097afbe6aea10c9d6de"
+    },
+    {
       "title": "El rastro perdido de un matrimonio británico en el incendio de Los Gallardos",
       "link": "https://elpais.com/espana/2026-07-12/el-rastro-perdido-de-un-matrimonio-britanico-en-el-incendio-de-los-gallardos.html",
       "desc": "La pareja fue de las primeras extranjeras en llegar a Bédar hace 15 años",
       "date": "Sun, 12 Jul 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/LD7UTIT4OVEXLH5RXMGLHGSHE4.jpg?auth=884407bd352dc4d4cfb734bf75409aa386c1dd9f589e6478c77c8a4267133a85"
-    },
-    {
-      "title": "Francia considera “racista” e “inaceptable” el artículo de Rajoy sobre la selección francesa",
-      "link": "https://elpais.com/espana/2026-07-12/francia-considera-racista-e-inaceptable-el-articulo-de-rajoy-sobre-la-seleccion-francesa.html",
-      "desc": "Tres ministros de Macron condenan las palabras del expresidente español, que aseguró que la selección gala juega “sin franceses”. Pedro Sánchez también las censura a las puertas del España-Francia en el Mundial: “Que gane el mejor y que pierda el racismo”",
-      "date": "Sun, 12 Jul 2026 15:02:56 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/2CD7MQKE3ZG5FNS73GOTOZUGZM.jpg?auth=5bbec2894c7eb3da2a8437d2c801696104a92df09933f097afbe6aea10c9d6de"
     },
     {
       "title": "Luxemburgo: la última oportunidad de recuperar a Junts",
@@ -99,13 +106,6 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260712/1194268_125652_video_1800.mp4"
     },
     {
-      "title": "Javier Negre Inc, la multinacional del bulo",
-      "link": "https://elpais.com/espana/2026-07-12/javier-negre-inc-la-multinacional-del-bulo.html",
-      "desc": "El controvertido comunicador y padrino de Vito Quiles ha construido un negocio internacional basado en la propaganda política y la venta de acceso a los entornos de Trump y Milei",
-      "date": "Sun, 12 Jul 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/7EGXQOLKAJHTFFZ67DCANLNS3A.jpg?auth=a1e9e4d419a2bb9d452621a835b08ec444fa681d9a5d976d454fc99a8d33397f"
-    },
-    {
       "title": "La espiral xenófoba: así se han endurecido el discurso derechista y el clima social contra la inmigración",
       "link": "https://elpais.com/espana/2026-07-12/la-espiral-xenofoba-asi-se-han-endurecido-el-discurso-derechista-y-el-clima-social-contra-la-inmigracion.html",
       "desc": "España se ha instalado en un circuito de endurecimiento sin freno del mensaje del PP y Vox, oscurecimiento de la visión social de la inmigración, odio desatado en las redes y riesgo creciente de estallidos en la calle. “Esto es una olla exprés”, dice una activista que trabaja en primera línea",
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/C63N3BBTKVCTPGZS3CQCBJCKY4.jpg?auth=4958261c9e4455ed7e4c2e205992c7da49b8df3ad60a9d73b77d2713842ac0b4"
     }
   ],
-  "fetchedAt": 1783871709303
+  "fetchedAt": 1783875274258
 }
