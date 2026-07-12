@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "title": "Las horas más críticas del infierno en Bédar, una isla en el desierto almeriense",
+      "link": "https://elpais.com/espana/2026-07-11/cronologia-de-un-incendio-mortifero-en-los-gallardos-una-isla-en-medio-del-desierto.html",
+      "desc": "La comarca del Levante almeriense registra uno de los fuegos más letales que se recuerdan: 12 muertos y 23 desaparecidos en 6.600 hectáreas quemadas",
+      "date": "Sat, 11 Jul 2026 03:30:01 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260710/1193721_154634_video_1800.mp4"
+    },
+    {
       "title": "Viento, maleza y viviendas sueltas: así se convirtió un “chispazo” en un incendio letal en Almería",
       "link": "https://elpais.com/espana/2026-07-12/viento-maleza-y-viviendas-sueltas-asi-se-convirtio-un-chispazo-en-un-incendio-letal-en-almeria.html",
       "desc": "Los primeros testigos, una familia y dos guardias civiles, apuntalan la hipótesis del fuego en la caída de un viejo poste de la luz y las fuertes rachas de viento",
@@ -13,13 +20,6 @@
       "desc": "El regidor lleva 23 años ganando por mayoría absoluta la alcaldía de Bédar, el municipio en el que han muerto al menos 12 personas. Ahora afronta el reto más difícil de su carrera, el de gestionar la mayor crisis de la historia del pueblo",
       "date": "Sun, 12 Jul 2026 03:30:01 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260710/1193676_135651_video_1800.mp4"
-    },
-    {
-      "title": "El rastro perdido de un matrimonio británico en el incendio de Los Gallardos",
-      "link": "https://elpais.com/espana/2026-07-12/el-rastro-perdido-de-un-matrimonio-britanico-en-el-incendio-de-los-gallardos.html",
-      "desc": "La pareja fue de las primeras extranjeras en llegar a Bédar hace 15 años",
-      "date": "Sun, 12 Jul 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/LD7UTIT4OVEXLH5RXMGLHGSHE4.jpg?auth=884407bd352dc4d4cfb734bf75409aa386c1dd9f589e6478c77c8a4267133a85"
     },
     {
       "title": "Asimetría de la justicia",
@@ -55,6 +55,20 @@
       "desc": "Lo más probable es que el expresidente, reunión tras reunión, gestión tras gestión, no haya calibrado bien el riesgo que asumía",
       "date": "Sun, 28 Jun 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/T3BBF4XJSVA67LG32QLRUANUUA.jpg?auth=4fc77961b764681aff9f532135722a937cee037ded25d3295df5ab38f21b5146"
+    },
+    {
+      "title": "El rastro perdido de un matrimonio británico en el incendio de Los Gallardos",
+      "link": "https://elpais.com/espana/2026-07-12/el-rastro-perdido-de-un-matrimonio-britanico-en-el-incendio-de-los-gallardos.html",
+      "desc": "La pareja fue de las primeras extranjeras en llegar a Bédar hace 15 años",
+      "date": "Sun, 12 Jul 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/LD7UTIT4OVEXLH5RXMGLHGSHE4.jpg?auth=884407bd352dc4d4cfb734bf75409aa386c1dd9f589e6478c77c8a4267133a85"
+    },
+    {
+      "title": "Francia considera “racista” e “inaceptable” el artículo de Rajoy sobre la selección francesa",
+      "link": "https://elpais.com/espana/2026-07-12/francia-considera-racista-e-inaceptable-el-articulo-de-rajoy-sobre-la-seleccion-francesa.html",
+      "desc": "Tres ministros de Macron condenan las palabras del expresidente español, que aseguró que la selección gala juega “sin franceses”. Pedro Sánchez también las censura a las puertas del España-Francia en el Mundial: “Que gane el mejor y que pierda el racismo”",
+      "date": "Sun, 12 Jul 2026 15:02:56 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/2CD7MQKE3ZG5FNS73GOTOZUGZM.jpg?auth=5bbec2894c7eb3da2a8437d2c801696104a92df09933f097afbe6aea10c9d6de"
     },
     {
       "title": "Luxemburgo: la última oportunidad de recuperar a Junts",
@@ -106,11 +120,11 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/DNLTKNEB2ZCATOCKXRCDQZ42NI.jpg?auth=e7df0a3c42e55b8f887fe6038126fe6335daaafe8769233490354daa37546e3c"
     },
     {
-      "title": "Las horas más críticas del infierno en Bédar, una isla en el desierto almeriense",
-      "link": "https://elpais.com/espana/2026-07-11/cronologia-de-un-incendio-mortifero-en-los-gallardos-una-isla-en-medio-del-desierto.html",
-      "desc": "La comarca del Levante almeriense registra uno de los fuegos más letales que se recuerdan: 12 muertos y 23 desaparecidos en 6.600 hectáreas quemadas",
-      "date": "Sat, 11 Jul 2026 03:30:01 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260710/1193721_154634_video_1800.mp4"
+      "title": "Última gran batida en Los Gallardos: cien operativos barren 217 hectáreas quemadas en busca de vida o muerte",
+      "link": "https://elpais.com/espana/2026-07-12/ultima-gran-batida-en-los-gallardos-cien-operativos-barren-217-hectareas-quemadas-en-busca-de-vida-o-muerte.html",
+      "desc": "Diez grupos mixtos con voluntarios de Protección Civil, Guardia Civil y UME peinan 18 zonas y revisan 250 viviendas sin rastro de los desaparecidos, tras el mortífero incendio de Almería",
+      "date": "Sun, 12 Jul 2026 14:56:12 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/VDNPRC6TG5A3BMTBEOS2K5THUE.jpg?auth=f6e75e058ced4a800818c1fd4bee16bae7da2af4212c67366cef4905f5db5edc"
     },
     {
       "title": "La sospecha vuelve a planear sobre Cospedal",
@@ -118,21 +132,7 @@
       "desc": "La orden del juez de investigar nuevos audios de la exdirigente del PP con el comisario Villarejo reabre un frente nunca cerrado del todo para la exdirigente del PP",
       "date": "Sat, 11 Jul 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/C63N3BBTKVCTPGZS3CQCBJCKY4.jpg?auth=4958261c9e4455ed7e4c2e205992c7da49b8df3ad60a9d73b77d2713842ac0b4"
-    },
-    {
-      "title": "Al menos 12 muertos y 23 personas sin localizar en el incendio más letal de la historia de Andalucía",
-      "link": "https://elpais.com/espana/2026-07-10/al-menos-12-muertos-en-el-incendio-de-los-gallardos-almeria-el-mas-mortifero-de-la-historia-de-andalucia.html",
-      "desc": "La principal línea de investigación apunta a la caída de un tendido eléctrico. Juan Manuel Moreno señala como probable causa de las muertes no haber atendido a las recomendaciones de las autoridades",
-      "date": "Fri, 10 Jul 2026 19:13:17 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260710/1193721_154634_video_1800.mp4"
-    },
-    {
-      "title": "Los incendios forestales más letales en España: de los 21 fallecidos en Lloret del Mar a los 11 bomberos de Guadalajara",
-      "link": "https://elpais.com/espana/2026-07-10/los-incendios-forestales-mas-letales-en-espana-de-los-21-fallecidos-en-lloret-del-mar-a-los-11-bomberos-de-guadalajara.html",
-      "desc": "El fuego en Los Gallardos (Almería), con al menos 12 víctimas mortales, es el más trágico registrado en Andalucía",
-      "date": "Fri, 10 Jul 2026 07:36:34 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260710/1193566_085610_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1783867192213
+  "fetchedAt": 1783871709303
 }
