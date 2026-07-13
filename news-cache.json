@@ -85,6 +85,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/TQ3TM47R65ATFLAYHMZNPAX5AM.jpg?auth=402e797ceae23dcbbc6ac21a1374682d11a4e8ddf9a6a6e1f2ded9ad6ee2590f"
     },
     {
+      "title": "El presunto narco capturado mientras intentaba escapar descalzo de azotea en azotea",
+      "link": "https://elpais.com/espana/2026-07-13/el-presunto-narco-capturado-mientras-intentaba-escapar-descalzo-de-azotea-en-azotea.html",
+      "desc": "La policía persigue a toda velocidad al dueño de una vivienda objeto de una redada en Lorca",
+      "date": "Mon, 13 Jul 2026 18:48:20 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260713/1194648_175541_video_1800.mp4"
+    },
+    {
       "title": "El Supremo condena a nueve meses de prisión a un hombre por cancelar el suministro de luz a su esposa en pleno divorcio",
       "link": "https://elpais.com/espana/2026-07-13/el-supremo-condena-a-nueve-meses-de-prision-a-un-hombre-por-cancelar-el-suministro-de-luz-a-su-esposa-en-pleno-divorcio.html",
       "desc": "El alto tribunal considera que ejerció un “acto de fuerza” que supone “una violencia psíquica y una intimidación” hacia la víctima",
@@ -125,14 +132,7 @@
       "desc": "El magistrado del Supremo defiende que los partidos no puedan ejercer la acusación popular porque “politiza la justicia”",
       "date": "Mon, 13 Jul 2026 10:27:15 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/QZ54MDHR75INTAVFIJZWPHPCZA.jpg?auth=1a0d0ac0c19b631a8c66e318c7c1ddf8fff35615bb466ace827cd00e9994f118"
-    },
-    {
-      "title": "Illa reclama que la amnistía “se aplique sin dilación” si recibe el aval de la justicia europea",
-      "link": "https://elpais.com/espana/2026-07-13/illa-reclama-que-la-amnistia-se-aplique-sin-dilacion-si-recibe-el-aval-de-la-justicia-europea.html",
-      "desc": "“Ya basta de criticar las propuestas por su origen, no por su contenido. Los que lo hacen son malos españoles”, afirma el ‘president’ catalán frente a los reproches a la financiación autonómica",
-      "date": "Mon, 13 Jul 2026 12:00:15 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/PRZQ7AKCJRNRXKXHV3U2B7HLDE.jpg?auth=6b8227a1d8cf5cee5f4781a70b77db3abd12e32b84526e629ced35aaa49ab243"
     }
   ],
-  "fetchedAt": 1783968022750
+  "fetchedAt": 1783973382207
 }
