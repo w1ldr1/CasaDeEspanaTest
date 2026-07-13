@@ -94,7 +94,7 @@
     {
       "title": "El auge de Orriols que apunta el CEO devuelve al independentismo una incierta mayoría absoluta en el Parlament",
       "link": "https://elpais.com/espana/catalunya/2026-07-13/el-auge-de-orriols-que-apunta-el-ceo-devuelve-al-independentismo-una-incierta-mayoria-absoluta-en-el-parlament.html",
-      "desc": "El último barómetro acaba con un lustro en los que Junts, ERC, y la CUP no conseguían asegurarse, como mínimo, 68 diputados",
+      "desc": "El último barómetro acaba con un lustro en el que Junts, ERC y la CUP no conseguían asegurarse, como mínimo, 68 diputados",
       "date": "Mon, 13 Jul 2026 03:15:00 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/35OGLHB2TVL7ZL2EOEB245Z53A.jpg?auth=a267b450f84b9b867267ee4a94ed6b0f965ae8540c1a418a303505f02c3e6c31"
     },
@@ -106,11 +106,11 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/IFP6VJG2K5NYTICCD4CA24KQL4.jpg?auth=228a44f3720a663111a16f547351d6873f2775b5db8bda17aa8f437db1daed79"
     },
     {
-      "title": "Imputado el alcalde del PP de Móstoles por el acoso sexual y laboral a una exedil de su partido",
+      "title": "Imputado el alcalde del PP de Móstoles por acoso sexual y laboral a una exedil de su partido",
       "link": "https://elpais.com/espana/2026-07-13/imputado-el-alcalde-del-pp-de-mostoles-por-el-acoso-sexual-y-laboral-a-una-exedil-de-su-partido.html",
       "desc": "La jueza cita como investigado a Manuel Bautista el 9 de octubre y a cinco testigos en los días siguientes",
       "date": "Mon, 13 Jul 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/5IGQPZUPGZHBZE6HI43M63AJFQ.jpg?auth=07aef6fb1ef5446308b0ecf609f2c7f06975bbd4212f0de2f9f9fbedf6973606"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260206/1135326_115558_video_1800.mp4"
     },
     {
       "title": "El juez rechaza anular la orden de detención del huido de ETA herido en el terremoto de Venezuela",
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/7EGXQOLKAJHTFFZ67DCANLNS3A.jpg?auth=a1e9e4d419a2bb9d452621a835b08ec444fa681d9a5d976d454fc99a8d33397f"
     }
   ],
-  "fetchedAt": 1783918584350
+  "fetchedAt": 1783930531999
 }
