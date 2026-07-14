@@ -1,9 +1,9 @@
 {
   "items": [
     {
-      "title": "Condenado David Sánchez, hermano del presidente del Gobierno, a 9 años de inhabilitación por un delito de prevaricación",
+      "title": "Condenado David Sánchez, hermano del presidente del Gobierno, a nueve años de inhabilitación por un delito de prevaricación",
       "link": "https://elpais.com/espana/2026-07-14/condenado-david-sanchez-hermano-del-presidente-del-gobierno-a-9-anos-de-inhabilitacion-por-un-delito-de-prevaricacion.html",
-      "desc": "La Audiencia de Badajoz impone la misma pena al exlíder del PSOE extremeño Miguel Ángel Gallardo por el mismo delito",
+      "desc": "La Audiencia de Badajoz impone 18 años de inhabilitación al exlíder del PSOE extremeño Miguel Ángel Gallardo",
       "date": "Tue, 14 Jul 2026 10:21:17 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/HUJK46Z7R5BVTLY2CWC4CQHTZE.jpg?auth=9ac81d4a72285cd151fb61dcce1f0143fac883fee3291fb8284f50c70c272590"
     },
@@ -55,6 +55,13 @@
       "desc": "Lo más probable es que el expresidente, reunión tras reunión, gestión tras gestión, no haya calibrado bien el riesgo que asumía",
       "date": "Sun, 28 Jun 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/T3BBF4XJSVA67LG32QLRUANUUA.jpg?auth=4fc77961b764681aff9f532135722a937cee037ded25d3295df5ab38f21b5146"
+    },
+    {
+      "title": "Vox achaca la tragedia de Los Gallardos a la gestión forestal, competencia del PP",
+      "link": "https://elpais.com/espana/2026-07-14/vox-achaca-la-tragedia-de-los-gallardos-a-la-gestion-forestal-competencia-del-pp.html",
+      "desc": "La portavoz ultra habla de “fanatismo climático” después de que el presidente andaluz alertara del calentamiento global",
+      "date": "Tue, 14 Jul 2026 11:19:31 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/LWUMP2XWZNHL5AZYSDNBIJK77Q.jpg?auth=2e02b253b112e698d6621b8f8ca3a3bf439d19aa19c9f700b0ec4a59f3049faf"
     },
     {
       "title": "Waheed, el último pastor de Bédar: “Me jugué la vida por mis animales”",
@@ -125,14 +132,7 @@
       "desc": "El PP evita desautorizar al expresidente y señala que dijo que Francia juega sin franceses “sin mala intención”",
       "date": "Mon, 13 Jul 2026 16:07:48 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260713/1194452_082402_video_1800.mp4"
-    },
-    {
-      "title": "El Supremo condena a nueve meses de prisión a un hombre por cancelar el suministro de luz a su esposa en pleno divorcio",
-      "link": "https://elpais.com/espana/2026-07-13/el-supremo-condena-a-nueve-meses-de-prision-a-un-hombre-por-cancelar-el-suministro-de-luz-a-su-esposa-en-pleno-divorcio.html",
-      "desc": "El alto tribunal considera que ejerció un “acto de fuerza” que supone “una violencia psíquica y una intimidación” hacia la víctima",
-      "date": "Mon, 13 Jul 2026 15:33:40 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/IYNKCNWW3RD2BNNX6HIWCXJCLE.jpg?auth=25cbbc4317b1946ed68ca2ee05ac85c0e1cadfc43fdf4f4cf66ad08c73b5b02d"
     }
   ],
-  "fetchedAt": 1784025670097
+  "fetchedAt": 1784030825780
 }
