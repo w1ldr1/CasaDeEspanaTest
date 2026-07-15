@@ -85,6 +85,13 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260715/1195343_114650_video_1800.mp4"
     },
     {
+      "title": "Lesmes, expresidente del Supremo, afirma que la presión desde la política hacia el poder judicial “es constante”",
+      "link": "https://elpais.com/espana/2026-07-15/lesmes-expresidente-del-supremo-afirma-que-la-presion-desde-la-politica-hacia-el-poder-judicial-es-constante.html",
+      "desc": "El magistrado defiende al juez Peinado: “Habrá habido voluntad de que se le abra expediente, pero no se le ha abierto”",
+      "date": "Wed, 15 Jul 2026 12:17:58 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/QMTBE7CJORKW5GRSJUUKUUO3K4.jpg?auth=dbce6b8b607ec851ecc27a28ab9ba9c2beb1453b622e309989326645e44e2a93"
+    },
+    {
       "title": "España y Reino Unido buscan elevar a estratégica una relación lastrada hasta ahora por Gibraltar",
       "link": "https://elpais.com/espana/2026-07-15/espana-y-reino-unido-buscan-elevar-a-estrategica-una-relacion-lastrada-hasta-ahora-por-gibraltar.html",
       "desc": "La visita del rey Carlos III, prevista para 2027, pondrá el broche a la nueva alianza entre españoles y británicos",
@@ -125,14 +132,7 @@
       "desc": "El pacto es el último de los grandes asuntos pendientes del Brexit",
       "date": "Tue, 14 Jul 2026 12:07:45 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260714/1195028_175710_video_1800.mp4"
-    },
-    {
-      "title": "El Congreso avanza para derogar el delito de injurias a la Corona al tumbar las enmiendas totales de PP y Vox",
-      "link": "https://elpais.com/espana/2026-07-14/el-congreso-avanza-para-derogar-el-delito-de-injurias-a-la-corona-al-tumbar-las-enmiendas-totales-de-pp-y-vox.html",
-      "desc": "La mayoría de investidura se recompone para reformar esos artículos del Código Penal y fortalecer la libertad de expresión",
-      "date": "Tue, 14 Jul 2026 18:36:27 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/MUMEVPAPKVLNPPP7TQ4NL6DRBU.jpg?auth=54b6562c53a48a8573ff18b662661728e5680b31e091e30b957a05ff1b5f2c35"
     }
   ],
-  "fetchedAt": 1784116814181
+  "fetchedAt": 1784125190394
 }
