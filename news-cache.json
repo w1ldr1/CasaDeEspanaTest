@@ -57,6 +57,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/T3BBF4XJSVA67LG32QLRUANUUA.jpg?auth=4fc77961b764681aff9f532135722a937cee037ded25d3295df5ab38f21b5146"
     },
     {
+      "title": "Feijóo acusa a Sánchez de ser un “presidente autoritario” ante los líderes del PP europeo",
+      "link": "https://elpais.com/espana/2026-07-15/feijoo-acusa-a-sanchez-de-ser-un-presidente-autoritario-ante-los-lideres-del-pp-europeo.html",
+      "desc": "El líder popular reivindica el giro derechista en América Latina en un foro del PPE en Madrid con la participación de Keiko Fujimori",
+      "date": "Wed, 15 Jul 2026 10:33:12 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/OJLFDXYVTFNIHCUPZQNW7EJ2PA.jpg?auth=54ca4c1206f62a9175d221652e159b9b9fcbf6db9cd0a0fa1c1b7ad177012e05"
+    },
+    {
       "title": "La frontera de Gibraltar hace historia a medianoche: “Hemos esquivado el Brexit”",
       "link": "https://elpais.com/espana/2026-07-14/la-frontera-de-gibraltar-hace-historia-a-medianoche-hemos-esquivado-el-brexit.html",
       "desc": "El paso fronterizo inaugura el paso libre en un momento marcado por la alegría de miles de personas: “La cosa pintaba mala, pero esto es histórico”",
@@ -125,14 +132,7 @@
       "desc": "La Cámara baja suspende también durante un mes la acreditación de Bertrand Ndongo por interrumpir una rueda de prensa de Sumar",
       "date": "Tue, 14 Jul 2026 15:36:17 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/4DIJB7SVWZG6RJQIFVO4RDZSXA.jpg?auth=b6a92eb5db7688b292f1076cbf6eb4712bf23f37554e195b02f38194fb74d5b1"
-    },
-    {
-      "title": "La abogada de Koldo García niega que el PSOE pagara su defensa",
-      "link": "https://elpais.com/espana/2026-07-14/la-abogada-de-koldo-garcia-niega-que-el-psoe-pagara-su-defensa.html",
-      "desc": "Leticia de la Hoz acusa a la empresaria Carmen Pano de mentir para implicarla en un supuesto soborno",
-      "date": "Tue, 14 Jul 2026 11:32:38 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/UKM4FLCEUBOJDJZ36ITEXRXN24.jpg?auth=3174f583e6d6eb5b37ba2cea90d5ae85e540adce692ffa148a9923fb5c58b228"
     }
   ],
-  "fetchedAt": 1784107708144
+  "fetchedAt": 1784113788597
 }
