@@ -85,6 +85,20 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260720/1197190_153302_video_1800.mp4"
     },
     {
+      "title": "El Tribunal de Cuentas consulta a las partes sus alegaciones tras el aval del TJUE a la amnistía",
+      "link": "https://elpais.com/espana/catalunya/2026-07-20/el-tribunal-de-cuentas-consulta-a-las-partes-sus-alegaciones-tras-el-aval-del-tjue-a-la-amnistia.html",
+      "desc": "El órgano fiscalizador reanuda la tramitación del procedimiento sobre el presunto desvío de fondos para el referéndum del 1-0, suspendido desde que planteó ante el tribunal de Luxemburgo una cuestión prejudicial",
+      "date": "Mon, 20 Jul 2026 17:50:12 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/BFCSJRB4Z5KZ3K4SBCTUWKWDXU.jpg?auth=00708ab24a8091aec3f00ea1a1c89e53be25fdc74d609bde5a327a9fff419ff9"
+    },
+    {
+      "title": "Sumar abre la puerta a elegir un candidato ajeno a los partidos",
+      "link": "https://elpais.com/espana/2026-07-20/sumar-abre-la-puerta-a-elegir-un-candidato-ajeno-a-los-partidos.html",
+      "desc": "La coalición apunta a septiembre para anunciar al aspirante a la presidencia del Gobierno en las próximas generales",
+      "date": "Mon, 20 Jul 2026 13:39:26 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/4RBNZXQE4BPZFPYAFPB2GBU4WA.jpg?auth=1d6dbc3e7be363265e55a2843012decd7c44c09beca24feef8d99e06a2aeb588"
+    },
+    {
       "title": "Política y justicia, el cóctel explosivo que sacude España",
       "link": "https://elpais.com/espana/2026-07-18/politica-y-justicia-el-coctel-explosivo-que-sacude-espana.html",
       "desc": "La alarma cunde en las altas instancias judiciales ante la creciente desconfianza ciudadana en las actuaciones de los tribunales. Juristas y sociólogos opinan sobre el alcance de la politización",
@@ -118,21 +132,7 @@
       "desc": "El comentario de Rajoy sobre la selección francesa provoca malestar interno en el PP: “Esas cosas no se pueden dejar por escrito”",
       "date": "Sun, 19 Jul 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/AGDON7DRTZCNTFOJWL7ACGZYYU.jpg?auth=317e68d43b84e6edc064333c71a2688c731e1fc3879911245da4d0f20c0dd61e"
-    },
-    {
-      "title": "El columnista Rajoy se sube a un bidón de gasolina",
-      "link": "https://elpais.com/espana/2026-07-19/el-columnista-rajoy-se-sube-a-un-bidon-de-gasolina.html",
-      "desc": "El expresidente fue advertido de que su frase sobre la falta de franceses podía generar problemas, pero pidió “humor”. El medio digital que lo publicó celebra las visitas: “Nos vino de puta madre” y el PP da la polémica por cerrada",
-      "date": "Sun, 19 Jul 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/UZEZE2HEW5LC5EXQUAP5PR5Q4I.jpg?auth=7f2060540fbddef5568e54c3cef6e9bec95a5e730f17aa6fb2580f0dff7e1504"
-    },
-    {
-      "title": "Aliança ya no solo capta a los votantes de Junts: ahora seduce a sus concejales",
-      "link": "https://elpais.com/espana/catalunya/2026-07-19/alianca-ya-no-solo-capta-a-los-votantes-de-junts-ahora-seduce-a-sus-concejales.html",
-      "desc": "La formación ultra se lanza a captar a cargos de la formación de Carles Puigdemont y presenta como candidatos a la alcaldía en las municipales de 2027",
-      "date": "Sun, 19 Jul 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/RS2XYRZRS5DHXAMFFIAO5QW6PQ.jpg?auth=fb45525a7c80bd1c42a0e3b718746e94f81e9335954dfe497969df1774c4d2f2"
     }
   ],
-  "fetchedAt": 1784573411883
+  "fetchedAt": 1784578623383
 }
