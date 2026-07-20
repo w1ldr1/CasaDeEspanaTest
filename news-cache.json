@@ -57,11 +57,11 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/BFCSJRB4Z5KZ3K4SBCTUWKWDXU.jpg?auth=00708ab24a8091aec3f00ea1a1c89e53be25fdc74d609bde5a327a9fff419ff9"
     },
     {
-      "title": "Las llamas no dan tregua en La Mierla: 32 pueblos evacuados y 26.000 hectáreas afectadas",
+      "title": "Las llamas no dan tregua en La Mierla: 33 pueblos evacuados y 26.000 hectáreas afectadas",
       "link": "https://elpais.com/espana/2026-07-20/las-llamas-no-dan-tregua-en-la-mierla-32-pueblos-evacuados-y-26000-hectareas-afectadas.html",
-      "desc": "En las últimas horas se han desalojado 13 municipios más de la Sierra Norte de Guadalajara, con 1.200 personas, en total, fuera de sus casas. El frente principal del fuego sigue aún fuera de control",
-      "date": "Mon, 20 Jul 2026 15:49:16 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/TXMQOPUIRJGTLBWVMVJ4FW7SB4.jfif?auth=6ea27ac38cf952cc45494cb40e9dd9050df66a5c79e8196352c621cfe8d58de0"
+      "desc": "En las últimas horas se han desalojado 14 municipios más de la Sierra Norte de Guadalajara, con 1.200 personas, en total, fuera de sus casas. El frente principal del fuego sigue aún fuera de control",
+      "date": "Mon, 20 Jul 2026 17:37:03 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260720/1197245_172059_video_1800.mp4"
     },
     {
       "title": "Junqueras apuesta “sin duda” por Rufián como candidato de ERC a las generales: “Es amigo mío, es mi compañero”",
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/RS2XYRZRS5DHXAMFFIAO5QW6PQ.jpg?auth=fb45525a7c80bd1c42a0e3b718746e94f81e9335954dfe497969df1774c4d2f2"
     }
   ],
-  "fetchedAt": 1784566481017
+  "fetchedAt": 1784573411883
 }
