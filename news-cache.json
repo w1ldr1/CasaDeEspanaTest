@@ -1,18 +1,18 @@
 {
   "items": [
     {
-      "title": "El PP se pliega a Vox y Les Corts Valencianes aprueban los primeros presupuestos en España que incluyen la prioridad nacional",
+      "title": "El PP se pliega a Vox y Les Corts Valencianes aprueban los primeros presupuestos en España que incluyen la “prioridad nacional”",
       "link": "https://elpais.com/espana/comunidad-valenciana/2026-07-22/les-corts-valencianes-aprueban-los-primeros-presupuestos-en-espana-que-incluyen-la-prioridad-nacional-de-vox.html",
       "desc": "Las cuentas de la Generalitat, presidida por Juanfran Pérez Llorca, salen adelante con los votos de los populares y de la formación de extrema derecha",
       "date": "Wed, 22 Jul 2026 10:01:40 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/SGS3YC6IPBH27BTP5PIB6ITZOE.JPG?auth=87741b1dcfc3a0f5acaca5a7d27b72683a11c01a272e9df8c449a522084dc7fd"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260722/1197834_124155_video_1800.mp4"
     },
     {
       "title": "El incendio de Guadalajara entra en fase de “estabilización” tras arrasar más de 32.000 hectáreas",
       "link": "https://elpais.com/espana/2026-07-22/el-incendio-de-guadalajara-entra-en-fase-de-estabilizacion-tras-arrasar-mas-de-32000-hectareas.html",
       "desc": "García-Page avanza que esperan que el fuego esté controlado este jueves pese a las fuertes rachas de viento",
       "date": "Wed, 22 Jul 2026 11:03:06 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/ZCRDFN65YNEFTAEGOXBTBICKJQ.jpg?auth=9e5560575c23291727e4cd08891ed3191992f0c15a26bb1f6c1c2c66697f4d96"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260722/1197757_080836_video_1800.mp4"
     },
     {
       "title": "La causa contra Zapatero sitúa ahora el foco en la cúpula de Plus Ultra tras contradecir la versión del expresidente",
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/445GJFPVJRE63GNA65NKQNWZAE.jpg?auth=4eef448983f15a78b9a9abca53a32580cb0edc9ed09f837b1e5edebdb6903e0d"
     }
   ],
-  "fetchedAt": 1784720716055
+  "fetchedAt": 1784727649897
 }
