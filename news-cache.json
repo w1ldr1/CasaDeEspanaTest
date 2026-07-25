@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "title": "Cuando “evacuación” es la palabra del día: niños, vecinos discapacitados, perros y también autoridades",
+      "link": "https://elpais.com/espana/madrid/2026-07-26/cuando-evacuacion-es-la-palabra-del-dia-ninos-vecinos-sin-piernas-perros-y-tambien-autoridades.html",
+      "desc": "El avance del fuego obliga a desmontar el puesto de mando y a desalojar los pueblos de alrededor",
+      "date": "Sat, 25 Jul 2026 21:52:00 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/7N4JWOONDVEWTNBV777KPKQ5Y4.JPG?auth=23a419bf74993bb5de82769bf11485d172bb9efcf0c65cde2d6cd5ea2c736383"
+    },
+    {
       "title": "Un alcalde que mira al fuego a los ojos",
       "link": "https://elpais.com/espana/madrid/2026-07-25/un-alcalde-que-mira-al-fuego-a-los-ojos.html",
       "desc": "El regidor de Cenicientos, donde se ha instalado el puesto de mando, se ha convertido en una pieza clave en la lucha contra el gran incendio que afecta a Madrid",
@@ -13,13 +20,6 @@
       "desc": "El expresidente catalán y su abogado lanzan mensajes al Tribunal Supremo sobre los costes que puede acarrear retrasar la amnistía",
       "date": "Sat, 25 Jul 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/DZ5LJUPVQJGMXJ3MTXVZA43MAA.jpg?auth=53f7994dce07868fd1c8cc5bfffe80ea5209e9944448cab01b1067bcb33331e6"
-    },
-    {
-      "title": "El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios",
-      "link": "https://elpais.com/espana/2026-07-23/el-gobierno-declara-la-emergencia-nacional-en-la-comunidad-de-madrid-y-en-avila-por-los-incendios.html",
-      "desc": "La decisión se adopta, tras pedirlo Ayuso, por ”la concurrencia” de fuegos, “unas condiciones meteorológicas especialmente adversas” y la necesidad de “movilizar un importante volumen de recursos”",
-      "date": "Fri, 24 Jul 2026 00:10:33 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260724/1198481_104426_video_1800.mp4"
     },
     {
       "title": "Feijóo ante el Papa y la Roja",
@@ -55,6 +55,13 @@
       "desc": "No cabe ninguna duda es que esta legislatura está siendo una odisea, una odisea de supervivencia en el poder",
       "date": "Sun, 19 Jul 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/UV46O2CWSJEL5MWAQ5QEHOVQWM.jpg?auth=90a0158680c3215f2a505f44a71f73e0a3991e94c65aba5067543a918f696796"
+    },
+    {
+      "title": "El Gobierno declara la emergencia nacional en la Comunidad de Madrid y en Ávila por cuatro incendios",
+      "link": "https://elpais.com/espana/2026-07-23/el-gobierno-declara-la-emergencia-nacional-en-la-comunidad-de-madrid-y-en-avila-por-los-incendios.html",
+      "desc": "La decisión se adopta, tras pedirlo Ayuso, por ”la concurrencia” de fuegos, “unas condiciones meteorológicas especialmente adversas” y la necesidad de “movilizar un importante volumen de recursos”",
+      "date": "Fri, 24 Jul 2026 00:10:33 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260724/1198481_104426_video_1800.mp4"
     },
     {
       "title": "Precedentes y polémicas de la declaración de emergencia nacional: del bulo del “si quieren ayuda, que la pidan” al apagón",
@@ -125,14 +132,7 @@
       "desc": "Numerosos habitantes de la Sierra Norte de Guadalajara respiran más tranquilos tras una noche en la no aumentaron las 32.000 hectáreas quemadas",
       "date": "Fri, 24 Jul 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/UZORZSSKQJCBZA2XFNLIONELAY.jpg?auth=28f13a1dd068456739f610b71e2e27cf3e9f86ee0456c61c7e5ea42c40a8f9de"
-    },
-    {
-      "title": "Migraciones pide apoyo a las oficinas de extranjería para evitar más retrasos en la regularización",
-      "link": "https://elpais.com/espana/2026-07-24/migraciones-pide-apoyo-a-las-oficinas-de-extranjeria-para-evitar-mas-retrasos-en-la-regularizacion.html",
-      "desc": "Las solicitudes han desbordado las previsiones y el Gobierno se ha visto obligado a comunicar que el incumplimiento de los plazos no equivale a denegar el acceso",
-      "date": "Fri, 24 Jul 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XU2YGFZWBNETTBMHL5XNWGGPUU.jpg?auth=d1c14e5a5de890a285afb1d5a70442cb1c641ceaa0e322e4893686ed2527e243"
     }
   ],
-  "fetchedAt": 1785012875985
+  "fetchedAt": 1785016692919
 }
