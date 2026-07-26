@@ -1,25 +1,25 @@
 {
   "items": [
     {
+      "title": "La semana que dejó a Zapatero aislado en la red de Plus Ultra",
+      "link": "https://elpais.com/espana/2026-07-26/la-semana-que-dejo-a-zapatero-aislado-en-la-red-de-plus-ultra.html",
+      "desc": "Los testimonios de tres imputados por el rescate de la aerolínea corroboran el papel que el juez da al expresidente, pero rechazan la existencia de una trama ilegal",
+      "date": "Sun, 26 Jul 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/42GF4NCLU5C5BPLCUZZNFF5QBI.jpg?auth=c21b0f898db881861ed4e9cfcbf94c60442a8f0ee8db6cdc2af363c4d130d7b3"
+    },
+    {
+      "title": "El pasado lastra la cruzada anticorrupción del PP",
+      "link": "https://elpais.com/espana/2026-07-26/el-pasado-lastra-la-cruzada-anticorrupcion-del-pp.html",
+      "desc": "Los votantes de la mayoría de partidos asocian más con la corrupción al PP que al PSOE. Feijóo inspira menos confianza que Sánchez, según el CIS. Solo Vox queda peor que los populares en un ranking de calidad democrática de 17 formaciones",
+      "date": "Sun, 26 Jul 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/NIYYU2GS6NFRTLDCOOACAQA7JY.jpg?auth=70de6cb342924f383a2964d150cca59afcc10a6e0d2f94de7487266ca470e7a7"
+    },
+    {
       "title": "El Gobierno y Ayuso aparcan sus diferencias ante la magnitud del fuego",
       "link": "https://elpais.com/espana/2026-07-26/el-gobierno-y-ayuso-aparcan-sus-diferencias-ante-la-magnitud-del-fuego.html",
       "desc": "Sánchez insiste en pedir un pacto de Estado, mientras Abascal atribuye los incendios al “fanatismo climático”",
       "date": "Sat, 25 Jul 2026 22:59:23 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/6UGA7TXAPJNPZA3GOQS6P3LK5M.jpg?auth=41e932cdf14c5043806e6a8eb88a921b942e0f793fa2a6d9765fb8b3ccb1dd94"
-    },
-    {
-      "title": "Cuando “evacuación” es la palabra del día: niños, vecinos discapacitados, perros y también autoridades",
-      "link": "https://elpais.com/espana/madrid/2026-07-26/cuando-evacuacion-es-la-palabra-del-dia-ninos-vecinos-sin-piernas-perros-y-tambien-autoridades.html",
-      "desc": "El avance del fuego obliga a desmontar el puesto de mando y a desalojar los pueblos de alrededor",
-      "date": "Sat, 25 Jul 2026 21:52:00 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/7N4JWOONDVEWTNBV777KPKQ5Y4.JPG?auth=23a419bf74993bb5de82769bf11485d172bb9efcf0c65cde2d6cd5ea2c736383"
-    },
-    {
-      "title": "Un alcalde que mira al fuego a los ojos",
-      "link": "https://elpais.com/espana/madrid/2026-07-25/un-alcalde-que-mira-al-fuego-a-los-ojos.html",
-      "desc": "El regidor de Cenicientos, donde se ha instalado el puesto de mando, se ha convertido en una pieza clave en la lucha contra el gran incendio que afecta a Madrid",
-      "date": "Sat, 25 Jul 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XZHGMUOWABAQJP3ZY7YEGQKVQU.jpg?auth=fb84a8e373a0cc4f1c4cca793517fdbd2a2392acc66990c2d8f3cc11054e9c62"
     },
     {
       "title": "Feijóo ante el Papa y la Roja",
@@ -55,6 +55,34 @@
       "desc": "No cabe ninguna duda es que esta legislatura está siendo una odisea, una odisea de supervivencia en el poder",
       "date": "Sun, 19 Jul 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/UV46O2CWSJEL5MWAQ5QEHOVQWM.jpg?auth=90a0158680c3215f2a505f44a71f73e0a3991e94c65aba5067543a918f696796"
+    },
+    {
+      "title": "Sánchez y Feijóo entran en modo electoral",
+      "link": "https://elpais.com/espana/2026-07-26/sanchez-y-feijoo-entran-en-modo-electoral.html",
+      "desc": "El PSOE, pese a todo, aún alimenta la posibilidad de una sorpresa, mientras el líder del PP se presenta ya como el próximo presidente",
+      "date": "Sun, 26 Jul 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/RFSFOTSESJNNVDOXUBWDXYOB7M.jpg?auth=b848ffa15f1f797f7c84dfbe53c4035648656f3a46d56981a5f805bc8b11dcda"
+    },
+    {
+      "title": "La España rica de las urbanizaciones bosque siente cerca el peligro del fuego: “En algún momento nos puede pasar”",
+      "link": "https://elpais.com/espana/madrid/2026-07-26/la-espana-rica-de-las-urbanizaciones-bosque-siente-cerca-el-peligro-del-fuego-en-algun-momento-nos-puede-pasar.html",
+      "desc": "Los municipios acomodados del oeste de Madrid han esquivado el avance del gran incendio en la región, pero temen que la amenaza vuelva en otro momento",
+      "date": "Sun, 26 Jul 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/ET7KBWMUNBALRIJ7L43FAJWROU.jpeg?auth=d097a5c13159d4cb7bce9d278ddc181da6a650efa86a6a81f39f3065d12821d3"
+    },
+    {
+      "title": "Cuando “evacuación” es la palabra del día: niños, vecinos discapacitados, perros y también autoridades",
+      "link": "https://elpais.com/espana/madrid/2026-07-26/cuando-evacuacion-es-la-palabra-del-dia-ninos-vecinos-sin-piernas-perros-y-tambien-autoridades.html",
+      "desc": "El avance del fuego obliga a desmontar el puesto de mando y a desalojar los pueblos de alrededor",
+      "date": "Sat, 25 Jul 2026 21:52:00 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/7N4JWOONDVEWTNBV777KPKQ5Y4.JPG?auth=23a419bf74993bb5de82769bf11485d172bb9efcf0c65cde2d6cd5ea2c736383"
+    },
+    {
+      "title": "Un alcalde que mira al fuego a los ojos",
+      "link": "https://elpais.com/espana/madrid/2026-07-25/un-alcalde-que-mira-al-fuego-a-los-ojos.html",
+      "desc": "El regidor de Cenicientos, donde se ha instalado el puesto de mando, se ha convertido en una pieza clave en la lucha contra el gran incendio que afecta a Madrid",
+      "date": "Sat, 25 Jul 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XZHGMUOWABAQJP3ZY7YEGQKVQU.jpg?auth=fb84a8e373a0cc4f1c4cca793517fdbd2a2392acc66990c2d8f3cc11054e9c62"
     },
     {
       "title": "El caso del profesor austríaco que esgrime Carles Puigdemont para pedir una indemnización a España",
@@ -104,35 +132,7 @@
       "desc": "Anticorrupción consideraba necesario interrogar a la cúpula de la aerolínea tras apuntar por escrito contra el expresidente",
       "date": "Fri, 24 Jul 2026 13:22:29 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260723/1198180_125547_video_1800.mp4"
-    },
-    {
-      "title": "La preocupación del Rey por los incendios en España centra las audiencias a las autoridades de Baleares",
-      "link": "https://elpais.com/espana/2026-07-24/la-preocupacion-del-rey-por-los-incendios-en-espana-centra-las-audiencias-a-las-autoridades-de-baleares.html",
-      "desc": "Felipe VI arranca este viernes con la agenda política en Baleares antes de las vacaciones de verano de la familia real, que comenzarán a finales de la semana que viene",
-      "date": "Fri, 24 Jul 2026 10:14:37 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/ZOBPNQWS3FM2HD6MMLHWTXZR7I.jpg?auth=a1203eb6a872d25f9740fd53156bfc283d5ba9358209d50af83a764d98d24b04"
-    },
-    {
-      "title": "Las explicaciones de Zapatero dejan un sabor “agridulce” en el PSOE a pesar del cierre de filas de Ferraz",
-      "link": "https://elpais.com/espana/2026-07-24/las-explicaciones-de-zapatero-dejan-un-sabor-agridulce-en-el-psoe-a-pesar-del-cierre-de-filas-de-ferraz.html",
-      "desc": "La cúpula socialista se muestra “convencida” de la inocencia del ex presidente mientras dirigentes territoriales y cargos del Ejecutivo piensan que no fue “convincente” con las joyas",
-      "date": "Fri, 24 Jul 2026 03:30:01 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260723/1198198_134801_video_1800.mp4"
-    },
-    {
-      "title": "Implicaciones políticas, éticas y penales de las joyas que Zapatero asegura haber recibido por “cortesía”",
-      "link": "https://elpais.com/espana/2026-07-24/implicaciones-politicas-eticas-y-penales-de-las-joyas-que-zapatero-asegura-haber-recibido-por-cortesia.html",
-      "desc": "El expresidente habría incumplido, siendo jefe del Ejecutivo, el código ético que instauró su propio Gobierno, sin rango de ley, y los posibles delitos fiscales habrían prescrito, según los expertos",
-      "date": "Fri, 24 Jul 2026 03:30:01 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260723/1198181_130207_video_1800.mp4"
-    },
-    {
-      "title": "Una entrevista, tres objetivos",
-      "link": "https://elpais.com/espana/2026-07-24/una-entrevista-tres-objetivos.html",
-      "desc": "En el caso de Zapatero, ¿cómo combinar el deber de explicación de un expresidente con la mejor defensa del ciudadano y la reputación del hombre público?",
-      "date": "Fri, 24 Jul 2026 03:30:01 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260723/1198198_134801_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1785028048049
+  "fetchedAt": 1785041921015
 }
