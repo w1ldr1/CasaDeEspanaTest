@@ -8,18 +8,18 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/Y5R4JIPWORDABKO635TVVEM7MQ.JPG?auth=edfd41ed8c0437b14034c2173b7a4b1ea707a3f7eb7dd88f6da07e37b86850ef"
     },
     {
-      "title": "Cómo ha sido posible evacuar o confinar a casi 100.000 afectados por los incendios",
+      "title": "Cómo ha sido posible evacuar o confinar a 90.000 afectados por los incendios",
       "link": "https://elpais.com/espana/madrid/2026-07-27/como-ha-sido-posible-evacuar-o-confinar-a-casi-100000-afectados-por-los-incendios.html",
       "desc": "La operación para proteger vidas en Madrid, Ávila y Toledo ha tenido una escala insólita",
-      "date": "Mon, 27 Jul 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/CCYB2RJTVVCCZPE5HMIL3MJA2Q.JPG?auth=ea4f2cd5913592eeab2653463629444325ed87aa1070e41eaa8aa0cf40494043"
+      "date": "Mon, 27 Jul 2026 08:03:08 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260727/1199218_075112_video_1800.mp4"
     },
     {
       "title": "La carrera contra el fuego para evacuar a los mayores de la residencia: “Llovía ceniza, el aire era irrespirable”",
       "link": "https://elpais.com/espana/madrid/2026-07-27/la-carrera-contra-el-fuego-para-evacuar-a-los-mayores-de-la-residencia-llovia-ceniza-el-aire-era-irrespirable.html",
       "desc": "La Comunidad de Madrid coordina el traslado de 1.308 residentes y usuarios de centros de atención social",
       "date": "Mon, 27 Jul 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/VPQYAVPQYBDW7EMTWFD5XQU4CE.jpg?auth=fa6f41f034e2b779a781999bf5f0d8f0b0ae05ab8c5b77dad580f77d20536cd2"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260727/1199210_065543_video_1800.mp4"
     },
     {
       "title": "Feijóo ante el Papa y la Roja",
@@ -134,5 +134,5 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260724/1198481_104426_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1785128824397
+  "fetchedAt": 1785142376938
 }
