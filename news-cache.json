@@ -57,6 +57,20 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/UV46O2CWSJEL5MWAQ5QEHOVQWM.jpg?auth=90a0158680c3215f2a505f44a71f73e0a3991e94c65aba5067543a918f696796"
     },
     {
+      "title": "Claves de los incendios | Hectáreas quemadas, desalojos y carreteras cortadas",
+      "link": "https://elpais.com/espana/2026-07-27/claves-de-los-incendios-hectareas-quemadas-desalojos-y-carreteras-cortadas.html",
+      "desc": "Solo los fuegos que permanecen activos han calcinado ya más de 113.000 hectáreas y hay casi 80.000 personas evacuadas",
+      "date": "Mon, 27 Jul 2026 20:05:25 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XKOSGQXQ5NKJTHHG4SMU6OHTK4.jpg?auth=f535e79efd739eb02075cac40b0ebb048909071d6c4a051ee0e9fc9541d1a20d"
+    },
+    {
+      "title": "El incendio de La Vall d’Uixó ya arrasa 8.500 hectáreas y encara horas críticas",
+      "link": "https://elpais.com/espana/2026-07-27/sanchez-advierte-de-que-el-incendio-de-la-vall-duixo-afronta-horas-dificiles-y-complejas.html",
+      "desc": "El fuego continúa activo mientras la Guardia Civil avanza en la investigación para esclarecer su origen con la toma de declaración a varias personas",
+      "date": "Mon, 27 Jul 2026 12:23:10 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260727/1199289_112917_video_1800.mp4"
+    },
+    {
       "title": "La carrera contra el fuego para evacuar a los mayores de la residencia: “Llovía ceniza, el aire era irrespirable”",
       "link": "https://elpais.com/espana/madrid/2026-07-27/la-carrera-contra-el-fuego-para-evacuar-a-los-mayores-de-la-residencia-llovia-ceniza-el-aire-era-irrespirable.html",
       "desc": "La Comunidad de Madrid coordina el traslado de 1.308 residentes y usuarios de centros de atención social",
@@ -118,21 +132,7 @@
       "desc": "El avance del fuego obliga a desmontar el puesto de mando y a desalojar los pueblos de alrededor",
       "date": "Sat, 25 Jul 2026 21:52:00 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/7N4JWOONDVEWTNBV777KPKQ5Y4.JPG?auth=23a419bf74993bb5de82769bf11485d172bb9efcf0c65cde2d6cd5ea2c736383"
-    },
-    {
-      "title": "Un alcalde que mira al fuego a los ojos",
-      "link": "https://elpais.com/espana/madrid/2026-07-25/un-alcalde-que-mira-al-fuego-a-los-ojos.html",
-      "desc": "El regidor de Cenicientos, donde se ha instalado el puesto de mando, se ha convertido en una pieza clave en la lucha contra el gran incendio que afecta a Madrid",
-      "date": "Sat, 25 Jul 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XZHGMUOWABAQJP3ZY7YEGQKVQU.jpg?auth=fb84a8e373a0cc4f1c4cca793517fdbd2a2392acc66990c2d8f3cc11054e9c62"
-    },
-    {
-      "title": "El caso del profesor austríaco que esgrime Carles Puigdemont para pedir una indemnización a España",
-      "link": "https://elpais.com/espana/catalunya/2026-07-25/el-caso-del-profesor-austriaco-que-esgrime-carles-puigdemont-para-pedir-una-indemnizacion-a-espana.html",
-      "desc": "El expresidente catalán y su abogado lanzan mensajes al Tribunal Supremo sobre los costes que puede acarrear retrasar la amnistía",
-      "date": "Sat, 25 Jul 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/DZ5LJUPVQJGMXJ3MTXVZA43MAA.jpg?auth=53f7994dce07868fd1c8cc5bfffe80ea5209e9944448cab01b1067bcb33331e6"
     }
   ],
-  "fetchedAt": 1785178447496
+  "fetchedAt": 1785183524358
 }
