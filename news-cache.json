@@ -64,9 +64,9 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/3OHSVTVQ3JPZRJFZLMZDQN5EMI.jpg?auth=be2dce947c566d7922215553d7f0823cd8cc37384de1a77f218964c6632982e0"
     },
     {
-      "title": "Los vecinos que tratan de volver al fuego: “Tenemos que pasar, los voluntarios necesitan relevo”",
+      "title": "Los vecinos que tratan de volver al fuego en el Valle del Tiétar (Toledo): “Tenemos que pasar, los voluntarios necesitan relevo”",
       "link": "https://elpais.com/espana/2026-07-28/los-vecinos-que-tratan-de-volver-al-fuego-tenemos-que-pasar-los-voluntarios-necesitan-relevo.html",
-      "desc": "Muchos vecinos que fueron desalojados del Valle del Tiétar corren de nuevo hacia las llamas para ayudar a los que se quedaron",
+      "desc": "Muchas personas que fueron desalojadas corren de nuevo hacia las llamas para ayudar a los que se quedaron",
       "date": "Tue, 28 Jul 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/PBS54W4OUFFURLLFLSD4NDHZIU.jpg?auth=a440ffef90c7c9332f4ee7c7cd300f723783a713a79434d10a579a41f0c0b7ef"
     },
@@ -96,7 +96,7 @@
       "link": "https://elpais.com/espana/2026-07-27/claves-de-los-incendios-hectareas-quemadas-desalojos-y-carreteras-cortadas.html",
       "desc": "Solo los fuegos que permanecen activos han calcinado ya más de 113.000 hectáreas y hay casi 80.000 personas evacuadas",
       "date": "Mon, 27 Jul 2026 20:05:25 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XKOSGQXQ5NKJTHHG4SMU6OHTK4.jpg?auth=f535e79efd739eb02075cac40b0ebb048909071d6c4a051ee0e9fc9541d1a20d"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260727/1199351_145921_video_1800.mp4"
     },
     {
       "title": "El incendio de La Vall d’Uixó ya arrasa 8.500 hectáreas y encara horas críticas",
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/MYU4GWGLKZBMHAN35MXEPII7ZI.JPG?auth=83fb6e7efc0a77cc480152713430c43f2b7c0990bd0aefc9e07332693dd74cf8"
     }
   ],
-  "fetchedAt": 1785210280313
+  "fetchedAt": 1785219712564
 }
