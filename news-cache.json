@@ -113,6 +113,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/Y5R4JIPWORDABKO635TVVEM7MQ.JPG?auth=edfd41ed8c0437b14034c2173b7a4b1ea707a3f7eb7dd88f6da07e37b86850ef"
     },
     {
+      "title": "Diez minutos entre la vida y la muerte: la huida de Luis del incendio de la Vall d’Uixó",
+      "link": "https://elpais.com/espana/2026-07-29/diez-minutos-entre-la-vida-y-la-muerte-la-huida-de-luis-del-incendio-de-la-vall-duixo.html",
+      "desc": "El ganadero que ha visto arder tres veces su municipio recuerda la tarde en la que pensó que podía morir entre las llamas por salvar a sus animales",
+      "date": "Wed, 29 Jul 2026 13:31:47 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/M7EHKH3GQRCLRNLQFEJAVIEBAQ.jpg?auth=937983bbf654142c87d203bffeff7c0129c1069b0efa61093fe6cd8ed47b37be"
+    },
+    {
       "title": "Sánchez enfría el apoyo a Zapatero: “Yo no soy su portavoz”",
       "link": "https://elpais.com/espana/2026-07-28/sanchez-enfria-el-apoyo-a-zapatero-yo-no-soy-su-portavoz.html",
       "desc": "El presidente asegura que la legalidad del préstamo a Plus Ultra es “absolutamente intachable”",
@@ -125,14 +132,7 @@
       "desc": "“¿La pareja del presidente tiene que renunciar a su carrera? ¿Es esa la España que queremos?“, pregunta el jefe del Ejecutivo",
       "date": "Tue, 28 Jul 2026 13:33:35 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260728/1199715_153245_video_1800.mp4"
-    },
-    {
-      "title": "Claves de los incendios | Hectáreas quemadas, desalojos y carreteras cortadas",
-      "link": "https://elpais.com/espana/2026-07-27/claves-de-los-incendios-hectareas-quemadas-desalojos-y-carreteras-cortadas.html",
-      "desc": "Solo los fuegos que permanecen activos han calcinado ya más de 113.000 hectáreas y hay casi 80.000 personas evacuadas",
-      "date": "Mon, 27 Jul 2026 20:05:25 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260727/1199351_145921_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1785328143366
+  "fetchedAt": 1785336845859
 }
