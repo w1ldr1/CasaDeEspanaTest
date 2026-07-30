@@ -73,7 +73,7 @@
     {
       "title": "Dentro de una brigada de extinción: “Los bomberos no dan abasto, esta noche ha habido tres nuevos fuegos”",
       "link": "https://elpais.com/espana/2026-07-30/dentro-de-una-brigada-de-extincion-los-bomberos-no-dan-abasto-esta-noche-ha-habido-tres-nuevos-fuegos.html",
-      "desc": "En las fincas privadas de la sierra oeste madrileña, trabajadores y brigadistas refrescan el monte y combaten los conatos que traen de el fuego",
+      "desc": "En las fincas privadas de la sierra oeste madrileña, trabajadores y brigadistas refrescan el monte y combaten el fuego",
       "date": "Thu, 30 Jul 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/WZKH2QGCD5A4RNGYIVU3ATBSBU.jpg?auth=cd1df2a9140e4974f0e2f8ebec6a1854cce90ccf4684e3e9c281f91bd903687f"
     },
@@ -134,5 +134,5 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260728/1199543_065426_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1785449239381
+  "fetchedAt": 1785454272268
 }
