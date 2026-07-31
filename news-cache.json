@@ -10,7 +10,7 @@
     {
       "title": "Miles de personas regresan a Marruecos tras cruzar la frontera con Ceuta",
       "link": "https://elpais.com/espana/2026-07-31/cientos-de-personas-regresan-a-marruecos-tras-cruzar-la-frontera-con-ceuta.html",
-      "desc": "Soldados españoles están ayudando a los jóvenes a volver a su país después de que unas 40.000 personas hayan entrado en la ciudad autónoma en las últimas 24 horas",
+      "desc": "Ya son 25.000 jóvenes los que han vuelto a su país según los datos de Interior",
       "date": "Fri, 31 Jul 2026 08:38:26 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260731/1200647_102608_video_1800.mp4"
     },
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/SATEHGGQ4NHWBAE7WT52K442J4.jpg?auth=1e296566d39c813ee413fbb5df8f85fc02a0062ce3da2616b5371668b624ff5e"
     }
   ],
-  "fetchedAt": 1785497173168
+  "fetchedAt": 1785503607390
 }
