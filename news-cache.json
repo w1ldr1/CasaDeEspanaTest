@@ -64,9 +64,9 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260731/1200720_140635_video_1800.mp4"
     },
     {
-      "title": "El fuego se contiene tras calcinar 3.750 hectáreas del parque natural de la Sierra de Espadán, en Castellón",
+      "title": "El fuego de La Vall d’Uixó se da por estabilizado y se levanta la evacuación de todas las poblaciones tras calcinar 9.568 hectáreas",
       "link": "https://elpais.com/espana/2026-07-31/el-fuego-deja-casi-4000-hectareas-calcinadas-en-la-sierra-de-espadan-y-avanza-hacia-su-estabilizacion.html",
-      "desc": "El incendio, a punto de estabilizarse, arrasa un total de 9.600 hectáreas dentro y fuera del espacio protegido. 2.800 personas siguen evacuadas",
+      "desc": "El incendio ha afectado al 12% de la superficie del parque natural de la Sierra de Espadán",
       "date": "Fri, 31 Jul 2026 10:16:12 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/DPHLOKEYAJDGDJRFLMJ72RX4OU.jpg?auth=484baeb9ce767420a418025abacbfe716986625bdbb88090a02e1f82cc5a3599"
     },
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/SATEHGGQ4NHWBAE7WT52K442J4.jpg?auth=1e296566d39c813ee413fbb5df8f85fc02a0062ce3da2616b5371668b624ff5e"
     }
   ],
-  "fetchedAt": 1785512252008
+  "fetchedAt": 1785519651483
 }
