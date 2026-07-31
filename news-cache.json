@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "title": "Marruecos manda parar el éxodo de 50.000 migrantes sobre Ceuta",
+      "link": "https://elpais.com/espana/2026-07-31/marruecos-manda-parar-el-exodo-de-50000-migrantes-sobre-ceuta.html",
+      "desc": "La inhibición inicial de las fuerzas de seguridad de Rabat amplifica la mayor crisis migratoria con España",
+      "date": "Fri, 31 Jul 2026 20:19:46 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/TTSEU65QPVMEBO3AHUMI554N4E.jpg?auth=75d4df2af482f249a925201a7defc17e72b7617c893d4db86a65eacf2ff28f3c"
+    },
+    {
       "title": "Los 57 muertos convierten la crisis de Ceuta en uno de los sucesos más letales en una frontera española",
       "link": "https://elpais.com/espana/2026-07-31/los-57-muertos-convierten-la-crisis-de-ceuta-en-uno-de-los-sucesos-mas-letales-en-una-frontera-espanola.html",
       "desc": "En 2014 fallecieron 14 personas también en el espigón de El Tarajal; y en junio 2022 perdieron la vida 23 en un salto a la valla de Melilla, aunque Amnistía Internacional elevó la cifra a 37",
@@ -13,13 +20,6 @@
       "desc": "Bruselas y Berlín reclaman el retorno rápido a Marruecos de los migrantes. Albares asegura que la integridad de Schengen “está absolutamente garantizada” y ha pedido poner fin a la “confusión interesada”",
       "date": "Fri, 31 Jul 2026 18:51:04 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/4VWVH5ZZMZDC5KDQF3IL7LODWY.jpg?auth=abc60ffdc76e6c9c1124318bad4f80f1a4a0cfe14aa10e8da80c99cba470470a"
-    },
-    {
-      "title": "Miles de personas penetran durante la noche en Ceuta en medio de la pasividad de la policía marroquí",
-      "link": "https://elpais.com/espana/2026-07-31/miles-de-personas-penetran-durante-la-noche-en-ceuta-en-medio-de-la-pasividad-de-la-policia-marroqui.html",
-      "desc": "Las fuerzas de seguridad de Rabat redoblan el control nocturno en la frontera en Castillejos, pero toleran el paso continuado de migrantes irregulares por la costa hacia la ciudad autónoma española",
-      "date": "Fri, 31 Jul 2026 06:23:43 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260731/1200588_063431_video_1800.mp4"
     },
     {
       "title": "Feijóo ante el Papa y la Roja",
@@ -55,6 +55,13 @@
       "desc": "No cabe ninguna duda es que esta legislatura está siendo una odisea, una odisea de supervivencia en el poder",
       "date": "Sun, 19 Jul 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/UV46O2CWSJEL5MWAQ5QEHOVQWM.jpg?auth=90a0158680c3215f2a505f44a71f73e0a3991e94c65aba5067543a918f696796"
+    },
+    {
+      "title": "Miles de personas penetran durante la noche en Ceuta en medio de la pasividad de la policía marroquí",
+      "link": "https://elpais.com/espana/2026-07-31/miles-de-personas-penetran-durante-la-noche-en-ceuta-en-medio-de-la-pasividad-de-la-policia-marroqui.html",
+      "desc": "Las fuerzas de seguridad de Rabat redoblan el control nocturno en la frontera en Castillejos, pero toleran el paso continuado de migrantes irregulares por la costa hacia la ciudad autónoma española",
+      "date": "Fri, 31 Jul 2026 06:23:43 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260731/1200588_063431_video_1800.mp4"
     },
     {
       "title": "Miles de personas regresan a Marruecos tras cruzar la frontera con Ceuta",
@@ -125,14 +132,7 @@
       "desc": "El Ejecutivo madrileño no informó de la operación, calla sobre su coste y ofrece explicaciones confusas sobre su destino",
       "date": "Thu, 30 Jul 2026 03:30:01 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260729/1200015_120633_video_1800.mp4"
-    },
-    {
-      "title": "Ripoll vive con frialdad la polémica de Orriols y su hija: “Es muy duro, cada vez hay más silencio”",
-      "link": "https://elpais.com/espana/catalunya/2026-07-31/es-muy-duro-cada-vez-hay-mas-silencio-en-ripoll.html",
-      "desc": "La alcaldesa y líder de Aliança Catalana contrató a su primogénita como policía local tras un concurso que la oposición fiscaliza",
-      "date": "Fri, 31 Jul 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/OZVXIDL5UNHTZNPMVEO2DTYO2E.jpg?auth=7561d2256d85199486803cabae044e0202c3449f2ef675e69bb3804bfa123c55"
     }
   ],
-  "fetchedAt": 1785528961020
+  "fetchedAt": 1785533739119
 }
