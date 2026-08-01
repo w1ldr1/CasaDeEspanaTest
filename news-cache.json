@@ -61,7 +61,7 @@
       "link": "https://elpais.com/espana/2026-08-01/ceuta-una-ciudad-desordenada-nos-vamos-porque-no-hay-comida-no-nos-venden-leche-para-la-nina.html",
       "desc": "La llegada y salida de miles de inmigrantes ha puesto patas arriba a Ceuta: negocios cerrados, jóvenes deambulando descalzos, basura por todas partes y una feria de verano cancelada",
       "date": "Sat, 01 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/U6J4NEDG4VEGLNWYYARVTZLLLQ.jpg?auth=cf4e5c4f56be4f818cb5427fb210232c58ee89817496e334b00ed2e85b39d506"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260801/1200955_113417_video_1800.mp4"
     },
     {
       "title": "Qué significa perderlo todo en el fuego: “Ahora vivo bajo el cielo”",
@@ -75,7 +75,7 @@
       "link": "https://elpais.com/espana/2026-07-31/marruecos-manda-parar-el-exodo-de-50000-migrantes-sobre-ceuta.html",
       "desc": "La inhibición inicial de las fuerzas de seguridad de Rabat amplifica la mayor crisis migratoria con España",
       "date": "Fri, 31 Jul 2026 20:19:46 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/TTSEU65QPVMEBO3AHUMI554N4E.jpg?auth=75d4df2af482f249a925201a7defc17e72b7617c893d4db86a65eacf2ff28f3c"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260801/1200949_104236_video_1800.mp4"
     },
     {
       "title": "Los 57 muertos convierten la crisis de Ceuta en uno de los sucesos más letales en una frontera española",
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/WZKH2QGCD5A4RNGYIVU3ATBSBU.jpg?auth=cd1df2a9140e4974f0e2f8ebec6a1854cce90ccf4684e3e9c281f91bd903687f"
     }
   ],
-  "fetchedAt": 1785587583203
+  "fetchedAt": 1785594450152
 }
