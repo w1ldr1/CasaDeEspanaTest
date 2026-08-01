@@ -1,18 +1,18 @@
 {
   "items": [
     {
+      "title": "Ceuta recobra parte de la calma en medio de la tensión política",
+      "link": "https://elpais.com/espana/2026-08-01/ceuta-recobra-parte-de-la-calma-en-medio-de-la-tension-politica.html",
+      "desc": "Las entradas se han frenado desde Marruecos y apenas se ha registrado ya algún intento esporádico. Algunos negocios abren tímidamente mientras la ciudadanía todavía vive con cierto desasosiego",
+      "date": "Sat, 01 Aug 2026 17:41:47 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/5EI5PK3YS5CPFLKVRCGVNIUWTY.jpg?auth=ea53223842c016405702463c20d85805788e977f81d2e80506708ed97f7c8d3b"
+    },
+    {
       "title": "El Gobierno admite que no vio venir la crisis de Ceuta: “Si hubiéramos tenido información, no habrían entrado 50.000 en 24 horas”",
       "link": "https://elpais.com/espana/2026-08-01/el-gobierno-admite-que-no-vio-venir-la-crisis-de-ceuta-si-hubieramos-tenido-informacion-no-habrian-entrado-50000-en-24-horas.html",
       "desc": "El Ejecutivo pide a sus miembros que eviten ataques a Marruecos mientras dirigentes de Sumar acusan a Rabat de urdir una “operación de desestabilización”",
       "date": "Sat, 01 Aug 2026 03:30:01 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260731/1200664_111328_video_1800.mp4"
-    },
-    {
-      "title": "El Gobierno despliega una barrera flotante en la frontera de Ceuta para cumplir la sentencia del Supremo",
-      "link": "https://elpais.com/espana/2026-08-01/el-gobierno-despliega-una-barrera-flotante-en-la-frontera-de-ceuta-para-cumplir-la-sentencia-del-supremo.html",
-      "desc": "El tribunal determinó que las devoluciones en caliente de migrantes solo son aplicables a quienes entran “superando elementos de contención fronterizos, como las vallas”",
-      "date": "Sat, 01 Aug 2026 14:42:34 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260801/1200949_104236_video_1800.mp4"
     },
     {
       "title": "Sin recursos para atender a los menores en Ceuta: “Veníamos avisando de que estaba pasando algo, pero no hicieron caso”",
@@ -55,6 +55,13 @@
       "desc": "No cabe ninguna duda es que esta legislatura está siendo una odisea, una odisea de supervivencia en el poder",
       "date": "Sun, 19 Jul 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/UV46O2CWSJEL5MWAQ5QEHOVQWM.jpg?auth=90a0158680c3215f2a505f44a71f73e0a3991e94c65aba5067543a918f696796"
+    },
+    {
+      "title": "El Gobierno despliega una barrera flotante en la frontera de Ceuta para cumplir la sentencia del Supremo",
+      "link": "https://elpais.com/espana/2026-08-01/el-gobierno-despliega-una-barrera-flotante-en-la-frontera-de-ceuta-para-cumplir-la-sentencia-del-supremo.html",
+      "desc": "El tribunal determinó que las devoluciones en caliente de migrantes solo son aplicables a quienes entran “superando elementos de contención fronterizos, como las vallas”",
+      "date": "Sat, 01 Aug 2026 14:42:34 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260801/1200949_104236_video_1800.mp4"
     },
     {
       "title": "Sánchez afea la actitud “egoísta” de algunos gobiernos europeos por la crisis de Ceuta",
@@ -125,14 +132,7 @@
       "desc": "Bruselas y Berlín reclaman el retorno rápido a Marruecos de los migrantes. Albares asegura que la integridad de Schengen “está absolutamente garantizada” y ha pedido poner fin a la “confusión interesada”",
       "date": "Fri, 31 Jul 2026 18:51:04 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/4VWVH5ZZMZDC5KDQF3IL7LODWY.jpg?auth=abc60ffdc76e6c9c1124318bad4f80f1a4a0cfe14aa10e8da80c99cba470470a"
-    },
-    {
-      "title": "Miles de personas regresan a Marruecos tras cruzar la frontera con Ceuta",
-      "link": "https://elpais.com/espana/2026-07-31/cientos-de-personas-regresan-a-marruecos-tras-cruzar-la-frontera-con-ceuta.html",
-      "desc": "Ya son 37.500 jóvenes los que han vuelto a su país según los datos de Interior",
-      "date": "Fri, 31 Jul 2026 08:38:26 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260731/1200647_102608_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1785603694487
+  "fetchedAt": 1785608951989
 }
