@@ -64,6 +64,13 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260731/1200664_111328_video_1800.mp4"
     },
     {
+      "title": "El Rey expresa su “indignación” por los “graves acontecimientos” de Ceuta y pide “medidas” para que no se repitan",
+      "link": "https://elpais.com/espana/2026-08-01/el-rey-expresa-su-indignacion-por-los-graves-acontecimientos-de-ceuta-y-pide-medidas-para-que-no-se-repitan.html",
+      "desc": "Felipe VI ha conversado con Pedro Sánchez y Alberto Núñez Feijóo",
+      "date": "Sat, 01 Aug 2026 16:52:38 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/3HHUIEPZCJI5NDPK4GVTU77XWI.jpg?auth=9e87b6fca118151163a372ae5f1f4deb5124344356e624f174d31fc62163fb0e"
+    },
+    {
       "title": "Feijóo asegura que la crisis de Ceuta es una “ocupación premeditada” y culpa al Gobierno",
       "link": "https://elpais.com/espana/2026-08-01/feijoo-asegura-que-la-crisis-de-ceuta-es-una-ocupacion-premeditada-y-culpa-al-gobierno.html",
       "desc": "El líder del PP asegura que el Ejecutivo tenía información de que se iba la entrada masiva de migrantes",
@@ -125,14 +132,7 @@
       "desc": "Ya son 37.500 jóvenes los que han vuelto a su país según los datos de Interior",
       "date": "Fri, 31 Jul 2026 08:38:26 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260731/1200647_102608_video_1800.mp4"
-    },
-    {
-      "title": "El PP exige cambiar la ley de extranjería y la comparecencia urgente de Sánchez en el Congreso por la crisis de Ceuta",
-      "link": "https://elpais.com/espana/2026-07-31/el-pp-exige-cambiar-la-ley-de-extranjeria-y-la-comparecencia-urgente-de-sanchez-en-el-congreso-por-la-crisis-de-ceuta.html",
-      "desc": "Feijóo responsabiliza al jefe del Ejecutivo por su “política migratoria”. Los populares piden reformar la norma “para garantizar la figura del rechazo en frontera en las entradas por vía marítima” frente a la sentencia del Supremo",
-      "date": "Fri, 31 Jul 2026 10:06:20 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260731/1200720_140635_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1785599885180
+  "fetchedAt": 1785603762870
 }
