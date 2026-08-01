@@ -64,9 +64,9 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/UCEXVQX3RBCNVKWAQQWYAIBH5I.jpg?auth=f21501dbcfec7ae924561ffdd0dd3edb92eca8ae8091358c7be6ac775e896ab8"
     },
     {
-      "title": "El Gobierno despliega una barrera flotante en la frontera de Ceuta para cumplir la sentencia del Supremo",
+      "title": "El Gobierno despliega una barrera flotante en la frontera de Ceuta",
       "link": "https://elpais.com/espana/2026-08-01/el-gobierno-despliega-una-barrera-flotante-en-la-frontera-de-ceuta-para-cumplir-la-sentencia-del-supremo.html",
-      "desc": "El tribunal determinó que las devoluciones en caliente de migrantes solo son aplicables a quienes entran “superando elementos de contención fronterizos, como las vallas”",
+      "desc": "El Supremo determinó que las devoluciones en caliente de migrantes solo son aplicables a quienes entran “superando elementos de contención fronterizos, como las vallas”",
       "date": "Sat, 01 Aug 2026 14:42:34 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260801/1200949_104236_video_1800.mp4"
     },
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/DPHLOKEYAJDGDJRFLMJ72RX4OU.jpg?auth=484baeb9ce767420a418025abacbfe716986625bdbb88090a02e1f82cc5a3599"
     }
   ],
-  "fetchedAt": 1785624621827
+  "fetchedAt": 1785628380926
 }
