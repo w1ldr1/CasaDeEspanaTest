@@ -1,11 +1,11 @@
 {
   "items": [
     {
-      "title": "Los tres días de horror que acorralaron a Ceuta",
+      "title": "Crisis de Ceuta: las horas cruciales en que Marruecos puso en jaque a España",
       "link": "https://elpais.com/espana/2026-08-02/los-tres-dias-de-horror-que-acorralaron-a-ceuta.html",
-      "desc": "La ciudad costera saca los muertos del mar tras el pulso migratorio magrebí que ha puesto a prueba las fuerzas de gobiernos y organizaciones humanitarias",
+      "desc": "EL PAÍS reconstruye la llegada masiva de extranjeros al enclave costero: “Uno se agarraba a la roca, el otro al primero y se iban hundiendo”. La ciudad saca a los muertos del mar tras el descomunal pulso migratorio magrebí",
       "date": "Sun, 02 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/DGPJFLB5RVCLNGTBOOMSDFE6GQ.jpg?auth=cb82755cf3822314d18d911ef55ba5a2f666aeb08eb4f485552ad775489331e2"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260730/1200509_203222_video_1800.mp4"
     },
     {
       "title": "De los incendios a la frontera: los tres días en los que Marlaska encadenó dos crisis de Estado",
@@ -19,7 +19,7 @@
       "link": "https://elpais.com/espana/2026-08-02/la-crisis-de-ceuta-alinea-a-la-derecha-europea-contra-sanchez.html",
       "desc": "El presidente español, cada vez más solo en Europa, acusa a sus socios de falta de solidaridad, mientras PP y Vox avivan la batalla por la inmigración",
       "date": "Sun, 02 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/2NSIKKBWINHB5J6IZ7RBDQASFM.JPG?auth=521225457e8ed046529e39f174b64d7bb65dd05a0879d5d78b416355a8bbcc55"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260731/1200664_111328_video_1800.mp4"
     },
     {
       "title": "Feijóo ante el Papa y la Roja",
@@ -61,7 +61,7 @@
       "link": "https://elpais.com/espana/2026-08-02/la-doble-vara-de-medir-de-trump-de-la-complacencia-con-marruecos-a-la-incomodidad-con-espana.html",
       "desc": "El presidente estadounidense alaba al rey Mohamed VI, con quien ha estrechado la relación tras el reconocimiento del Sáhara Occidental",
       "date": "Sun, 02 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/CVWVZF47B5IEPA55K5R5OLEY7Y.jpg?auth=4177ccadfe4f9e551f5505a09afe7e8b502cda312b4fd6ca3afd7a665896521f"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260731/1200839_181911_video_1800.mp4"
     },
     {
       "title": "El mensaje del éxodo: “La frontera está abierta y se puede pasar sin papeles”",
@@ -85,11 +85,11 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/KVXMH4P5LZABBGLVMV4QLYCMAQ.jpg?auth=c9acfeff85ea55dcd1a8e0828e27e2baa7a7f567cfa2e82cd963a8debd01354e"
     },
     {
-      "title": "Las horas más erráticas de Amador, Ayuso y su entorno: “¿Se puede ser tan negligente?”",
+      "title": "Los áticos de Chamberí: las horas más erráticas de Amador, Ayuso y su entorno",
       "link": "https://elpais.com/espana/madrid/2026-08-02/las-horas-mas-erraticas-de-amador-ayuso-y-su-entorno-se-puede-ser-tan-negligente.html",
       "desc": "Las explicaciones sobre la compra del ático por parte de la Comunidad de Madrid no convencen a muchos y en el PP cunde el desconcierto por el “descuidado” anuncio de Idealista de Amador",
       "date": "Sun, 02 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/LQXDORLUHNAW5GK5SEHMKPJOZ4.jpg?auth=32ae8bc3fd1c4dc85f6c90c876b835bc5c3a7087322297d8229d3971858a302f"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260730/1200442_162109_video_1800.mp4"
     },
     {
       "title": "Nueve meses de investigación para resolver el crimen de los cuatro gatos",
@@ -134,5 +134,5 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260801/1200949_104236_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1785649191448
+  "fetchedAt": 1785658446750
 }
