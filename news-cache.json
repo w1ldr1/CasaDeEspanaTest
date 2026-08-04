@@ -106,6 +106,13 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260802/1201162_114911_video_1800.mp4"
     },
     {
+      "title": "Cataluña otea el final del túnel tras la aplicación de la amnistía a casi una veintena de encausados",
+      "link": "https://elpais.com/espana/catalunya/2026-08-04/cataluna-otea-el-final-del-tunel-tras-la-aplicacion-de-la-amnistia-a-casi-una-veintena-de-encausados.html",
+      "desc": "El proceso culminará con el regreso definitivo de Carles Puigdemont, que sacudirá el mapa político y que sigue siendo una incógnita",
+      "date": "Tue, 04 Aug 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/NP7X4N4D3FA3XGDVXYTITXI6TI.jpg?auth=a7bbde9fe38fee03c0dd7ff26c7edd75bcaa01e163fe5295a1101444f1537363"
+    },
+    {
       "title": "Cayetana Álvarez de Toledo: “Todavía no he entendido lo de Ayuso y el ático”",
       "link": "https://elpais.com/espana/2026-08-03/cayetana-alvarez-de-toledo-todavia-no-he-entendido-lo-de-ayuso-y-el-atico.html",
       "desc": "La diputada del PP confiesa que no lee mucho los argumentarios del partido y que le gustaría ser ministra: “Estoy aquí para hacer gran política, no para ser una espectadora”",
@@ -125,14 +132,7 @@
       "desc": "EL PAÍS reconstruye las 72 horas en las que el ministro de Interior pasó de combatir los mayores fuegos del verano a gestionar una crisis migratoria sin precedentes",
       "date": "Sun, 02 Aug 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/5P7USMUH7RMMNAAGEJT3GRCRMM.jpg?auth=255f3840374d3dd3a57835e1df30d023b9dc5f95b8fa3316f199e431b9673ddd"
-    },
-    {
-      "title": "La crisis de Ceuta alinea a la derecha europea contra Sánchez",
-      "link": "https://elpais.com/espana/2026-08-02/la-crisis-de-ceuta-alinea-a-la-derecha-europea-contra-sanchez.html",
-      "desc": "El presidente español, cada vez más solo en Europa, acusa a sus socios de falta de solidaridad, mientras PP y Vox avivan la batalla por la inmigración",
-      "date": "Sun, 02 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260731/1200664_111328_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1785809057118
+  "fetchedAt": 1785821318299
 }
