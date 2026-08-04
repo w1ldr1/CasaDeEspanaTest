@@ -19,7 +19,7 @@
       "link": "https://elpais.com/espana/2026-08-03/calma-tensa-en-ceuta-cinco-dias-despues-de-la-entrada-masiva-de-inmigrantes.html",
       "desc": "En la ciudad autónoma cohabitan militares, periodistas y los que quedan de entre los que entraron irregularmente, que el Gobierno cifra en 2.500",
       "date": "Mon, 03 Aug 2026 18:36:28 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260803/1201312_080035_video_1800.mp4"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260804/1201640_110827_video_1800.mp4"
     },
     {
       "title": "Casi 90",
@@ -62,6 +62,13 @@
       "desc": "El Gobierno de Rabat achaca el éxodo migratorio a “la desactivación del elemento disuasorio” de la expulsión en caliente por la justicia española",
       "date": "Mon, 03 Aug 2026 21:10:38 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/THR3U4HZUNBRFKKQPKQXNI2BJI.JPG?auth=218167bd5049fa8a18fa6f35e1d05a95a984959d261fe18a80c2cdb1e1a4f9ae"
+    },
+    {
+      "title": "El juez Peinado devuelve a la Fiscalía Europea la investigación a Barrabés por presunto fraude en una adjudicación de Red.es",
+      "link": "https://elpais.com/espana/2026-08-04/el-juez-peinado-devuelve-a-la-fiscalia-europea-la-investigacion-a-barrabes-por-presunto-fraude-en-una-adjudicacion-de-redes.html",
+      "desc": "El instructor actúa después de que la Audiencia Provincial de Madrid fijara que el asunto debía quedar fuera del procedimiento",
+      "date": "Tue, 04 Aug 2026 11:05:19 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/KURC6G6GORA5NACONDOALT7DBY.jpg?auth=e0052627972aa76ddf12f65f5aca415d52ce1995065f087262e6671a89dc66d9"
     },
     {
       "title": "Albares exige la solidaridad de los socios europeos con Ceuta y carga contra Meloni",
@@ -125,14 +132,7 @@
       "desc": "Expertos consultados por EL PAÍS señalan las medidas imprescindibles. El secretario de Estado de Medio Ambiente ve “un amplio espacio para el acuerdo”",
       "date": "Mon, 03 Aug 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/VJN4QB4VEBAF7AMTRFIQ4EFVAY.jpg?auth=974070cf7faf85729208c812e76a3a22912dd8f507893cc0f0fda35cf4202629"
-    },
-    {
-      "title": "El jefe de la UME: “A los grandes incendios forestales no se les puede atacar, solo nos podemos defender”",
-      "link": "https://elpais.com/espana/2026-08-03/a-los-grandes-incendios-forestales-no-se-les-puede-atacar-solo-nos-podemos-defender.html",
-      "desc": "“Un fuego que avanza a 15 metros por minuto está fuera de control. El de Ávila y Madrid corría a 60”, explica el teniente general Francisco Javier Marcos",
-      "date": "Mon, 03 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260802/1201162_114911_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1785838260802
+  "fetchedAt": 1785846351616
 }
