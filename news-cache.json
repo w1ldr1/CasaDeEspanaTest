@@ -15,10 +15,10 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260804/1201693_140341_video_1800.mp4"
     },
     {
-      "title": "Mueren al menos 17 migrantes al tratar de alcanzar las costas de Baleares",
+      "title": "Mueren 17 migrantes al tratar de alcanzar las costas de Baleares",
       "link": "https://elpais.com/espana/2026-08-04/mueren-al-menos-17-migrantes-al-tratar-de-alcanzar-las-costas-de-baleares.html",
-      "desc": "Los dos únicos supervivientes rescatados de una patera declaran que una quincena de personas murieron tras dos semanas a la deriva y que sus cuerpos fueron lanzados al mar",
-      "date": "Tue, 04 Aug 2026 11:37:22 GMT",
+      "desc": "Los dos únicos supervivientes rescatados de la patera en que viajaban declaran que murieron tras dos semanas a la deriva y que sus cuerpos fueron lanzados al mar",
+      "date": "Tue, 04 Aug 2026 17:47:06 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/574DKT2MJBCLVCVCXZ6ER2MVWY.jpg?auth=15e1ba29f7b62a2cead7051d18e1519c20a9ab50b6338be75f70f2ed89ad1ffb"
     },
     {
@@ -134,5 +134,5 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260730/1200509_203222_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1785863554345
+  "fetchedAt": 1785870462272
 }
