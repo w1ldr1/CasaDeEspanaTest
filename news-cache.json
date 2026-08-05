@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "title": "La Audiencia Nacional pregunta a la Guardia Civil si tuvo alguna información que pudiese “alertar” de la entrada masiva en Ceuta",
+      "link": "https://elpais.com/espana/2026-08-05/la-audiencia-nacional-pregunta-a-la-guardia-civil-si-tuvo-alguna-informacion-que-pudiese-alertar-de-la-entrada-masiva-en-ceuta.html",
+      "desc": "La instructora solicita también datos sobre los operativos de rescate y los fallecidos",
+      "date": "Wed, 05 Aug 2026 09:51:09 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/K4ZLKLY7MZB4JF5V4PPKS7LEUI.jpg?auth=19921f3c60c279fd98a65be943e1236db0e5f854d4e8314f2888f3a8aaaba105"
+    },
+    {
       "title": "Playa de Trampolín: el refugio a sol abierto para centenares de subsaharianos que resisten en busca de asilo",
       "link": "https://elpais.com/espana/2026-08-05/playa-de-trampolin-el-refugio-a-sol-abierto-para-centenares-de-subsaharianos-en-busca-de-asilo.html",
       "desc": "Centenares de migrantes se agolpan en una pequeña cala de la ciudad, a la espera de un asilo que no llega",
@@ -8,18 +15,11 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260805/1201908_072755_video_1800.mp4"
     },
     {
-      "title": "Un hangar a -5° para custodiar a los 77 fallecidos que dejó la avalancha de Ceuta",
-      "link": "https://elpais.com/espana/2026-08-05/un-hangar-a-5-para-custodiar-a-los-77-fallecidos-que-dejo-la-avalancha-de-ceuta.html",
-      "desc": "Las autopsias casi están terminadas y se buscan formas de colaboración con Marruecos para identificar a los fallecidos",
-      "date": "Wed, 05 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/BF3HY7H72NA2NBGIYU7YVZBF5M.JPG?auth=4805b082611de771718399d77dc7eb697c536bb81669c798d60b1091fb846cc3"
-    },
-    {
-      "title": "Ceuta y la UE: la feria de las hipocresías",
-      "link": "https://elpais.com/espana/2026-08-05/ceuta-y-la-ue-la-feria-de-las-hipocresias.html",
-      "desc": "La crisis se convierte en un teatro de falsedades, tergiversaciones y oportunismos que, en distinto grado, implica a muchos de los protagonistas",
-      "date": "Wed, 05 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/D5EWIZ35ZRDFLJ3NAYFRTAGQXE.jpg?auth=c02ac55fe03f95218aca3b1bc245d59363d65c1bac13f8e24d9d88c97be599c8"
+      "title": "Censos improvisados en el barrio de El Príncipe tras la llegada de cientos de menores: “Esto rompe cualquier parámetro”",
+      "link": "https://elpais.com/espana/2026-08-05/censos-improvisados-en-el-barrio-de-el-principe-tras-la-llegada-de-cientos-de-menores-esto-rompe-cualquier-parametro.html",
+      "desc": "En la periferia de la ciudad, los vecinos se hacen cargo de los menores migrantes que cruzaron a nado y que las autoridades no saben dónde ubicar",
+      "date": "Wed, 05 Aug 2026 10:26:58 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260805/1201971_101204_video_1800.mp4"
     },
     {
       "title": "Casi 90",
@@ -55,6 +55,34 @@
       "desc": "Como ya sentenciaron los griegos, la validez formal de una regla no agota los debates sobre su idoneidad",
       "date": "Mon, 20 Jul 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/KHYBXRDMUJDYHKIG3KSHSGQET4.jpg?auth=18c1fd73460415c06eb412bb86ceec714df3d0c55401a499d3dc116851c16a26"
+    },
+    {
+      "title": "Detenido en Madrid uno de los fugitivos más buscados por el Reino Unido, delatado por sus tatuajes",
+      "link": "https://elpais.com/espana/2026-08-05/detenido-en-madrid-uno-de-los-fugitivos-mas-buscados-por-el-reino-unido-delatado-por-sus-tatuajes.html",
+      "desc": "John Rocks, acusado de varias agresiones sexuales, fue arrestado en la barra de una cafetería del centro de la capital",
+      "date": "Wed, 05 Aug 2026 11:10:02 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/Q7O6XDD7XRHGNGDKOS6UKMNCVE.jpg?auth=bf751e544e87183c884b79408a7d3b8136338c073f059248b4cd1deeda97cd2c"
+    },
+    {
+      "title": "La ministra Sira Rego no irá en las listas para las generales de 2027",
+      "link": "https://elpais.com/espana/2026-08-05/la-ministra-sira-rego-no-ira-en-las-listas-para-las-generales-de-2027.html",
+      "desc": "Confía en la “inteligencia colectiva” de las formaciones políticas para escoger al candidato que “más consenso genere”",
+      "date": "Wed, 05 Aug 2026 09:29:26 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/QNPU52BTQJDANM4JJ4E4AYDI4M.jpg?auth=0e9d66ef1a34f6d234183f8fa93705de0e95d8bdc243e490a8819bc051828fb7"
+    },
+    {
+      "title": "Un hangar a -5° para custodiar a los 77 fallecidos que dejó la avalancha de Ceuta",
+      "link": "https://elpais.com/espana/2026-08-05/un-hangar-a-5-para-custodiar-a-los-77-fallecidos-que-dejo-la-avalancha-de-ceuta.html",
+      "desc": "Las autopsias casi están terminadas y se buscan formas de colaboración con Marruecos para identificar a los fallecidos",
+      "date": "Wed, 05 Aug 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/BF3HY7H72NA2NBGIYU7YVZBF5M.JPG?auth=4805b082611de771718399d77dc7eb697c536bb81669c798d60b1091fb846cc3"
+    },
+    {
+      "title": "Ceuta y la UE: la feria de las hipocresías",
+      "link": "https://elpais.com/espana/2026-08-05/ceuta-y-la-ue-la-feria-de-las-hipocresias.html",
+      "desc": "La crisis se convierte en un teatro de falsedades, tergiversaciones y oportunismos que, en distinto grado, implica a muchos de los protagonistas",
+      "date": "Wed, 05 Aug 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/D5EWIZ35ZRDFLJ3NAYFRTAGQXE.jpg?auth=c02ac55fe03f95218aca3b1bc245d59363d65c1bac13f8e24d9d88c97be599c8"
     },
     {
       "title": "Las 19 quejas de Bolaños sobre Peinado que el CGPJ archivó: “Censuró mi expresión facial y me prohibió sonreír”",
@@ -104,35 +132,7 @@
       "desc": "En la ciudad autónoma cohabitan militares, periodistas y los que quedan de entre los que entraron irregularmente, que el Gobierno cifra en 2.500",
       "date": "Mon, 03 Aug 2026 18:36:28 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260804/1201640_110827_video_1800.mp4"
-    },
-    {
-      "title": "Marruecos niega “presiones y chantajes” en la crisis de Ceuta y culpa a la sentencia del Supremo",
-      "link": "https://elpais.com/espana/2026-08-03/marruecos-niega-presiones-y-chantajes-en-la-crisis-de-ceuta.html",
-      "desc": "El Gobierno de Rabat achaca el éxodo migratorio a “la desactivación del elemento disuasorio” de la expulsión en caliente por la justicia española",
-      "date": "Mon, 03 Aug 2026 21:10:38 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/THR3U4HZUNBRFKKQPKQXNI2BJI.JPG?auth=218167bd5049fa8a18fa6f35e1d05a95a984959d261fe18a80c2cdb1e1a4f9ae"
-    },
-    {
-      "title": "El juez Peinado devuelve a la Fiscalía Europea la investigación a Barrabés por presunto fraude en una adjudicación de Red.es",
-      "link": "https://elpais.com/espana/2026-08-04/el-juez-peinado-devuelve-a-la-fiscalia-europea-la-investigacion-a-barrabes-por-presunto-fraude-en-una-adjudicacion-de-redes.html",
-      "desc": "El instructor actúa después de que la Audiencia Provincial de Madrid fijara que el asunto debía quedar fuera del procedimiento",
-      "date": "Tue, 04 Aug 2026 11:05:19 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/KURC6G6GORA5NACONDOALT7DBY.jpg?auth=e0052627972aa76ddf12f65f5aca415d52ce1995065f087262e6671a89dc66d9"
-    },
-    {
-      "title": "Albares exige la solidaridad de los socios europeos con Ceuta y carga contra Meloni",
-      "link": "https://elpais.com/espana/2026-08-03/albares-exige-la-solidaridad-de-los-socios-europeos-con-ceuta-y-carga-contra-meloni.html",
-      "desc": "Robles pide, “con contundencia”, a Marruecos que castigue a quienes han causado, “consentido o tolerado este drama humano”",
-      "date": "Mon, 03 Aug 2026 12:42:13 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/MDOH3I6BSNBBRJ5LL3Z2YLS4Y4.jpg?auth=cf63cf2b1968f9e734fbc3b944b33190543f6ccf654c2bf23352a628f2743523"
-    },
-    {
-      "title": "La Audiencia Nacional pide un informe policial para saber si es competente para investigar la entrada masiva de migrantes a Ceuta",
-      "link": "https://elpais.com/espana/2026-08-03/la-audiencia-nacional-pide-un-informe-policial-para-saber-si-es-competente-para-investigar-la-entrada-masiva-de-migrantes-a-ceuta.html",
-      "desc": "La magistrada Tardón ha acordado abrir diligencias previas tras una denuncia por delitos contra la Seguridad del Estado y por favorecimiento de la inmigración ilegal y organización criminal",
-      "date": "Mon, 03 Aug 2026 10:24:46 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/ZCM2N2E3SZFTNLQVIG4BR3Y7ZE.jpg?auth=3e7966e1a3eb208bb93a98d64b1e6b351e378ae3916fbab808ea491b144e8fac"
     }
   ],
-  "fetchedAt": 1785927494978
+  "fetchedAt": 1785934564192
 }
