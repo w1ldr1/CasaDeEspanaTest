@@ -1,10 +1,10 @@
 {
   "items": [
     {
-      "title": "El Gobierno pide la comparecencia de Marlaska, Albares, Robles y Bolaños en el Congreso por la crisis en Ceuta",
+      "title": "Robles, Marlaska, Bolaños y Albares comparecerán a finales de agosto en el Congreso por la crisis en Ceuta",
       "link": "https://elpais.com/espana/2026-08-07/el-gobierno-pide-la-comparecencia-de-marlaska-albares-robles-y-bolanos-en-el-congreso-por-la-crisis-en-ceuta.html",
-      "desc": "La titular de Defensa comparecerá el próximo 25 de agosto; el ministro de Presidencia, el día 27, y los ministros de Interior y Exteriores, el 28 de agosto",
-      "date": "Fri, 07 Aug 2026 07:51:49 GMT",
+      "desc": "Los populares quieren anticiparse y citan a los ministros de Interior, Defensa y Exteriores la próxima semana en el Senado",
+      "date": "Fri, 07 Aug 2026 09:04:00 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/GVQCLKNOQNCQJDRCV7IWE7UEGQ.jpg?auth=28a1aaf848817e7443c9d60e43936f6e0112627d52b31cd0169c78060a27b185"
     },
     {
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/532FWZRKDBLRVKGZUXFEQBD2O4.jpg?auth=865c301afd7f409836cd2aedfcfe1e0a486f6856cc5c5022b86197c70b0f37fc"
     }
   ],
-  "fetchedAt": 1786090513777
+  "fetchedAt": 1786095134329
 }
