@@ -1,11 +1,18 @@
 {
   "items": [
     {
-      "title": "Robles, Marlaska, Bolaños y Albares comparecerán a finales de agosto en el Congreso por la crisis en Ceuta",
+      "title": "El Gobierno explicará en el Congreso la crisis de Ceuta y rechaza el intento del PP de anticiparlo en el Senado",
       "link": "https://elpais.com/espana/2026-08-07/el-gobierno-pide-la-comparecencia-de-marlaska-albares-robles-y-bolanos-en-el-congreso-por-la-crisis-en-ceuta.html",
-      "desc": "El Gobierno ignorará las citas del Senado, donde el PP pretendía llevar ya la próxima semana a los ministros de Interior, Defensa y Exteriores",
-      "date": "Fri, 07 Aug 2026 09:04:00 GMT",
+      "desc": "Cuatro ministros comparecerán a partir del 25 e ignorarán el intento de los populares de anticipar las citas la próxima semana en la Cámara alta",
+      "date": "Fri, 07 Aug 2026 11:22:50 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/GVQCLKNOQNCQJDRCV7IWE7UEGQ.jpg?auth=28a1aaf848817e7443c9d60e43936f6e0112627d52b31cd0169c78060a27b185"
+    },
+    {
+      "title": "Las ONG de Marruecos elevan a 141 la cifra de muertos a ambos lados de la frontera de Ceuta",
+      "link": "https://elpais.com/espana/2026-08-07/las-ong-de-marruecos-elevan-a-141-la-cifra-de-muertos-a-ambos-lados-de-la-frontera-de-ceuta.html",
+      "desc": "La Asociación Marroquí de Derechos Humanos recopila datos oficiales y de organizaciones humanitarias",
+      "date": "Fri, 07 Aug 2026 10:54:27 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/3A6MZOVB7BGSTDDKVH752T64JU.jpg?auth=0c6623bc6ba2ff1ad4631dec6757f852fd2cd832f5fe0223a41ab244f8e5618a"
     },
     {
       "title": "El Gobierno se prepara para el reparto de los menores migrantes con la anuencia del PP",
@@ -13,13 +20,6 @@
       "desc": "Los populares abandonan su ambigüedad y prometen que cumplirán una ley a la que se opusieron",
       "date": "Fri, 07 Aug 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/6VLMEIVUHZHV7GB32MU4AL576U.jpg?auth=ffc1ea96d631bb39505128e03600a76ecd5499392c01532189ffac751ed5bec4"
-    },
-    {
-      "title": "Las manos que salvaron a los nadadores en la frontera de Ceuta: “Sacar a un bebé y a una familia es una alegría”",
-      "link": "https://elpais.com/espana/2026-08-07/las-manos-que-salvaron-a-los-nadadores-en-la-frontera-de-ceuta-sacar-a-un-bebe-y-a-una-familia-es-una-alegria.html",
-      "desc": "Los especialistas en rescates en el mar de la Guardia Civil ya estaban desbordados en las primeras horas del jueves, el día que se produjo la gran avalancha en la ciudad autónoma",
-      "date": "Fri, 07 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260806/1202479_171812_video_1800.mp4"
     },
     {
       "title": "Europa y el espejismo ceutí",
@@ -55,6 +55,34 @@
       "desc": "Los fallecidos en Ceuta eran víctimas y como siempre pobres. Tenían nombre, una historia, familia y miedo",
       "date": "Mon, 03 Aug 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/2PY73DRWFRCNTL544KGA22UNR4.jpg?auth=01a997cf4d685500393e41c563a96f295cc9ad12d98e2220eea51e34825e6e08"
+    },
+    {
+      "title": "Interior saca pecho ante la UE por su lucha contra las mafias de inmigración irregular con una macrooperación con 78 detenidos",
+      "link": "https://elpais.com/espana/2026-08-07/interior-saca-pecho-ante-la-ue-de-su-lucha-contra-las-mafias-de-inmigracion-irregular-con-una-macrooperacion-con-78-detenidos.html",
+      "desc": "La Guardia Civil y la Policía Nacional desarticulan una organización que ganó más de 24 millones de euros por trasladar a más de 2.000 personas en 64 viajes a España",
+      "date": "Fri, 07 Aug 2026 09:08:14 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/77F3PFSYTVA2HCXV7UP3M4IDY4.jpg?auth=9379a4bd90430f1317d0e0dc4316baf79825d2dec0ffc3718a7d31aa02305353"
+    },
+    {
+      "title": "La Fiscalía pide 30 años de cárcel para cinco exjefes de ETA por el asesinato de Gregorio Ordóñez",
+      "link": "https://elpais.com/espana/2026-08-07/la-fiscalia-pide-30-anos-de-carcel-para-cinco-exjefes-de-eta-por-el-asesinato-de-gregorio-ordonez.html",
+      "desc": "El ministerio público propone escuchar en el juicio a dos etarras que declararon como testigos protegidos contra la antigua cúpula de la banda terrorista",
+      "date": "Fri, 07 Aug 2026 10:07:14 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/YRAQDTJNW3PMEUIHRWI2Y4NJRU.jpg?auth=8d6e94e6985420a14e60f45fda32feffefaa6ebbe8a2fce0a16ca888de1b1f66"
+    },
+    {
+      "title": "El PSOE denuncia ante la justicia la compra del ático del Gobierno de Ayuso: “Se van a arrepentir”",
+      "link": "https://elpais.com/espana/2026-08-07/el-psoe-denunciara-ante-la-justicia-la-compra-del-atico-del-gobierno-de-ayuso.html",
+      "desc": "Óscar López anuncia medidas legales contra el consejo de administración de Planifica Madrid para aclarar la adquisición por más de seis millones del inmueble de lujo. Ayuso, muy molesta, ha respondido: “No trabajo para mis adversarios”",
+      "date": "Fri, 07 Aug 2026 09:15:08 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260807/1202653_095930_video_1800.mp4"
+    },
+    {
+      "title": "Las manos que salvaron a los nadadores en la frontera de Ceuta: “Sacar a un bebé y a una familia es una alegría”",
+      "link": "https://elpais.com/espana/2026-08-07/las-manos-que-salvaron-a-los-nadadores-en-la-frontera-de-ceuta-sacar-a-un-bebe-y-a-una-familia-es-una-alegria.html",
+      "desc": "Los especialistas en rescates en el mar de la Guardia Civil ya estaban desbordados en las primeras horas del jueves, el día que se produjo la gran avalancha en la ciudad autónoma",
+      "date": "Fri, 07 Aug 2026 03:30:01 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260806/1202479_171812_video_1800.mp4"
     },
     {
       "title": "La crisis migratoria de Ceuta abre grietas entre los partidos de Marruecos que exigen una investigación por las muertes",
@@ -104,35 +132,7 @@
       "desc": "Los líderes del Partido Popular aseguran que cumplirán la ley pese a estar en contra y a los acuerdos firmados; los niños y jóvenes extranjeros han seguido llegando a la Península al menos hasta mediados de julio",
       "date": "Thu, 06 Aug 2026 03:30:01 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260806/1202387_115539_video_1800.mp4"
-    },
-    {
-      "title": "Más de 1.750 menores extranjeros han sido derivados desde Canarias, Ceuta y Melilla en un año",
-      "link": "https://elpais.com/espana/2026-08-06/mas-de-1750-menores-extranjeros-han-sido-derivados-desde-canarias-ceuta-y-melilla-en-un-ano.html",
-      "desc": "Las comunidades de la Península no han dejado de acoger niños y adolescentes desde que se aprobó la norma en agosto de 2025",
-      "date": "Thu, 06 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XFO4HMB6LZC35KEBQ2PSL7H2NY.jpg?auth=6efc5f08aab51adb7e26313b864baacc856d1cbb007e52f4f01ab13c2f467fcf"
-    },
-    {
-      "title": "Ocaso en la frontera de la buena vecindad entre Ceuta y Marruecos",
-      "link": "https://elpais.com/espana/2026-08-06/ocaso-en-la-frontera-de-la-buena-vecindad-entre-ceuta-y-marruecos.html",
-      "desc": "En la ciudad, que alberga cuatro culturas, se añoran los años del paso fluido hacia Marruecos, enrarecido ahora con la migración y moribundo desde la pandemia",
-      "date": "Thu, 06 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/M6G7CSGQIFBWNCG2ALYGB6PJXQ.jpg?auth=13f61f41b3d719cbb90443fdb6048546e6e67a9a8a6070acdfe32f260a9be263"
-    },
-    {
-      "title": "Las patrullas vecinales alientan brotes de violencia contra los inmigrantes en barrios de Ceuta",
-      "link": "https://elpais.com/espana/2026-08-06/las-patrullas-vecinales-alientan-brotes-de-violencia-contra-los-inmigrantes-en-barrios-de-ceuta.html",
-      "desc": "EL PAÍS accede a grupos de WhatsApp que coordinan las batidas contra los extranjeros",
-      "date": "Thu, 06 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/ZVNNL3FUERE3VCDABTHJC37OC4.jpg?auth=de4bcfa9aa597859113f8c67bdf4f34cce9a8553f67412ccd2fd58198d8a7c3a"
-    },
-    {
-      "title": "El Rey recibirá en Mallorca al presidente de Ceuta una semana después de la avalancha migratoria",
-      "link": "https://elpais.com/espana/2026-08-05/el-rey-recibira-en-mallorca-al-presidente-de-ceuta-una-semana-despues-de-la-avalancha-migratoria.html",
-      "desc": "La Zarzuela matiza que la reciente felicitación de Felipe VI a Mohamed VI por la Fiesta del Trono fue protocolaria",
-      "date": "Wed, 05 Aug 2026 18:27:29 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/532FWZRKDBLRVKGZUXFEQBD2O4.jpg?auth=865c301afd7f409836cd2aedfcfe1e0a486f6856cc5c5022b86197c70b0f37fc"
     }
   ],
-  "fetchedAt": 1786100022333
+  "fetchedAt": 1786103257095
 }
