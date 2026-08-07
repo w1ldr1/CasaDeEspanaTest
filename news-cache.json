@@ -1,10 +1,10 @@
 {
   "items": [
     {
-      "title": "El Gobierno amenaza con represalias a Italia si no retira los controles fronterizos a viajeros procedentes de España",
+      "title": "Italia rechaza el ultimátum del Gobierno y mantendrá los controles a los viajeros que lleguen de España hasta el 15 de agosto",
       "link": "https://elpais.com/espana/2026-08-07/el-gobierno-amenaza-con-represalias-a-italia-si-no-retira-los-controles-fronterizos-a-viajeros-procedentes-de-espana.html",
-      "desc": "El Ejecutivo manda un ultimátum a Meloni y aplicará medidas recíprocas a partir de este domingo si Roma no acaba con las restricciones",
-      "date": "Fri, 07 Aug 2026 12:08:30 GMT",
+      "desc": "El Ejecutivo amenaza con imponer medidas recíprocas a partir de este domingo si Roma no acaba con las restricciones",
+      "date": "Fri, 07 Aug 2026 14:10:45 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/5IIWLCIHPBFANC3JJWWFCYMJIE.jpg?auth=dbb52234220bd7b98991dbfed6b3854ada1798e3878fb27d8da51ddca3349475"
     },
     {
@@ -67,7 +67,7 @@
       "title": "La Fiscalía insta a la protección de los menores en Ceuta y avisa de que actuará si las comunidades rechazan el reparto",
       "link": "https://elpais.com/espana/2026-08-07/la-fiscal-general-insta-a-la-proteccion-de-los-menores-migrantes-en-ceuta-y-avisa-de-que-actuara-si-las-comunidades-rechazan-el-reparto.html",
       "desc": "El ministerio público dicta un decreto una semana después de la entrada irregular de más de 72.000 personas a la ciudad autónoma",
-      "date": "Fri, 07 Aug 2026 11:15:54 GMT",
+      "date": "Fri, 07 Aug 2026 13:33:49 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/UT5TKDQRZVA2DELP3ALV7DPFLU.jpg?auth=388290fe40cc55380bbac2fd770c05b75ea0ae2537e36dc3cec96f3684819c41"
     },
     {
@@ -81,7 +81,7 @@
       "title": "La Fiscalía pide 30 años de cárcel para cinco exjefes de ETA por el asesinato de Gregorio Ordóñez",
       "link": "https://elpais.com/espana/2026-08-07/la-fiscalia-pide-30-anos-de-carcel-para-cinco-exjefes-de-eta-por-el-asesinato-de-gregorio-ordonez.html",
       "desc": "El ministerio público propone escuchar en el juicio a dos etarras que declararon como testigos protegidos contra la antigua cúpula de la banda terrorista",
-      "date": "Fri, 07 Aug 2026 10:07:14 GMT",
+      "date": "Fri, 07 Aug 2026 13:15:26 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/YRAQDTJNW3PMEUIHRWI2Y4NJRU.jpg?auth=8d6e94e6985420a14e60f45fda32feffefaa6ebbe8a2fce0a16ca888de1b1f66"
     },
     {
@@ -134,5 +134,5 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260806/1202387_115539_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1786108068861
+  "fetchedAt": 1786113115588
 }
