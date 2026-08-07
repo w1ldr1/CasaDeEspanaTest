@@ -1,11 +1,18 @@
 {
   "items": [
     {
-      "title": "Pulso entre el Gobierno y el PP por las explicaciones parlamentarias sobre la crisis de Ceuta",
+      "title": "El Gobierno amenaza con represalias a Italia si no retira los controles fronterizos a viajeros procedentes de España",
+      "link": "https://elpais.com/espana/2026-08-07/el-gobierno-amenaza-con-represalias-a-italia-si-no-retira-los-controles-fronterizos-a-viajeros-procedentes-de-espana.html",
+      "desc": "El Ejecutivo manda un ultimátum a Meloni y aplicará medidas recíprocas a partir de este domingo si Roma no acaba con las restricciones",
+      "date": "Fri, 07 Aug 2026 12:08:30 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/5IIWLCIHPBFANC3JJWWFCYMJIE.jpg?auth=dbb52234220bd7b98991dbfed6b3854ada1798e3878fb27d8da51ddca3349475"
+    },
+    {
+      "title": "El Gobierno explicará en el Congreso la crisis de Ceuta y rechaza el intento del PP de anticiparlo en el Senado",
       "link": "https://elpais.com/espana/2026-08-07/el-gobierno-pide-la-comparecencia-de-marlaska-albares-robles-y-bolanos-en-el-congreso-por-la-crisis-en-ceuta.html",
-      "desc": "Cuatro ministros comparecerán a partir del 25 en el Congreso e ignorarán el intento de los populares de anticipar las citas la próxima semana en el Senado",
+      "desc": "Cuatro ministros comparecerán a partir del 25 e ignorarán el intento de los populares de celebrar los debates la próxima semana en la Cámara alta",
       "date": "Fri, 07 Aug 2026 11:22:50 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/GVQCLKNOQNCQJDRCV7IWE7UEGQ.jpg?auth=28a1aaf848817e7443c9d60e43936f6e0112627d52b31cd0169c78060a27b185"
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/TPYRJL7RHFJTBGDA4NLNFCUYIE.jpg?auth=49b0eaf46d25bb99d7bbdf0635dfec705a567683fc4b35c1a90bde557df52908"
     },
     {
       "title": "Las ONG de Marruecos elevan a 141 la cifra de muertos a ambos lados de la frontera de Ceuta",
@@ -13,13 +20,6 @@
       "desc": "La Asociación Marroquí de Derechos Humanos recopila datos oficiales y de organizaciones humanitarias",
       "date": "Fri, 07 Aug 2026 10:54:27 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/3A6MZOVB7BGSTDDKVH752T64JU.jpg?auth=0c6623bc6ba2ff1ad4631dec6757f852fd2cd832f5fe0223a41ab244f8e5618a"
-    },
-    {
-      "title": "El Gobierno se prepara para el reparto de los menores migrantes con la anuencia del PP",
-      "link": "https://elpais.com/espana/2026-08-07/el-gobierno-se-prepara-para-el-reparto-de-los-menores-migrantes-con-la-anuencia-del-pp.html",
-      "desc": "Los populares abandonan su ambigüedad y prometen que cumplirán una ley a la que se opusieron",
-      "date": "Fri, 07 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/6VLMEIVUHZHV7GB32MU4AL576U.jpg?auth=ffc1ea96d631bb39505128e03600a76ecd5499392c01532189ffac751ed5bec4"
     },
     {
       "title": "Europa y el espejismo ceutí",
@@ -57,6 +57,20 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/2PY73DRWFRCNTL544KGA22UNR4.jpg?auth=01a997cf4d685500393e41c563a96f295cc9ad12d98e2220eea51e34825e6e08"
     },
     {
+      "title": "El Gobierno se prepara para el reparto de los menores migrantes con la anuencia del PP",
+      "link": "https://elpais.com/espana/2026-08-07/el-gobierno-se-prepara-para-el-reparto-de-los-menores-migrantes-con-la-anuencia-del-pp.html",
+      "desc": "Los populares abandonan su ambigüedad y prometen que cumplirán una ley a la que se opusieron",
+      "date": "Fri, 07 Aug 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/6VLMEIVUHZHV7GB32MU4AL576U.jpg?auth=ffc1ea96d631bb39505128e03600a76ecd5499392c01532189ffac751ed5bec4"
+    },
+    {
+      "title": "La Fiscalía insta a la protección de los menores en Ceuta y avisa de que actuará si las comunidades rechazan el reparto",
+      "link": "https://elpais.com/espana/2026-08-07/la-fiscal-general-insta-a-la-proteccion-de-los-menores-migrantes-en-ceuta-y-avisa-de-que-actuara-si-las-comunidades-rechazan-el-reparto.html",
+      "desc": "El ministerio público dicta un decreto una semana después de la entrada irregular de más de 72.000 personas a la ciudad autónoma",
+      "date": "Fri, 07 Aug 2026 11:15:54 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/UT5TKDQRZVA2DELP3ALV7DPFLU.jpg?auth=388290fe40cc55380bbac2fd770c05b75ea0ae2537e36dc3cec96f3684819c41"
+    },
+    {
       "title": "Interior saca pecho ante la UE por su lucha contra las mafias de inmigración irregular con una macrooperación con 78 detenidos",
       "link": "https://elpais.com/espana/2026-08-07/interior-saca-pecho-ante-la-ue-de-su-lucha-contra-las-mafias-de-inmigracion-irregular-con-una-macrooperacion-con-78-detenidos.html",
       "desc": "La Guardia Civil y la Policía Nacional desarticulan una organización que ganó más de 24 millones de euros por trasladar a más de 2.000 personas en 64 viajes a España",
@@ -73,7 +87,7 @@
     {
       "title": "El PSOE denuncia ante la justicia la compra del ático del Gobierno de Ayuso: “Se van a arrepentir”",
       "link": "https://elpais.com/espana/2026-08-07/el-psoe-denunciara-ante-la-justicia-la-compra-del-atico-del-gobierno-de-ayuso.html",
-      "desc": "Óscar López anuncia medidas legales contra el consejo de administración de Planifica Madrid para aclarar la adquisición por más de seis millones del inmueble de lujo",
+      "desc": "Óscar López anuncia medidas legales contra el consejo de administración de Planifica Madrid para aclarar la adquisición por más de seis millones del inmueble de lujo. Ayuso, muy molesta, ha respondido: “No trabajo para mis adversarios”",
       "date": "Fri, 07 Aug 2026 09:15:08 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260807/1202653_095930_video_1800.mp4"
     },
@@ -118,21 +132,7 @@
       "desc": "La norma obliga a realojar a los niños y jóvenes cuando otro territorio exceda por tres su capacidad. El presidente de Melilla, también del PP, pide un “gesto de solidaridad” a sus compañeros",
       "date": "Thu, 06 Aug 2026 12:07:27 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260806/1202387_115539_video_1800.mp4"
-    },
-    {
-      "title": "Vox y Sumar coinciden al pedir que se excluya a Marruecos de la organización del Mundial 2030",
-      "link": "https://elpais.com/espana/2026-08-06/vox-y-sumar-coinciden-al-pedir-que-se-excluya-a-marruecos-de-la-organizacion-del-mundial-2030.html",
-      "desc": "El partido de ultraderecha registra una proposición en el Congreso tras lo ocurrido en Ceuta y están dispuestos a apoyar la que presentó Sumar",
-      "date": "Thu, 06 Aug 2026 12:15:56 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/6VLMEIVUHZHV7GB32MU4AL576U.jpg?auth=ffc1ea96d631bb39505128e03600a76ecd5499392c01532189ffac751ed5bec4"
-    },
-    {
-      "title": "La acogida de menores por la crisis de Ceuta pone a prueba los pactos de PP y Vox en las comunidades",
-      "link": "https://elpais.com/espana/2026-08-06/la-acogida-de-menores-por-la-crisis-de-ceuta-pone-a-prueba-los-pactos-de-pp-y-vox-en-las-comunidades.html",
-      "desc": "Los líderes del Partido Popular aseguran que cumplirán la ley pese a estar en contra y a los acuerdos firmados; los niños y jóvenes extranjeros han seguido llegando a la Península al menos hasta mediados de julio",
-      "date": "Thu, 06 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260806/1202387_115539_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1786102881932
+  "fetchedAt": 1786107160841
 }
