@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "title": "Albares garantiza la integridad de Schengen y asegura que ningún migrante ha llegado a la Península",
+      "link": "https://elpais.com/espana/2026-08-11/albares-garantiza-la-integridad-de-schengen-y-asegura-que-ningun-migrante-ha-llegado-a-la-peninsula.html",
+      "desc": "El ministro de Exteriores ha sentenciado que “hasta la última persona que ha entrado irregularmente en España volverá a Marruecos”, ya que esa es la “voluntad expresa” de Rabat",
+      "date": "Tue, 11 Aug 2026 12:42:51 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/GHKNCAOKANBINKVD25QIQWO6JY.jpg?auth=ab184f3babf0a0570cd37cb7b6d4f0d46d891e9c302e244e3b81587ea1e85d1b"
+    },
+    {
       "title": "El Gobierno y el Senado se encaminan hacia un choque institucional por las comparecencias sobre la crisis de Ceuta",
       "link": "https://elpais.com/espana/2026-08-11/el-gobierno-y-el-senado-se-encaminan-hacia-un-choque-institucional-por-las-comparecencias-sobre-la-crisis-de-ceuta.html",
       "desc": "El PP reformó el reglamento de la Cámara alta para hacer “obligatoria” su asistencia y ya recurrió al Constitucional cuando Sánchez no respondió a una cita por Adamuz",
@@ -8,18 +15,11 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/SD2YQX2JOREYJCIDBLIXX2H67M.jpg?auth=9858b799e2422c51e421d800b041770b1e6b817ff090963744f03f52088aca3d"
     },
     {
-      "title": "Los bulos que propiciaron la avalancha migratoria hacia Ceuta: “La puerta está abierta”",
-      "link": "https://elpais.com/espana/2026-08-11/los-bulos-que-propiciaron-la-la-avalancha-migratoria-hacia-ceuta-la-puerta-esta-abierta.html",
-      "desc": "El estudio de un investigador marroquí que siguió al instante la crisis muestra que los vídeos de los primeros cruces exitosos con millones de visualizaciones arrastraron la marea de jóvenes a la frontera. Un organismo oficial de Marruecos identifica “cuentas extranjeras y posibles redes organizadas”",
-      "date": "Tue, 11 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/PMKEPGCY6VMEXDIKUATPK3VH3A.jpg?auth=4822a8cf1f6d6efc2a7a6f88d4103cce42e745917cf31ba8f03a9e025802c45e"
-    },
-    {
-      "title": "Crimen de Tauste: la investigación se centra en esclarecer el papel de la hija y su novio en el homicidio y en cómo llegaron a la casa",
-      "link": "https://elpais.com/espana/2026-08-11/crimen-de-tauste-la-investigacion-se-centra-en-esclarecer-el-papel-de-la-hija-y-su-novio-en-el-homicidio-y-en-como-llegaron-a-la-casa.html",
-      "desc": "El entorno de las víctimas apunta que los detenidos habían hablado recientemente con el matrimonio del pueblo zaragozano sobre un tema personal que pudo desencadenar el crimen",
-      "date": "Tue, 11 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260810/1203367_133908_video_1800.mp4"
+      "title": "El fuego sigue activo en Niebla: “Es un incendio al que todavía le quedan días de trabajo”",
+      "link": "https://elpais.com/espana/2026-08-11/el-fuego-sigue-activo-en-niebla-es-un-incendio-al-que-todavia-le-quedan-dias-de-trabajo.html",
+      "desc": "Los medios aéreos se han ido incorporando desde primera hora del día para contener unas llamas que han afectado a 25.000 hectáreas y mantienen desalojadas a 700 personas",
+      "date": "Tue, 11 Aug 2026 10:00:00 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260811/1203642_111450_video_1800.mp4"
     },
     {
       "title": "La misma crisis en Ceuta en un mundo diferente",
@@ -55,6 +55,27 @@
       "desc": "Si la Roja triunfó por el juego cooperativo, quizá la desafección política tenga su origen en el juego disgregador que caracteriza a nuestros representantes",
       "date": "Thu, 06 Aug 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/66Y5KER55JBNDCEYOLJZYMT7N4.jpg?auth=362e634780aad652a77ece4634ed5e339c01d3d2accacdeea4f278bf1eaacf66"
+    },
+    {
+      "title": "Un fallo de la IA que usaba para estafar delata a un ciberdelincuente",
+      "link": "https://elpais.com/espana/2026-08-11/un-fallo-de-la-ia-que-usaba-para-estafar-delata-a-un-ciberdelincuente.html",
+      "desc": "La Policía detiene en Murcia a un hombre acusado de valerse de esta tecnología para modificar la imagen de su rostro e intentar suplantar a 30 víctimas",
+      "date": "Tue, 11 Aug 2026 12:13:48 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/LCM2NJUMFRFBRNRBLNONH5ODRY.jpg?auth=3f9cdb28c84929f51f79bcdc7cf745e4b178633392819d25cb98ee6b79a52972"
+    },
+    {
+      "title": "Los bulos que propiciaron la avalancha migratoria hacia Ceuta: “La puerta está abierta”",
+      "link": "https://elpais.com/espana/2026-08-11/los-bulos-que-propiciaron-la-la-avalancha-migratoria-hacia-ceuta-la-puerta-esta-abierta.html",
+      "desc": "El estudio de un investigador marroquí que siguió al instante la crisis muestra que los vídeos de los primeros cruces exitosos con millones de visualizaciones arrastraron la marea de jóvenes a la frontera. Un organismo oficial de Marruecos identifica “cuentas extranjeras y posibles redes organizadas”",
+      "date": "Tue, 11 Aug 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/PMKEPGCY6VMEXDIKUATPK3VH3A.jpg?auth=4822a8cf1f6d6efc2a7a6f88d4103cce42e745917cf31ba8f03a9e025802c45e"
+    },
+    {
+      "title": "Crimen de Tauste: la investigación se centra en esclarecer el papel de la hija y su novio en el homicidio y en cómo llegaron a la casa",
+      "link": "https://elpais.com/espana/2026-08-11/crimen-de-tauste-la-investigacion-se-centra-en-esclarecer-el-papel-de-la-hija-y-su-novio-en-el-homicidio-y-en-como-llegaron-a-la-casa.html",
+      "desc": "El entorno de las víctimas apunta que los detenidos habían hablado recientemente con el matrimonio del pueblo zaragozano sobre un tema personal que pudo desencadenar el crimen",
+      "date": "Tue, 11 Aug 2026 03:30:01 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260810/1203367_133908_video_1800.mp4"
     },
     {
       "title": "Jordi Sànchez, líder social del 1-O: “En prisión, lo más suave que me decían era golpista”",
@@ -111,28 +132,7 @@
       "desc": "El Ministro de Transportes ha compartido un mensaje en X este lunes",
       "date": "Mon, 10 Aug 2026 17:32:36 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/XNRN3NFG5ZD5ZNVHR4X2NBO6PM.jpg?auth=361e6641725bb7e3ee6439b14a7796886e9daccb4aa009824b9cec7d8536f160"
-    },
-    {
-      "title": "Los incendios en Segovia evolucionan favorablemente, pero se mantiene el desalojo de dos localidades",
-      "link": "https://elpais.com/espana/2026-08-10/los-incendios-en-segovia-evolucionan-favorablemente-pero-se-mantiene-el-desalojo-de-176-personas.html",
-      "desc": "El fuego de Navas de San Antonio continúa en el nivel más alto de peligrosidad por la cercanía a núcleos urbanos y provoca el corte de dos carreteras",
-      "date": "Tue, 11 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/VZUBQQZTVVNTPH3V5C7JXDBJ3Q.jpg?auth=c953be34e5386d750c42a19cbf384c8442db71ac7f9c5abaa7c1c3cc43b0bc51"
-    },
-    {
-      "title": "El narco de la cocaína de Algeciras que blanqueó dinero para conseguir la libertad y fugarse",
-      "link": "https://elpais.com/espana/2026-08-10/la-trama-de-la-cocaina-de-algeciras-que-blanqueo-dinero-para-conseguir-la-libertad-y-fugarse.html",
-      "desc": "Los investigados acumularon 16,5 millones en efectivo y usaron otros tres para pagar las fianzas con las que consiguieron la libertad provisional",
-      "date": "Mon, 10 Aug 2026 11:01:25 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/RI6WFT7BEBDZ7GUPTRFYEXNSQE.jpg?auth=b12078c5d44c35aad9603f287c40a6c56d06bf1ca2f7a4fa776d07aea1898f3b"
-    },
-    {
-      "title": "El asilo que no llega a Ceuta: “Soy palestino, crucé a nado y no me dicen nada de mi solicitud”",
-      "link": "https://elpais.com/espana/2026-08-10/el-asilo-que-no-llega-a-ceuta-soy-palestino-cruce-a-nado-y-no-me-dicen-nada-de-mi-solicitud.html",
-      "desc": "Más de 2.000 refugiados están a la espera de que se resuelva su demanda de protección internacional",
-      "date": "Mon, 10 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260809/1203204_183943_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1786450021670
+  "fetchedAt": 1786456297911
 }
