@@ -1,11 +1,18 @@
 {
   "items": [
     {
+      "title": "El PP, a la silla vacía de Marlaska en la Comisión del Senado por Ceuta: “Es un acto de desobediencia deliberado e inexcusable”",
+      "link": "https://elpais.com/espana/2026-08-12/el-pp-a-la-silla-vacia-de-marlaska-en-la-comision-del-senado-por-ceuta-es-un-acto-de-desobediencia-deliberado-e-inexcusable.html",
+      "desc": "Los populares, Vox y Junts asisten a la sesión y cargan contra el Gobierno. El presidente del órgano “adoptará las decisiones políticas y legales para que no quede sin consecuencias” la ausencia del ministro",
+      "date": "Wed, 12 Aug 2026 11:40:05 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/HFXWCN65P5NNBLJLWUK2N24ZJI.jpg?auth=afc3676817888d9437ed7f7a53bd7a3944872b89c51727c762cfb31c63de86c6"
+    },
+    {
       "title": "El Gobierno afirma que irá al Senado pero no en los plazos que impone el PP",
       "link": "https://elpais.com/espana/2026-08-12/el-gobierno-afirma-que-ira-al-senado-pero-no-en-los-plazos-que-impone-el-pp.html",
       "desc": "El Ejecutivo da largas a la Cámara alta, que sufrirá este miércoles el primer plantón, por parte de Marlaska",
       "date": "Wed, 12 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/WKHLZJ5KSBALNOTXUTUDDNY53A.jpg?auth=dedf3cd233695d29f97655c0ac654899f2865498c8398ebb0038f8500e319603"
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260812/1203932_104351_video_1800.mp4"
     },
     {
       "title": "El Gobierno y PP coinciden en que la “prioridad” es la repatriación de los menores solos de Ceuta a Marruecos",
@@ -13,13 +20,6 @@
       "desc": "La devolución de los niños y jóvenes a sus familias requiere de unos procedimientos administrativos tasados y que pueden alargarse si no se refuerzan antes los equipos. En la crisis de 2021 se retornaron de forma inmediata 55",
       "date": "Wed, 12 Aug 2026 03:30:01 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260812/1203880_071327_video_1800.mp4"
-    },
-    {
-      "title": "El Tarajal contiene la respiración: presión policial y tensa espera en la frontera de Ceuta",
-      "link": "https://elpais.com/espana/2026-08-12/el-tarajal-contiene-la-respiracion-cronica-desde-la-frontera-de-ceuta.html",
-      "desc": "El paso fronterizo vive con intensidad los días tras el cruce a nado y la vuelta a Marruecos de migrantes",
-      "date": "Wed, 12 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/FCVPUODGF5BSZEHGO2QWCFGXMY.jpg?auth=23b4a231dfc591ba66ae5ed444fe32f4ae8668d8acaca8588ac52da6f36788c7"
     },
     {
       "title": "La misma crisis en Ceuta en un mundo diferente",
@@ -57,10 +57,24 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/66Y5KER55JBNDCEYOLJZYMT7N4.jpg?auth=362e634780aad652a77ece4634ed5e339c01d3d2accacdeea4f278bf1eaacf66"
     },
     {
+      "title": "El incendio de Niebla progresa con saltos “espectaculares” en contra del viento tras calcinar 28.000 hectáreas",
+      "link": "https://elpais.com/espana/2026-08-12/el-incendio-de-niebla-progresa-con-saltos-espectaculares-en-contra-del-viento-tras-calcinar-28000-hectareas.html",
+      "desc": "Según el consejero de Emergencias andaluz, Antonio Sanz, la noche ha sido “francamente compleja” y hay 681 personas que permanecen fuera de sus casas",
+      "date": "Wed, 12 Aug 2026 11:31:54 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/COF3QGHGZNMERNJDBJDKENWNXI.jpg?auth=b12f535be0fd42521fae0437b71c55912b8e6d0bdf9314a2595e948f04b5ff27"
+    },
+    {
+      "title": "El Tarajal contiene la respiración: presión policial y tensa espera en la frontera de Ceuta",
+      "link": "https://elpais.com/espana/2026-08-12/el-tarajal-contiene-la-respiracion-cronica-desde-la-frontera-de-ceuta.html",
+      "desc": "El paso fronterizo vive con intensidad los días tras el cruce a nado y la vuelta a Marruecos de migrantes",
+      "date": "Wed, 12 Aug 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/FCVPUODGF5BSZEHGO2QWCFGXMY.jpg?auth=23b4a231dfc591ba66ae5ed444fe32f4ae8668d8acaca8588ac52da6f36788c7"
+    },
+    {
       "title": "España acumula ya 226.391 hectáreas quemadas por los incendios forestales, un 38% más que en 2025",
       "link": "https://elpais.com/espana/2026-08-12/espana-acumula-ya-226391-hectareas-quemadas-por-los-incendios-forestales-un-38-mas-que-en-2025.html",
       "desc": "El año pasado por estas fechas habían ardido unas 140.000 hectáreas en todo el territorio nacional",
-      "date": "Wed, 12 Aug 2026 09:40:57 GMT",
+      "date": "Wed, 12 Aug 2026 10:35:52 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/A2MPLGZB3JKNPHO23ZJDNS2RA4.jpg?auth=5d932efb71b9059868940f1e4f8e499eb6ee497387c341942f86c2d7602f6c58"
     },
     {
@@ -118,21 +132,7 @@
       "desc": "Robles anticipa a Rueda que emitirá un informe favorable al proyecto",
       "date": "Tue, 11 Aug 2026 15:53:57 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/2UOV26JMNVPL7N3MEPBJFAOVKI.jpg?auth=dde574e7feec9c4ba0da44e344b9cca0d1d8ac20e9de760411c9e720835238d8"
-    },
-    {
-      "title": "Bruselas crea un canal de coordinación con TikTok y Meta para evitar la desinformación sobre Ceuta",
-      "link": "https://elpais.com/espana/2026-08-11/bruselas-crea-un-canal-de-coordinacion-con-tiktok-y-meta-para-evitar-la-desinformacion-sobre-ceuta.html",
-      "desc": "La vicepresidenta de la Comisión, Henna Virkkunen, reclamó a las empresas que activaran los mecanismos y protocolos de crisis",
-      "date": "Tue, 11 Aug 2026 16:55:55 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/HN6NNNOTDZK5XJ2VWNUZTGAUNM.jpg?auth=63c4ad003982fd737d55de78fd0a14e9cb9ff2555c5a361797084af52d2e1fde"
-    },
-    {
-      "title": "El ministro Puente explica su crítica al Rey por su foto con Javier Negre en Colombia: “Su imagen se contamina. Es inaceptable”",
-      "link": "https://elpais.com/espana/2026-08-11/el-ministro-puente-explica-su-critica-al-rey-por-su-foto-con-javier-negre-en-colombia-su-imagen-se-contamina-es-inaceptable.html",
-      "desc": "El PP sale en tromba contra la actitud del titular de la cartera del Ministerio de Transportes y Vox, mientras tanto, guarda silencio",
-      "date": "Tue, 11 Aug 2026 13:35:51 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/EVW5GDU4PZCLHEJGXE5L73OBCY.jpg?auth=2b7d0a042030ae4b451aa191c8fb73c0c70be81ff5328f8524c021d2a9851afe"
     }
   ],
-  "fetchedAt": 1786530863878
+  "fetchedAt": 1786535291311
 }
