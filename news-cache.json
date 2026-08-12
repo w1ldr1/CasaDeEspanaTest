@@ -57,6 +57,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/66Y5KER55JBNDCEYOLJZYMT7N4.jpg?auth=362e634780aad652a77ece4634ed5e339c01d3d2accacdeea4f278bf1eaacf66"
     },
     {
+      "title": "España acumula ya 226.391 hectáreas quemadas por los incendios forestales, un 38% más que en 2025",
+      "link": "https://elpais.com/espana/2026-08-12/espana-acumula-ya-226391-hectareas-quemadas-por-los-incendios-forestales-un-38-mas-que-en-2025.html",
+      "desc": "El año pasado por estas fechas habían ardido unas 140.000 hectáreas en todo el territorio nacional",
+      "date": "Wed, 12 Aug 2026 09:40:57 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/A2MPLGZB3JKNPHO23ZJDNS2RA4.jpg?auth=5d932efb71b9059868940f1e4f8e499eb6ee497387c341942f86c2d7602f6c58"
+    },
+    {
       "title": "Hablan los niños migrantes en Ceuta de los que todos hablan",
       "link": "https://elpais.com/espana/2026-08-12/hablan-los-ninos-migrantes-en-ceuta-de-los-que-todos-hablan.html",
       "desc": "Menores acogidos en un campamento improvisado de Ceuta cuentan sus sueños por carta para que los que se oponen a su acogida los conozcan",
@@ -99,6 +106,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/SD2YQX2JOREYJCIDBLIXX2H67M.jpg?auth=9858b799e2422c51e421d800b041770b1e6b817ff090963744f03f52088aca3d"
     },
     {
+      "title": "Policías rechazan las acusaciones de maltrato a migrantes en Ceuta lanzadas por una organización marroquí",
+      "link": "https://elpais.com/espana/2026-08-12/policias-rechazan-las-acusaciones-de-maltrato-a-migrantes-en-ceuta-lanzadas-por-una-organizacion-marroqui.html",
+      "desc": "El Sindicato Unificado de Policía recuerda que “una acusación de esta gravedad exige pruebas”",
+      "date": "Wed, 12 Aug 2026 08:54:53 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/YWH6NQ5B2JOH3OWTSRDKO7XTFQ.jpg?auth=d9a3d3120e3bae9efc0854ac1ef116e7ee41336d6da599a6c844b62958b011ad"
+    },
+    {
       "title": "Defensa comunica a la Xunta que no pondrá objeciones a la fábrica china en Ferrol",
       "link": "https://elpais.com/espana/2026-08-11/defensa-comunica-a-la-xunta-que-no-pondra-objeciones-a-la-fabrica-china-en-ferrol.html",
       "desc": "Robles anticipa a Rueda que emitirá un informe favorable al proyecto",
@@ -118,21 +132,7 @@
       "desc": "El PP sale en tromba contra la actitud del titular de la cartera del Ministerio de Transportes y Vox, mientras tanto, guarda silencio",
       "date": "Tue, 11 Aug 2026 13:35:51 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/EVW5GDU4PZCLHEJGXE5L73OBCY.jpg?auth=2b7d0a042030ae4b451aa191c8fb73c0c70be81ff5328f8524c021d2a9851afe"
-    },
-    {
-      "title": "Robles y Marlaska insisten en plantar al PP en el Senado esta semana",
-      "link": "https://elpais.com/espana/2026-08-11/robles-y-marlaska-insisten-en-plantar-al-pp-en-el-senado-esta-semana.html",
-      "desc": "Los populares trasladan al próximo martes la convocatoria de la ministra de Defensa y aseguran que ella está dispuesta, pero el Gobierno no lo confirma",
-      "date": "Tue, 11 Aug 2026 13:10:12 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/GOZKSPMIFZFK7ON27KVMXXVW7A.jpg?auth=606adc8e71c86391c0bae2babb26021e39e7b4fa22f9353478415672f2e11451"
-    },
-    {
-      "title": "El fuego sigue activo en Niebla: “Es un incendio al que todavía le quedan días de trabajo”",
-      "link": "https://elpais.com/espana/2026-08-11/el-fuego-sigue-activo-en-niebla-es-un-incendio-al-que-todavia-le-quedan-dias-de-trabajo.html",
-      "desc": "Los medios aéreos se han ido incorporando desde primera hora del día para contener unas llamas que han afectado a 25.000 hectáreas y mantienen desalojadas a 700 personas",
-      "date": "Tue, 11 Aug 2026 19:21:30 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260811/1203642_111450_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1786525959555
+  "fetchedAt": 1786530863878
 }
