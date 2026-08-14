@@ -71,6 +71,13 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204563_091136_video_1800.mp4"
     },
     {
+      "title": "Un juez envía a prisión provisional al detenido por el incendio en Las Peñas de Riglos (Huesca)",
+      "link": "https://elpais.com/espana/2026-08-14/un-juez-envia-a-prision-provisional-al-detenido-por-el-incendio-en-las-penas-de-riglos-huesca.html",
+      "desc": "Agentes de la Guardia Civil detuvieron al hombre de 28 años el pasado miércoles",
+      "date": "Fri, 14 Aug 2026 20:08:52 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/FNKMLVC3R5P5JCEW74PBWS5HDQ.jpg?auth=d1d073104baadcb6d2146cfe85c598ff2945cee849e1fa1b6946e17d5112ebf8"
+    },
+    {
       "title": "Detenido un hombre con antecedentes por provocar un incendio en León",
       "link": "https://elpais.com/espana/2026-08-14/detenido-un-hombre-con-antecedentes-por-provocar-un-incendio-en-leon.html",
       "desc": "El fuego arrasó 150 hectáreas y provocó que dos pueblos se evacuaran y dos se confinaran en julio",
@@ -125,14 +132,7 @@
       "desc": "Los populares cambian su mensaje y endurecen su posición sobre Rabat: “Ceuta y Melilla son España. En consecuencia, no se negocian. Se defienden”",
       "date": "Thu, 13 Aug 2026 12:23:31 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260813/1204334_142222_video_1800.mp4"
-    },
-    {
-      "title": "España cifra en hasta 5.000 los migrantes de Ceuta que pueden ser acogidos",
-      "link": "https://elpais.com/espana/2026-08-13/espana-cifra-en-hasta-5000-los-migrantes-de-ceuta-que-pueden-ser-acogidos.html",
-      "desc": "El Gobierno estima que 2.500 menores y unos 2.500 potenciales solicitantes de asilo siguen en la ciudad autónoma",
-      "date": "Thu, 13 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/BUQGICH5JBBWNHW45A6C54QOVM.jpg?auth=0ccc7b7f250c4989884aa2f6b6827c02dba2d5b09ad6d713dbc175caf029c852"
     }
   ],
-  "fetchedAt": 1786742799021
+  "fetchedAt": 1786744249074
 }
