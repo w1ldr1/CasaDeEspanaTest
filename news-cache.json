@@ -57,9 +57,9 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/7Z2MLSQSTBCRZNKGPGRL2UA6LY.JPG?auth=6b6e79a496099caa8a1defb257084d422d4c02a7dbd8c6d2e869ce31e4fc13c2"
     },
     {
-      "title": "El fuego en Niebla (Huelva) continúa fuera de control en el este tras arrasar más de 31.000 hectáreas",
+      "title": "El fuego en Huelva continúa su avance y se acerca a Aznalcóllar tras arrasar 31.000 hectáreas",
       "link": "https://elpais.com/espana/2026-08-14/el-fuego-en-niebla-huelva-continua-fuera-de-control-tras-arrasar-mas-de-31000-hectareas.html",
-      "desc": "El presidente de la Junta de Andalucía visita este viernes el puesto de mando avanzado del incendio por el que permanecen desalojadas 658 personas",
+      "desc": "El incendio está entre “los más extensos y peligrosos de la historia”, según la Junta de Andalucía",
       "date": "Fri, 14 Aug 2026 10:38:04 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204563_091136_video_1800.mp4"
     },
@@ -134,5 +134,5 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204546_083116_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1786704839577
+  "fetchedAt": 1786707640267
 }
