@@ -15,10 +15,10 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204629_112708_video_1800.mp4"
     },
     {
-      "title": "Un terremoto de magnitud 5 sacude Granada sin causar víctimas",
+      "title": "Un terremoto de magnitud 5 sacude Granada: “Sentimos miedo, mucho miedo”",
       "link": "https://elpais.com/espana/2026-08-15/la-junta-de-anadalucia-activa-la-fase-de-emergencia-por-un-seismo-de-magnitud-cinco-en-granada.html",
-      "desc": "La Junta de Andalucía ha activado la fase de emergencia tras el seísmo, que ha tenido epicentro en Alhendín y ha provocado daños materiales y decenas de llamadas al 112",
-      "date": "Sat, 15 Aug 2026 06:40:11 GMT",
+      "desc": "El temblor, que solo ha dejado daños materiales y no ha causado víctimas, ocurrió a la una de la madrugada y ha estado seguido de casi medio centenar de réplicas",
+      "date": "Sat, 15 Aug 2026 08:32:56 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260815/1204843_063802_video_1800.mp4"
     },
     {
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/ZM6TXRRUZRB6ZPE6RLMGBPDICI.jpg?auth=0b98169952c4675e4b6de8ad7b817b0be6114c9d7c4d478d73789690fa89a6c1"
     }
   ],
-  "fetchedAt": 1786782076753
+  "fetchedAt": 1786783973780
 }
