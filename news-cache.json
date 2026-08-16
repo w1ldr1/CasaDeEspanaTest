@@ -22,6 +22,20 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260815/1204864_094342_video_1800.mp4"
     },
     {
+      "title": "El diablo del yo y las 80 tumbas sin nombre",
+      "link": "https://elpais.com/opinion/2026-08-16/el-diablo-del-yo-y-las-80-tumbas-sin-nombre.html",
+      "desc": "El ego es ya el guionista de nuestras vidas, pero hay cosas más importantes que solucionar",
+      "date": "Sun, 16 Aug 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/PYG2O6E2DRGGJMDBHBQOODLCJU.jpg?auth=27986719d3645e64d13f50e4e20c9c267e50e52d2687496e0137cb2146c826b4"
+    },
+    {
+      "title": "La frontera de Ceuta como muro de Berlín invertido",
+      "link": "https://elpais.com/opinion/2026-08-16/la-frontera-de-ceuta-como-muro-de-berlin-invertido.html",
+      "desc": "Tan importante es garantizar la seguridad de las fronteras como evitar que ese propósito destruya nuestros principios y valores",
+      "date": "Sun, 16 Aug 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/LEJE2GB4KVJOZK4CMZAUCT336E.jpg?auth=fe042ab73bc1b27bafb15a0a10e398519cc8acfec4bebee455c416681c2fb9fd"
+    },
+    {
       "title": "Las heridas que heredaron los nietos",
       "link": "https://elpais.com/opinion/2026-08-15/las-heridas-que-heredaron-los-nietos.html",
       "desc": "Cuando una democracia renuncia a identificar a sus desaparecidos, prolonga el sufrimiento de quienes siguen buscándolas",
@@ -41,20 +55,6 @@
       "desc": "España debe tener en cuenta en su política migratoria la extrema sensibilidad actual de los socios y aliados",
       "date": "Fri, 14 Aug 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/DUHISLVZXJCQFJ44NTMC4KXTDM.jpg?auth=f15cd21dfed872573358d1450261c0a081993319d94370931b790bcc99e270b0"
-    },
-    {
-      "title": "La misma crisis en Ceuta en un mundo diferente",
-      "link": "https://elpais.com/opinion/2026-08-08/la-misma-crisis-en-ceuta-en-un-mundo-diferente.html",
-      "desc": "Europa necesita recuperar una conversación adulta sobre la inmigración que transforme su vulnerabilidad presente en resiliencia",
-      "date": "Sat, 08 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XUEE5X6PE5HSTMAL5CHA356IXA.jpg?auth=e699dcb0fa970b5c0d718f093636ad08560656fb07a5e90f75d80862496f269d"
-    },
-    {
-      "title": "Europa y el espejismo ceutí",
-      "link": "https://elpais.com/opinion/2026-08-07/europa-y-el-espejismo-ceuti.html",
-      "desc": "La respuesta a la crisis migratoria en Ceuta se enmarca en la deriva hacia el autoritarismo posdemocrático que amenaza a las democracias europeas",
-      "date": "Fri, 07 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/ODSAT3IESMHLQYQKQ3LDF5GQBU.jpg?auth=624d65fc3cb61a56a38169bd484816a58a171624d58c0733ab19636a686dbe80"
     },
     {
       "title": "‘Operación Jaula’ en Castillejos: no es frontera para jóvenes",
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/FSLEK5QP6NNB5NVLSWQVIYNUWY.jpg?auth=bb95eeda44db6d31d35530952362cdda6a8e866a3f8fb998d37875ec73976a69"
     }
   ],
-  "fetchedAt": 1786851771404
+  "fetchedAt": 1786854621101
 }
