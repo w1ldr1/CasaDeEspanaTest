@@ -1,25 +1,25 @@
 {
   "items": [
     {
-      "title": "Marruecos frustra el intento de cientos de migrantes subsaharianos de alcanzar Ceuta",
-      "link": "https://elpais.com/espana/2026-08-15/marruecos-frustra-el-intento-de-cientos-de-migrantes-subsaharianos-de-alcanzar-ceuta.html",
-      "desc": "Las fuerzas de seguridad marroquíes han detenido a 61 personas por incitar a la migración ilegal en un dispositivo que mantiene blindadas las fronteras de Ceuta y Melilla con el país magrebí",
-      "date": "Sat, 15 Aug 2026 16:51:14 GMT",
+      "title": "Ceuta al límite: urgencias repletas, vecinos desbordados y ruidos de sirena",
+      "link": "https://elpais.com/espana/2026-08-16/ceuta-al-limite-urgencias-repletas-vecinos-desbordados-y-ruidos-de-sirena.html",
+      "desc": "En el centro de la ciudad se perciben menos personas migrantes deambulando, aunque en los barrios periféricos miles de personas siguen durmiendo en el suelo y copando las calles",
+      "date": "Sun, 16 Aug 2026 03:45:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/QGOUHH2QW5FRDMV7IYIWJILFNM.jpg?auth=802a0a3b18e03a9d5e4123cb887183c8b6150c616d8eafab10b6d55c9ee35473"
+    },
+    {
+      "title": "Marruecos exhibe su máxima fuerza como guardián de la frontera ceutí",
+      "link": "https://elpais.com/espana/2026-08-16/marruecos-exhibe-su-maxima-fuerza-como-guardian-de-la-frontera-ceuti.html",
+      "desc": "Rabat demuestra que tiene capacidad suficiente para frenar el acceso de inmigrantes a Europa. Los afectados suplican: “Dejadnos entrar en Ceuta”",
+      "date": "Sat, 15 Aug 2026 20:55:01 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260815/1204888_120620_video_1800.mp4"
     },
     {
-      "title": "Rabat expulsa a los periodistas de Efe y TVE de Castillejos",
-      "link": "https://elpais.com/espana/2026-08-15/rabat-ordena-a-los-periodistas-de-efe-y-tve-que-abandonen-castillejos.html",
-      "desc": "Los reporteros cubrían una carga de las fuerzas antidisturbios marroquíes para dispersar a migrantes que trataban de llegar a la frontera ceutí. El Gobierno de España asegura que está buscando una solución",
-      "date": "Sat, 15 Aug 2026 20:37:47 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/PYG2O6E2DRGGJMDBHBQOODLCJU.jpg?auth=27986719d3645e64d13f50e4e20c9c267e50e52d2687496e0137cb2146c826b4"
-    },
-    {
-      "title": "Un terremoto de magnitud 5 sacude Granada: “Sentimos miedo, mucho miedo”",
-      "link": "https://elpais.com/espana/2026-08-15/la-junta-de-anadalucia-activa-la-fase-de-emergencia-por-un-seismo-de-magnitud-cinco-en-granada.html",
-      "desc": "El temblor, que solo ha dejado daños materiales y no ha causado víctimas, ocurrió a la una de la madrugada y ha estado seguido de casi medio centenar de réplicas",
-      "date": "Sat, 15 Aug 2026 13:36:38 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260815/1204864_094342_video_1800.mp4"
+      "title": "El diario de Mohamed tras 15 días malviviendo en Ceuta, en busca de comida y lugar para dormir",
+      "link": "https://elpais.com/espana/2026-08-16/el-diario-de-mohamed-tras-15-dias-malviviendo-en-ceuta-en-busca-de-comida-y-lugar-para-dormir.html",
+      "desc": "El joven de 26 años, que cruzó a nado desde Marruecos, relata en primera persona sus dos semanas en El Tarajal, entre el hambre, la incertidumbre y el miedo a ser devuelto",
+      "date": "Sun, 16 Aug 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/KLV4UBL7H5DZ3PEFCQ3PJA4AHE.jpg?auth=cf3f74ee226d10297fd45c8cf6956b93aedcda4ce87e00ea22d60716c205074f"
     },
     {
       "title": "El diablo del yo y las 80 tumbas sin nombre",
@@ -57,53 +57,60 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/DUHISLVZXJCQFJ44NTMC4KXTDM.jpg?auth=f15cd21dfed872573358d1450261c0a081993319d94370931b790bcc99e270b0"
     },
     {
-      "title": "‘Operación Jaula’ en Castillejos: no es frontera para jóvenes",
-      "link": "https://elpais.com/espana/2026-08-15/operacion-jaula-en-castillejos-no-es-frontera-para-jovenes.html",
-      "desc": "Marruecos sella los accesos a Ceuta con agentes en cada encrucijada y sendero dos semanas después de la avalancha incontrolada de decenas de miles de migrantes",
-      "date": "Sat, 15 Aug 2026 03:45:01 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260815/1204888_120620_video_1800.mp4"
+      "title": "Rabat expulsa a los periodistas de Efe y TVE de Castillejos",
+      "link": "https://elpais.com/espana/2026-08-15/rabat-ordena-a-los-periodistas-de-efe-y-tve-que-abandonen-castillejos.html",
+      "desc": "Los reporteros cubrían una carga de las fuerzas antidisturbios marroquíes para dispersar a migrantes que trataban de llegar a la frontera ceutí. El Gobierno de España asegura que está buscando una solución",
+      "date": "Sat, 15 Aug 2026 20:37:47 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/PYG2O6E2DRGGJMDBHBQOODLCJU.jpg?auth=27986719d3645e64d13f50e4e20c9c267e50e52d2687496e0137cb2146c826b4"
     },
     {
-      "title": "Calma en las calles pero un runrún en las cabezas: Melilla teme un aluvión como el de Ceuta",
-      "link": "https://elpais.com/espana/2026-08-15/calma-en-la-calle-pero-un-runrun-en-las-cabezas-melilla-teme-un-aluvion-como-el-de-ceuta.html",
-      "desc": "El pasado 30 de julio, los melillenses vieron entrar a más de 1.300 personas desde Marruecos. Aunque la mayoría ha regresado, hay temor a una nueva avalancha, esta vez irrefrenable",
-      "date": "Sat, 15 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/QANOWMJ3VJDZLLLKP36MVB77UA.JPG?auth=8cda01762fae32e73fa37274d520189be67cc57a75baad89dbfab963d51019f6"
+      "title": "La crisis humanitaria en Ceuta se traslada a la periferia de la ciudad y provoca “una sensación de inseguridad”",
+      "link": "https://elpais.com/videos/2026-08-16/la-crisis-humanitaria-en-ceuta-se-traslada-a-la-periferia-de-la-ciudad-y-provoca-una-sensacion-de-inseguridad.html",
+      "desc": "Sin una nueva entrada masiva, la precariedad de cientos de inmigrantes en Ceuta agrava una situación crítica para la población y las niñas no acompañadas",
+      "date": "Sun, 16 Aug 2026 03:30:01 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260815/1204965_193957_video_1800.mp4"
     },
     {
-      "title": "Ceuta refuerza su frontera “para estar preparados” ante un nuevo intento de entrada masiva",
-      "link": "https://elpais.com/videos/2026-08-14/ceuta-refuerza-su-frontera-para-estar-preparados-ante-un-nuevo-intento-de-entrada-masiva.html",
-      "desc": "En la víspera de la convocatoria en redes para cruzar desde Marruecos, los ceutíes ven improbable que se repita el intento, debido al fuerte despliegue militar al otro lado de la frontera",
-      "date": "Fri, 14 Aug 2026 18:21:09 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204754_180104_video_1800.mp4"
+      "title": "La crisis de Ceuta aviva el debate sobre las vacaciones de los políticos: demagogia y problemas reales de gestión",
+      "link": "https://elpais.com/espana/2026-08-16/la-crisis-de-ceuta-aviva-el-debate-sobre-las-vacaciones-de-los-politicos-demagogia-y-problemas-reales-de-gestion.html",
+      "desc": "La oposición activa la polémica cada verano, pero los fallos en el operativo desplegado en la ciudad autónoma han alimentado la percepción de un Gobierno ausente",
+      "date": "Sun, 16 Aug 2026 03:45:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/PZTHTWA2BRDPRL4RCJNNOCZKJM.jpg?auth=87ac96a855e7071e710dadc6d8834849f69483c4bbddda57bc3fb03aae5797a9"
     },
     {
-      "title": "Decenas de guardias civiles y militares desembarcan en Ceuta ante el 15-A: “La alerta está, pero no es una amenaza real”",
-      "link": "https://elpais.com/espana/2026-08-15/decenas-de-guardias-civiles-y-militares-desembarcan-en-ceuta-ante-el-15-a-la-alerta-esta-pero-no-es-una-amenaza-real.html",
-      "desc": "Los vecinos de la ciudad autónoma muestran hastío, aunque no creen que este sábado se produzca una entrada extraordinaria por el refuerzo de Marruecos en la frontera",
-      "date": "Sat, 15 Aug 2026 03:45:01 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260815/1204888_120620_video_1800.mp4"
+      "title": "Crimen de Tauste: las 72 horas que llevaron a Carlota y su novio a prisión acusados de matar a los padres de ella",
+      "link": "https://elpais.com/espana/2026-08-16/crimen-de-tauste-las-72-horas-que-llevaron-a-una-hija-y-su-novio-a-prision-por-matar-a-sus-padres-javier-y-esther.html",
+      "desc": "La investigación apunta a la pareja a partir de las imágenes de las cámaras. El embarazo de la hija de las víctimas figura entre las hipótesis sobre un posible móvil",
+      "date": "Sun, 16 Aug 2026 03:45:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/CSW4MPQHVFAQVE7UUGU5HOPFJQ.jpg?auth=8f33dda089fb4bcb638b77f43fdf21db835f37a27c5f8d9b29f9608e8fcc70b7"
     },
     {
-      "title": "Antonio Maíllo: “Marruecos ha cometido una acción criminal con muertes. Hay que replantearse todo”",
-      "link": "https://elpais.com/espana/2026-08-14/antonio-maillo-marruecos-ha-cometido-una-accion-criminal-con-muertes-hay-que-replantearse-todo.html",
-      "desc": "El coordinador federal de Izquierda Unida defiende en EL PAÍS un cambio total en las relaciones diplomáticas con el país vecino tras la entrada masiva de inmigrantes en Ceuta",
-      "date": "Fri, 14 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/BGKZKEHGVBEZBPQB6HAZVYY4UQ.jpg?auth=3bb79ad64e35e74750f1fee31ccacfd275b2969239b62a22461142204e6629f2"
+      "title": "Mueren dos mujeres y dos menores resultan heridos tras una riada en Manzanedo de Valdueza (León)",
+      "link": "https://elpais.com/espana/2026-08-15/al-menos-un-fallecido-y-dos-menores-heridos-tras-una-riada-en-manzanedo-de-valdueza-leon.html",
+      "desc": "Una tromba de agua provoca las dos defunciones en un grupo de seis personas que pasaba la tarde en una bodega",
+      "date": "Sat, 15 Aug 2026 20:47:21 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/NZUEU2QD45CARH6VIVL6O7YWZE.jpg?auth=c699461893ffc4c7cd5b01b2ec651899826d68c98187169a8ad0dd8fb02e35a1"
     },
     {
-      "title": "Las ONG en Ceuta detectan niños de muy corta edad y más mujeres que en otros cruces masivos de la frontera",
-      "link": "https://elpais.com/espana/2026-08-14/las-ong-en-ceuta-detectan-ninos-de-muy-corta-edad-y-mas-mujeres-que-en-otros-cruces-masivos-de-la-frontera.html",
-      "desc": "Save the Children alerta de que puede haber unos 4.000 niños en la ciudad autonóma, cuya situación es de “desbordamiento”",
-      "date": "Fri, 14 Aug 2026 12:07:44 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204629_112708_video_1800.mp4"
+      "title": "Un terremoto de magnitud 5 sacude Granada: “Sentimos miedo, mucho miedo”",
+      "link": "https://elpais.com/espana/2026-08-15/la-junta-de-anadalucia-activa-la-fase-de-emergencia-por-un-seismo-de-magnitud-cinco-en-granada.html",
+      "desc": "El temblor, que solo ha dejado daños materiales y no ha causado víctimas, ocurrió a la una de la madrugada y ha estado seguido de casi medio centenar de réplicas",
+      "date": "Sat, 15 Aug 2026 13:36:38 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260815/1204864_094342_video_1800.mp4"
     },
     {
-      "title": "Las palabras de Albares activan el temor a la devolución entre los migrantes llegados a nado a Ceuta",
-      "link": "https://elpais.com/espana/2026-08-14/las-palabras-de-albares-activan-el-temor-a-la-devolucion-entre-los-migrantes-llegados-a-nado-a-ceuta.html",
-      "desc": "La confirmación de la cooperación con Marruecos dispara la preocupación entre quienes llevan dos semanas esperando en condiciones precarias una oportunidad para quedarse en España",
-      "date": "Fri, 14 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260811/1203692_144124_video_1800.mp4"
+      "title": "El Senado, fuerza de choque institucional",
+      "link": "https://elpais.com/espana/2026-08-16/el-senado-fuerza-de-choque-institucional.html",
+      "desc": "La disputa por las explicaciones del Gobierno sobre la crisis de Ceuta, penúltimo episodio de tres años de continuos conflictos de la Cámara alta con el Ejecutivo y el Congreso",
+      "date": "Sun, 16 Aug 2026 03:45:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/HFXWCN65P5NNBLJLWUK2N24ZJI.jpg?auth=afc3676817888d9437ed7f7a53bd7a3944872b89c51727c762cfb31c63de86c6"
+    },
+    {
+      "title": "Las dudas con Puigdemont y la pérdida de influencia diluyen a Junts en el final de la legislatura",
+      "link": "https://elpais.com/espana/2026-08-16/las-dudas-con-puigdemont-y-la-perdida-de-influencia-diluyen-a-junts-en-el-final-de-la-legislatura.html",
+      "desc": "El partido independentista acusa el desgaste por un pobre bagaje negociador, el asedio de la extrema derecha y las tensiones internas",
+      "date": "Sun, 16 Aug 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/NVLL5OJGRVC4RFN3GHGIJEYO2M.jpg?auth=1289c2686b6bd087219f7a19f89a66a9d2e36fa793519fef2b2e015f91dc03a9"
     },
     {
       "title": "Un juez envía a prisión provisional al detenido por el incendio en Las Peñas de Riglos (Huesca)",
@@ -113,13 +120,6 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/FNKMLVC3R5P5JCEW74PBWS5HDQ.jpg?auth=d1d073104baadcb6d2146cfe85c598ff2945cee849e1fa1b6946e17d5112ebf8"
     },
     {
-      "title": "Detenido un hombre con antecedentes por provocar un incendio en León",
-      "link": "https://elpais.com/espana/2026-08-14/detenido-un-hombre-con-antecedentes-por-provocar-un-incendio-en-leon.html",
-      "desc": "El fuego arrasó 150 hectáreas y provocó que dos pueblos se evacuaran y dos se confinaran en julio",
-      "date": "Fri, 14 Aug 2026 14:47:45 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/JRXTRXXA6FN6BMLMZEOZ6LIBTQ.jpg?auth=7196c71094cb4341db77c20c4d7e37e7d279c32c541aa2f7ae2a990fdf4883dd"
-    },
-    {
       "title": "El incendio de Huesca deja 18 municipios evacuados y amenaza San Juan de la Peña: “Si arde, se perdería el símbolo del origen de Aragón”",
       "link": "https://elpais.com/espana/2026-08-14/el-incendio-de-huesca-deja-16-municipios-evacuados-y-amenaza-san-juan-de-la-pena-si-arde-se-perderia-el-simbolo-del-origen-de-aragon.html",
       "desc": "850 personas siguen desalojadas y la UME trasladó este jueves los restos óseos de los primeros monarcas y otras piezas de valor",
@@ -127,12 +127,12 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204546_083116_video_1800.mp4"
     },
     {
-      "title": "El BOE publica la declaración del Pazo de Meirás como lugar de memoria democrática pero el símbolo sigue cerrado al público",
-      "link": "https://elpais.com/espana/2026-08-14/el-boe-publica-la-declaracion-del-pazo-de-meiras-como-lugar-de-memoria-democratica.html",
-      "desc": "El edificio representa “de forma singular los procesos de destrucción y reconstrucción de la democracia en España desde 1936 hasta la actualidad”, según una resolución que ha suscitado críticas del memorialismo gallego",
-      "date": "Fri, 14 Aug 2026 07:17:54 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/FSLEK5QP6NNB5NVLSWQVIYNUWY.jpg?auth=bb95eeda44db6d31d35530952362cdda6a8e866a3f8fb998d37875ec73976a69"
+      "title": "Hacinadas, drogadas y sometidas con ritos de santería: así malvivían las víctimas de una red de prostitución desarticulada en Soria y Castellón",
+      "link": "https://elpais.com/espana/comunidad-valenciana/2026-08-14/hacinadas-drogadas-y-sometidas-con-ritos-de-santeria-asi-malvivian-las-victimas-de-una-red-de-prostitucion-desarticulada-en-soria-y-castellon.html",
+      "desc": "La Policía Nacional detiene a los cinco cabecillas de la organización de trata de mujeres para su explotación sexual, que utilizaba contratos de arrendamiento para aparentar legalidad en los dos clubes en los que operaba",
+      "date": "Fri, 14 Aug 2026 13:06:37 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260814/1204676_140440_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1786878934536
+  "fetchedAt": 1786880586769
 }
