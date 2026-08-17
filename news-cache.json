@@ -85,10 +85,10 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/P5AORUTXHVGNRNMN6XPKBLFLVI.jpg?auth=f8c20c0fd2fcadaf92b1ca436ef864e453d559abe0e84f3964e1eae3da59eacf"
     },
     {
-      "title": "Cuatro muertos y un herido grave en un accidente de tráfico en la N-122 en Zaragoza",
+      "title": "Cuatro jóvenes de entre 18 y 21 años mueren en un accidente de tráfico en la N-122 en Zaragoza",
       "link": "https://elpais.com/espana/2026-08-17/cuatro-muertos-y-un-herido-grave-en-un-accidente-de-trafico-en-la-n-122-en-zaragoza.html",
-      "desc": "Se trata de un choque frontal entre un turismo y un camión",
-      "date": "Mon, 17 Aug 2026 09:40:23 GMT",
+      "desc": "Se trata de un choque frontal entre un turismo y un camión, cuyo conductor ha sido trasladado al hospital en estado grave",
+      "date": "Mon, 17 Aug 2026 18:31:08 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/WGZZMPSUGRCRRETK6MOCSMO2WQ.jfif?auth=870f8c9d53830e53e68290d5df59a92202d594e14a289f949775bc4f550e95a0"
     },
     {
@@ -134,5 +134,5 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260816/1205119_193519_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1786988086192
+  "fetchedAt": 1786992089107
 }
