@@ -17,8 +17,8 @@
     {
       "title": "Un nuevo terremoto de magnitud 4,8 sacude Granada y deja tres personas con heridas leves",
       "link": "https://elpais.com/espana/2026-08-18/un-nuevo-terremoto-de-magnitud-46-sacude-granada.html",
-      "desc": "El temblor, con epicentro en Gójar, se ha dejado sentir con fuerza en el área metropolitana de la capital. “Es una tortura”, dice una vecina afectada",
-      "date": "Tue, 18 Aug 2026 17:37:13 GMT",
+      "desc": "El temblor, con epicentro en Gójar, se ha dejado sentir con fuerza en el área metropolitana de la capital. En Las Gabias hay 600 vecinos desalojados, que no podrán regresar a sus viviendas hasta nuevo aviso",
+      "date": "Tue, 18 Aug 2026 20:56:14 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205502_100754_video_1800.mp4"
     },
     {
@@ -134,5 +134,5 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260817/1205203_093550_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1787086269616
+  "fetchedAt": 1787088375890
 }
