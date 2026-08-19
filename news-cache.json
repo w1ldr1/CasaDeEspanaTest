@@ -15,11 +15,11 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205487_092556_video_1800.mp4"
     },
     {
-      "title": "Un nuevo terremoto de magnitud 4,8 sacude Granada y deja tres personas con heridas leves",
-      "link": "https://elpais.com/espana/2026-08-18/un-nuevo-terremoto-de-magnitud-46-sacude-granada.html",
-      "desc": "El temblor, con epicentro en Gójar, se ha dejado sentir con fuerza en el área metropolitana de la capital. En Las Gabias hay 600 vecinos desalojados, que no podrán regresar a sus viviendas hasta nuevo aviso",
-      "date": "Tue, 18 Aug 2026 20:56:14 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205502_100754_video_1800.mp4"
+      "title": "Seis terremotos marcan la noche en Granada, cinco de ellos sentidos por los vecinos",
+      "link": "https://elpais.com/espana/2026-08-19/seis-terremotos-marcan-la-noche-en-granada-cinco-de-ellos-sentidos-por-los-vecinos.html",
+      "desc": "Los centros de salud y hospitales recuperan su funcionamiento habitual",
+      "date": "Wed, 19 Aug 2026 07:50:25 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/2XR56EXD25OTXNM4BS5QHCC3TE.jpg?auth=7fe5e51701942507ca6ab84f2b2d0c6fc4a9462d48cdce8a9652ae41dabdbb8a"
     },
     {
       "title": "El diablo del yo y las 80 tumbas sin nombre",
@@ -85,6 +85,13 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205591_140810_video_1800.mp4"
     },
     {
+      "title": "Un nuevo terremoto de magnitud 4,8 sacude Granada y deja tres personas con heridas leves",
+      "link": "https://elpais.com/espana/2026-08-18/un-nuevo-terremoto-de-magnitud-46-sacude-granada.html",
+      "desc": "El temblor, con epicentro en Gójar, se ha dejado sentir con fuerza en el área metropolitana de la capital. En Las Gabias hay 600 vecinos desalojados, que no podrán regresar a sus viviendas hasta nuevo aviso",
+      "date": "Tue, 18 Aug 2026 20:56:14 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205502_100754_video_1800.mp4"
+    },
+    {
       "title": "El juez Pedraz blinda los posibles mensajes del ‘caso Leire’ en el móvil del expresidente de Correos con un nuevo volcado",
       "link": "https://elpais.com/espana/2026-08-18/el-juez-pedraz-blinda-los-posibles-mensajes-del-caso-leire-en-el-movil-del-expresidente-de-correos-con-un-nuevo-volcado.html",
       "desc": "Juan Manuel Serrano, antiguo jefe de Gabinete de Pedro Sánchez en el PSOE, cuestionó la legalidad de la intervención de su teléfono por la UCO en mayo",
@@ -125,14 +132,7 @@
       "desc": "Restaurantes, comercios, creadores de contenido y espacios culturales impulsan recogidas y actividades para apoyar a los afectados desde la distancia",
       "date": "Mon, 17 Aug 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/2FW2DTI3PBCKTG4LGY7T66II2Y.JPG?auth=20e0c0b97b66c1f8e177580284842288b30de213abe7491f5cdce792e26094ec"
-    },
-    {
-      "title": "El presidente de Ceuta eleva el tono contra el Gobierno y amenaza con acudir a la justicia si no resuelve la crisis: “Hay pasividad absoluta”",
-      "link": "https://elpais.com/espana/2026-08-17/el-presidente-de-ceuta-eleva-el-tono-contra-el-gobierno-y-amenaza-con-acudir-al-poder-judicial-si-no-resuelve-la-crisis-en-30-dias.html",
-      "desc": "Juan Jesús Vivas se niega a ceder emplazamientos céntricos para realojar migrantes alegando quejas de los “vecinos”",
-      "date": "Mon, 17 Aug 2026 09:31:09 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260817/1205203_093550_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1787124806777
+  "fetchedAt": 1787128242112
 }
