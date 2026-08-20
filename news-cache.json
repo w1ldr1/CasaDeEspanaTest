@@ -3,7 +3,7 @@
     {
       "title": "El Gobierno reubica a 1.800 migrantes de la playa de El Trampolín y prevé habilitar nuevos espacios",
       "link": "https://elpais.com/espana/2026-08-20/el-gobierno-reubica-a-1800-migrantes-de-la-playa-de-el-trampolin-y-preve-habilitar-nuevos-espacios.html",
-      "desc": "La policía desaloja el campamento en el arenal y traslada a los migrantes a dos recintos controlados",
+      "desc": "El desplazamiento a las instalaciones, tras más de dos semanas acampados en el arenal, ha sido voluntario, según el Ministerio de Migraciones",
       "date": "Thu, 20 Aug 2026 12:32:19 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/EFTGIL6XR5BH5K5DKTG6T5TTY4.jpeg?auth=da9140defa300d0c7ee92a2a512e8d1c5f02d2213561b51b169efd1325fcabc3"
     },
@@ -57,9 +57,9 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/DUHISLVZXJCQFJ44NTMC4KXTDM.jpg?auth=f15cd21dfed872573358d1450261c0a081993319d94370931b790bcc99e270b0"
     },
     {
-      "title": "Leire Díez carga contra la UCO y el juez Pedraz para evitar la fusión de las dos causas que la investigan",
+      "title": "Leire Díez carga contra la UCO y Pedraz para evitar que se fusionen en la Audiencia Nacional sus dos causas",
       "link": "https://elpais.com/espana/2026-08-20/leire-diez-ataca-a-la-uco-y-al-juez-pedraz-para-evitar-que-este-aglutine-las-investigaciones-sobre-ella.html",
-      "desc": "La exmilitante del PSOE presenta dos recursos para que un juzgado de Madrid continúe con sus pesquisas",
+      "desc": "La exmilitante del PSOE insiste en acusar a la Guardia Civil y al magistrado de investigarla en secreto por “hechos idénticos” a los del juez Zamarriego",
       "date": "Thu, 20 Aug 2026 11:15:51 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/APK4TRBBSRBDXDTOEWEZUKVWZM.jpg?auth=3184287327428d73d329be1a453baad05b66023fbce063cb87b0a336d176063c"
     },
@@ -134,5 +134,5 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205502_100754_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1787230367319
+  "fetchedAt": 1787233712181
 }
