@@ -1,9 +1,9 @@
 {
   "items": [
     {
-      "title": "El Gobierno reubica a 1.800 migrantes de la playa de El Trampolín y prevé habilitar nuevos espacios",
+      "title": "El Gobierno reubica a más de un millar de migrantes de la playa de El Trampolín y prevé habilitar nuevos espacios",
       "link": "https://elpais.com/espana/2026-08-20/el-gobierno-reubica-a-1800-migrantes-de-la-playa-de-el-trampolin-y-preve-habilitar-nuevos-espacios.html",
-      "desc": "El desplazamiento a las instalaciones, tras más de dos semanas acampados en el arenal, ha sido voluntario, según el Ministerio de Migraciones",
+      "desc": "El desplazamiento a las instalaciones, tras más de dos semanas acampados, ha sido voluntario, según el Ministerio de Migraciones",
       "date": "Thu, 20 Aug 2026 12:32:19 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/EFTGIL6XR5BH5K5DKTG6T5TTY4.jpeg?auth=da9140defa300d0c7ee92a2a512e8d1c5f02d2213561b51b169efd1325fcabc3"
     },
@@ -134,5 +134,5 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260818/1205502_100754_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1787236659958
+  "fetchedAt": 1787240124542
 }
