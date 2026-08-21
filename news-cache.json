@@ -73,7 +73,7 @@
     {
       "title": "Los vecinos de Gátova, en Valencia, son evacuados por el incendio forestal de Segorbe",
       "link": "https://elpais.com/espana/comunidad-valenciana/2026-08-21/las-tormentas-provocan-un-incendio-forestal-entre-segorbe-y-gatova-en-la-sierra-de-la-calderona.html",
-      "desc": "La Generalitat Valenciana solicita el apoyo de la Unidad Militar de Emergencias para las labores de extinción de un fuego que ha quemado 133 hectáreas",
+      "desc": "La Generalitat Valenciana solicita el apoyo de la UME para las labores de extinción de un fuego que ha quemado 423 hectáreas",
       "date": "Fri, 21 Aug 2026 13:59:40 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260821/1206631_174516_video_1800.mp4"
     },
@@ -134,5 +134,5 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260820/1206112_082134_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1787337513769
+  "fetchedAt": 1787340411178
 }
