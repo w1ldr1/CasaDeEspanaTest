@@ -1,11 +1,11 @@
 {
   "items": [
     {
-      "title": "Las mafias encarecen hasta los 9.000 euros lo que cobran a los migrantes por llevarles de Ceuta a la Península",
-      "link": "https://elpais.com/espana/2026-08-21/las-mafias-cobran-9000-euros-a-los-migrantes-de-la-entrada-masiva-en-ceuta-por-llevarlos-en-lancha-a-la-peninsula.html",
-      "desc": "La Policía detiene a cinco personas de dos redes que captaban a llegados en la entrada masiva para hacer el trayecto en lanchas sin medidas de seguridad",
-      "date": "Fri, 21 Aug 2026 10:50:47 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/INW3CBSBSJEKXGUHXR5W6DYC2M.jpg?auth=1800b98ee399194df05fb5f811eb97681234bb0949540f09fcac414633034b91"
+      "title": "Ceuta entierra a los primeros migrantes fallecidos en la avalancha en El Tarajal",
+      "link": "https://elpais.com/espana/2026-08-21/ceuta-entierra-a-los-primeros-migrantes-fallecidos-en-la-avalancha-en-el-tarajal.html",
+      "desc": "Marruecos rechaza que los cuerpos de los identificados regresen al país con sus familias, según la consejera de Sanidad, Nabila Benzina",
+      "date": "Fri, 21 Aug 2026 20:01:13 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/PAK4XWAH4RET3BFDGPRQSJDD7Q.jpg?auth=eda2ab0216c5de554d288886a18ba3f7d906f6348353440a3da5b39fc693066d"
     },
     {
       "title": "Sánchez encarga al ministro Ángel Víctor Torres coordinar la gestión de los ministerios implicados en la crisis de Ceuta",
@@ -55,6 +55,13 @@
       "desc": "España debe tener en cuenta en su política migratoria la extrema sensibilidad actual de los socios y aliados",
       "date": "Fri, 14 Aug 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/DUHISLVZXJCQFJ44NTMC4KXTDM.jpg?auth=f15cd21dfed872573358d1450261c0a081993319d94370931b790bcc99e270b0"
+    },
+    {
+      "title": "Las mafias encarecen hasta los 9.000 euros lo que cobran a los migrantes por llevarles de Ceuta a la Península",
+      "link": "https://elpais.com/espana/2026-08-21/las-mafias-cobran-9000-euros-a-los-migrantes-de-la-entrada-masiva-en-ceuta-por-llevarlos-en-lancha-a-la-peninsula.html",
+      "desc": "La Policía detiene a cinco personas de dos redes que captaban a llegados en la entrada masiva para hacer el trayecto en lanchas sin medidas de seguridad",
+      "date": "Fri, 21 Aug 2026 10:50:47 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/INW3CBSBSJEKXGUHXR5W6DYC2M.jpg?auth=1800b98ee399194df05fb5f811eb97681234bb0949540f09fcac414633034b91"
     },
     {
       "title": "El Gobierno sondeó al Rey sobre la oportunidad de hacer una llamada a Mohamed VI por la crisis de Ceuta",
@@ -125,14 +132,7 @@
       "desc": "El cambio de dirección en la ANC acerca al líder de ERC a un acto en el que las fricciones están ahora con Aliança",
       "date": "Fri, 21 Aug 2026 14:05:35 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/KPW3BY6JJVMPFN6JMW43UI6E3E.jpg?auth=42a831bc13b2803ebace9a7be0f2a2dd3e6433fc28db0039bca1ef51a336b840"
-    },
-    {
-      "title": "El Gobierno reubica a más de un millar de migrantes de la playa de El Trampolín y prevé habilitar nuevos espacios",
-      "link": "https://elpais.com/espana/2026-08-20/el-gobierno-reubica-a-1800-migrantes-de-la-playa-de-el-trampolin-y-preve-habilitar-nuevos-espacios.html",
-      "desc": "El desplazamiento a las instalaciones, tras más de dos semanas acampados, ha sido voluntario, según el Ministerio de Migraciones",
-      "date": "Thu, 20 Aug 2026 18:09:42 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260820/1206112_082134_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1787341572309
+  "fetchedAt": 1787343582845
 }
