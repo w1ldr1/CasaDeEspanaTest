@@ -8,10 +8,10 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/JWEK3TMSNVFRVBO2RDXHHSRAL4.jpg?auth=90cc68b944969ece3557d6de22e4d8e0affdba684c31dd5cd768239952ea12f7"
     },
     {
-      "title": "El Supremo rechaza forzar las comparecencias de los ministros en el Senado en agosto como pedía el PP por la crisis de Ceuta",
+      "title": "El Supremo rechaza forzar las comparecencias de los ministros en el Senado en agosto como pedía el PP",
       "link": "https://elpais.com/espana/2026-08-22/el-supremo-descarta-la-medida-urgente-del-pp-para-forzar-en-agosto-las-comparecencias-ministeriales-por-ceuta.html",
-      "desc": "El tribunal considera que “no se ha acreditado la especial urgencia” para atender la petición de los populares sin escuchar antes las alegaciones del Gobierno. Y da 10 días al Ejecutivo para presentarlas",
-      "date": "Sat, 22 Aug 2026 10:33:14 GMT",
+      "desc": "El tribunal considera que “no se ha acreditado la especial urgencia” para atender la petición sin escuchar antes al Gobierno, que tendrá 10 días para presentar alegaciones",
+      "date": "Sat, 22 Aug 2026 12:40:24 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/FZ5RPB5XBROIBGESFL4ZKVTLZ4.jpg?auth=b7e8c33fe60bcd248d2d048db8c0236df11d2e7bb1a31003064686d6319c1fc0"
     },
     {
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/FGKX275OQJNKNL7P5EVAXFLGPQ.jpg?auth=254072587f52b1ed5de980b0e687d59b2525ed4abbd79dca13d10dd4488eb922"
     }
   ],
-  "fetchedAt": 1787402507012
+  "fetchedAt": 1787405569572
 }
