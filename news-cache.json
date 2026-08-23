@@ -22,6 +22,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/2WD2XC2ZF5FPTEO7D2GQSVQW5Y.jpg?auth=3925a7512c6754e9b8f286a85ec488823e4b081f08ec180055e1cd0c4a2dece0"
     },
     {
+      "title": "Todo se transforma menos la política",
+      "link": "https://elpais.com/opinion/2026-08-23/todo-se-transforma-menos-la-politica.html",
+      "desc": "Los políticos no tienen los incentivos necesarios para destinar recursos a inversiones cuyos resultados carecen de auténtica visibilidad electoral",
+      "date": "Sun, 23 Aug 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/7JSMUV7PA5JUNI6DV4FQNESFNY.jpg?auth=4a1b70602e528c8ebee66906e174853aa36b9783a11de17c356b6597370fbe21"
+    },
+    {
       "title": "¿Qué Estado queremos cuando todo arde?",
       "link": "https://elpais.com/opinion/2026-08-22/que-estado-queremos-cuando-todo-arde.html",
       "desc": "Existen riesgos que, por su dimensión, incertidumbre o ausencia de rentabilidad, solo pueden ser asumidos colectivamente",
@@ -50,18 +57,32 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/PYG2O6E2DRGGJMDBHBQOODLCJU.jpg?auth=27986719d3645e64d13f50e4e20c9c267e50e52d2687496e0137cb2146c826b4"
     },
     {
-      "title": "La frontera de Ceuta como muro de Berlín invertido",
-      "link": "https://elpais.com/opinion/2026-08-16/la-frontera-de-ceuta-como-muro-de-berlin-invertido.html",
-      "desc": "Tan importante es garantizar la seguridad de las fronteras como evitar que ese propósito destruya nuestros principios y valores",
-      "date": "Sun, 16 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/LEJE2GB4KVJOZK4CMZAUCT336E.jpg?auth=fe042ab73bc1b27bafb15a0a10e398519cc8acfec4bebee455c416681c2fb9fd"
-    },
-    {
       "title": "Mujeres y menores migrantes, algunas enfermas, en colchones mojados en Ceuta: “Esto es una vergüenza, son personas vulnerables”",
       "link": "https://elpais.com/espana/2026-08-22/mujeres-y-menores-migrantes-algunas-enfermas-en-colchones-mojados-en-ceuta-esto-es-una-verguenza-son-personas-vulnerables.html",
       "desc": "La lluvia inutiliza el precario campamento en el que los vecinos del barrio de El Príncipe protegen a unas 400 personas, muchas menores, y los vecinos critican que se haya atendido antes a hombres que a ellas",
       "date": "Sat, 22 Aug 2026 03:45:01 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260821/1206529_112928_video_1800.mp4"
+    },
+    {
+      "title": "Ceuta, la crisis imposible",
+      "link": "https://elpais.com/espana/2026-08-23/ceuta-la-crisis-imposible.html",
+      "desc": "El Gobierno y la ciudad jugaron durante días al gato y el ratón con los emplazamientos para inmigrantes. El ambiente de rechazo a los extranjeros, que no era tan fuerte en 2021, complica la gestión. El Ejecutivo confía en que Marruecos ahora sí frenará cualquier intento como hizo el 15",
+      "date": "Sun, 23 Aug 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/EZCEY22N2NHDXNSMDTO6A2UCPY.jpg?auth=ed9cf61e0f2e665fc26e2bd81bee6a3c2495b87349a0c833f09ace8015860cde"
+    },
+    {
+      "title": "El renacer en tiempo récord de un monasterio budista de un pueblo de Ourense que devoró el fuego en 2024",
+      "link": "https://elpais.com/espana/galicia/2026-08-23/el-renacer-en-tiempo-record-de-un-monasterio-budista-de-un-pueblo-de-ourense-que-devoro-el-fuego-en-2024.html",
+      "desc": "El centro de referencia del noroeste de España da paso a una fase de crecimiento, que empezará con cabañas de meditación en el bosque",
+      "date": "Sun, 23 Aug 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/VXOREU32DZCCJBZR5AC72YXB4Y.jpg?auth=6defe6ce00f32aabb8a9d5804dd22de1dd4517cae334360d79f872710b6cafa9"
+    },
+    {
+      "title": "La vida de cuatro mujeres migrantes varadas en Ceuta: “El miedo más grande es a que me devuelvan”",
+      "link": "https://elpais.com/espana/2026-08-23/la-vida-de-cuatro-mujeres-migrantes-varadas-en-ceuta-el-miedo-mas-grande-es-a-que-me-devuelvan.html",
+      "desc": "Tres chicas de 17 años y una joven embarazada de 21 años relatan su penuria en las calles en las últimas semanas, sin dinero y con lo puesto",
+      "date": "Sun, 23 Aug 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/T5Q2KLNFXFEHZANPOW4KLCDIM4.jpg?auth=05c40aa8db702c2402627eb55c4d58d7703ff94c9019acde792cfeb9158a750d"
     },
     {
       "title": "Las 18 tumbas de Ceuta",
@@ -111,28 +132,7 @@
       "desc": "Fuentes de Política Territorial afirman que es una decisión previsible porque el departamento ya atiende varios aspectos relacionados con la situación en la ciudad autónoma",
       "date": "Fri, 21 Aug 2026 16:24:34 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/EGGOIG55OJBILOPGYAYHISSPNA.jpg?auth=0068f050bb1a351987e0c21b819f0b188b26a76f6f1300a7c1765272e5ae26db"
-    },
-    {
-      "title": "Wafae Atid no es una emigrante económica y no quiere volver a Marruecos porque aborrece “la mentalidad” del país: “Hay otras razones”",
-      "link": "https://elpais.com/espana/2026-08-21/wafae-atid-no-es-una-emigrante-economica-y-no-quiere-volver-a-marruecos-porque-aborrece-la-mentalidad-del-pais-hay-otras-razones.html",
-      "desc": "La mujer, de 28 años, que entró a nado a Ceuta, explica que vio una salida en la llegada masiva después de no lograr la visa tras trabajar en otros países como Emiratos Árabes y Qatar",
-      "date": "Fri, 21 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260821/1206441_074034_video_1800.mp4"
-    },
-    {
-      "title": "Las mafias encarecen hasta los 9.000 euros lo que cobran a los migrantes por llevarles de Ceuta a la Península",
-      "link": "https://elpais.com/espana/2026-08-21/las-mafias-cobran-9000-euros-a-los-migrantes-de-la-entrada-masiva-en-ceuta-por-llevarlos-en-lancha-a-la-peninsula.html",
-      "desc": "La Policía detiene a cinco personas de dos redes que captaban a llegados en la entrada masiva para hacer el trayecto en lanchas sin medidas de seguridad",
-      "date": "Fri, 21 Aug 2026 10:50:47 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/INW3CBSBSJEKXGUHXR5W6DYC2M.jpg?auth=1800b98ee399194df05fb5f811eb97681234bb0949540f09fcac414633034b91"
-    },
-    {
-      "title": "El Gobierno sondeó al Rey sobre la oportunidad de hacer una llamada a Mohamed VI por la crisis de Ceuta",
-      "link": "https://elpais.com/espana/2026-08-21/el-gobierno-sondeo-al-rey-sobre-la-oportunidad-de-hacer-una-llamada-a-mohamed-vi-por-la-crisis-de-ceuta.html",
-      "desc": "Felipe VI no descarta esa intervención o la visita a la ciudad si lo pide el presidente y cuando sea “útil y razonable”",
-      "date": "Fri, 21 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/FGKX275OQJNKNL7P5EVAXFLGPQ.jpg?auth=254072587f52b1ed5de980b0e687d59b2525ed4abbd79dca13d10dd4488eb922"
     }
   ],
-  "fetchedAt": 1787452907075
+  "fetchedAt": 1787456717741
 }
