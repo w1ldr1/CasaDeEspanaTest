@@ -1,11 +1,18 @@
 {
   "items": [
     {
-      "title": "El Gobierno prepara un plan económico para revitalizar Ceuta tras la crisis migratoria",
-      "link": "https://elpais.com/espana/2026-08-22/el-gobierno-prepara-un-plan-economico-para-revitalizar-ceuta-tras-la-crisis-migratoria.html",
-      "desc": "Cuerpo viajará a reunirse con distintos sectores para ver sus necesidades. El Consejo de Ministros aprobará este martes 25 millones para atender a los menores, pero habrá goteo de más dinero en las próximas citas",
-      "date": "Sat, 22 Aug 2026 03:45:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/JWEK3TMSNVFRVBO2RDXHHSRAL4.jpg?auth=90cc68b944969ece3557d6de22e4d8e0affdba684c31dd5cd768239952ea12f7"
+      "title": "Feijóo ahonda en la “crisis de salud pública” en Ceuta",
+      "link": "https://elpais.com/espana/2026-08-23/feijoo-ahonda-en-la-crisis-de-salud-publica-en-ceuta.html",
+      "desc": "Sanidad ve “injustificada” y “desmesurada” la medida de confinamiento reclamada por el líder del PP y asegura que el riesgo de transmisión a la población es bajo y moderado entre los inmigrantes",
+      "date": "Sun, 23 Aug 2026 18:47:40 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260823/1206930_091224_video_1800.mp4"
+    },
+    {
+      "title": "Desaparecido un empresario español tras caer de su barco entre Italia y Grecia",
+      "link": "https://elpais.com/espana/2026-08-23/desaparecido-un-empresario-espanol-tras-caer-de-su-barco-entre-italia-y-grecia.html",
+      "desc": "Salvamento Marítimo busca al hombre de 66 años desde el pasado viernes",
+      "date": "Sun, 23 Aug 2026 18:51:09 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/6ZKC73JSKRIP7MRBOXPYNVCZ3I.jpg?auth=b7a59dadfd3da8d59f75d9396435438f67fcace1f30947fc50de3b09a5885dc9"
     },
     {
       "title": "El Supremo rechaza forzar las comparecencias de los ministros en el Senado en agosto como pedía el PP",
@@ -13,13 +20,6 @@
       "desc": "El tribunal considera que “no se ha acreditado la especial urgencia” para atender la petición sin escuchar antes al Gobierno, que tendrá diez días para presentar alegaciones",
       "date": "Sat, 22 Aug 2026 12:40:24 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/FZ5RPB5XBROIBGESFL4ZKVTLZ4.jpg?auth=b7e8c33fe60bcd248d2d048db8c0236df11d2e7bb1a31003064686d6319c1fc0"
-    },
-    {
-      "title": "La crisis de Ceuta tensiona una ciudad ya castigada por la exclusión y la desigualdad",
-      "link": "https://elpais.com/espana/2026-08-22/la-crisis-de-ceuta-tensiona-una-ciudad-ya-castigada-por-la-exclusion-y-la-desigualdad.html",
-      "desc": "Con los datos de pobreza, empleo y educación mostrando graves déficits con respecto a la media española, la ciudad encara ahora un desafío a su cohesión social y a la resistencia de sus barrios más desfavorecidos",
-      "date": "Sat, 22 Aug 2026 03:45:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/2WD2XC2ZF5FPTEO7D2GQSVQW5Y.jpg?auth=3925a7512c6754e9b8f286a85ec488823e4b081f08ec180055e1cd0c4a2dece0"
     },
     {
       "title": "Todo se transforma menos la política",
@@ -57,11 +57,53 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/PYG2O6E2DRGGJMDBHBQOODLCJU.jpg?auth=27986719d3645e64d13f50e4e20c9c267e50e52d2687496e0137cb2146c826b4"
     },
     {
+      "title": "La crisis de Ceuta tensiona una ciudad ya castigada por la exclusión y la desigualdad",
+      "link": "https://elpais.com/espana/2026-08-22/la-crisis-de-ceuta-tensiona-una-ciudad-ya-castigada-por-la-exclusion-y-la-desigualdad.html",
+      "desc": "Con los datos de pobreza, empleo y educación mostrando graves déficits con respecto a la media española, la ciudad encara ahora un desafío a su cohesión social y a la resistencia de sus barrios más desfavorecidos",
+      "date": "Sat, 22 Aug 2026 03:45:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/2WD2XC2ZF5FPTEO7D2GQSVQW5Y.jpg?auth=3925a7512c6754e9b8f286a85ec488823e4b081f08ec180055e1cd0c4a2dece0"
+    },
+    {
+      "title": "Elma Saiz: “Algunos quieren inmigrantes, pero sin derechos. Quieren ciudadanos de primera y de segunda”",
+      "link": "https://elpais.com/espana/2026-08-23/elma-saiz-algunos-quieren-inmigrantes-pero-sin-derechos-quieren-ciudadanos-de-primera-y-de-segunda.html",
+      "desc": "“La sociedad de Ceuta es madura, no necesita agitadores de fuera”, señala la ministra de Inclusión, la integrante del Gobierno que más tiempo ha pasado en la ciudad",
+      "date": "Sun, 23 Aug 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/FHEAO5V4MRE75EABCY46ZNRFDA.jpg?auth=0bf6f185e4bbb9cc3b5fb0ab08d7fce4aa63886f1ee6491a2ff9886c51ba84a2"
+    },
+    {
+      "title": "Juan Jesús Vivas, un político catapultado por la crisis",
+      "link": "https://elpais.com/espana/2026-08-23/juan-jesus-vivas-un-politico-catapultado-por-la-crisis.html",
+      "desc": "El presidente de Ceuta, de 73 años y en el cargo desde 2001, saca rédito a la tormenta migratoria adaptándose como siempre al sentir de la ciudad",
+      "date": "Sun, 23 Aug 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XSJLLYGVMBHNBPDUIMAADWNFGI.jpg?auth=90d2ad8b7bce4aa95a9d2f7ae7e0a13f2c1dc607eb69498e3f85efa2fdf022bc"
+    },
+    {
       "title": "Mujeres y menores migrantes, algunas enfermas, en colchones mojados en Ceuta: “Esto es una vergüenza, son personas vulnerables”",
       "link": "https://elpais.com/espana/2026-08-22/mujeres-y-menores-migrantes-algunas-enfermas-en-colchones-mojados-en-ceuta-esto-es-una-verguenza-son-personas-vulnerables.html",
       "desc": "La lluvia inutiliza el precario campamento en el que los vecinos del barrio de El Príncipe protegen a unas 400 personas, muchas menores, y los vecinos critican que se haya atendido antes a hombres que a ellas",
       "date": "Sat, 22 Aug 2026 03:45:01 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260821/1206529_112928_video_1800.mp4"
+    },
+    {
+      "title": "El Gobierno prepara un plan económico para revitalizar Ceuta tras la crisis migratoria",
+      "link": "https://elpais.com/espana/2026-08-22/el-gobierno-prepara-un-plan-economico-para-revitalizar-ceuta-tras-la-crisis-migratoria.html",
+      "desc": "Cuerpo viajará a reunirse con distintos sectores para ver sus necesidades. El Consejo de Ministros aprobará este martes 25 millones para atender a los menores, pero habrá goteo de más dinero en las próximas citas",
+      "date": "Sat, 22 Aug 2026 03:45:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/JWEK3TMSNVFRVBO2RDXHHSRAL4.jpg?auth=90cc68b944969ece3557d6de22e4d8e0affdba684c31dd5cd768239952ea12f7"
+    },
+    {
+      "title": "Vivir y luchar con el narco, la guerra invisible de los policías del Sur: “Es cuestión de tiempo que nos maten”",
+      "link": "https://elpais.com/espana/2026-08-23/vivir-y-luchar-con-el-narco-la-guerra-invisible-de-los-policias-del-sur-es-cuestion-de-tiempo-que-nos-maten.html",
+      "desc": "El “síndrome del Norte”, la alerta permanente que sufrían los agentes que combatían a ETA, se apodera de los destinados en las zonas calientes del tráfico de drogas: ocultos en el anonimato, conviven con sus objetivos y afrontan constantes tiroteos con armas largas",
+      "date": "Sun, 23 Aug 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/GF4D3F7NCJG3ZE4RZTO3SOCXMQ.jpg?auth=8f47ae31fb286c3decc15808b2099757702415fa81fbf6b631510cfc684a9366"
+    },
+    {
+      "title": "Marruecos vincula la aceptación de los cadáveres de Ceuta a la devolución de 2.500 menores huidos en la crisis migratoria",
+      "link": "https://elpais.com/espana/2026-08-22/marruecos-vincula-la-aceptacion-de-los-cadaveres-de-ceuta-a-la-devolucion-de-2500-menores-huidos-en-la-crisis-migratoria.html",
+      "desc": "La reclamación de Rabat choca con las leyes de protección españolas y europeas. Las fuerzas de seguridad contabilizaron en 2025 más de 73.000 intentos de salidas ilegales del país, pero carecen de registros sobre migrantes irregulares menores",
+      "date": "Sat, 22 Aug 2026 20:20:40 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/L3LDF3F7FJE4BLCJFWTX2NACLY.jpg?auth=3fbdaaeded310f44dc24ec3f81605cb4acb960df06775df29256cf35b81c0c9b"
     },
     {
       "title": "Ceuta, la crisis imposible",
@@ -90,49 +132,7 @@
       "desc": "La ciudad entierra por el rito musulmán a los primeros ahogados, pero no logra aplacar el enfado de la Ciudad Autónoma",
       "date": "Sat, 22 Aug 2026 06:32:38 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/NQMA45MU6FOVNMNQICJ2UO34SQ.jpg?auth=9238fe9c3e625123c8062eeff632fa69e9e42f860827dc77d9bd0f28b44c92d6"
-    },
-    {
-      "title": "Detenidas diez personas tras disparar a la Guardia Civil durante la persecución de una narcolancha en la costa de Huelva",
-      "link": "https://elpais.com/espana/2026-08-22/detenidas-diez-personas-tras-disparar-a-la-guardia-civil-durante-la-persecucion-de-una-narcolancha-en-la-costa-de-huelva.html",
-      "desc": "Es el enésimo episodio donde los delincuentes utilizan armas de fuego contra las fuerzas de seguridad que luchan contra el tráfico de drogas en Andalucía",
-      "date": "Sat, 22 Aug 2026 10:08:33 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/ZL7WKNTWENDLPELW55M3SMYKQY.jpg?auth=bf25d9517635ac107dc12359ca47f1ba5fefa7ad2cf2d6892c2e250f2a2decb3"
-    },
-    {
-      "title": "Melchor León, socialista crítico con la gestión de la crisis en Ceuta: “Que un gobierno de mi partido nos abandone es muy triste”",
-      "link": "https://elpais.com/espana/2026-08-22/melchor-leon-socialista-critico-con-la-gestion-de-la-crisis-en-ceuta-que-un-gobierno-de-mi-partido-nos-abandone-es-muy-triste.html",
-      "desc": "El vicepresidente primero de la Asamblea de Ceuta reclama al Ejecutivo un calendario para recuperar la normalidad en la ciudad y reclama que se asuman responsabilidades si no se cumple",
-      "date": "Sat, 22 Aug 2026 03:45:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/SLJVLJQE55CT5LW7NBZC3GI3QY.jpg?auth=098dff107323fcccce83b7d319e0edc9eb524999bd69f0c479bf9a33f9a477ac"
-    },
-    {
-      "title": "En sentido contrario y en zigzag: las carreras ilegales de coches, un fenómeno al alza en España",
-      "link": "https://elpais.com/espana/2026-08-22/ataques-a-agentes-en-sentido-contrario-y-en-zigzag-las-carreras-ilegales-de-coches-irrumpen-en-espana.html",
-      "desc": "La Guardia Civil de Tráfico ha desmantelado en el primer semestre del año 147 competiciones ilícitas, pese al grave riesgo para los participantes y el resto de los usuarios",
-      "date": "Sat, 22 Aug 2026 03:45:01 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260619/1185519_105941_video_1800.mp4"
-    },
-    {
-      "title": "Cuando Cádiz era la puerta de entrada de Estados Unidos",
-      "link": "https://elpais.com/espana/2026-08-22/cuando-cadiz-era-la-puerta-de-entrada-de-estados-unidos.html",
-      "desc": "El Archivo Histórico Provincial reconstruye 250 años de relaciones del país americano con la ciudad, donde abrió uno de los primeros consulados en España",
-      "date": "Sat, 22 Aug 2026 03:45:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/YG5X2SGQQFBHDNJQLSJH46Z7TU.jpg?auth=686afe74d5732ca88a95b151d6bdbf369bcd43f3073fae8d76c786494294e6e9"
-    },
-    {
-      "title": "Ceuta entierra a los primeros migrantes fallecidos en la avalancha en El Tarajal",
-      "link": "https://elpais.com/espana/2026-08-21/ceuta-entierra-a-los-primeros-migrantes-fallecidos-en-la-avalancha-en-el-tarajal.html",
-      "desc": "Marruecos rechaza que los cuerpos de los identificados regresen al país con sus familias, según la consejera de Sanidad, Nabila Benzina",
-      "date": "Fri, 21 Aug 2026 21:02:36 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/PAK4XWAH4RET3BFDGPRQSJDD7Q.jpg?auth=eda2ab0216c5de554d288886a18ba3f7d906f6348353440a3da5b39fc693066d"
-    },
-    {
-      "title": "Sánchez encarga al ministro Ángel Víctor Torres coordinar la gestión de los ministerios implicados en la crisis de Ceuta",
-      "link": "https://elpais.com/espana/2026-08-21/el-ministro-angel-victor-torres-coordinara-la-gestion-de-todos-los-ministerios-implicados-en-la-crisis-de-ceuta.html",
-      "desc": "Fuentes de Política Territorial afirman que es una decisión previsible porque el departamento ya atiende varios aspectos relacionados con la situación en la ciudad autónoma",
-      "date": "Fri, 21 Aug 2026 16:24:34 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/EGGOIG55OJBILOPGYAYHISSPNA.jpg?auth=0068f050bb1a351987e0c21b819f0b188b26a76f6f1300a7c1765272e5ae26db"
     }
   ],
-  "fetchedAt": 1787512763756
+  "fetchedAt": 1787514243682
 }
