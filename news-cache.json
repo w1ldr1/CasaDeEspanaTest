@@ -57,6 +57,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/PYG2O6E2DRGGJMDBHBQOODLCJU.jpg?auth=27986719d3645e64d13f50e4e20c9c267e50e52d2687496e0137cb2146c826b4"
     },
     {
+      "title": "El Gobierno urge al Poder Judicial a tramitar los refuerzos para Ceuta: “El Ministerio tiene todo preparado”",
+      "link": "https://elpais.com/espana/2026-08-24/justicia-urge-al-poder-judicial-a-tramitar-los-refuerzos-para-ceuta-el-ministerio-tiene-todo-preparado.html",
+      "desc": "El secretario de Estado de Justicia envía una carta al órgano de gobierno de los jueces en la que avisa que está listo para autorizar la partida presupuestaria",
+      "date": "Mon, 24 Aug 2026 10:27:32 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/QGHWF3YU75NR5GTGSJ5J75OZ6I.jpg?auth=64aec8b84509c2838fae6a22b5183a67207562d30ae8852d76caf350d3c1b612"
+    },
+    {
       "title": "La frontera interior de Ceuta",
       "link": "https://elpais.com/espana/2026-08-24/la-frontera-interior-de-ceuta.html",
       "desc": "La crisis migratoria se percibe de manera muy distinta en los diferentes barrios de la ciudad autónoma",
@@ -69,13 +76,6 @@
       "desc": "“La sociedad de Ceuta es madura, no necesita agitadores de fuera”, señala la ministra de Inclusión, la integrante del Gobierno que más tiempo ha pasado en la ciudad",
       "date": "Sun, 23 Aug 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/FHEAO5V4MRE75EABCY46ZNRFDA.jpg?auth=0bf6f185e4bbb9cc3b5fb0ab08d7fce4aa63886f1ee6491a2ff9886c51ba84a2"
-    },
-    {
-      "title": "Juan Jesús Vivas, un político catapultado por la crisis",
-      "link": "https://elpais.com/espana/2026-08-23/juan-jesus-vivas-un-politico-catapultado-por-la-crisis.html",
-      "desc": "El presidente de Ceuta, de 73 años y en el cargo desde 2001, saca rédito a la tormenta migratoria adaptándose como siempre al sentir de la ciudad",
-      "date": "Sun, 23 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XSJLLYGVMBHNBPDUIMAADWNFGI.jpg?auth=90d2ad8b7bce4aa95a9d2f7ae7e0a13f2c1dc607eb69498e3f85efa2fdf022bc"
     },
     {
       "title": "El Pequeño Nicolás quiere recuperar su nombre",
@@ -97,6 +97,13 @@
       "desc": "Salvamento Marítimo busca al hombre de 66 años desde el pasado viernes",
       "date": "Sun, 23 Aug 2026 18:51:09 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/JOGR2BFAB5ESDET7YWBGTEAL3A.jpg?auth=47e17c1aa07a6b2429d41e4d3d1fed41b71e7b52f39f980ca00c1dc23c1b0c77"
+    },
+    {
+      "title": "Juan Jesús Vivas, un político catapultado por la crisis",
+      "link": "https://elpais.com/espana/2026-08-23/juan-jesus-vivas-un-politico-catapultado-por-la-crisis.html",
+      "desc": "El presidente de Ceuta, de 73 años y en el cargo desde 2001, saca rédito a la tormenta migratoria adaptándose como siempre al sentir de la ciudad",
+      "date": "Sun, 23 Aug 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XSJLLYGVMBHNBPDUIMAADWNFGI.jpg?auth=90d2ad8b7bce4aa95a9d2f7ae7e0a13f2c1dc607eb69498e3f85efa2fdf022bc"
     },
     {
       "title": "El Supremo rechaza forzar las comparecencias de los ministros en el Senado en agosto como pedía el PP",
@@ -125,14 +132,7 @@
       "desc": "Cuerpo viajará a reunirse con distintos sectores para ver sus necesidades. El Consejo de Ministros aprobará este martes 25 millones para atender a los menores, pero habrá goteo de más dinero en las próximas citas",
       "date": "Sat, 22 Aug 2026 03:45:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/JWEK3TMSNVFRVBO2RDXHHSRAL4.jpg?auth=90cc68b944969ece3557d6de22e4d8e0affdba684c31dd5cd768239952ea12f7"
-    },
-    {
-      "title": "Vivir y luchar con el narco, la guerra invisible de los policías del Sur: “Es cuestión de tiempo que nos maten”",
-      "link": "https://elpais.com/espana/2026-08-23/vivir-y-luchar-con-el-narco-la-guerra-invisible-de-los-policias-del-sur-es-cuestion-de-tiempo-que-nos-maten.html",
-      "desc": "El “síndrome del Norte”, la alerta permanente que sufrían los agentes que combatían a ETA, se apodera de los destinados en las zonas calientes del tráfico de drogas: ocultos en el anonimato, conviven con sus objetivos y afrontan constantes tiroteos con armas largas",
-      "date": "Sun, 23 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/GF4D3F7NCJG3ZE4RZTO3SOCXMQ.jpg?auth=8f47ae31fb286c3decc15808b2099757702415fa81fbf6b631510cfc684a9366"
     }
   ],
-  "fetchedAt": 1787567528865
+  "fetchedAt": 1787570534934
 }
