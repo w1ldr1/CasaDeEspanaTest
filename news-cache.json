@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "title": "La crisis sin resolver de Ceuta aterriza en un Congreso que calienta para elecciones",
+      "link": "https://elpais.com/espana/2026-08-24/la-crisis-sin-resolver-de-ceuta-aterriza-en-un-congreso-que-calienta-para-elecciones.html",
+      "desc": "Siete ministros ofrecerán el primer relato ordenado con los datos disponibles y el PP denunciará que el Ejecutivo elude el Senado y prefiere la Cámara Baja porque la tiene controlada",
+      "date": "Mon, 24 Aug 2026 03:45:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/E3TOIERTPZB73M7BPFSKIY4UIA.jpg?auth=2d10bbe1a010eb2f1dcf7a04aee0f41f7fe76b6783a2f29fba3114283bd1b390"
+    },
+    {
       "title": "Feijóo ahonda en la “crisis de salud pública” en Ceuta",
       "link": "https://elpais.com/espana/2026-08-23/feijoo-ahonda-en-la-crisis-de-salud-publica-en-ceuta.html",
       "desc": "Sanidad ve “injustificada” y “desmesurada” la medida de confinamiento reclamada por el líder del PP y asegura que el riesgo de transmisión a la población es bajo y moderado entre los inmigrantes",
@@ -8,18 +15,11 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260823/1206930_091224_video_1800.mp4"
     },
     {
-      "title": "Elma Saiz: “Algunos quieren inmigrantes, pero sin derechos. Quieren ciudadanos de primera y de segunda”",
-      "link": "https://elpais.com/espana/2026-08-23/elma-saiz-algunos-quieren-inmigrantes-pero-sin-derechos-quieren-ciudadanos-de-primera-y-de-segunda.html",
-      "desc": "“La sociedad de Ceuta es madura, no necesita agitadores de fuera”, señala la ministra de Inclusión, la integrante del Gobierno que más tiempo ha pasado en la ciudad",
-      "date": "Sun, 23 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/FHEAO5V4MRE75EABCY46ZNRFDA.jpg?auth=0bf6f185e4bbb9cc3b5fb0ab08d7fce4aa63886f1ee6491a2ff9886c51ba84a2"
-    },
-    {
-      "title": "Juan Jesús Vivas, un político catapultado por la crisis",
-      "link": "https://elpais.com/espana/2026-08-23/juan-jesus-vivas-un-politico-catapultado-por-la-crisis.html",
-      "desc": "El presidente de Ceuta, de 73 años y en el cargo desde 2001, saca rédito a la tormenta migratoria adaptándose como siempre al sentir de la ciudad",
-      "date": "Sun, 23 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XSJLLYGVMBHNBPDUIMAADWNFGI.jpg?auth=90d2ad8b7bce4aa95a9d2f7ae7e0a13f2c1dc607eb69498e3f85efa2fdf022bc"
+      "title": "La Fiscalía redobla su ofensiva contra los narcos del mar para acusarlos también de piratería",
+      "link": "https://elpais.com/espana/2026-08-24/la-fiscalia-redobla-su-ofensiva-contra-los-narcos-del-mar-para-acusarlos-tambien-de-pirateria.html",
+      "desc": "Una sentencia del Supremo permite al ministerio público intentar una nueva vía para elevar hasta en 15 años las penas de traficantes",
+      "date": "Mon, 24 Aug 2026 03:45:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/Y7SX5MHZIBCTLIIUYJNYEH5F4M.jpg?auth=585e2c7838ccd82e45676637c07fcf41b781dd06fee2786b21bd160fe6a72c20"
     },
     {
       "title": "Todo se transforma menos la política",
@@ -57,11 +57,46 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/PYG2O6E2DRGGJMDBHBQOODLCJU.jpg?auth=27986719d3645e64d13f50e4e20c9c267e50e52d2687496e0137cb2146c826b4"
     },
     {
+      "title": "La frontera interior de Ceuta",
+      "link": "https://elpais.com/espana/2026-08-24/la-frontera-interior-de-ceuta.html",
+      "desc": "La crisis migratoria se percibe de manera muy distinta en los diferentes barrios de la ciudad autónoma",
+      "date": "Mon, 24 Aug 2026 03:45:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/HWERIVMSNJOHDL6JNLMMMHFAN4.jpg?auth=d18934db711e8344a2001e61f665a239a2d991a1aefb6ebe87cece6c417324db"
+    },
+    {
+      "title": "Elma Saiz: “Algunos quieren inmigrantes, pero sin derechos. Quieren ciudadanos de primera y de segunda”",
+      "link": "https://elpais.com/espana/2026-08-23/elma-saiz-algunos-quieren-inmigrantes-pero-sin-derechos-quieren-ciudadanos-de-primera-y-de-segunda.html",
+      "desc": "“La sociedad de Ceuta es madura, no necesita agitadores de fuera”, señala la ministra de Inclusión, la integrante del Gobierno que más tiempo ha pasado en la ciudad",
+      "date": "Sun, 23 Aug 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/FHEAO5V4MRE75EABCY46ZNRFDA.jpg?auth=0bf6f185e4bbb9cc3b5fb0ab08d7fce4aa63886f1ee6491a2ff9886c51ba84a2"
+    },
+    {
+      "title": "Juan Jesús Vivas, un político catapultado por la crisis",
+      "link": "https://elpais.com/espana/2026-08-23/juan-jesus-vivas-un-politico-catapultado-por-la-crisis.html",
+      "desc": "El presidente de Ceuta, de 73 años y en el cargo desde 2001, saca rédito a la tormenta migratoria adaptándose como siempre al sentir de la ciudad",
+      "date": "Sun, 23 Aug 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/XSJLLYGVMBHNBPDUIMAADWNFGI.jpg?auth=90d2ad8b7bce4aa95a9d2f7ae7e0a13f2c1dc607eb69498e3f85efa2fdf022bc"
+    },
+    {
       "title": "El Supremo rechaza forzar las comparecencias de los ministros en el Senado en agosto como pedía el PP",
       "link": "https://elpais.com/espana/2026-08-22/el-supremo-descarta-la-medida-urgente-del-pp-para-forzar-en-agosto-las-comparecencias-ministeriales-por-ceuta.html",
       "desc": "El tribunal considera que “no se ha acreditado la especial urgencia” para atender la petición sin escuchar antes al Gobierno, que tendrá diez días para presentar alegaciones",
       "date": "Sat, 22 Aug 2026 12:40:24 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/FZ5RPB5XBROIBGESFL4ZKVTLZ4.jpg?auth=b7e8c33fe60bcd248d2d048db8c0236df11d2e7bb1a31003064686d6319c1fc0"
+    },
+    {
+      "title": "La UCO y las fiscales del ‘caso Leire Díez’ siguen el rastro del dinero",
+      "link": "https://elpais.com/espana/2026-08-24/la-uco-y-las-fiscales-del-caso-leire-diez-siguen-el-rastro-del-dinero.html",
+      "desc": "Anticorrupción busca determinar los “financiadores últimos” de la supuesta trama creada para “desestabilizar” causas que salpicasen al PSOE y al Gobierno",
+      "date": "Mon, 24 Aug 2026 03:45:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/INHRVEOYURAATHRB4FEFJ4TZ54.jpg?auth=1314b108dd0106bdead40a46911e81a7975e93ddda0c6af0b70d5a08efeb965f"
+    },
+    {
+      "title": "El Pequeño Nicolás quiere recuperar su nombre",
+      "link": "https://elpais.com/espana/2026-08-24/el-pequeno-nicolas-quiere-recuperar-su-nombre.html",
+      "desc": "El joven, que fue detenido con 19 años y tiene ahora 32, ha logrado evitar la cárcel. Próximo a figuras de la derecha como Alvise, en su entorno aseguran que no quiere entrar en política",
+      "date": "Mon, 24 Aug 2026 03:45:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/TJDPPODADUKOX7G2H7LBFTUMPA.jpg?auth=05db66c3752a304c75eeb6f899be3ed6dcf8d01f0853c2623cb68bcc6d1bb078"
     },
     {
       "title": "Desaparecido un empresario español tras caer de su barco entre Italia y Grecia",
@@ -97,42 +132,7 @@
       "desc": "El “síndrome del Norte”, la alerta permanente que sufrían los agentes que combatían a ETA, se apodera de los destinados en las zonas calientes del tráfico de drogas: ocultos en el anonimato, conviven con sus objetivos y afrontan constantes tiroteos con armas largas",
       "date": "Sun, 23 Aug 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/GF4D3F7NCJG3ZE4RZTO3SOCXMQ.jpg?auth=8f47ae31fb286c3decc15808b2099757702415fa81fbf6b631510cfc684a9366"
-    },
-    {
-      "title": "Marruecos vincula la aceptación de los cadáveres de Ceuta a la devolución de 2.500 menores huidos en la crisis migratoria",
-      "link": "https://elpais.com/espana/2026-08-22/marruecos-vincula-la-aceptacion-de-los-cadaveres-de-ceuta-a-la-devolucion-de-2500-menores-huidos-en-la-crisis-migratoria.html",
-      "desc": "La reclamación de Rabat choca con las leyes de protección españolas y europeas. Las fuerzas de seguridad contabilizaron en 2025 más de 73.000 intentos de salidas ilegales del país, pero carecen de registros sobre migrantes irregulares menores",
-      "date": "Sat, 22 Aug 2026 20:20:40 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/L3LDF3F7FJE4BLCJFWTX2NACLY.jpg?auth=3fbdaaeded310f44dc24ec3f81605cb4acb960df06775df29256cf35b81c0c9b"
-    },
-    {
-      "title": "Ceuta, la crisis imposible",
-      "link": "https://elpais.com/espana/2026-08-23/ceuta-la-crisis-imposible.html",
-      "desc": "El Gobierno y la ciudad jugaron durante días al gato y el ratón con los emplazamientos para inmigrantes. El ambiente de rechazo a los extranjeros, que no era tan fuerte en 2021, complica la gestión. El Ejecutivo confía en que Marruecos ahora sí frenará cualquier intento como hizo el 15",
-      "date": "Sun, 23 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/EZCEY22N2NHDXNSMDTO6A2UCPY.jpg?auth=ed9cf61e0f2e665fc26e2bd81bee6a3c2495b87349a0c833f09ace8015860cde"
-    },
-    {
-      "title": "El renacer en tiempo récord del monasterio budista que devoró el fuego en 2024",
-      "link": "https://elpais.com/espana/galicia/2026-08-23/el-renacer-en-tiempo-record-de-un-monasterio-budista-de-un-pueblo-de-ourense-que-devoro-el-fuego-en-2024.html",
-      "desc": "El centro de referencia del noroeste de España da paso a una fase de crecimiento, que empezará con cabañas de meditación en el bosque",
-      "date": "Sun, 23 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/VXOREU32DZCCJBZR5AC72YXB4Y.jpg?auth=6defe6ce00f32aabb8a9d5804dd22de1dd4517cae334360d79f872710b6cafa9"
-    },
-    {
-      "title": "La vida de cuatro mujeres migrantes varadas en Ceuta: “El miedo más grande es a que me devuelvan”",
-      "link": "https://elpais.com/espana/2026-08-23/la-vida-de-cuatro-mujeres-migrantes-varadas-en-ceuta-el-miedo-mas-grande-es-a-que-me-devuelvan.html",
-      "desc": "Tres chicas de 17 años y una joven embarazada de 21 años relatan su penuria en las calles en las últimas semanas, sin dinero y con lo puesto",
-      "date": "Sun, 23 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/T5Q2KLNFXFEHZANPOW4KLCDIM4.jpg?auth=05c40aa8db702c2402627eb55c4d58d7703ff94c9019acde792cfeb9158a750d"
-    },
-    {
-      "title": "Las 18 tumbas de Ceuta",
-      "link": "https://elpais.com/espana/2026-08-22/las-18-tumbas-de-ceuta.html",
-      "desc": "La ciudad entierra por el rito musulmán a los primeros ahogados, pero no logra aplacar el enfado de la Ciudad Autónoma",
-      "date": "Sat, 22 Aug 2026 06:32:38 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/NQMA45MU6FOVNMNQICJ2UO34SQ.jpg?auth=9238fe9c3e625123c8062eeff632fa69e9e42f860827dc77d9bd0f28b44c92d6"
     }
   ],
-  "fetchedAt": 1787542221847
+  "fetchedAt": 1787546360360
 }
