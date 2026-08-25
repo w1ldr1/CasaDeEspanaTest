@@ -1,11 +1,18 @@
 {
   "items": [
     {
-      "title": "Sánchez da un giro a la gestión de la crisis de Ceuta casi un mes después con un mando único y un plan económico",
-      "link": "https://elpais.com/espana/2026-08-25/sanchez-da-un-giro-a-la-gestion-de-la-crisis-de-ceuta-casi-un-mes-despues-con-un-mando-unico-y-un-plan-economico.html",
-      "desc": "El ministro Torres tomará el control desde la ciudad autónoma y se creará un órgano con papel para el presidente local y el CNI",
-      "date": "Tue, 25 Aug 2026 03:45:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/EBUFCQ46VVBAJPMFJ7JJOCHTYY.jpg?auth=71e24538ac3dc0adb9dfcd98241479ef505ba9ac5552aff9a7f53113a53f23e7"
+      "title": "Guerra de versiones entre Marlaska y Robles sobre los informes que hizo el CNI para avanzar la crisis de Ceuta",
+      "link": "https://elpais.com/espana/2026-08-25/marlaska-contradice-a-robles-e-insiste-en-que-el-cni-no-informo-de-la-posibilidad-de-una-entrada-masiva-en-ceuta.html",
+      "desc": "La titular de Defensa dice en el Congreso que los servicios de Inteligencia avisaron al Gobierno, pero el ministro de Interior cierra tajante: “No hubo ningún informe ni del CNI ni de ningún centro de un país amigo”",
+      "date": "Tue, 25 Aug 2026 14:13:06 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260825/1207625_140812_video_1800.mp4"
+    },
+    {
+      "title": "El Gobierno aprueba un anteproyecto para reformar las leyes de extranjería y de asilo",
+      "link": "https://elpais.com/espana/2026-08-25/rueda-de-prensa-del-consejo-de-ministros-en-directo-saiz-torres-y-marlaska-comparecen-tras-la-creacion-del-mando-unico-para-ceuta.html",
+      "desc": "El Consejo de Ministros acuerda la creación de un mando único para la gestión de la crisis migratoria",
+      "date": "Tue, 25 Aug 2026 13:05:36 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260825/1207590_122316_video_1800.mp4"
     },
     {
       "title": "Mohamed VI preside una ceremonia religiosa en la que se alude a las ciudades autónomas españolas como “ocupadas”",
@@ -13,13 +20,6 @@
       "desc": "El rey de Marruecos regresa a Rabat tras varias semanas de vacaciones cerca de la frontera ceutí mientras los partidos del Gobierno marcan posiciones",
       "date": "Tue, 25 Aug 2026 11:15:08 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/NC5JAZCWFZBFJBQZZYANIKUGRE.jfif?auth=393958b5561f30a92b756a1d80ebe6af8c5dae7476bc2dabe27d215fba6e7bef"
-    },
-    {
-      "title": "La familia del pequeño Siraj lleva 26 días en un polígono fantasma de Ceuta: “Nadie ha venido a preguntarnos nada”",
-      "link": "https://elpais.com/espana/2026-08-25/la-familia-del-pequeno-siraj-lleva-26-dias-en-un-poligono-fantasma-de-ceuta-nadie-ha-venido-a-preguntarnos-nada.html",
-      "desc": "Cientos de inmigrantes siguen en las calles de El Tarajal, entre ellos muchos menores, sin baños. “No se ven los esfuerzos para que esto acabe”, reclaman en Médicos del Mundo",
-      "date": "Tue, 25 Aug 2026 03:45:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/KPI2N7LQAVDTBKFJQRPUUWHW3I.jpg?auth=cf217c93a6418ba76429fc675fef3c110a5f686c238e4ec3b138266b3a9e975f"
     },
     {
       "title": "Ceuta, el Supremo y la ansiedad del PP",
@@ -57,18 +57,25 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/K6MT7QSACFD6BCKXGDDPCOSJ5I.jpg?auth=15fb2e31023deab9076d091d9636c769895d535220c315b44b6eacf8f576a17c"
     },
     {
-      "title": "Robles reafirmará la labor de las Fuerzas Armadas y la españolidad de Ceuta en el Congreso",
-      "link": "https://elpais.com/espana/2026-08-25/robles-reafirmara-la-labor-de-las-fuerzas-armadas-y-la-espanolidad-de-ceuta-en-el-congreso.html",
-      "desc": "La ministra de Defensa estrena las explicaciones del Gobierno sobre su gestión de la crisis basada en la “legalidad, colaboración institucional y respeto a los derechos humanos”",
-      "date": "Tue, 25 Aug 2026 03:45:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/PWACDDT5E5OAHAFCPCPWD7XITY.jpg?auth=5ce6ec167913676d0012675b5d4167a1637d5d51f0f57a2dd1692cf7d1743473"
+      "title": "Bruselas evaluará “rápidamente” la demanda de España de ayuda de emergencia por Ceuta",
+      "link": "https://elpais.com/espana/2026-08-25/bruselas-evaluara-rapidamente-la-demanda-de-espana-de-ayuda-de-emergencia-por-ceuta.html",
+      "desc": "La Comisión Europea insiste en que sean devueltos todos los que entraron irregularmente desde Marruecos",
+      "date": "Tue, 25 Aug 2026 12:43:23 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/WSM2AK7LQVIQTECXGEGEMZO52A.jpg?auth=07055a27b155c6946b3b41be71f42a740757c32eeab51f6cbadd2a4e5da356b4"
     },
     {
-      "title": "El Gobierno aprueba un anteproyecto para reformar las leyes de extranjería y de asilo",
-      "link": "https://elpais.com/espana/2026-08-25/rueda-de-prensa-del-consejo-de-ministros-en-directo-saiz-torres-y-marlaska-comparecen-tras-la-creacion-del-mando-unico-para-ceuta.html",
-      "desc": "El Consejo de Ministros acuerda la creación de un mando único para la gestión de la crisis migratoria",
-      "date": "Tue, 25 Aug 2026 12:59:19 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/QCCQ5INQ6FBUDD4SQDVOMP4HWI.jpg?auth=46f416cb2713c1aa735782ceadd4cad0e147638323c40b1500f99ac1b1c12192"
+      "title": "La familia del pequeño Siraj lleva 26 días en un polígono fantasma de Ceuta: “Nadie ha venido a preguntarnos nada”",
+      "link": "https://elpais.com/espana/2026-08-25/la-familia-del-pequeno-siraj-lleva-26-dias-en-un-poligono-fantasma-de-ceuta-nadie-ha-venido-a-preguntarnos-nada.html",
+      "desc": "Cientos de inmigrantes siguen en las calles de El Tarajal, entre ellos muchos menores, sin baños. “No se ven los esfuerzos para que esto acabe”, reclaman en Médicos del Mundo",
+      "date": "Tue, 25 Aug 2026 03:45:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/KPI2N7LQAVDTBKFJQRPUUWHW3I.jpg?auth=cf217c93a6418ba76429fc675fef3c110a5f686c238e4ec3b138266b3a9e975f"
+    },
+    {
+      "title": "El Gobierno aprueba por decreto la creación del registro público de ‘lobbies’ ante el bloqueo del Congreso",
+      "link": "https://elpais.com/espana/2026-08-25/el-gobierno-aprueba-por-decreto-la-creacion-del-registro-publico-de-lobbies-ante-el-bloqueo-del-congreso.html",
+      "desc": "El Ejecutivo busca reflejar “quiénes tienen la consideración de grupos de interés, cuál es su actividad de influencia y quiénes son susceptibles de recibirla”",
+      "date": "Tue, 25 Aug 2026 12:45:54 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/U3LU2BXWDZB3JMVV5XPQI46UFI.jpg?auth=dee378a978c0eb2173bfce9e2b4df46096245619882b85e41a0f3a15527901a7"
     },
     {
       "title": "Génova rebaja la presión sobre Ayuso por la compra del ático pese al malestar por el daño a la marca",
@@ -85,25 +92,11 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/YAWGDXX2PZGXFLU5AMDEDRNQFY.jpg?auth=87671eda51a8a1bd5851a8efc515a3f86afced702719e72818713a125db3ca55"
     },
     {
-      "title": "La izquierda alternativa al PSOE marca terreno propio con un mensaje duro contra Marruecos",
-      "link": "https://elpais.com/espana/2026-08-25/la-izquierda-alternativa-al-psoe-marca-terreno-propio-con-un-mensaje-duro-contra-marruecos.html",
-      "desc": "Las fuerzas de Sumar presentan la crisis en Ceuta como prueba del fracaso de la “externalización de fronteras” y ponen en la diana el Mundial conjunto de 2030",
-      "date": "Tue, 25 Aug 2026 03:45:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/3VZAGATEB5LNFHOUFJ6S7MGT6A.jpg?auth=f1e525648ab6205db65a8615e71c78427c11010719f7edbbecf492f482608251"
-    },
-    {
-      "title": "Sánchez acepta casi un mes después crear un mando único para la crisis de Ceuta dirigido por Ángel Víctor Torres",
-      "link": "https://elpais.com/espana/2026-08-24/sanchez-acepta-casi-un-mes-despues-crear-un-mando-unico-para-la-crisis-de-ceuta-dirigido-por-angel-victor-torres.html",
-      "desc": "Cuerpo pacta con Vivas una nueva gestión de la crisis y prepara una lluvia de millones para intentar aplacar las críticas",
-      "date": "Mon, 24 Aug 2026 15:48:13 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207318_162253_video_1800.mp4"
-    },
-    {
-      "title": "El PP reclama turnos “mañana, tarde y noche” de los servicios de extranjería en Ceuta para acelerar los retornos de migrantes",
-      "link": "https://elpais.com/espana/2026-08-24/el-pp-reclama-turnos-manana-tarde-y-noche-de-los-servicios-de-extranjeria-en-ceuta-para-acelerar-los-retornos-de-migrantes.html",
-      "desc": "Génova insiste en la propuesta de confinar a los extranjeros contagiados de enfermedades pese a que las sociedades científicas desaconsejan la medida",
-      "date": "Mon, 24 Aug 2026 13:30:28 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207259_135346_video_1800.mp4"
+      "title": "Cae un clan de lancheros gallegos tras alijar 1.410 kilos de coca para el cártel de los Balcanes",
+      "link": "https://elpais.com/espana/2026-08-24/cae-un-clan-de-lancheros-gallegos-tras-alijar-1410-kilos-de-coca-para-el-cartel-de-los-balcanes.html",
+      "desc": "La Policía logró abortar su distribución al descubrir el escondite de la droga y detener a tres implicados en el desembarco",
+      "date": "Mon, 24 Aug 2026 15:26:47 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207309_160844_video_1800.mp4"
     },
     {
       "title": "El Gobierno urge al Poder Judicial a tramitar los refuerzos para Ceuta: “El Ministerio tiene todo preparado”",
@@ -113,26 +106,33 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/QGHWF3YU75NR5GTGSJ5J75OZ6I.jpg?auth=64aec8b84509c2838fae6a22b5183a67207562d30ae8852d76caf350d3c1b612"
     },
     {
-      "title": "La búsqueda del empresario burgalés que cayó al mar desde su barco mientras pescaba con su mujer en el Mediterráneo",
-      "link": "https://elpais.com/espana/2026-08-24/juan-jose-mutilba-el-empresario-burgales-de-bidones-de-agua-al-que-buscan-en-el-mediterraneo.html",
-      "desc": "La esposa no pudo avisar a los servicios de emergencias hasta tres días después del accidente porque no tenía cobertura",
-      "date": "Mon, 24 Aug 2026 14:20:08 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/JOGR2BFAB5ESDET7YWBGTEAL3A.jpg?auth=47e17c1aa07a6b2429d41e4d3d1fed41b71e7b52f39f980ca00c1dc23c1b0c77"
+      "title": "El PP reclama turnos “mañana, tarde y noche” de los servicios de extranjería en Ceuta para acelerar los retornos de migrantes",
+      "link": "https://elpais.com/espana/2026-08-24/el-pp-reclama-turnos-manana-tarde-y-noche-de-los-servicios-de-extranjeria-en-ceuta-para-acelerar-los-retornos-de-migrantes.html",
+      "desc": "Génova insiste en la propuesta de confinar a los extranjeros contagiados de enfermedades pese a que las sociedades científicas desaconsejan la medida",
+      "date": "Mon, 24 Aug 2026 13:30:28 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207259_135346_video_1800.mp4"
     },
     {
-      "title": "Sánchez convoca el Consejo de Seguridad Nacional 26 días después del estallido de la crisis de Ceuta",
-      "link": "https://elpais.com/espana/2026-08-24/sanchez-convoca-el-consejo-de-seguridad-nacional-26-dias-despues-del-estallido-de-la-crisis-de-ceuta.html",
-      "desc": "La reunión, que se celebrará horas antes del Consejo de Ministros de este martes, contará con la presencia del presidente de la ciudad, Juan Jesús Vivas",
-      "date": "Mon, 24 Aug 2026 17:06:37 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/RRETXGAZAZCCNOJU3SI3RDJRN4.jpg?auth=90922dc4f491fef5ad9326f4ceddfbfb8d007a093bc980696908c7681bb44ede"
+      "title": "Desconfinada la localidad zamorana de Ricobayo y reabierta la N-122 al lograr los bomberos perimetrar el fuego",
+      "link": "https://elpais.com/espana/2026-08-24/un-incendio-provoca-el-confinamiento-de-la-localidad-zamorana-de-ricobayo-y-el-corte-de-dos-carreteras.html",
+      "desc": "Los esfuerzos de los brigadistas, favorecidos por la mayor humedad y las precipitaciones, permiten bajar el incendio a nivel 1 de peligrosidad",
+      "date": "Mon, 24 Aug 2026 12:24:39 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/AICE2HHLHZJRVIERUGGYE5G6WA.jpg?auth=89963b43e03dff222f54c38ba057355d135fcb0487146759ed3466112e5b120f"
     },
     {
-      "title": "Cae un clan de lancheros gallegos tras alijar 1.410 kilos de coca para el cártel de los Balcanes",
-      "link": "https://elpais.com/espana/2026-08-24/cae-un-clan-de-lancheros-gallegos-tras-alijar-1410-kilos-de-coca-para-el-cartel-de-los-balcanes.html",
-      "desc": "La Policía logró abortar su distribución al descubrir el escondite de la droga y detener a tres implicados en el desembarco",
-      "date": "Mon, 24 Aug 2026 15:26:47 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207309_160844_video_1800.mp4"
+      "title": "La izquierda alternativa al PSOE marca terreno propio con un mensaje duro contra Marruecos",
+      "link": "https://elpais.com/espana/2026-08-25/la-izquierda-alternativa-al-psoe-marca-terreno-propio-con-un-mensaje-duro-contra-marruecos.html",
+      "desc": "Las fuerzas de Sumar presentan la crisis en Ceuta como prueba del fracaso de la “externalización de fronteras” y ponen en la diana el Mundial conjunto de 2030",
+      "date": "Tue, 25 Aug 2026 03:45:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/3VZAGATEB5LNFHOUFJ6S7MGT6A.jpg?auth=f1e525648ab6205db65a8615e71c78427c11010719f7edbbecf492f482608251"
+    },
+    {
+      "title": "Ayuso evita el choque con Feijóo y se niega a hablar de la polémica del ático: “Está a la venta, chao ‘pescao”",
+      "link": "https://elpais.com/espana/madrid/2026-08-24/ayuso-evita-el-choque-con-feijoo-y-se-niega-a-hablar-de-la-polemica-del-atico-esta-a-la-venta-chao-pescao.html",
+      "desc": "La presidenta madrileña visita el pantano de San Juan, afectado por los incendios de la Sierra Oeste, y evita comentar las palabras del líder del PP, que apuntó a Patrimonio de Madrid para que diera explicaciones",
+      "date": "Mon, 24 Aug 2026 10:13:56 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207223_110152_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1787662886619
+  "fetchedAt": 1787667579714
 }
