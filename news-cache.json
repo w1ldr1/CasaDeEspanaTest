@@ -64,11 +64,11 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/PWACDDT5E5OAHAFCPCPWD7XITY.jpg?auth=5ce6ec167913676d0012675b5d4167a1637d5d51f0f57a2dd1692cf7d1743473"
     },
     {
-      "title": "Rueda de prensa tras el Consejo de Ministros, en directo | El Gobierno aprueba un anteproyecto para reformar las leyes de extranjería y de asilo",
+      "title": "El Gobierno aprueba un anteproyecto para reformar las leyes de extranjería y de asilo",
       "link": "https://elpais.com/espana/2026-08-25/rueda-de-prensa-del-consejo-de-ministros-en-directo-saiz-torres-y-marlaska-comparecen-tras-la-creacion-del-mando-unico-para-ceuta.html",
-      "desc": "Grande-Marlaska insiste en que el CNI no informó de la posibilidad de una entrada masiva en Ceuta. El Consejo de Ministros acuerda la creación de un mando único para la gestión de la crisis migratoria",
-      "date": "Tue, 25 Aug 2026 12:14:16 GMT",
-      "imgUrl": "https://www.youtube.com/watch?v=JNB0YNyM9Eo"
+      "desc": "El Consejo de Ministros acuerda la creación de un mando único para la gestión de la crisis migratoria",
+      "date": "Tue, 25 Aug 2026 13:05:36 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260825/1207590_122316_video_1800.mp4"
     },
     {
       "title": "Génova rebaja la presión sobre Ayuso por la compra del ático pese al malestar por el daño a la marca",
@@ -134,5 +134,5 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207309_160844_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1787661477841
+  "fetchedAt": 1787665451876
 }
