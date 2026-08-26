@@ -8,18 +8,18 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260825/1207693_174143_video_1800.mp4"
     },
     {
-      "title": "Las nuevas leyes de extranjería y asilo contemplan confinamientos y repartos de inmigrantes",
+      "title": "Las nuevas leyes de extranjería y asilo contemplan repartos de inmigrantes, internamientos forzosos y confinamientos",
       "link": "https://elpais.com/espana/2026-08-26/del-triaje-al-confinamiento-las-ocho-claves-de-la-nueva-ley-de-asilo-y-reforma-de-extranjeria.html",
       "desc": "Los anteproyectos aprobados por el Gobierno refuerzan las garantías de menores y otros migrantes vulnerables, pero aceleran los plazos de expulsión y restringen el derecho de asilo",
       "date": "Wed, 26 Aug 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/RLWQKKGJWBKZTB4OIU6K7HH37U.jpg?auth=0917f1acc3b92f6cdfec8592b37b7b4ec650360c8bb1de9e692ccb7de8c1f1a5"
     },
     {
-      "title": "Resistir en Ceuta hasta conseguir el asilo",
-      "link": "https://elpais.com/espana/2026-08-26/resistir-en-ceuta-hasta-conseguir-el-asilo.html",
-      "desc": "Cientos de subsaharianos acarician la posibilidad de pedir de forma legal la protección en España",
-      "date": "Wed, 26 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/AIAB2KXRCRHZPIC5NKJ4UPT5DY.jpg?auth=d27c18b368bb81404203a74e68087ccc82202ce76d0af73c4efe4469f15bcbe2"
+      "title": "Crece la tensión en Ceuta entre protestas por la gestión de la crisis y la llegada del ministro Torres",
+      "link": "https://elpais.com/espana/2026-08-26/crece-la-tension-en-ceuta-entre-protestas-por-la-gestion-de-la-crisis-y-la-llegada-del-ministro-torres.html",
+      "desc": "Se multiplican los incidentes en medio del creciente hartazgo de la ciudad y la visita del nuevo mando único",
+      "date": "Wed, 26 Aug 2026 07:23:02 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/N55YGUWJU5FSROCWWIRKNSZS2I.jpg?auth=18c0b024aeb09691d36e9f688b60159f6424562ded41a9eb6bcd4002b002995d"
     },
     {
       "title": "Lo que España aún le debe a Ceuta",
@@ -69,6 +69,13 @@
       "desc": "Sergio Mutilba, hijo de Juan José Mutilba, ruega medios para localizar a su padre, que cayó al mar la semana pasada",
       "date": "Wed, 26 Aug 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/TK77HYURSFCZJJRIT3FNSVMF7I.jpg?auth=e8ed1e49d292fc354e5834edb37a62d23e6b4f2d7d1e7ec13ab156daf4152c0a"
+    },
+    {
+      "title": "Resistir en Ceuta hasta conseguir el asilo",
+      "link": "https://elpais.com/espana/2026-08-26/resistir-en-ceuta-hasta-conseguir-el-asilo.html",
+      "desc": "Cientos de subsaharianos acarician la posibilidad de pedir de forma legal la protección en España",
+      "date": "Wed, 26 Aug 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/AIAB2KXRCRHZPIC5NKJ4UPT5DY.jpg?auth=d27c18b368bb81404203a74e68087ccc82202ce76d0af73c4efe4469f15bcbe2"
     },
     {
       "title": "El Gobierno aprueba por decreto la creación del registro público de ‘lobbies’ ante el bloqueo del Congreso",
@@ -125,14 +132,7 @@
       "desc": "En libertad condicional desde hace cinco meses, el exdirigente del PP gallego y ‘número dos’ de la trama Gürtel defiende la utilidad de los programas de reinserción",
       "date": "Tue, 25 Aug 2026 03:45:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/YAWGDXX2PZGXFLU5AMDEDRNQFY.jpg?auth=87671eda51a8a1bd5851a8efc515a3f86afced702719e72818713a125db3ca55"
-    },
-    {
-      "title": "Cae un clan de lancheros gallegos tras alijar 1.410 kilos de coca para el cártel de los Balcanes",
-      "link": "https://elpais.com/espana/2026-08-24/cae-un-clan-de-lancheros-gallegos-tras-alijar-1410-kilos-de-coca-para-el-cartel-de-los-balcanes.html",
-      "desc": "La Policía logró abortar su distribución al descubrir el escondite de la droga y detener a tres implicados en el desembarco",
-      "date": "Mon, 24 Aug 2026 15:26:47 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260824/1207309_160844_video_1800.mp4"
     }
   ],
-  "fetchedAt": 1787727152194
+  "fetchedAt": 1787730524660
 }
