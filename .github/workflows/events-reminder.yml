@@ -1,0 +1,45 @@
+name: Events Reminder
+
+on:
+  schedule:
+    - cron: '0 13 * * *'   # daily, ~9am US Eastern
+  workflow_dispatch:          # allow manual trigger for testing
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Check whether a reminder is due
+        id: check
+        run: node .github/scripts/check-events-reminder.mjs
+
+      - name: Send reminder email
+        if: steps.check.outputs.should_send == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          username: ${{ secrets.EVENTS_REMINDER_EMAIL_USER }}
+          password: ${{ secrets.EVENTS_REMINDER_EMAIL_PASS }}
+          subject: ${{ steps.check.outputs.subject }}
+          to: pocketsod@gmail.com
+          from: Casa de España Website <${{ secrets.EVENTS_REMINDER_EMAIL_USER }}>
+          body: ${{ steps.check.outputs.body }}
+
+      - name: Commit reminder state if changed
+        if: steps.check.outputs.should_send == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .github/events-reminder-state.json
+          git diff --staged --quiet || git commit -m "chore: record events reminder sent [skip ci]"
+          git push
