@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '0 13 * * *'   # daily, ~9am US Eastern
   workflow_dispatch:          # allow manual trigger for testing
+    inputs:
+      force_test:
+        description: 'Send a test email regardless of event dates (does not touch reminder state)'
+        type: boolean
+        default: false
 
 jobs:
   check:
@@ -20,6 +25,8 @@ jobs:
 
       - name: Check whether a reminder is due
         id: check
+        env:
+          FORCE_TEST: ${{ inputs.force_test }}
         run: node .github/scripts/check-events-reminder.mjs
 
       - name: Send reminder email

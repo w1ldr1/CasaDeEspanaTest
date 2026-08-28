@@ -32,8 +32,19 @@ let shouldSend = false;
 let notifiedFor = state.lastNotifiedFor;
 let subject = '';
 let body = '';
+const isForceTest = process.env.FORCE_TEST === 'true';
 
-if (upcoming.length === 0) {
+if (isForceTest) {
+  shouldSend = true;
+  subject = 'Casa de España — events reminder test';
+  body = [
+    'This is a manual test run (workflow_dispatch with force_test) — it does not reflect a real reminder condition and does not update .github/events-reminder-state.json.',
+    '',
+    `Current events.json has ${upcoming.length} upcoming event${upcoming.length === 1 ? '' : 's'}.`,
+    '',
+    'If this arrived, the SMTP secrets are working correctly.',
+  ].join('\n');
+} else if (upcoming.length === 0) {
   if (state.lastNotifiedFor !== 'EMPTY') {
     shouldSend = true;
     notifiedFor = 'EMPTY';
@@ -69,7 +80,7 @@ if (upcoming.length === 0) {
   }
 }
 
-if (shouldSend) {
+if (shouldSend && !isForceTest) {
   await writeFile(STATE_FILE, `${JSON.stringify({ lastNotifiedFor: notifiedFor }, null, 2)}\n`);
 }
 
