@@ -1,25 +1,25 @@
 {
   "items": [
     {
+      "title": "El Gobierno pide al PP que le ayude a parar la violencia en Ceuta en medio de bloqueos del reparto de comida a los inmigrantes",
+      "link": "https://elpais.com/espana/2026-08-28/el-gobierno-pide-al-pp-que-le-ayude-a-parar-la-violencia-en-ceuta-en-medio-de-bloqueos-del-reparto-de-comida-a-los-inmigrantes.html",
+      "desc": "Torres y Vivas pactaron un llamamiento contra la violencia, pero un centenar de personas carga contra la Cruz Roja",
+      "date": "Fri, 28 Aug 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/KXYW66D5I5ACJNUCV65UJWBEOA.jpeg?auth=5c93ac378608bdafba50848531923d7661bed17f3bac92a97753210caab28746"
+    },
+    {
+      "title": "Marlaska acude al Congreso tras el choque con Robles dispuesto a defender su versión",
+      "link": "https://elpais.com/espana/2026-08-28/marlaska-regresa-al-congreso-tras-el-choque-con-robles.html",
+      "desc": "Los ministros José Manuel Albares y Elma Saiz también comparecen este viernes para dar cuenta de su gestión en la crisis migratoria en Ceuta",
+      "date": "Fri, 28 Aug 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/RLWQKKGJWBKZTB4OIU6K7HH37U.jpg?auth=0917f1acc3b92f6cdfec8592b37b7b4ec650360c8bb1de9e692ccb7de8c1f1a5"
+    },
+    {
       "title": "La batalla por los espacios para alojar a migrantes alarga la crisis de Ceuta",
       "link": "https://elpais.com/espana/2026-08-27/la-batalla-por-los-espacios-para-alojar-a-migrantes-alarga-la-crisis-de-ceuta.html",
       "desc": "El Gobierno avisa: cuanto antes se pacten lugares viables, antes se devolverán. Malestar en el Ejecutivo con Vivas, que rechaza usar los polideportivos y amenaza con encadenarse, calentando los ánimos",
       "date": "Thu, 27 Aug 2026 03:45:01 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260826/1208081_192323_video_1800.mp4"
-    },
-    {
-      "title": "La guerra sin fin entre Marlaska y Robles",
-      "link": "https://elpais.com/espana/2026-08-27/la-guerra-sin-fin-entre-marlaska-y-robles.html",
-      "desc": "Las discrepancias entre ambos ministros por la crisis de Ceuta son el último episodio de la difícil relación que mantienen desde que entraron en el primer ejecutivo de Sánchez",
-      "date": "Thu, 27 Aug 2026 03:45:01 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260825/1207693_174143_video_1800.mp4"
-    },
-    {
-      "title": "Crece la tensión en una Ceuta al borde del estallido social",
-      "link": "https://elpais.com/espana/2026-08-27/crece-la-tension-en-una-ceuta-al-borde-del-estallido-social.html",
-      "desc": "Un grupo de ceutíes quema parte del campamento de los migrantes en una playa de Ceuta e intenta bloquear el reparto de comida de la Cruz Roja",
-      "date": "Thu, 27 Aug 2026 20:12:40 GMT",
-      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260827/1208332_133250_video_1800.mp4"
     },
     {
       "title": "Un hecho notorio en Elche",
@@ -55,6 +55,20 @@
       "desc": "No basta con jugarse la vida; hay que ajustarse al cliché de inmigrante que los demás consideran aceptable",
       "date": "Sat, 22 Aug 2026 03:30:01 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260820/1206332_193020_video_1800.mp4"
+    },
+    {
+      "title": "La guerra sin fin entre Marlaska y Robles",
+      "link": "https://elpais.com/espana/2026-08-27/la-guerra-sin-fin-entre-marlaska-y-robles.html",
+      "desc": "Las discrepancias entre ambos ministros por la crisis de Ceuta son el último episodio de la difícil relación que mantienen desde que entraron en el primer ejecutivo de Sánchez",
+      "date": "Thu, 27 Aug 2026 03:45:01 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260825/1207693_174143_video_1800.mp4"
+    },
+    {
+      "title": "Crece la tensión en una Ceuta al borde del estallido social",
+      "link": "https://elpais.com/espana/2026-08-27/crece-la-tension-en-una-ceuta-al-borde-del-estallido-social.html",
+      "desc": "Un grupo de ceutíes quema parte del campamento de los migrantes en una playa de Ceuta e intenta bloquear el reparto de comida de la Cruz Roja",
+      "date": "Thu, 27 Aug 2026 20:12:40 GMT",
+      "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260827/1208332_133250_video_1800.mp4"
     },
     {
       "title": "Detenidos 12 migrantes en Ceuta tras apedrear un vehículo militar y herir a cuatro de sus ocupantes",
@@ -118,21 +132,7 @@
       "desc": "Tres personas han tenido que ser trasladadas al hospital por el incidente; dos han sido dadas de alta y una permanece ingresada, pero estable. La Guardia Civil investiga la explosión",
       "date": "Wed, 26 Aug 2026 16:12:50 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260826/1207994_153420_video_1800.mp4"
-    },
-    {
-      "title": "Junts endurece su discurso y reclama competencias en inmigración para Cataluña: “No podemos esperar ni un minuto más”",
-      "link": "https://elpais.com/espana/2026-08-26/junts-endurece-su-discurso-y-reclama-competencias-en-inmigracion-para-cataluna-no-podemos-esperar-ni-un-minuto-mas.html",
-      "desc": "Los de Puigdemont aceleran la medida ante el avance electoral de Aliança Catalana y cambian el preámbulo de la proposición de ley para atraer a Podemos, que dice ahora que ese no era el “único problema” del texto",
-      "date": "Wed, 26 Aug 2026 13:37:03 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/TM3P5D4LBBEYVOEJSWIZECFVWM.jpg?auth=24addd3431efcd01206d320bcc2b5e2a6d00862fc8fb1423aee15792c2bb326a"
-    },
-    {
-      "title": "Detenido en Dubái Alejandro Hamlyn, el empresario prófugo de los audios de Leire Díez",
-      "link": "https://elpais.com/espana/2026-08-26/detenido-en-dubai-alejandro-hamlyn-el-empresario-profugo-de-los-audios-de-leire-diez.html",
-      "desc": "La Audiencia Nacional había ordenado su arresto tras no presentarse a un juicio por fraude en el que la Fiscalía pide 89 años de cárcel para él",
-      "date": "Wed, 26 Aug 2026 09:50:40 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/RRUTCLNII5HRHNVLFINFIOBLIU.jpg?auth=30fd769ddc21df977b4d6ae2ef932e5223f67d1f4873fb36346ea275dfacbdac"
     }
   ],
-  "fetchedAt": 1787864308691
+  "fetchedAt": 1787894189282
 }
