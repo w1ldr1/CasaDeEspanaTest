@@ -1,0 +1,967 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="brand_assests/favicon.png">
+  <link rel="apple-touch-icon" href="brand_assests/favicon.png">
+  <title>Guía para Recién Llegados — Casa de España en Indiana</title>
+  <meta name="description" content="Guía práctica para profesores y familias que se trasladan desde España a Indiana: vivienda, colegios, conducir, gastronomía y cultura.">
+  <meta name="keywords" content="Casa de España en Indiana, recién llegados Indiana, guía profesores España Indiana, mudarse a Indiana desde España">
+  <link rel="canonical" href="https://casaespanaindiana.org/newcomers-es.html">
+  <link rel="alternate" hreflang="es" href="https://casaespanaindiana.org/newcomers-es.html">
+  <link rel="alternate" hreflang="en" href="https://casaespanaindiana.org/newcomers-en.html">
+  <link rel="alternate" hreflang="x-default" href="https://casaespanaindiana.org/newcomers-es.html">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://casaespanaindiana.org/newcomers-es.html">
+  <meta property="og:title" content="Guía para Recién Llegados — Casa de España en Indiana">
+  <meta property="og:description" content="Guía práctica para profesores y familias que se trasladan desde España a Indiana: vivienda, colegios, conducir, gastronomía y cultura.">
+  <meta property="og:site_name" content="Casa de España en Indiana">
+  <meta property="og:image" content="https://casaespanaindiana.org/brand_assests/OGlogo.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Guía para Recién Llegados — Casa de España en Indiana">
+  <meta name="twitter:image" content="https://casaespanaindiana.org/brand_assests/OGlogo.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600&family=Source+Sans+3:wght@300;400;600&display=swap" rel="stylesheet">
+
+  <script>
+    tailwind = { config: {
+      theme: {
+        extend: {
+          colors: {
+            terra: '#C13B2B', 'terra-deep': '#8C2318', 'terra-muted': '#D4604F',
+            parchment: '#FAF4ED', 'parch-2': '#F2E9DF', 'parch-3': '#E8DBCF',
+            ink: '#1C1410', 'ink-mid': '#3D2E26', 'ink-light': '#6B5648',
+          },
+          fontFamily: {
+            display: ['"Cormorant Garamond"', 'Georgia', 'serif'],
+            sans: ['"Source Sans 3"', '"Source Sans Pro"', 'sans-serif'],
+          },
+        }
+      }
+    }};
+  </script>
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <style>
+    /* ─── TOKENS ─────────────────────────────────────────── */
+    :root {
+      --terra:        #C13B2B;
+      --terra-deep:   #8C2318;
+      --terra-muted:  #D4604F;
+      --parchment:    #FAF4ED;
+      --parch-2:      #F2E9DF;
+      --parch-3:      #E8DBCF;
+      --ink:          #1C1410;
+      --ink-mid:      #3D2E26;
+      --ink-light:    #6B5648;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: 'Source Sans 3', sans-serif;
+      background: var(--parchment);
+      color: var(--ink);
+      -webkit-font-smoothing: antialiased;
+      overflow-x: hidden;
+      padding-top: 120px;
+    }
+
+    /* ─── UTILITY ────────────────────────────────────────── */
+    .section-container { max-width: 1140px; margin: 0 auto; padding: 0 40px; }
+    @media (max-width: 640px) { .section-container { padding: 0 20px; } }
+
+    /* ─── NAV ───────────────────────────────────────────── */
+    #site-nav {
+      position: fixed; top: 0; left: 0; right: 0;
+      height: 120px; z-index: 100;
+      display: flex;
+      transition: box-shadow 0.3s ease;
+    }
+    #site-nav.scrolled {
+      box-shadow: 0 2px 20px rgba(28,20,16,0.35), 0 1px 0 rgba(0,0,0,0.15);
+    }
+    .nav-logo-zone {
+      width: 240px; flex-shrink: 0;
+      background: var(--parchment);
+      display: flex; align-items: center; padding: 0 16px;
+      border-right: 1px solid rgba(28,20,16,0.1);
+    }
+    .nav-logo-zone img { height: 112px; width: auto; display: block; }
+    .nav-links-zone {
+      flex: 1; background: var(--ink);
+      display: flex; align-items: center;
+      padding: 0 32px; gap: 2px; justify-content: flex-end;
+    }
+    .nav-link {
+      font-family: 'Source Sans 3', sans-serif;
+      font-weight: 600; font-size: 12px;
+      letter-spacing: 0.08em; text-transform: uppercase;
+      color: var(--parchment); text-decoration: none;
+      padding: 6px 14px;
+      border-bottom: 2px solid transparent;
+      border-radius: 2px 2px 0 0;
+      transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+    }
+    .nav-link:hover { background: rgba(193,59,43,0.14); }
+    .nav-link.active { border-bottom-color: var(--terra); }
+    .nav-link:focus-visible { outline: 2px solid var(--terra-muted); outline-offset: 2px; }
+
+    .hamburger {
+      display: none; flex-direction: column; gap: 5px;
+      cursor: pointer; padding: 10px; background: none; border: none; margin-left: 8px;
+    }
+    .hamburger span {
+      display: block; width: 22px; height: 2px;
+      background: var(--parchment);
+      transition: transform 0.3s cubic-bezier(0.22,1,0.36,1), opacity 0.3s ease;
+    }
+    .hamburger.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+    .hamburger.open span:nth-child(2) { opacity: 0; transform: scaleX(0); }
+    .hamburger.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
+    .mobile-drawer {
+      position: fixed; top: 120px; left: 0; right: 0; z-index: 99;
+      background: var(--ink); border-top: 1px solid rgba(193,59,43,0.2);
+      display: flex; flex-direction: column; padding: 12px 20px 20px; gap: 2px;
+      transform: translateY(-110%);
+      transition: transform 0.35s cubic-bezier(0.22,1,0.36,1);
+      pointer-events: none;
+    }
+    .mobile-drawer.open { transform: translateY(0); pointer-events: auto; }
+    .mobile-drawer .nav-link { padding: 12px 16px; }
+
+    @media (max-width: 768px) {
+      .nav-logo-zone { width: auto; min-width: 160px; }
+      .nav-links-zone .nav-link { display: none; }
+      .hamburger { display: flex; }
+    }
+
+    /* ─── PAGE HEADER ─────────────────────────────────────── */
+    .page-header {
+      background: var(--ink); position: relative; overflow: hidden;
+      padding: 72px 0 64px;
+    }
+    .page-header::before {
+      content: ''; position: absolute; inset: 0;
+      background:
+        radial-gradient(ellipse 55% 90% at 15% 60%, rgba(193,59,43,0.11) 0%, transparent 65%),
+        radial-gradient(ellipse 35% 50% at 85% 20%, rgba(140,35,24,0.09) 0%, transparent 65%);
+      pointer-events: none;
+    }
+    .page-header-eyebrow {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 11px; font-weight: 600; letter-spacing: 0.18em; text-transform: uppercase;
+      color: var(--terra-muted); display: flex; align-items: center; gap: 12px; margin-bottom: 14px;
+    }
+    .page-header-eyebrow::before {
+      content: ''; display: block; width: 28px; height: 1px; background: var(--terra-muted);
+    }
+    .page-header h1 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: clamp(40px, 6vw, 68px); font-weight: 300;
+      letter-spacing: -0.03em; color: var(--parchment); line-height: 1.08;
+    }
+    .page-header h1 em { font-style: italic; color: var(--terra-muted); }
+    .page-header-desc {
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 16px; font-weight: 300;
+      color: rgba(250,244,237,0.55); margin-top: 16px;
+      line-height: 1.65; max-width: 560px;
+    }
+
+    /* ─── QUICK-JUMP STRIP ────────────────────────────────── */
+    .jump-strip {
+      background: var(--parch-2);
+      border-bottom: 1px solid var(--parch-3);
+      padding: 0;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+    .jump-strip-inner {
+      display: flex; gap: 0; min-width: max-content;
+      max-width: 1140px; margin: 0 auto; padding: 0 40px;
+    }
+    .jump-btn {
+      display: flex; align-items: center; gap: 8px;
+      padding: 16px 20px;
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 12px; font-weight: 600;
+      letter-spacing: 0.06em; text-transform: uppercase;
+      color: var(--ink-light); text-decoration: none;
+      border-bottom: 2px solid transparent;
+      white-space: nowrap;
+      transition: color 0.18s ease, border-color 0.18s ease;
+    }
+    .jump-btn:hover { color: var(--terra); border-bottom-color: var(--terra); }
+    .jump-btn:focus-visible { outline: 2px solid var(--terra-muted); outline-offset: -2px; }
+    .jump-icon { font-size: 15px; line-height: 1; }
+    @media (max-width: 640px) { .jump-strip-inner { padding: 0 20px; } }
+
+    /* ─── MAIN CONTENT ────────────────────────────────────── */
+    .guide-main { padding: 72px 0 110px; }
+
+    /* ─── GUIDE SECTION ──────────────────────────────────── */
+    .guide-section { margin-bottom: 64px; scroll-margin-top: 148px; }
+
+    .guide-section-head {
+      display: flex; align-items: center; gap: 16px;
+      padding-bottom: 18px;
+      border-bottom: 2px solid var(--terra);
+      margin-bottom: 4px;
+    }
+    .guide-section-icon {
+      width: 42px; height: 42px; flex-shrink: 0;
+      background: var(--terra); border-radius: 8px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 20px; line-height: 1;
+    }
+    .guide-section-head h2 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 28px; font-weight: 600; letter-spacing: -0.02em;
+      color: var(--ink); line-height: 1.15;
+    }
+    .guide-section-head h2 .sub-label {
+      display: block;
+      font-size: 13px; font-weight: 400; font-family: 'Source Sans 3', sans-serif;
+      letter-spacing: 0.04em; color: var(--ink-light); margin-top: 2px;
+    }
+
+    /* ─── ACCORDION ──────────────────────────────────────── */
+    .acc-item {
+      border-bottom: 1px solid var(--parch-3);
+    }
+    .acc-trigger {
+      width: 100%; display: flex; align-items: center; justify-content: space-between;
+      gap: 16px; padding: 18px 4px;
+      background: none; border: none; cursor: pointer;
+      text-align: left;
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 15px; font-weight: 600;
+      color: var(--ink-mid);
+      transition: color 0.18s ease;
+    }
+    .acc-trigger:hover { color: var(--terra); }
+    .acc-trigger:focus-visible { outline: 2px solid var(--terra-muted); outline-offset: 2px; }
+    .acc-chevron {
+      flex-shrink: 0; width: 16px; height: 16px;
+      stroke: currentColor; fill: none;
+      transition: transform 0.35s cubic-bezier(0.22,1,0.36,1);
+    }
+    .acc-item.open .acc-chevron { transform: rotate(180deg); }
+
+    .acc-body {
+      display: grid;
+      grid-template-rows: 0fr;
+      transition: grid-template-rows 0.38s cubic-bezier(0.22,1,0.36,1);
+    }
+    .acc-item.open .acc-body { grid-template-rows: 1fr; }
+    .acc-inner { overflow: hidden; }
+    .acc-content {
+      padding: 0 4px 28px;
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 15px; line-height: 1.8;
+      color: var(--ink-mid);
+    }
+    .acc-content p { margin-bottom: 14px; }
+    .acc-content p:last-child { margin-bottom: 0; }
+    .acc-content ul {
+      list-style: none; padding: 0; margin-bottom: 14px;
+    }
+    .acc-content ul li {
+      padding: 7px 0 7px 20px;
+      border-bottom: 1px solid var(--parch-3);
+      position: relative;
+    }
+    .acc-content ul li:last-child { border-bottom: none; }
+    .acc-content ul li::before {
+      content: ''; position: absolute; left: 0; top: 16px;
+      width: 6px; height: 6px; border-radius: 50%;
+      background: var(--terra-muted);
+    }
+    .acc-content strong { color: var(--ink); font-weight: 600; }
+    .acc-content em { font-style: italic; color: var(--ink-light); }
+    .acc-content a { color: var(--terra); text-decoration: none; border-bottom: 1px solid rgba(193,59,43,0.3); }
+    .acc-content a:hover { border-bottom-color: var(--terra); }
+
+    .tip-box {
+      background: var(--parch-2); border-left: 3px solid var(--terra);
+      border-radius: 0 6px 6px 0; padding: 14px 18px;
+      margin-top: 16px;
+      font-size: 14px; color: var(--ink-mid);
+    }
+    .tip-box strong { color: var(--terra); }
+
+    /* ─── FOOTER ─────────────────────────────────────────── */
+    #site-footer { background: var(--parchment); padding: 72px 0 0; }
+    .footer-grid {
+      display: grid; grid-template-columns: 1.1fr 1fr 1.1fr;
+      gap: 56px; margin-bottom: 56px;
+    }
+    @media (max-width: 768px) { .footer-grid { grid-template-columns: 1fr; gap: 40px; } }
+    .footer-logo-frame { display: inline-block; margin-bottom: 18px; }
+    .footer-logo-frame img { height: 112px; width: auto; display: block; }
+    .footer-tagline {
+      font-family: 'Cormorant Garamond', serif;
+      font-style: italic; font-weight: 300; font-size: 16px;
+      line-height: 1.65; color: rgba(28,20,16,0.5); max-width: 230px;
+    }
+    .footer-col-head {
+      font-family: 'Source Sans 3', sans-serif;
+      font-weight: 600; font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase;
+      color: rgba(28,20,16,0.4); margin-bottom: 20px; display: block;
+    }
+    .footer-nav-links { list-style: none; display: flex; flex-direction: column; gap: 10px; }
+    .footer-nav-links a {
+      font-family: 'Source Sans 3', sans-serif;
+      font-weight: 400; font-size: 14px;
+      color: rgba(28,20,16,0.6); text-decoration: none;
+      transition: color 0.2s ease;
+    }
+    .footer-nav-links a:hover { color: var(--terra); }
+    .contact-line { font-family: 'Source Sans 3', sans-serif; font-size: 14px; font-weight: 300; color: rgba(28,20,16,0.55); margin-bottom: 8px; }
+    .contact-line a { color: rgba(28,20,16,0.55); text-decoration: none; transition: color 0.2s ease; }
+    .contact-line a:hover { color: var(--terra-muted); }
+    .social-row { display: flex; gap: 8px; margin-top: 20px; }
+    .social-btn {
+      width: 36px; height: 36px; border-radius: 4px;
+      background: rgba(28,20,16,0.06); border: 1px solid rgba(28,20,16,0.1);
+      display: flex; align-items: center; justify-content: center;
+      text-decoration: none; cursor: pointer;
+      transition: background-color 0.22s ease, border-color 0.22s ease;
+    }
+    .social-btn:hover { background: rgba(193,59,43,0.22); border-color: rgba(193,59,43,0.32); }
+    .social-btn:focus-visible { outline: 2px solid var(--terra); outline-offset: 2px; }
+    .social-btn svg { width: 14px; height: 14px; fill: rgba(28,20,16,0.55); display: block; }
+    .footer-bottom {
+      border-top: 1px solid rgba(28,20,16,0.12); padding: 20px 0;
+      display: flex; justify-content: space-between; align-items: center;
+      flex-wrap: wrap; gap: 8px;
+    }
+    .footer-copy { font-family: 'Source Sans 3', sans-serif; font-size: 12px; font-weight: 300; color: rgba(28,20,16,0.35); }
+
+    /* ─── LANGUAGE SWITCH FLOAT ──────────────────────────── */
+    .lang-switch-float {
+      position: fixed; bottom: 24px; right: 24px; z-index: 9999;
+      display: flex; flex-direction: column; align-items: center;
+      gap: 1px; text-decoration: none;
+      background: var(--ink); border: 1px solid rgba(250,244,237,0.12);
+      border-radius: 10px; padding: 8px 14px;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.55), 0 1px 4px rgba(0,0,0,0.3);
+      transition: border-color 0.2s ease;
+    }
+    .lang-switch-float:hover { border-color: rgba(212,96,79,0.45); }
+    .lang-switch-float:focus-visible { outline: 2px solid var(--terra-muted); outline-offset: 2px; }
+    .lang-switch-float .ls-code {
+      font-family: 'Source Sans 3', sans-serif; font-size: 12px; font-weight: 700;
+      letter-spacing: 0.06em; color: var(--terra-muted);
+    }
+    .lang-switch-float .ls-name {
+      font-family: 'Source Sans 3', sans-serif; font-size: 9px; font-weight: 400;
+      letter-spacing: 0.03em; white-space: nowrap; color: rgba(250,244,237,0.7);
+    }
+  </style>
+</head>
+<body>
+
+<!-- ─── STICKY NAV ─────────────────────────────────────── -->
+<nav id="site-nav" role="navigation" aria-label="Main navigation">
+  <div class="nav-logo-zone">
+    <a href="index.html" aria-label="Casa de España en Indiana — home">
+      <img src="brand_assests/Logo.png" alt="Casa de España en Indiana" style="display:block;height:112px;width:auto;">
+    </a>
+  </div>
+  <div class="nav-links-zone">
+    <a href="index.html#mission"      class="nav-link">Sobre Nosotros</a>
+    <a href="index.html#programs"     class="nav-link">Programas</a>
+    <a href="index.html#events"       class="nav-link">Eventos</a>
+    <a href="index.html#board"        class="nav-link">Junta</a>
+    <a href="index.html#get-involved" class="nav-link">Participa</a>
+    <a href="resources.html"          class="nav-link">Recursos</a>
+    <a href="news.html"               class="nav-link">Noticias</a>
+    <a href="past-events.html"        class="nav-link">Eventos Pasados</a>
+    <button class="hamburger" id="hamburger" aria-label="Toggle menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</nav>
+
+<div class="mobile-drawer" id="mobile-drawer" aria-hidden="true">
+  <a href="index.html#mission"      class="nav-link">Sobre Nosotros</a>
+  <a href="index.html#programs"     class="nav-link">Programas</a>
+  <a href="index.html#events"       class="nav-link">Eventos</a>
+  <a href="index.html#board"        class="nav-link">Junta</a>
+  <a href="index.html#get-involved" class="nav-link">Participa</a>
+  <a href="resources.html"          class="nav-link">Recursos</a>
+  <a href="news.html"               class="nav-link">Noticias</a>
+  <a href="past-events.html"        class="nav-link">Eventos Pasados</a>
+</div>
+
+<!-- ─── PAGE HEADER ───────────────────────────────────── -->
+<header class="page-header">
+  <div class="section-container">
+    <p class="page-header-eyebrow">Casa de España en Indiana</p>
+    <h1>
+      <em>Guía para Recién Llegados</em>
+    </h1>
+    <p class="page-header-desc">Una guía práctica para profesores y familias que se trasladan de España a Indiana: vivienda, educación, transporte, cultura y mucho más.</p>
+  </div>
+</header>
+
+<!-- ─── QUICK-JUMP STRIP ──────────────────────────────── -->
+<nav class="jump-strip" aria-label="Jump to section">
+  <div class="jump-strip-inner">
+    <a href="#vivienda"   class="jump-btn"><span class="jump-icon">🏠</span><span>Vivienda</span></a>
+    <a href="#educacion"  class="jump-btn"><span class="jump-icon">🎓</span><span>Educación</span></a>
+    <a href="#transporte" class="jump-btn"><span class="jump-icon">🚗</span><span>Transporte</span></a>
+    <a href="#cultura"    class="jump-btn"><span class="jump-icon">🍽</span><span>Gastronomía</span></a>
+    <a href="#ocio"       class="jump-btn"><span class="jump-icon">🎡</span><span>Ocio</span></a>
+  </div>
+</nav>
+
+<!-- ─── MAIN ──────────────────────────────────────────── -->
+<main class="guide-main" id="main">
+  <div class="section-container">
+
+    <!-- ══════════════════════════════════════════════════ -->
+    <!-- SECTION 1: VIVIENDA -->
+    <!-- ══════════════════════════════════════════════════ -->
+    <section class="guide-section" id="vivienda">
+      <div class="guide-section-head">
+        <div class="guide-section-icon">🏠</div>
+        <h2>
+          <span>Vivienda</span>
+          <span class="sub-label">Buscar piso, fianzas, suministros, cuenta bancaria</span>
+        </h2>
+      </div>
+
+      <!-- Acc 2.1 -->
+      <div class="acc-item open">
+        <button class="acc-trigger" aria-expanded="true">
+          <span>Cómo Encontrar Vivienda</span>
+          <svg class="acc-chevron" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+        </button>
+        <div class="acc-body" role="region">
+          <div class="acc-inner">
+            <div class="acc-content">
+              
+                <p>Encontrar vivienda sin historial crediticio en EE. UU. puede ser complicado, pero los propietarios suelen mostrarse más flexibles con los profesores visitantes que aportan documentación laboral.</p>
+                <ul>
+                  <li><strong>Buscadores:</strong> Usa Zillow, Apartments.com, Rent.com y Facebook Marketplace. También consulta los grupos de profesores de tu distrito.</li>
+                  <li><strong>Sin historial crediticio:</strong> Aporta tu contrato de empleo o carta de oferta de la escuela para demostrar ingresos estables.</li>
+                  <li><strong>Fianza (Security Deposit):</strong> Prepárate para pagar un depósito equivalente a uno o dos meses de alquiler en sustitución del historial crediticio.</li>
+                  <li><strong>Precios orientativos:</strong> Un apartamento de un dormitorio en Indianapolis cuesta entre $800–$1,200/mes; en ciudades más pequeñas, entre $600–$900/mes.</li>
+                  <li><strong>Alojamiento temporal:</strong> Considera un apartamento amueblado o un Airbnb las primeras semanas mientras buscas algo definitivo.</li>
+                </ul>
+                <div class="tip-box"><strong>Consejo:</strong> Busca cerca de tu escuela asignada para reducir el tiempo de desplazamiento. Indiana es muy dependiente del coche.</div>
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Acc 2.2 -->
+      <div class="acc-item">
+        <button class="acc-trigger" aria-expanded="false">
+          <span>Dar de Alta los Suministros</span>
+          <svg class="acc-chevron" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+        </button>
+        <div class="acc-body" role="region">
+          <div class="acc-inner">
+            <div class="acc-content">
+              
+                <p>Al firmar el contrato de alquiler, deberás dar de alta los suministros básicos a tu nombre. Aquí los principales proveedores en Indiana:</p>
+                <ul>
+                  <li><strong>Electricidad:</strong> Duke Energy e AES Indiana son los principales proveedores. Llama o regístrate online antes de mudarte.</li>
+                  <li><strong>Gas natural:</strong> Centerpoint Energy y Citizens Gas cubren la mayor parte del estado. El gas se usa para calefacción y agua caliente.</li>
+                  <li><strong>Agua:</strong> Normalmente la gestiona el municipio o un consorcio local. Pregunta al propietario si el agua está incluida en el alquiler.</li>
+                  <li><strong>Internet:</strong> Xfinity (Comcast) y AT&T son los más extendidos. La fibra de AT&T es la más rápida si está disponible en tu zona. Precio medio: $50–$80/mes.</li>
+                  <li><strong>Costes medios de suministros:</strong> Espera pagar entre $150–$250/mes en total, más en invierno por la calefacción.</li>
+                </ul>
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Acc: Opening a Bank Account -->
+      <div class="acc-item">
+        <button class="acc-trigger" aria-expanded="false">
+          <span>Abrir una Cuenta Bancaria</span>
+          <svg class="acc-chevron" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+        </button>
+        <div class="acc-body" role="region">
+          <div class="acc-inner">
+            <div class="acc-content">
+              
+                <p>Sin un historial crediticio en EE. UU., abrir una cuenta bancaria puede requerir documentación específica. Los principales bancos de Indiana suelen ser flexibles con los profesores visitantes.</p>
+                <ul>
+                  <li><strong>Documentos necesarios:</strong> Pasaporte, DS-2019 y carta de oferta de empleo de la escuela. Algunos bancos también aceptan el I-94.</li>
+                  <li><strong>Bancos recomendados:</strong> Chase, PNC, Bank of America y Regions Bank tienen sucursales en toda Indiana. Las cooperativas de crédito (<em>credit unions</em>) a menudo ofrecen mejores condiciones.</li>
+                  <li><strong>Cuenta sin SSN:</strong> Si aún no tienes tu SSN, algunos bancos te permiten abrir una cuenta con el pasaporte y el DS-2019. Pregunta específicamente por su política para visa J-1.</li>
+                  <li><strong>Tarjeta de débito:</strong> Te darán una tarjeta de débito Visa o Mastercard de inmediato, esencial para alquilar un apartamento y hacer compras online.</li>
+                </ul>
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ══════════════════════════════════════════════════ -->
+    <!-- SECTION 3: EDUCACIÓN -->
+    <!-- ══════════════════════════════════════════════════ -->
+    <section class="guide-section" id="educacion">
+      <div class="guide-section-head">
+        <div class="guide-section-icon">🎓</div>
+        <h2>
+          <span>El Sistema Educativo</span>
+          <span class="sub-label">Cultura docente, inscripción de hijos</span>
+        </h2>
+      </div>
+
+      <!-- Acc 3.1 -->
+      <div class="acc-item open">
+        <button class="acc-trigger" aria-expanded="true">
+          <span>Enseñar en Indiana</span>
+          <svg class="acc-chevron" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+        </button>
+        <div class="acc-body" role="region">
+          <div class="acc-inner">
+            <div class="acc-content">
+              
+                <p>El sistema educativo de Indiana tiene algunas diferencias notables respecto al español que conviene conocer de antemano.</p>
+                <ul>
+                  <li><strong>Calendario escolar:</strong> El año lectivo suele empezar a principios de agosto y terminar a finales de mayo.</li>
+                  <li><strong>Participación de las familias:</strong> Las familias tienen un papel muy activo: se esperan comunicaciones frecuentes por email, aplicaciones como ClassDojo, y reuniones (<em>Parent-Teacher Conferences</em>).</li>
+                  <li><strong>Pruebas estandarizadas:</strong> Los exámenes ILEARN e IREAD-3 son obligatorios y tienen un peso importante en la evaluación de los centros.</li>
+                  <li><strong>Plan de estudios:</strong> En Indiana, el currículo lo decide el distrito, no el estado. Tu escuela te proporcionará los materiales y el plan de estudios específico.</li>
+                  <li><strong>Vestimenta:</strong> Muchos centros tienen código de vestimenta o uniforme. Confirma con tu escuela antes de empezar.</li>
+                </ul>
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Acc 3.2 -->
+      <div class="acc-item">
+        <button class="acc-trigger" aria-expanded="false">
+          <span>Inscribir a Tus Hijos</span>
+          <svg class="acc-chevron" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+        </button>
+        <div class="acc-body" role="region">
+          <div class="acc-inner">
+            <div class="acc-content">
+              
+                <p>Si traes a tus hijos con visa J-2, la educación pública es gratuita y obligatoria. La sentencia <em>Plyler v. Doe</em> (1982) garantiza el acceso a la educación pública a todos los menores, independientemente de su estatus migratorio.</p>
+                <ul>
+                  <li><strong>Documentos para la matrícula:</strong> Prueba de residencia en Indiana (contrato de alquiler o factura), certificado de nacimiento (traducido al inglés), y cartilla de vacunación al día.</li>
+                  <li><strong>Vacunas requeridas:</strong> Indiana exige las vacunas DTaP, MMR, Varicela, Hepatitis B y Polio. Consigue el certificado de vacunas en español del médico de familia antes de salir de España.</li>
+                  <li><strong>Niveles educativos:</strong> Elementary School (K–5, de 5 a 11 años) · Middle School (6–8, de 11 a 14 años) · High School (9–12, de 14 a 18 años).</li>
+                  <li><strong>Servicios ELL:</strong> Los centros ofrecen apoyo de inglés como segunda lengua (<em>English Language Learner</em>) sin coste adicional.</li>
+                </ul>
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Acc 3.3 -->
+      <div class="acc-item">
+        <button class="acc-trigger" aria-expanded="false">
+          <span>Educación Superior</span>
+          <svg class="acc-chevron" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+        </button>
+        <div class="acc-body" role="region">
+          <div class="acc-inner">
+            <div class="acc-content">
+              
+                <p>Indiana cuenta con excelentes universidades públicas y privadas, accesibles tanto para adultos que quieran continuar su formación como para sus hijos mayores.</p>
+                <ul>
+                  <li><strong>Indiana University (IU) – Bloomington:</strong> Universidad pública de referencia, especialmente conocida por sus programas de Humanidades, Música y Negocios.</li>
+                  <li><strong>Purdue University – West Lafayette:</strong> Referencia mundial en Ingeniería, Ciencias y Tecnología.</li>
+                  <li><strong>IUPUI (Indianapolis):</strong> Campus urbano combinado de IU y Purdue, muy accesible desde la capital.</li>
+                  <li><strong>Ivy Tech Community College:</strong> Red de colegios universitarios de dos años con matrículas muy asequibles. Ideal para obtener certificaciones o iniciar una carrera.</li>
+                  <li><strong>Reconocimiento de títulos:</strong> Para ejercer como docente con título español, contacta al Indiana Department of Education para el proceso de equivalencia.</li>
+                </ul>
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ══════════════════════════════════════════════════ -->
+    <!-- SECTION 4: TRANSPORTE -->
+    <!-- ══════════════════════════════════════════════════ -->
+    <section class="guide-section" id="transporte">
+      <div class="guide-section-head">
+        <div class="guide-section-icon">🚗</div>
+        <h2>
+          <span>Transporte y Vida Diaria</span>
+          <span class="sub-label">Conducir, compras, impuestos, propinas</span>
+        </h2>
+      </div>
+
+      <!-- Acc 4.1 -->
+      <div class="acc-item open">
+        <button class="acc-trigger" aria-expanded="true">
+          <span>Conducir en Indiana</span>
+          <svg class="acc-chevron" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+        </button>
+        <div class="acc-body" role="region">
+          <div class="acc-inner">
+            <div class="acc-content">
+              
+                <p>Indiana es conocida como el "Cruce de Caminos de América": las autopistas I-65, I-70 e I-465 atraviesan el estado. Fuera de Indianapolis, el coche es prácticamente imprescindible.</p>
+                <ul>
+                  <li><strong>Permiso Internacional:</strong> Trae tu Permiso Internacional de Conducción desde España para conducir legalmente durante los primeros meses.</li>
+                  <li><strong>Licencia de conducir de Indiana:</strong> Para estancias largas, deberás obtener una licencia del BMV (Bureau of Motor Vehicles). Necesitarás tu pasaporte, visa, DS-2019 y prueba de domicilio.</li>
+                  <li><strong>Conducir en invierno:</strong> El hielo negro (<em>black ice</em>) es peligroso e invisible. Conduce despacio y mantén distancia de seguridad. Lleva en el maletero: manta, agua, linterna y un rascador de hielo.</li>
+                  <li><strong>Seguro del coche:</strong> Es obligatorio. Compara precios en Progressive, State Farm o GEICO. Sin historial de conducción en EE.UU., la primera póliza puede ser más cara.</li>
+                </ul>
+                <div class="tip-box"><strong>Consejo:</strong> Descarga la aplicación Waze para la navegación y GasBuddy para encontrar la gasolina más barata de tu zona.</div>
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Acc: Finding a Used Car -->
+      <div class="acc-item">
+        <button class="acc-trigger" aria-expanded="false">
+          <span>Comprar un Coche de Segunda Mano</span>
+          <svg class="acc-chevron" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+        </button>
+        <div class="acc-body" role="region">
+          <div class="acc-inner">
+            <div class="acc-content">
+              
+                <p>Sin historial crediticio en EE. UU., comprar un coche de segunda mano es a menudo la opción más práctica y asequible para moverse por Indiana.</p>
+                <ul>
+                  <li><strong>Facebook Marketplace:</strong> La plataforma más popular en Indiana para compraventas entre particulares. Filtra por tu ciudad y rango de precio. Ideal para encontrar ofertas locales sin intermediarios.</li>
+                  <li><strong>Craigslist:</strong> <a href="https://indianapolis.craigslist.org/search/cta" target="_blank" rel="noopener">indianapolis.craigslist.org</a> — otra fuente muy usada para coches de segunda mano entre particulares en Indiana.</li>
+                  <li><strong>CarGurus y AutoTrader:</strong> Agregadores con miles de anuncios de concesionarios y particulares. Muestran si el precio es bueno, malo o justo respecto al mercado.</li>
+                  <li><strong>CarMax:</strong> Cadena de concesionarios de segunda mano con precios fijos (sin regateo) y garantía limitada incluida. Buena opción si prefieres seguridad a precio bajo.</li>
+                  <li><strong>Inspección previa:</strong> Antes de comprar, lleva el coche a un mecánico de confianza para una inspección previa a la compra (<em>pre-purchase inspection</em>). Cuesta entre $100–$150 y puede ahorrarte miles.</li>
+                  <li><strong>Historial del vehículo:</strong> Solicita siempre un informe Carfax o AutoCheck con el número VIN para verificar accidentes, propietarios anteriores y el historial de mantenimiento.</li>
+                  <li><strong>Presupuesto orientativo:</strong> Un coche de segunda mano fiable en Indiana cuesta entre $5,000–$12,000. Marcas como Toyota, Honda y Subaru mantienen bien su valor y son conocidas por su fiabilidad.</li>
+                </ul>
+                <div class="tip-box"><strong>Consejo:</strong> Evita pagar en efectivo por un coche sin haber verificado el título (<em>title</em>). El título debe estar a nombre del vendedor y libre de cargas (<em>lien-free</em>).</div>
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Acc 4.2 -->
+      <div class="acc-item">
+        <button class="acc-trigger" aria-expanded="false">
+          <span>Compras, Impuestos y Propinas</span>
+          <svg class="acc-chevron" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+        </button>
+        <div class="acc-body" role="region">
+          <div class="acc-inner">
+            <div class="acc-content">
+              
+                <ul>
+                  <li><strong>Supermercados:</strong> Meijer y Kroger son las cadenas más grandes. ALDI tiene precios muy competitivos y un estilo de compra familiar para los españoles. Walmart es el más económico para productos del hogar.</li>
+                  <li><strong>Impuesto de venta (Sales Tax):</strong> En EE. UU. el precio que figura en el etiquetado NO incluye los impuestos. Indiana tiene un 7% de impuesto de venta que se aplica en caja. La mayoría de los alimentos sin preparar están exentos.</li>
+                  <li><strong>Propinas (Tips):</strong> Son una parte fundamental de la cultura de servicio en EE. UU. En restaurantes con servicio de mesa, deja entre el 15% y el 20% del total. En bares, $1–$2 por bebida. En peluquerías, el 15–20%.</li>
+                  <li><strong>Historial crediticio:</strong> Construir crédito es importante para el futuro. Pide una tarjeta de crédito asegurada (<em>secured credit card</em>) después de abrir tu cuenta bancaria y úsala responsablemente.</li>
+                </ul>
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ══════════════════════════════════════════════════ -->
+    <!-- SECTION 5: GASTRONOMÍA Y CULTURA -->
+    <!-- ══════════════════════════════════════════════════ -->
+    <section class="guide-section" id="cultura">
+      <div class="guide-section-head">
+        <div class="guide-section-icon">🍽</div>
+        <h2>
+          <span>Gastronomía y Cultura</span>
+          <span class="sub-label">Platos típicos, dialecto Hoosier, costumbres</span>
+        </h2>
+      </div>
+
+      <!-- Acc 5.1 -->
+      <div class="acc-item open">
+        <button class="acc-trigger" aria-expanded="true">
+          <span>Platos Típicos de Indiana</span>
+          <svg class="acc-chevron" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+        </button>
+        <div class="acc-body" role="region">
+          <div class="acc-inner">
+            <div class="acc-content">
+              
+                <p>Olvida la dieta mediterránea por un momento — la gastronomía del Medio Oeste tiene su encanto propio. Estos son los platos que debes probar:</p>
+                <ul>
+                  <li><strong>Sándwich de lomo de cerdo empanado (<em>Breaded Pork Tenderloin</em>):</strong> La comida por excelencia de Indiana. Es lomo de cerdo aplanado, empanado y frito. La carne suele ser tres veces más grande que el pan. ¡Impresionante!</li>
+                  <li><strong>Tarta de crema y azúcar (<em>Sugar Cream Pie</em>):</strong> La tarta estatal no oficial. Rica y dulce, parecida a unas natillas horneadas en una base de mantequilla.</li>
+                  <li><strong>Maíz dulce de Indiana:</strong> A finales de verano, los agricultores venden mazorcas increíblemente dulces en puestos al borde de la carretera.</li>
+                  <li><strong>Salsa Ranch (<em>Ranch Dressing</em>):</strong> Los habitantes del Medio Oeste mojan absolutamente todo en Ranch: pizza, patatas fritas, verduras crudas y más.</li>
+                  <li><strong>Chicken and Noodles:</strong> Un guiso reconfortante de pollo con fideos caseros, típico en cenas familiares y ferias del condado.</li>
+                </ul>
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Acc 5.2 -->
+      <div class="acc-item">
+        <button class="acc-trigger" aria-expanded="false">
+          <span>El Dialecto &#8220;Hoosier&#8221; &#8212; Vocabulario Local</span>
+          <svg class="acc-chevron" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+        </button>
+        <div class="acc-body" role="region">
+          <div class="acc-inner">
+            <div class="acc-content">
+              
+                <p>El Medio Oeste tiene su propio dialecto y expresiones que pueden sorprenderte al principio. Aquí un pequeño glosario de supervivencia:</p>
+                <ul>
+                  <li><strong>Hoosier:</strong> Habitante de Indiana. Nadie sabe exactamente el origen de la palabra, pero los locales la llevan con orgullo.</li>
+                  <li><strong>"Ope":</strong> Exclamación que se usa al chocar con alguien o cometer un pequeño error. Similar a "uy" o "ops". ("Ope, let me squeeze right past ya!")</li>
+                  <li><strong>Pop:</strong> Así llaman a los refrescos o bebidas carbonatadas. No digas "soda" o te mirarán raro.</li>
+                  <li><strong>Sweeper:</strong> Aspiradora. No dicen "vacuum cleaner", dicen "sweeper".</li>
+                  <li><strong>The Region:</strong> Se refiere específicamente al noroeste de Indiana, cerca de Chicago.</li>
+                  <li><strong>"You guys" / "You all":</strong> Forma de dirigirse a un grupo de personas, equivalente al "vosotros" español. Informal pero universal.</li>
+                </ul>
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Acc 5.3 -->
+      <div class="acc-item">
+        <button class="acc-trigger" aria-expanded="false">
+          <span>Costumbres Sociales y Comunidad</span>
+          <svg class="acc-chevron" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+        </button>
+        <div class="acc-body" role="region">
+          <div class="acc-inner">
+            <div class="acc-content">
+              
+                <ul>
+                  <li><strong>Hospitalidad Hoosier:</strong> Los habitantes de Indiana son conocidos por su amabilidad y disposición a ayudar. No te sorprendas si tu vecino te trae un bizcocho de bienvenida.</li>
+                  <li><strong>Comunidad hispana:</strong> Indianapolis tiene una creciente comunidad latina. El Hispanic Center of Indiana ofrece recursos, eventos y redes de apoyo para recién llegados.</li>
+                  <li><strong>Iglesias:</strong> Las iglesias locales (especialmente las católicas) son un punto de encuentro comunitario importante. Muchas tienen misas en español.</li>
+                  <li><strong>Relaciones laborales:</strong> La cultura laboral estadounidense valora la puntualidad, la comunicación directa y el entusiasmo. Un saludo cortés ("How are you doing?") es rutinario, no una invitación a una conversación larga.</li>
+                  <li><strong>Casa de España en Indiana:</strong> Nuestra organización organiza eventos culturales y ofrece una red de apoyo para la comunidad española. ¡Únete a nosotros!</li>
+                </ul>
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ══════════════════════════════════════════════════ -->
+    <!-- SECTION 6: OCIO -->
+    <!-- ══════════════════════════════════════════════════ -->
+    <section class="guide-section" id="ocio">
+      <div class="guide-section-head">
+        <div class="guide-section-icon">🎡</div>
+        <h2>
+          <span>Ocio y Atracciones</span>
+          <span class="sub-label">Qué hacer, eventos, naturaleza</span>
+        </h2>
+      </div>
+
+      <!-- Acc 6.1 -->
+      <div class="acc-item open">
+        <button class="acc-trigger" aria-expanded="true">
+          <span>Lugares y Eventos que No Te Puedes Perder</span>
+          <svg class="acc-chevron" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+        </button>
+        <div class="acc-body" role="region">
+          <div class="acc-inner">
+            <div class="acc-content">
+              
+                <ul>
+                  <li><strong>Indianapolis Motor Speedway:</strong> Sede de las icónicas 500 Millas de Indianápolis cada mes de mayo. Es el evento deportivo de un solo día más grande del mundo. El ambiente es espectacular incluso si no eres aficionado a las carreras.</li>
+                  <li><strong>The Children's Museum of Indianapolis:</strong> El museo para niños más grande del mundo. Visita obligada si tienes hijos o enseñas a alumnos más pequeños.</li>
+                  <li><strong>Parque Nacional Indiana Dunes:</strong> Al norte del estado, junto al lago Michigan. Ofrece playas de agua dulce y enormes dunas de arena. Perfecto para el verano.</li>
+                  <li><strong>Feria Estatal de Indiana (agosto):</strong> Comida frita, artesanía, agricultura y entretenimiento en vivo en el recinto ferial de Indianápolis. Una experiencia americana auténtica.</li>
+                  <li><strong>Parque Estatal de Brown County:</strong> Visítalo en octubre para ver el follaje otoñal — hojas rojas, naranjas y doradas que parecen un cuadro.</li>
+                  <li><strong>Gainbridge Fieldhouse (Indianapolis):</strong> Pabellón deportivo de los Indiana Pacers (NBA). Ver un partido de baloncesto en vivo es una experiencia cultural imprescindible.</li>
+                </ul>
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Acc 6.2 -->
+      <div class="acc-item">
+        <button class="acc-trigger" aria-expanded="false">
+          <span>El Tiempo y las Estaciones</span>
+          <svg class="acc-chevron" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+        </button>
+        <div class="acc-body" role="region">
+          <div class="acc-inner">
+            <div class="acc-content">
+              
+                <p>Indiana tiene cuatro estaciones bien definidas — una diferencia notable respecto a muchas regiones de España.</p>
+                <ul>
+                  <li><strong>Primavera (marzo–mayo):</strong> Templada, con lluvias frecuentes. Pueden producirse tornados, especialmente en abril y mayo. Aprende a usar la aplicación del NOAA Weather para alertas.</li>
+                  <li><strong>Verano (junio–agosto):</strong> Caluroso y húmedo, con temperaturas de 30–38°C. El aire acondicionado es imprescindible.</li>
+                  <li><strong>Otoño (septiembre–noviembre):</strong> La estación más bonita. Temperaturas suaves y colores espectaculares en los árboles.</li>
+                  <li><strong>Invierno (diciembre–febrero):</strong> Frío intenso, nieve y hielo. Invierte en un buen abrigo de invierno, botas impermeables y guantes antes de diciembre.</li>
+                </ul>
+                <div class="tip-box"><strong>Para el invierno:</strong> Compra en Target o Meijer: abrigo grueso ($60–$150), botas de nieve ($40–$100), rascador de hielo ($5) y anticongelante para el limpiaparabrisas.</div>
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Acc 6.3 -->
+      <div class="acc-item">
+        <button class="acc-trigger" aria-expanded="false">
+          <span>Deporte y Tiempo Libre</span>
+          <svg class="acc-chevron" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+        </button>
+        <div class="acc-body" role="region">
+          <div class="acc-inner">
+            <div class="acc-content">
+              
+                <ul>
+                  <li><strong>Baloncesto:</strong> Indiana es la cuna del baloncesto universitario. Seguir a los Indiana Pacers (NBA) o a los Hoosiers de IU es parte de la cultura local.</li>
+                  <li><strong>Fútbol americano:</strong> Los Indianapolis Colts son el equipo de la NFL de Indiana. Los partidos de los domingos son un ritual social.</li>
+                  <li><strong>Fútbol soccer:</strong> El Indianapolis City FC juega en la USL Championship. Encontrarás ligas de fútbol amateur con muchos hispanos en casi todas las ciudades.</li>
+                  <li><strong>Parques y naturaleza:</strong> Indiana tiene más de 30 parques estatales. El Departamento de Recursos Naturales (DNR) vende pases anuales muy asequibles (~$40).</li>
+                  <li><strong>Biliotecas públicas:</strong> La Indianapolis Public Library ofrece eventos gratuitos, préstamo de libros en español, internet y mucho más. ¡La tarjeta de biblioteca es gratis!</li>
+                </ul>
+              
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </div>
+</main>
+
+<!-- ─── FOOTER ─────────────────────────────────────────── -->
+<footer id="site-footer" role="contentinfo">
+  <div class="section-container">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo-frame">
+          <img src="brand_assests/Logo.png" alt="Casa de España en Indiana" style="display:block;height:112px;width:auto;">
+        </div>
+        <p class="footer-tagline">Preservando el alma de España en el corazón de Indiana desde 2004.</p>
+      </div>
+      <div>
+        <span class="footer-col-head">Navegación</span>
+        <ul class="footer-nav-links">
+          <li><a href="index.html#mission">Sobre Nosotros</a></li>
+          <li><a href="index.html#programs">Programas</a></li>
+          <li><a href="index.html#events">Eventos</a></li>
+          <li><a href="index.html#board">Junta Directiva</a></li>
+          <li><a href="index.html#get-involved">Participa</a></li>
+          <li><a href="resources.html">Recursos</a></li>
+          <li><a href="news.html">Noticias</a></li>
+          <li><a href="past-events.html">Eventos Pasados</a></li>
+        </ul>
+      </div>
+      <div>
+        <span class="footer-col-head">Contacto</span>
+        <p class="contact-line">Indianapolis, Indiana</p>
+        <p class="contact-line"><a href="mailto:info@casaespanaindiana.org">info@casaespanaindiana.org</a></p>
+        <p class="contact-line"><a href="https://casaespanaindiana.org" target="_blank" rel="noopener">casaespanaindiana.org</a></p>
+        <div class="social-row" aria-label="Social media">
+          <a href="https://www.facebook.com/CasadeEspanaIN/" target="_blank" rel="noopener" class="social-btn" aria-label="Facebook">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/></svg>
+          </a>
+          <a href="https://www.instagram.com/casadeespanain" target="_blank" rel="noopener" class="social-btn" aria-label="Instagram">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <rect x="2" y="2" width="20" height="20" rx="5" ry="5" fill="none" stroke="rgba(28,20,16,0.55)" stroke-width="2"/>
+              <circle cx="12" cy="12" r="4" fill="none" stroke="rgba(28,20,16,0.55)" stroke-width="2"/>
+              <circle cx="17.5" cy="6.5" r="1.5" fill="rgba(28,20,16,0.55)"/>
+            </svg>
+          </a>
+          <a href="https://x.com/casadeespanain" target="_blank" rel="noopener" class="social-btn" aria-label="Twitter / X">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"/></svg>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span class="footer-copy">© 2026 Casa de España en Indiana. Todos los derechos reservados.</span>
+      <span class="footer-copy">Organización sin fines de lucro 501(c)(3) · EIN disponible bajo solicitud</span>
+      <span class="footer-copy"><a href="privacy.html" style="color:inherit;text-decoration:underline;text-underline-offset:3px;opacity:0.7;">Política de Privacidad</a></span>
+      <span class="footer-copy">Website by PocketSod</span>
+    </div>
+  </div>
+</footer>
+
+<!-- ─── LANGUAGE SWITCH ────────────────────────────────── -->
+<a href="newcomers-en.html" class="lang-switch-float" aria-label="Read this guide in English">
+  <span class="ls-code">EN</span>
+  <span class="ls-name">English</span>
+</a>
+
+<!-- ─── INLINE JS ──────────────────────────────────────── -->
+<script>
+  // ─── ACCORDION ──────────────────────────────────────────────
+  document.querySelectorAll('.acc-trigger').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const item = btn.closest('.acc-item');
+      const opening = !item.classList.contains('open');
+      item.classList.toggle('open', opening);
+      btn.setAttribute('aria-expanded', String(opening));
+    });
+  });
+
+  // ─── NAV SHADOW ON SCROLL ────────────────────────────────────
+  const nav = document.getElementById('site-nav');
+  window.addEventListener('scroll', () => {
+    nav.classList.toggle('scrolled', window.scrollY > 40);
+  }, { passive: true });
+
+  // ─── MOBILE HAMBURGER ────────────────────────────────────────
+  const hamburger = document.getElementById('hamburger');
+  const drawer    = document.getElementById('mobile-drawer');
+  hamburger.addEventListener('click', () => {
+    const isOpen = drawer.classList.toggle('open');
+    hamburger.classList.toggle('open', isOpen);
+    hamburger.setAttribute('aria-expanded', String(isOpen));
+    drawer.setAttribute('aria-hidden', String(!isOpen));
+  });
+  drawer.querySelectorAll('a').forEach(link => {
+    link.addEventListener('click', () => {
+      drawer.classList.remove('open');
+      hamburger.classList.remove('open');
+      hamburger.setAttribute('aria-expanded', 'false');
+      drawer.setAttribute('aria-hidden', 'true');
+    });
+  });
+</script>
+</body>
+</html>

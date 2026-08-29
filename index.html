@@ -26,7 +26,7 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Organization",
+    "@type": "NonprofitOrganization",
     "name": "Casa de España en Indiana",
     "alternateName": ["Casa de Espana en Indiana", "Casa de Espana Indiana", "Casa de España Indiana"],
     "url": "https://casaespanaindiana.org/",
@@ -1232,15 +1232,23 @@
       width: 72px;
       height: 72px;
       border-radius: 50%;
-      overflow: hidden;
-      background: var(--parch-3);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background:
+        radial-gradient(circle at 32% 28%, rgba(255,255,255,0.4), transparent 55%),
+        linear-gradient(140deg, var(--parch-3) 0%, var(--terra-muted) 155%);
+      box-shadow:
+        inset 0 0 0 1px rgba(28,20,16,0.08),
+        0 2px 5px rgba(28,20,16,0.14),
+        0 6px 18px rgba(193,59,43,0.12);
     }
-    .board-avatar img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      filter: sepia(12%) contrast(1.04);
-      display: block;
+    .board-avatar span {
+      font-family: 'Cormorant Garamond', serif;
+      font-weight: 600;
+      font-size: 22px;
+      letter-spacing: -0.01em;
+      color: var(--terra-deep);
     }
     .board-role {
       font-family: 'Source Sans 3', sans-serif;
@@ -1609,8 +1617,8 @@
       <div class="mission-content scroll-reveal" data-delay="2">
         <span class="overline" data-en="Who We Are" data-es="Quiénes Somos">Who We Are</span>
         <h2 class="section-heading" data-en="A Cultural Home<br>Far From Home" data-es="Un Hogar Cultural<br>Lejos de Casa" data-html="true">A Cultural Home<br>Far From Home</h2>
-        <p class="body-text" style="margin-top:20px;" data-en="Casa de España en Indiana is a 501(c)(3) nonprofit organization founded to preserve, share, and celebrate Spanish culture across Indiana. We are a bridge — between generations, between languages, between continents — built by and for those who carry Spain in their hearts, wherever they live." data-es="Casa de España en Indiana es una organización sin fines de lucro 501(c)(3) fundada para preservar, compartir y celebrar la cultura española en Indiana. Somos un puente — entre generaciones, entre idiomas, entre continentes — construido por y para quienes llevan España en el corazón, dondequiera que vivan.">
-          Casa de España en Indiana is a 501(c)(3) nonprofit organization founded to preserve, share, and celebrate Spanish culture across Indiana. We are a bridge — between generations, between languages, between continents — built by and for those who carry Spain in their hearts, wherever they live.
+        <p class="body-text" style="margin-top:20px;" data-en="Casa de España en Indiana is a 501(c)(3) nonprofit organization founded to preserve, share, and celebrate Spanish culture across Indiana. What began informally in 2004 became a formally incorporated 501(c)(3) in 2017. We are a bridge — between generations, between languages, between continents — built by and for those who carry Spain in their hearts, wherever they live." data-es="Casa de España en Indiana es una organización sin fines de lucro 501(c)(3) fundada para preservar, compartir y celebrar la cultura española en Indiana. Lo que comenzó de manera informal en 2004 se convirtió en una organización 501(c)(3) formalmente incorporada en 2017. Somos un puente — entre generaciones, entre idiomas, entre continentes — construido por y para quienes llevan España en el corazón, dondequiera que vivan.">
+          Casa de España en Indiana is a 501(c)(3) nonprofit organization founded to preserve, share, and celebrate Spanish culture across Indiana. What began informally in 2004 became a formally incorporated 501(c)(3) in 2017. We are a bridge — between generations, between languages, between continents — built by and for those who carry Spain in their hearts, wherever they live.
         </p>
 
         <div class="mission-what">
@@ -1765,8 +1773,8 @@
     <div class="board-grid">
 
       <div class="board-member scroll-reveal" data-delay="1">
-        <div class="board-avatar">
-          <img src="https://placehold.co/144x144/C8B4A0/5A4A3E?text=MW" alt="Maria Wildridge, President" loading="lazy">
+        <div class="board-avatar" aria-hidden="true">
+          <span>MW</span>
         </div>
         <div>
           <span class="board-role" data-en="President" data-es="Presidenta">President</span>
@@ -1776,8 +1784,8 @@
       </div>
 
       <div class="board-member scroll-reveal" data-delay="2">
-        <div class="board-avatar">
-          <img src="https://placehold.co/144x144/C8B4A0/5A4A3E?text=MPN" alt="Marta Piñeiro Núñez, Vice President" loading="lazy">
+        <div class="board-avatar" aria-hidden="true">
+          <span>MP</span>
         </div>
         <div>
           <span class="board-role" data-en="Vice President" data-es="Vicepresidenta">Vice President</span>
@@ -1786,8 +1794,8 @@
       </div>
 
       <div class="board-member scroll-reveal" data-delay="3">
-        <div class="board-avatar">
-          <img src="https://placehold.co/144x144/C8B4A0/5A4A3E?text=CT" alt="Cristina Tajadura, Treasurer" loading="lazy">
+        <div class="board-avatar" aria-hidden="true">
+          <span>CT</span>
         </div>
         <div>
           <span class="board-role" data-en="Treasurer" data-es="Tesorera">Treasurer</span>
@@ -1796,8 +1804,8 @@
       </div>
 
       <div class="board-member scroll-reveal" data-delay="4">
-        <div class="board-avatar">
-          <img src="https://placehold.co/144x144/C8B4A0/5A4A3E?text=KDJ" alt="Karla De Juan Romero, Secretary" loading="lazy">
+        <div class="board-avatar" aria-hidden="true">
+          <span>KD</span>
         </div>
         <div>
           <span class="board-role" data-en="Secretary" data-es="Secretario">Secretary</span>
@@ -1860,12 +1868,6 @@
           </a>
           <a href="https://x.com/casadeespanain" target="_blank" rel="noopener" class="social-btn" aria-label="Twitter / X">
             <img src="brand_assests/x.svg" alt="X (Twitter)">
-          </a>
-          <a href="#" class="social-btn" aria-label="YouTube">
-            <svg viewBox="0 0 24 24" aria-hidden="true">
-              <path d="M22.54 6.42a2.78 2.78 0 00-1.95-1.97C18.88 4 12 4 12 4s-6.88 0-8.59.45A2.78 2.78 0 001.46 6.42 29 29 0 001 12a29 29 0 00.46 5.58A2.78 2.78 0 003.41 19.6C5.12 20 12 20 12 20s6.88 0 8.59-.4a2.78 2.78 0 001.95-1.97A29 29 0 0023 12a29 29 0 00-.46-5.58z"/>
-              <polygon points="9.75 15.02 15.5 12 9.75 8.98 9.75 15.02" fill="rgba(28,20,16,0.9)"/>
-            </svg>
           </a>
         </div>
       </div>
