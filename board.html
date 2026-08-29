@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="brand_assests/favicon.png">
+  <link rel="apple-touch-icon" href="brand_assests/favicon.png">
+  <title>Board of Directors — Casa de España en Indiana</title>
+  <meta name="description" content="Meet the Board of Directors of Casa de España en Indiana — the volunteer leadership guiding Indiana's Spanish and Latino community organization.">
+  <meta name="keywords" content="Casa de España en Indiana board, Spanish community Indiana leadership, Casa de España board of directors">
+  <link rel="canonical" href="https://casaespanaindiana.org/board.html">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://casaespanaindiana.org/board.html">
+  <meta property="og:title" content="Board of Directors — Casa de España en Indiana">
+  <meta property="og:description" content="Meet the volunteer leadership guiding Indiana's Spanish and Latino community organization.">
+  <meta property="og:site_name" content="Casa de España en Indiana">
+  <meta property="og:image" content="https://casaespanaindiana.org/brand_assests/OGlogo.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Board of Directors — Casa de España en Indiana">
+  <meta name="twitter:description" content="Meet the volunteer leadership guiding Indiana's Spanish and Latino community organization.">
+  <meta name="twitter:image" content="https://casaespanaindiana.org/brand_assests/OGlogo.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600&family=Source+Sans+3:wght@300;400;600&display=swap" rel="stylesheet">
+
+  <script>
+    tailwind = { config: {
+      theme: {
+        extend: {
+          colors: {
+            terra: '#C13B2B',
+            'terra-deep': '#8C2318',
+            'terra-muted': '#D4604F',
+            parchment: '#FAF4ED',
+            'parch-2': '#F2E9DF',
+            'parch-3': '#E8DBCF',
+            ink: '#1C1410',
+            'ink-mid': '#3D2E26',
+            'ink-light': '#7A6658',
+          },
+          fontFamily: {
+            display: ['"Cormorant Garamond"', 'Georgia', 'serif'],
+            sans: ['"Source Sans 3"', '"Source Sans Pro"', 'sans-serif'],
+          },
+        }
+      }
+    }};
+  </script>
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <style>
+    :root {
+      --terra:        #C13B2B;
+      --terra-deep:   #8C2318;
+      --terra-muted:  #D4604F;
+      --parchment:    #FAF4ED;
+      --parch-2:      #F2E9DF;
+      --parch-3:      #E8DBCF;
+      --ink:          #1C1410;
+      --ink-mid:      #3D2E26;
+      --ink-light:    #6B5648;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: 'Source Sans 3', sans-serif;
+      background: var(--parchment);
+      color: var(--ink);
+      -webkit-font-smoothing: antialiased;
+      overflow-x: hidden;
+      padding-top: 120px;
+    }
+
+    .section-container { max-width: 1140px; margin: 0 auto; padding: 0 40px; }
+    @media (max-width: 640px) { .section-container { padding: 0 20px; } }
+
+    /* ─── NAV ───────────────────────────────────────────── */
+    #site-nav { position: fixed; top: 0; left: 0; right: 0; height: 120px; z-index: 100; display: flex; transition: box-shadow 0.3s ease; }
+    #site-nav.scrolled { box-shadow: 0 2px 20px rgba(28,20,16,0.35), 0 1px 0 rgba(0,0,0,0.15); }
+    .nav-logo-zone { width: 240px; flex-shrink: 0; background: var(--parchment); display: flex; align-items: center; padding: 0 16px; border-right: 1px solid rgba(28,20,16,0.1); }
+    .nav-logo-zone a { display: flex; align-items: center; text-decoration: none; }
+    .nav-logo-zone img { height: 112px; width: auto; display: block; }
+    .nav-links-zone { flex: 1; background: var(--ink); display: flex; align-items: center; padding: 0 32px; gap: 2px; justify-content: flex-end; }
+    .nav-link {
+      font-family: 'Source Sans 3', sans-serif; font-weight: 600; font-size: 12px;
+      letter-spacing: 0.08em; text-transform: uppercase; color: var(--parchment);
+      text-decoration: none; padding: 6px 14px; border-bottom: 2px solid transparent;
+      border-radius: 2px 2px 0 0;
+      transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+    }
+    .nav-link:hover { background: rgba(193,59,43,0.14); }
+    .nav-link.active { border-bottom-color: var(--terra); }
+    .nav-link:focus-visible { outline: 2px solid var(--terra-muted); outline-offset: 2px; }
+    .hamburger { display: none; flex-direction: column; gap: 5px; cursor: pointer; padding: 10px; background: none; border: none; margin-left: 8px; }
+    .hamburger span { display: block; width: 22px; height: 2px; background: var(--parchment); transition: transform 0.3s cubic-bezier(0.22,1,0.36,1), opacity 0.3s ease; }
+    .hamburger.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+    .hamburger.open span:nth-child(2) { opacity: 0; transform: scaleX(0); }
+    .hamburger.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+    .mobile-drawer {
+      position: fixed; top: 120px; left: 0; right: 0; z-index: 99;
+      background: var(--ink); border-top: 1px solid rgba(193,59,43,0.2);
+      display: flex; flex-direction: column; padding: 12px 20px 20px; gap: 2px;
+      transform: translateY(-110%); transition: transform 0.35s cubic-bezier(0.22,1,0.36,1);
+      pointer-events: none;
+    }
+    .mobile-drawer.open { transform: translateY(0); pointer-events: auto; }
+    .mobile-drawer .nav-link { padding: 12px 16px; }
+    @media (max-width: 768px) {
+      .nav-logo-zone { width: auto; min-width: 160px; }
+      .nav-links-zone .nav-link { display: none; }
+      .hamburger { display: flex; }
+    }
+
+    /* ─── PAGE HEADER ─────────────────────────────────────── */
+    .page-header { background: var(--ink); position: relative; overflow: hidden; padding: 72px 0 64px; }
+    .page-header::before {
+      content: ''; position: absolute; inset: 0;
+      background:
+        radial-gradient(ellipse 55% 90% at 15% 60%, rgba(193,59,43,0.11) 0%, transparent 65%),
+        radial-gradient(ellipse 35% 50% at 85% 20%, rgba(140,35,24,0.09) 0%, transparent 65%);
+      pointer-events: none;
+    }
+    .page-header-eyebrow {
+      font-family: 'Source Sans 3', sans-serif; font-size: 11px; font-weight: 600;
+      letter-spacing: 0.18em; text-transform: uppercase; color: var(--terra-muted);
+      display: flex; align-items: center; gap: 12px; margin-bottom: 14px;
+    }
+    .page-header-eyebrow::before { content: ''; display: block; width: 28px; height: 1px; background: var(--terra-muted); }
+    .page-header h1 {
+      font-family: 'Cormorant Garamond', serif; font-size: clamp(40px, 6vw, 68px);
+      font-weight: 300; letter-spacing: -0.03em; color: var(--parchment); line-height: 1.08;
+    }
+    .page-header h1 em { font-style: italic; color: var(--terra-muted); }
+    .page-header-desc {
+      font-family: 'Source Sans 3', sans-serif; font-size: 16px; font-weight: 300;
+      color: rgba(250,244,237,0.55); margin-top: 16px; line-height: 1.65; max-width: 560px;
+    }
+
+    /* ─── BOARD MAIN ──────────────────────────────────────── */
+    .board-main { background: var(--parchment); padding: 80px 0 110px; }
+    .board-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 56px 72px; }
+    @media (max-width: 640px) { .board-grid { grid-template-columns: 1fr; } }
+
+    .board-member { display: flex; gap: 22px; align-items: flex-start; }
+    .board-avatar {
+      flex-shrink: 0; width: 84px; height: 84px; border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      background:
+        radial-gradient(circle at 32% 28%, rgba(255,255,255,0.4), transparent 55%),
+        linear-gradient(140deg, var(--parch-3) 0%, var(--terra-muted) 155%);
+      box-shadow: inset 0 0 0 1px rgba(28,20,16,0.08), 0 2px 5px rgba(28,20,16,0.14), 0 6px 18px rgba(193,59,43,0.12);
+    }
+    .board-avatar span { font-family: 'Cormorant Garamond', serif; font-weight: 600; font-size: 25px; letter-spacing: -0.01em; color: var(--terra-deep); }
+    .board-role {
+      font-family: 'Source Sans 3', sans-serif; font-weight: 600; font-size: 10px;
+      letter-spacing: 0.14em; text-transform: uppercase; color: var(--terra);
+      display: block; margin-bottom: 3px;
+    }
+    .board-name { font-family: 'Cormorant Garamond', serif; font-size: 25px; font-weight: 600; letter-spacing: -0.02em; color: var(--ink); margin-bottom: 8px; line-height: 1.1; }
+    .board-bio { font-family: 'Source Sans 3', sans-serif; font-weight: 300; font-size: 14px; line-height: 1.72; color: var(--ink-light); }
+
+    .board-intro { max-width: 720px; margin: 0 0 56px; font-family: 'Source Sans 3', sans-serif; font-size: 15px; font-weight: 300; line-height: 1.75; color: var(--ink-mid); }
+    .board-intro a { color: var(--terra); text-decoration: none; border-bottom: 1px solid rgba(193,59,43,0.3); transition: border-color 0.18s ease; }
+    .board-intro a:hover { border-bottom-color: var(--terra); }
+
+    /* ─── FOOTER ─────────────────────────────────────────── */
+    #site-footer { background: var(--parchment); padding: 72px 0 0; }
+    .footer-grid { display: grid; grid-template-columns: 1.1fr 1fr 1.1fr; gap: 56px; margin-bottom: 56px; }
+    @media (max-width: 768px) { .footer-grid { grid-template-columns: 1fr; gap: 40px; } }
+    .footer-logo-frame { display: inline-block; margin-bottom: 18px; }
+    .footer-logo-frame img { height: 112px; width: auto; display: block; }
+    .footer-tagline { font-family: 'Cormorant Garamond', serif; font-style: italic; font-weight: 300; font-size: 16px; line-height: 1.65; color: rgba(28,20,16,0.5); max-width: 230px; }
+    .footer-col-head { font-family: 'Source Sans 3', sans-serif; font-weight: 600; font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase; color: rgba(28,20,16,0.4); margin-bottom: 20px; display: block; }
+    .footer-nav-links { list-style: none; display: flex; flex-direction: column; gap: 10px; }
+    .footer-nav-links a { font-family: 'Source Sans 3', sans-serif; font-weight: 400; font-size: 14px; color: rgba(28,20,16,0.6); text-decoration: none; transition: color 0.2s ease; }
+    .footer-nav-links a:hover { color: var(--terra); }
+    .footer-nav-links a:focus-visible { outline: 1px solid var(--terra); outline-offset: 2px; }
+    .contact-line { font-family: 'Source Sans 3', sans-serif; font-size: 14px; font-weight: 300; color: rgba(28,20,16,0.55); margin-bottom: 8px; }
+    .contact-line a { color: rgba(28,20,16,0.55); text-decoration: none; transition: color 0.2s ease; }
+    .contact-line a:hover { color: var(--terra-muted); }
+    .contact-line a:focus-visible { outline: 1px solid var(--terra); }
+    .social-row { display: flex; gap: 8px; margin-top: 20px; }
+    .social-btn { width: 36px; height: 36px; border-radius: 4px; background: rgba(28,20,16,0.06); border: 1px solid rgba(28,20,16,0.1); display: flex; align-items: center; justify-content: center; text-decoration: none; cursor: pointer; transition: background-color 0.22s ease, border-color 0.22s ease; }
+    .social-btn:hover { background: rgba(193,59,43,0.22); border-color: rgba(193,59,43,0.32); }
+    .social-btn:focus-visible { outline: 2px solid var(--terra); outline-offset: 2px; }
+    .social-btn svg { width: 14px; height: 14px; fill: rgba(28,20,16,0.55); display: block; }
+    .footer-bottom { border-top: 1px solid rgba(28,20,16,0.12); padding: 20px 0; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px; }
+    .footer-copy { font-family: 'Source Sans 3', sans-serif; font-size: 12px; font-weight: 300; color: rgba(28,20,16,0.35); }
+
+    /* ─── LANGUAGE TOGGLE (floating) ───────────────────────── */
+    .lang-float { position: fixed; bottom: 24px; right: 24px; z-index: 9999; display: flex; align-items: center; gap: 2px; background: var(--ink); border: 1px solid rgba(250,244,237,0.12); border-radius: 10px; padding: 6px 8px; box-shadow: 0 4px 24px rgba(0,0,0,0.55), 0 1px 4px rgba(0,0,0,0.3); }
+    .lt-label { font-family: 'Source Sans 3', sans-serif; font-size: 9px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: rgba(250,244,237,0.5); margin-right: 3px; }
+    .lt-btn { display: flex; flex-direction: column; align-items: center; background: none; border: 1px solid transparent; border-radius: 6px; padding: 4px 9px; cursor: pointer; color: rgba(250,244,237,0.85); transition: color 0.2s ease, border-color 0.2s ease; line-height: 1.15; }
+    .lt-btn .lt-code { font-family: 'Source Sans 3', sans-serif; font-size: 12px; font-weight: 700; letter-spacing: 0.06em; }
+    .lt-btn .lt-name { font-family: 'Source Sans 3', sans-serif; font-size: 8px; font-weight: 400; letter-spacing: 0.03em; white-space: nowrap; }
+    .lt-btn.active { color: var(--terra-muted); border-color: rgba(212,96,79,0.35); }
+    .lt-btn:hover { color: var(--parchment); }
+    .lt-btn:focus-visible { outline: 2px solid var(--terra-muted); outline-offset: 2px; }
+    .lt-divider { width: 1px; height: 26px; background: rgba(250,244,237,0.15); margin: 0 2px; }
+  </style>
+</head>
+<body>
+
+<!-- ─── STICKY NAV ─────────────────────────────────────── -->
+<nav id="site-nav" role="navigation" aria-label="Main navigation">
+  <div class="nav-logo-zone">
+    <a href="index.html" aria-label="Casa de España en Indiana — home" style="display:flex;align-items:center;">
+      <img src="brand_assests/Logo.png" alt="Casa de España en Indiana" style="display:block;height:112px;width:auto;">
+    </a>
+  </div>
+  <div class="nav-links-zone">
+    <a href="index.html#mission"      class="nav-link" data-en="About" data-es="Sobre Nosotros">About</a>
+    <a href="programs.html"           class="nav-link" data-en="Programs" data-es="Programas">Programs</a>
+    <a href="events.html"             class="nav-link" data-en="Events" data-es="Eventos">Events</a>
+    <a href="board.html"              class="nav-link active" data-en="Board" data-es="Junta">Board</a>
+    <a href="index.html#get-involved" class="nav-link" data-en="Get Involved" data-es="Participa">Get Involved</a>
+    <a href="resources.html"          class="nav-link" data-en="Resources" data-es="Recursos">Resources</a>
+    <a href="news.html"               class="nav-link" data-en="News" data-es="Noticias">News</a>
+    <a href="past-events.html"        class="nav-link" data-en="Past Events" data-es="Eventos Pasados">Past Events</a>
+    <a href="newcomers.html"          class="nav-link" data-en="Newcomers" data-es="Gu&#237;a">Gu&#237;a</a>
+    <button class="hamburger" id="hamburger" aria-label="Toggle menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</nav>
+
+<div class="mobile-drawer" id="mobile-drawer" aria-hidden="true">
+  <a href="index.html#mission"      class="nav-link" data-en="About" data-es="Sobre Nosotros">About</a>
+  <a href="programs.html"           class="nav-link" data-en="Programs" data-es="Programas">Programs</a>
+  <a href="events.html"             class="nav-link" data-en="Events" data-es="Eventos">Events</a>
+  <a href="board.html"              class="nav-link active" data-en="Board" data-es="Junta">Board</a>
+  <a href="index.html#get-involved" class="nav-link" data-en="Get Involved" data-es="Participa">Get Involved</a>
+  <a href="resources.html"          class="nav-link" data-en="Resources" data-es="Recursos">Resources</a>
+  <a href="news.html"               class="nav-link" data-en="News" data-es="Noticias">News</a>
+  <a href="past-events.html"        class="nav-link" data-en="Past Events" data-es="Eventos Pasados">Past Events</a>
+  <a href="newcomers.html"          class="nav-link" data-en="Newcomers" data-es="Gu&#237;a">Gu&#237;a</a>
+</div>
+
+<!-- ─── PAGE HEADER ───────────────────────────────────── -->
+<header class="page-header">
+  <div class="section-container">
+    <p class="page-header-eyebrow" data-en="Leadership" data-es="Liderazgo">Leadership</p>
+    <h1><em data-en="Board of Directors" data-es="Junta Directiva">Board of Directors</em></h1>
+    <p class="page-header-desc" data-en="The volunteer board guiding Casa de España en Indiana — set by members who carry Spain in their hearts, for the community they serve." data-es="La junta voluntaria que guía a Casa de España en Indiana — formada por miembros que llevan España en el corazón, para la comunidad a la que sirven.">The volunteer board guiding Casa de España en Indiana — set by members who carry Spain in their hearts, for the community they serve.</p>
+  </div>
+</header>
+
+<!-- ─── BOARD CONTENT ─────────────────────────────────── -->
+<main class="board-main" id="main">
+  <div class="section-container">
+
+    <p class="board-intro" data-en="Casa de España en Indiana is run entirely by volunteers who donate their time alongside careers, families, and community work of their own. Interested in getting involved yourself? See how to <a href=&quot;join.html&quot;>join or volunteer</a>." data-es="Casa de España en Indiana está dirigida enteramente por voluntarios que donan su tiempo junto a sus carreras, familias y su propio trabajo comunitario. ¿Te interesa participar? Consulta cómo <a href=&quot;join.html&quot;>unirte o ser voluntario</a>." data-html="true">Casa de España en Indiana is run entirely by volunteers who donate their time alongside careers, families, and community work of their own. Interested in getting involved yourself? See how to <a href="join.html">join or volunteer</a>.</p>
+
+    <div class="board-grid">
+
+      <div class="board-member">
+        <div class="board-avatar" aria-hidden="true"><span>MW</span></div>
+        <div>
+          <span class="board-role" data-en="President" data-es="Presidenta">President</span>
+          <h3 class="board-name">Maria Wildridge</h3>
+          <p class="board-bio" data-en="Latino Services Director at the Marion County Prosecutor's Office. She immigrated to the United States from Spain 20 years ago, and lived in Washington State for five years, where she learned English and earned her paralegal degree. She moved to Indiana and began to assist the Latino community over 15 years ago, when she became a domestic violence volunteer at the prosecutor's office, while raising her twin daughters and her son. In 2011, Maria was awarded the United States Attorney's Carol S. Morris Award for Outstanding Contributions to the Rights of Victims for her work with and commitment to the Latino community in Indiana. In 2014, Wildridge received the Latino Advocacy Award by the Latino Coalition Against Domestic and Sexual Violence, Inc." data-es="Directora de Servicios Latinos en la Fiscalía del Condado de Marion. Emigró a los Estados Unidos desde España hace 20 años y vivió en el estado de Washington durante cinco años, donde aprendió inglés y obtuvo su título de paralegal. Se mudó a Indiana y comenzó a ayudar a la comunidad latina hace más de 15 años, cuando se convirtió en voluntaria contra la violencia doméstica en la fiscalía, mientras criaba a sus hijas gemelas y su hijo. En 2011, María recibió el Premio Carol S. Morris del Fiscal Federal por Contribuciones Sobresalientes a los Derechos de las Víctimas. En 2014, Wildridge recibió el Premio de Defensa Latina de la Coalición Latina contra la Violencia Doméstica y Sexual.">Latino Services Director at the Marion County Prosecutor's Office. She immigrated to the United States from Spain 20 years ago, and lived in Washington State for five years, where she learned English and earned her paralegal degree. She moved to Indiana and began to assist the Latino community over 15 years ago, when she became a domestic violence volunteer at the prosecutor's office, while raising her twin daughters and her son. In 2011, Maria was awarded the United States Attorney's Carol S. Morris Award for Outstanding Contributions to the Rights of Victims for her work with and commitment to the Latino community in Indiana. In 2014, Wildridge received the Latino Advocacy Award by the Latino Coalition Against Domestic and Sexual Violence, Inc.</p>
+        </div>
+      </div>
+
+      <div class="board-member">
+        <div class="board-avatar" aria-hidden="true"><span>MP</span></div>
+        <div>
+          <span class="board-role" data-en="Vice President" data-es="Vicepresidenta">Vice President</span>
+          <h3 class="board-name">Marta Piñeiro Núñez</h3>
+        </div>
+      </div>
+
+      <div class="board-member">
+        <div class="board-avatar" aria-hidden="true"><span>CT</span></div>
+        <div>
+          <span class="board-role" data-en="Treasurer" data-es="Tesorera">Treasurer</span>
+          <h3 class="board-name">Cristina Tajadura</h3>
+        </div>
+      </div>
+
+      <div class="board-member">
+        <div class="board-avatar" aria-hidden="true"><span>KD</span></div>
+        <div>
+          <span class="board-role" data-en="Secretary" data-es="Secretario">Secretary</span>
+          <h3 class="board-name">Karla De Juan Romero</h3>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</main>
+
+<!-- ─── FOOTER ─────────────────────────────────────────── -->
+<footer id="site-footer" role="contentinfo">
+  <div class="section-container">
+    <div class="footer-grid">
+
+      <div>
+        <div class="footer-logo-frame">
+          <img src="brand_assests/Logo.png" alt="Casa de España en Indiana" style="display:block;height:112px;width:auto;">
+        </div>
+        <p class="footer-tagline" data-en="Preserving the soul of Spain in the heart of Indiana since 2004." data-es="Preservando el alma de España en el corazón de Indiana desde 2004.">
+          Preserving the soul of Spain in the heart of Indiana since 2004.
+        </p>
+      </div>
+
+      <div>
+        <span class="footer-col-head" data-en="Navigation" data-es="Navegación">Navigation</span>
+        <ul class="footer-nav-links">
+          <li><a href="index.html#mission" data-en="About Us" data-es="Sobre Nosotros">About Us</a></li>
+          <li><a href="programs.html" data-en="Programs" data-es="Programas">Programs</a></li>
+          <li><a href="events.html" data-en="Events" data-es="Eventos">Events</a></li>
+          <li><a href="board.html" data-en="Board of Directors" data-es="Junta Directiva">Board of Directors</a></li>
+          <li><a href="index.html#get-involved" data-en="Get Involved" data-es="Participa">Get Involved</a></li>
+          <li><a href="resources.html" data-en="Resources" data-es="Recursos">Resources</a></li>
+          <li><a href="news.html" data-en="News" data-es="Noticias">News</a></li>
+          <li><a href="past-events.html" data-en="Past Events" data-es="Eventos Pasados">Past Events</a></li>
+          <li><a href="newcomers.html" data-en="Newcomers" data-es="Gu&#237;a">Gu&#237;a</a></li>
+          <li><a href="donate.html" data-en="Donate" data-es="Donar">Donate</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <span class="footer-col-head" data-en="Contact" data-es="Contacto">Contact</span>
+        <p class="contact-line">Indianapolis, Indiana</p>
+        <p class="contact-line"><a href="mailto:info@casaespanaindiana.org">info@casaespanaindiana.org</a></p>
+        <p class="contact-line"><a href="https://casaespanaindiana.org" target="_blank" rel="noopener">casaespanaindiana.org</a></p>
+        <div class="social-row" aria-label="Social media">
+          <a href="https://www.facebook.com/CasadeEspanaIN/" target="_blank" rel="noopener" class="social-btn" aria-label="Facebook">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/></svg>
+          </a>
+          <a href="https://www.instagram.com/casadeespanain" target="_blank" rel="noopener" class="social-btn" aria-label="Instagram">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <rect x="2" y="2" width="20" height="20" rx="5" ry="5" fill="none" stroke="rgba(28,20,16,0.55)" stroke-width="2"/>
+              <circle cx="12" cy="12" r="4" fill="none" stroke="rgba(28,20,16,0.55)" stroke-width="2"/>
+              <circle cx="17.5" cy="6.5" r="1.5" fill="rgba(28,20,16,0.55)"/>
+            </svg>
+          </a>
+          <a href="https://x.com/casadeespanain" target="_blank" rel="noopener" class="social-btn" aria-label="Twitter / X">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"/></svg>
+          </a>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="footer-bottom">
+      <span class="footer-copy" data-en="© 2026 Casa de España en Indiana. All rights reserved." data-es="© 2026 Casa de España en Indiana. Todos los derechos reservados.">© 2026 Casa de España en Indiana. All rights reserved.</span>
+      <span class="footer-copy">Organización sin fines de lucro 501(c)(3) · EIN disponible bajo solicitud</span>
+      <span class="footer-copy"><a href="privacy.html" data-en="Privacy Policy" data-es="Política de Privacidad" style="color:inherit;text-decoration:underline;text-underline-offset:3px;opacity:0.7;">Privacy Policy</a></span>
+      <span class="footer-copy">Website by PocketSod</span>
+    </div>
+  </div>
+</footer>
+
+<!-- ─── INLINE JS ──────────────────────────────────────── -->
+<script>
+  const LANG_KEY = 'lang2';
+  function getLang() { return localStorage.getItem(LANG_KEY) || 'es'; }
+  function setLang(lang) {
+    localStorage.setItem(LANG_KEY, lang);
+    document.querySelectorAll('[data-en]').forEach(el => {
+      const val = lang === 'es' ? (el.dataset.es || '') : (el.dataset.en || '');
+      if (el.dataset.html) { el.innerHTML = val; } else { el.textContent = val; }
+    });
+    document.querySelectorAll('.lt-btn').forEach(btn => {
+      btn.classList.toggle('active', btn.dataset.lang === lang);
+    });
+    document.documentElement.lang = lang;
+  }
+  (function initLang() { setLang(getLang()); })();
+
+  const nav = document.getElementById('site-nav');
+  window.addEventListener('scroll', () => {
+    nav.classList.toggle('scrolled', window.scrollY > 40);
+  }, { passive: true });
+
+  const hamburger = document.getElementById('hamburger');
+  const drawer    = document.getElementById('mobile-drawer');
+  hamburger.addEventListener('click', () => {
+    const isOpen = drawer.classList.toggle('open');
+    hamburger.classList.toggle('open', isOpen);
+    hamburger.setAttribute('aria-expanded', String(isOpen));
+    drawer.setAttribute('aria-hidden', String(!isOpen));
+  });
+  drawer.querySelectorAll('a').forEach(link => {
+    link.addEventListener('click', () => {
+      drawer.classList.remove('open');
+      hamburger.classList.remove('open');
+      hamburger.setAttribute('aria-expanded', 'false');
+      drawer.setAttribute('aria-hidden', 'true');
+    });
+  });
+</script>
+
+  <div class="lang-float" id="lang-float">
+    <div class="lt-label">Lang</div>
+    <button onclick="setLang('en')" class="lt-btn" data-lang="en">
+      <span class="lt-code">EN</span>
+      <span class="lt-name">English</span>
+    </button>
+    <div class="lt-divider"></div>
+    <button onclick="setLang('es')" class="lt-btn" data-lang="es">
+      <span class="lt-code">ES</span>
+      <span class="lt-name">Español</span>
+    </button>
+  </div>
+</body>
+</html>

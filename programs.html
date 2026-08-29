@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="brand_assests/favicon.png">
+  <link rel="apple-touch-icon" href="brand_assests/favicon.png">
+  <title>Programs — Casa de España en Indiana</title>
+  <meta name="description" content="Cultural events, community support, and resources from Casa de España en Indiana — flamenco nights, language help for newcomers, and a directory for the Spanish community in the U.S.">
+  <meta name="keywords" content="Spanish cultural programs Indiana, flamenco classes Indianapolis, Spanish community programs Indiana, Latino community support Indiana">
+  <link rel="canonical" href="https://casaespanaindiana.org/programs.html">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://casaespanaindiana.org/programs.html">
+  <meta property="og:title" content="Programs — Casa de España en Indiana">
+  <meta property="og:description" content="Cultural events, community support, and resources for the Spanish and Latino community in Indiana.">
+  <meta property="og:site_name" content="Casa de España en Indiana">
+  <meta property="og:image" content="https://casaespanaindiana.org/brand_assests/OGlogo.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Programs — Casa de España en Indiana">
+  <meta name="twitter:description" content="Cultural events, community support, and resources for the Spanish and Latino community in Indiana.">
+  <meta name="twitter:image" content="https://casaespanaindiana.org/brand_assests/OGlogo.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600&family=Source+Sans+3:wght@300;400;600&display=swap" rel="stylesheet">
+
+  <script>
+    tailwind = { config: {
+      theme: {
+        extend: {
+          colors: {
+            terra: '#C13B2B',
+            'terra-deep': '#8C2318',
+            'terra-muted': '#D4604F',
+            parchment: '#FAF4ED',
+            'parch-2': '#F2E9DF',
+            'parch-3': '#E8DBCF',
+            ink: '#1C1410',
+            'ink-mid': '#3D2E26',
+            'ink-light': '#7A6658',
+          },
+          fontFamily: {
+            display: ['"Cormorant Garamond"', 'Georgia', 'serif'],
+            sans: ['"Source Sans 3"', '"Source Sans Pro"', 'sans-serif'],
+          },
+        }
+      }
+    }};
+  </script>
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <style>
+    :root {
+      --terra:        #C13B2B;
+      --terra-deep:   #8C2318;
+      --terra-muted:  #D4604F;
+      --parchment:    #FAF4ED;
+      --parch-2:      #F2E9DF;
+      --parch-3:      #E8DBCF;
+      --ink:          #1C1410;
+      --ink-mid:      #3D2E26;
+      --ink-light:    #6B5648;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: 'Source Sans 3', sans-serif;
+      background: var(--parchment);
+      color: var(--ink);
+      -webkit-font-smoothing: antialiased;
+      overflow-x: hidden;
+      padding-top: 120px;
+    }
+
+    .section-container { max-width: 1140px; margin: 0 auto; padding: 0 40px; }
+    @media (max-width: 640px) { .section-container { padding: 0 20px; } }
+
+    /* ─── NAV ───────────────────────────────────────────── */
+    #site-nav { position: fixed; top: 0; left: 0; right: 0; height: 120px; z-index: 100; display: flex; transition: box-shadow 0.3s ease; }
+    #site-nav.scrolled { box-shadow: 0 2px 20px rgba(28,20,16,0.35), 0 1px 0 rgba(0,0,0,0.15); }
+    .nav-logo-zone { width: 240px; flex-shrink: 0; background: var(--parchment); display: flex; align-items: center; padding: 0 16px; border-right: 1px solid rgba(28,20,16,0.1); }
+    .nav-logo-zone a { display: flex; align-items: center; text-decoration: none; }
+    .nav-logo-zone img { height: 112px; width: auto; display: block; }
+    .nav-links-zone { flex: 1; background: var(--ink); display: flex; align-items: center; padding: 0 32px; gap: 2px; justify-content: flex-end; }
+    .nav-link {
+      font-family: 'Source Sans 3', sans-serif; font-weight: 600; font-size: 12px;
+      letter-spacing: 0.08em; text-transform: uppercase; color: var(--parchment);
+      text-decoration: none; padding: 6px 14px; border-bottom: 2px solid transparent;
+      border-radius: 2px 2px 0 0;
+      transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+    }
+    .nav-link:hover { background: rgba(193,59,43,0.14); }
+    .nav-link.active { border-bottom-color: var(--terra); }
+    .nav-link:focus-visible { outline: 2px solid var(--terra-muted); outline-offset: 2px; }
+    .hamburger { display: none; flex-direction: column; gap: 5px; cursor: pointer; padding: 10px; background: none; border: none; margin-left: 8px; }
+    .hamburger span { display: block; width: 22px; height: 2px; background: var(--parchment); transition: transform 0.3s cubic-bezier(0.22,1,0.36,1), opacity 0.3s ease; }
+    .hamburger.open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+    .hamburger.open span:nth-child(2) { opacity: 0; transform: scaleX(0); }
+    .hamburger.open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+    .mobile-drawer {
+      position: fixed; top: 120px; left: 0; right: 0; z-index: 99;
+      background: var(--ink); border-top: 1px solid rgba(193,59,43,0.2);
+      display: flex; flex-direction: column; padding: 12px 20px 20px; gap: 2px;
+      transform: translateY(-110%); transition: transform 0.35s cubic-bezier(0.22,1,0.36,1);
+      pointer-events: none;
+    }
+    .mobile-drawer.open { transform: translateY(0); pointer-events: auto; }
+    .mobile-drawer .nav-link { padding: 12px 16px; }
+    @media (max-width: 768px) {
+      .nav-logo-zone { width: auto; min-width: 160px; }
+      .nav-links-zone .nav-link { display: none; }
+      .hamburger { display: flex; }
+    }
+
+    /* ─── PAGE HEADER ─────────────────────────────────────── */
+    .page-header { background: var(--ink); position: relative; overflow: hidden; padding: 72px 0 64px; }
+    .page-header::before {
+      content: ''; position: absolute; inset: 0;
+      background:
+        radial-gradient(ellipse 55% 90% at 15% 60%, rgba(193,59,43,0.11) 0%, transparent 65%),
+        radial-gradient(ellipse 35% 50% at 85% 20%, rgba(140,35,24,0.09) 0%, transparent 65%);
+      pointer-events: none;
+    }
+    .page-header-eyebrow {
+      font-family: 'Source Sans 3', sans-serif; font-size: 11px; font-weight: 600;
+      letter-spacing: 0.18em; text-transform: uppercase; color: var(--terra-muted);
+      display: flex; align-items: center; gap: 12px; margin-bottom: 14px;
+    }
+    .page-header-eyebrow::before { content: ''; display: block; width: 28px; height: 1px; background: var(--terra-muted); }
+    .page-header h1 {
+      font-family: 'Cormorant Garamond', serif; font-size: clamp(40px, 6vw, 68px);
+      font-weight: 300; letter-spacing: -0.03em; color: var(--parchment); line-height: 1.08;
+    }
+    .page-header h1 em { font-style: italic; color: var(--terra-muted); }
+    .page-header-desc {
+      font-family: 'Source Sans 3', sans-serif; font-size: 16px; font-weight: 300;
+      color: rgba(250,244,237,0.55); margin-top: 16px; line-height: 1.65; max-width: 560px;
+    }
+
+    /* ─── PROGRAMS MAIN ──────────────────────────────────── */
+    .programs-main { background: var(--parchment); padding: 80px 0 100px; }
+
+    .program-block { margin-bottom: 80px; }
+    .program-block:last-child { margin-bottom: 0; }
+
+    .program-block-head { display: flex; align-items: center; gap: 22px; margin-bottom: 24px; }
+    .program-block-icon {
+      flex-shrink: 0; width: 60px; height: 60px; border-radius: 12px;
+      display: flex; align-items: center; justify-content: center;
+      background:
+        radial-gradient(ellipse 60% 90% at 30% 20%, rgba(193,59,43,0.9) 0%, transparent 60%),
+        var(--ink);
+    }
+    .program-block-icon svg { width: 30px; height: 30px; }
+    .program-block-head .overline { font-family: 'Source Sans 3', sans-serif; font-weight: 600; font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--terra); display: block; margin-bottom: 4px; }
+    .program-block-head h2 { font-family: 'Cormorant Garamond', serif; font-size: clamp(28px, 3.4vw, 38px); font-weight: 600; letter-spacing: -0.02em; color: var(--ink); line-height: 1.1; }
+
+    .program-lead {
+      font-family: 'Source Sans 3', sans-serif; font-size: 16px; font-weight: 300;
+      line-height: 1.75; color: var(--ink-mid); max-width: 700px; margin-bottom: 22px;
+    }
+    .program-list { list-style: none; max-width: 700px; margin-bottom: 26px; }
+    .program-list li {
+      position: relative; padding: 10px 0 10px 22px;
+      border-bottom: 1px solid var(--parch-3);
+      font-family: 'Source Sans 3', sans-serif; font-size: 14px; line-height: 1.6; color: var(--ink-mid);
+    }
+    .program-list li:last-child { border-bottom: none; }
+    .program-list li::before {
+      content: ''; position: absolute; left: 0; top: 19px;
+      width: 6px; height: 6px; border-radius: 50%; background: var(--terra-muted);
+    }
+    .program-cta {
+      display: inline-flex; align-items: center; gap: 8px;
+      font-family: 'Source Sans 3', sans-serif; font-weight: 600; font-size: 13px;
+      letter-spacing: 0.04em; text-transform: uppercase; color: var(--terra);
+      text-decoration: none; border-bottom: 2px solid var(--terra); padding-bottom: 3px;
+      transition: color 0.18s ease, gap 0.18s ease;
+    }
+    .program-cta:hover { color: var(--terra-deep); gap: 12px; }
+    .program-cta:focus-visible { outline: 2px solid var(--terra-muted); outline-offset: 3px; }
+
+    .program-divider { border: none; border-top: 1px solid var(--parch-3); margin: 0 0 80px; }
+
+    /* ─── FOOTER ─────────────────────────────────────────── */
+    #site-footer { background: var(--parchment); padding: 72px 0 0; }
+    .footer-grid { display: grid; grid-template-columns: 1.1fr 1fr 1.1fr; gap: 56px; margin-bottom: 56px; }
+    @media (max-width: 768px) { .footer-grid { grid-template-columns: 1fr; gap: 40px; } }
+    .footer-logo-frame { display: inline-block; margin-bottom: 18px; }
+    .footer-logo-frame img { height: 112px; width: auto; display: block; }
+    .footer-tagline { font-family: 'Cormorant Garamond', serif; font-style: italic; font-weight: 300; font-size: 16px; line-height: 1.65; color: rgba(28,20,16,0.5); max-width: 230px; }
+    .footer-col-head { font-family: 'Source Sans 3', sans-serif; font-weight: 600; font-size: 10px; letter-spacing: 0.15em; text-transform: uppercase; color: rgba(28,20,16,0.4); margin-bottom: 20px; display: block; }
+    .footer-nav-links { list-style: none; display: flex; flex-direction: column; gap: 10px; }
+    .footer-nav-links a { font-family: 'Source Sans 3', sans-serif; font-weight: 400; font-size: 14px; color: rgba(28,20,16,0.6); text-decoration: none; transition: color 0.2s ease; }
+    .footer-nav-links a:hover { color: var(--terra); }
+    .footer-nav-links a:focus-visible { outline: 1px solid var(--terra); outline-offset: 2px; }
+    .contact-line { font-family: 'Source Sans 3', sans-serif; font-size: 14px; font-weight: 300; color: rgba(28,20,16,0.55); margin-bottom: 8px; }
+    .contact-line a { color: rgba(28,20,16,0.55); text-decoration: none; transition: color 0.2s ease; }
+    .contact-line a:hover { color: var(--terra-muted); }
+    .contact-line a:focus-visible { outline: 1px solid var(--terra); }
+    .social-row { display: flex; gap: 8px; margin-top: 20px; }
+    .social-btn { width: 36px; height: 36px; border-radius: 4px; background: rgba(28,20,16,0.06); border: 1px solid rgba(28,20,16,0.1); display: flex; align-items: center; justify-content: center; text-decoration: none; cursor: pointer; transition: background-color 0.22s ease, border-color 0.22s ease; }
+    .social-btn:hover { background: rgba(193,59,43,0.22); border-color: rgba(193,59,43,0.32); }
+    .social-btn:focus-visible { outline: 2px solid var(--terra); outline-offset: 2px; }
+    .social-btn svg { width: 14px; height: 14px; fill: rgba(28,20,16,0.55); display: block; }
+    .footer-bottom { border-top: 1px solid rgba(28,20,16,0.12); padding: 20px 0; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px; }
+    .footer-copy { font-family: 'Source Sans 3', sans-serif; font-size: 12px; font-weight: 300; color: rgba(28,20,16,0.35); }
+
+    /* ─── LANGUAGE TOGGLE (floating) ───────────────────────── */
+    .lang-float { position: fixed; bottom: 24px; right: 24px; z-index: 9999; display: flex; align-items: center; gap: 2px; background: var(--ink); border: 1px solid rgba(250,244,237,0.12); border-radius: 10px; padding: 6px 8px; box-shadow: 0 4px 24px rgba(0,0,0,0.55), 0 1px 4px rgba(0,0,0,0.3); }
+    .lt-label { font-family: 'Source Sans 3', sans-serif; font-size: 9px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: rgba(250,244,237,0.5); margin-right: 3px; }
+    .lt-btn { display: flex; flex-direction: column; align-items: center; background: none; border: 1px solid transparent; border-radius: 6px; padding: 4px 9px; cursor: pointer; color: rgba(250,244,237,0.85); transition: color 0.2s ease, border-color 0.2s ease; line-height: 1.15; }
+    .lt-btn .lt-code { font-family: 'Source Sans 3', sans-serif; font-size: 12px; font-weight: 700; letter-spacing: 0.06em; }
+    .lt-btn .lt-name { font-family: 'Source Sans 3', sans-serif; font-size: 8px; font-weight: 400; letter-spacing: 0.03em; white-space: nowrap; }
+    .lt-btn.active { color: var(--terra-muted); border-color: rgba(212,96,79,0.35); }
+    .lt-btn:hover { color: var(--parchment); }
+    .lt-btn:focus-visible { outline: 2px solid var(--terra-muted); outline-offset: 2px; }
+    .lt-divider { width: 1px; height: 26px; background: rgba(250,244,237,0.15); margin: 0 2px; }
+  </style>
+</head>
+<body>
+
+<!-- ─── STICKY NAV ─────────────────────────────────────── -->
+<nav id="site-nav" role="navigation" aria-label="Main navigation">
+  <div class="nav-logo-zone">
+    <a href="index.html" aria-label="Casa de España en Indiana — home" style="display:flex;align-items:center;">
+      <img src="brand_assests/Logo.png" alt="Casa de España en Indiana" style="display:block;height:112px;width:auto;">
+    </a>
+  </div>
+  <div class="nav-links-zone">
+    <a href="index.html#mission"      class="nav-link" data-en="About" data-es="Sobre Nosotros">About</a>
+    <a href="programs.html"           class="nav-link active" data-en="Programs" data-es="Programas">Programs</a>
+    <a href="events.html"             class="nav-link" data-en="Events" data-es="Eventos">Events</a>
+    <a href="board.html"              class="nav-link" data-en="Board" data-es="Junta">Board</a>
+    <a href="index.html#get-involved" class="nav-link" data-en="Get Involved" data-es="Participa">Get Involved</a>
+    <a href="resources.html"          class="nav-link" data-en="Resources" data-es="Recursos">Resources</a>
+    <a href="news.html"               class="nav-link" data-en="News" data-es="Noticias">News</a>
+    <a href="past-events.html"        class="nav-link" data-en="Past Events" data-es="Eventos Pasados">Past Events</a>
+    <a href="newcomers.html"          class="nav-link" data-en="Newcomers" data-es="Gu&#237;a">Gu&#237;a</a>
+    <button class="hamburger" id="hamburger" aria-label="Toggle menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</nav>
+
+<div class="mobile-drawer" id="mobile-drawer" aria-hidden="true">
+  <a href="index.html#mission"      class="nav-link" data-en="About" data-es="Sobre Nosotros">About</a>
+  <a href="programs.html"           class="nav-link active" data-en="Programs" data-es="Programas">Programs</a>
+  <a href="events.html"             class="nav-link" data-en="Events" data-es="Eventos">Events</a>
+  <a href="board.html"              class="nav-link" data-en="Board" data-es="Junta">Board</a>
+  <a href="index.html#get-involved" class="nav-link" data-en="Get Involved" data-es="Participa">Get Involved</a>
+  <a href="resources.html"          class="nav-link" data-en="Resources" data-es="Recursos">Resources</a>
+  <a href="news.html"               class="nav-link" data-en="News" data-es="Noticias">News</a>
+  <a href="past-events.html"        class="nav-link" data-en="Past Events" data-es="Eventos Pasados">Past Events</a>
+  <a href="newcomers.html"          class="nav-link" data-en="Newcomers" data-es="Gu&#237;a">Gu&#237;a</a>
+</div>
+
+<!-- ─── PAGE HEADER ───────────────────────────────────── -->
+<header class="page-header">
+  <div class="section-container">
+    <p class="page-header-eyebrow" data-en="Our Programs" data-es="Nuestros Programas">Our Programs</p>
+    <h1><em data-en="Three Pillars of Cultural Life" data-es="Tres Pilares de la Vida Cultural">Three Pillars of Cultural Life</em></h1>
+    <p class="page-header-desc" data-en="Cultural Events, Community Support, and Resources — the three ways Casa de España en Indiana keeps Spanish culture alive and connected across the state." data-es="Eventos Culturales, Apoyo Comunitario y Recursos — las tres formas en que Casa de España en Indiana mantiene viva y conectada la cultura española en todo el estado.">Cultural Events, Community Support, and Resources — the three ways Casa de España en Indiana keeps Spanish culture alive and connected across the state.</p>
+  </div>
+</header>
+
+<!-- ─── PROGRAMS CONTENT ───────────────────────────────── -->
+<main class="programs-main" id="main">
+  <div class="section-container">
+
+    <!-- ══ CULTURAL EVENTS ══ -->
+    <div class="program-block">
+      <div class="program-block-head">
+        <div class="program-block-icon">
+          <svg viewBox="0 0 100 100" fill="none" stroke="rgba(250,244,237,0.85)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M50 88 L20 32 A34 34 0 0 1 80 32 Z"/>
+            <path d="M50 88 L33 32"/>
+            <path d="M50 88 L50 24"/>
+            <path d="M50 88 L67 32"/>
+            <circle cx="50" cy="88" r="4.5" fill="var(--terra-muted)" stroke="none"/>
+          </svg>
+        </div>
+        <div>
+          <span class="overline" data-en="Program 01" data-es="Programa 01">Program 01</span>
+          <h2 data-en="Cultural Events" data-es="Eventos Culturales">Cultural Events</h2>
+        </div>
+      </div>
+      <p class="program-lead" data-en="Cultural Events is the heartbeat of Casa de España en Indiana — the gatherings where Spain's traditions come alive in the Midwest. Since 2004, we've brought flamenco performances, Spanish cinema, and seasonal celebrations to Indianapolis, creating space for the Spanish diaspora and curious neighbors alike to experience Spanish culture firsthand." data-es="Eventos Culturales es el corazón de Casa de España en Indiana — los encuentros donde las tradiciones de España cobran vida en el Medio Oeste. Desde 2004, hemos traído actuaciones de flamenco, cine español y celebraciones de temporada a Indianápolis, creando un espacio donde la diáspora española y sus vecinos curiosos viven de cerca la cultura española.">Cultural Events is the heartbeat of Casa de España en Indiana — the gatherings where Spain's traditions come alive in the Midwest. Since 2004, we've brought flamenco performances, Spanish cinema, and seasonal celebrations to Indianapolis, creating space for the Spanish diaspora and curious neighbors alike to experience Spanish culture firsthand.</p>
+      <ul class="program-list">
+        <li data-en="Flamenco performances and workshops featuring visiting artists from Spain" data-es="Actuaciones y talleres de flamenco con artistas visitantes de España">Flamenco performances and workshops featuring visiting artists from Spain</li>
+        <li data-en="Spanish film screenings and literary discussions" data-es="Proyecciones de cine español y tertulias literarias">Spanish film screenings and literary discussions</li>
+        <li data-en="Gastronomy nights showcasing regional Spanish cuisine" data-es="Noches de gastronomía con platos de las distintas regiones de España">Gastronomy nights showcasing regional Spanish cuisine</li>
+        <li data-en="Seasonal celebrations marking Spanish holidays and traditions" data-es="Celebraciones de temporada que marcan festividades y tradiciones españolas">Seasonal celebrations marking Spanish holidays and traditions</li>
+      </ul>
+      <a class="program-cta" href="events.html" data-en="See Upcoming Events →" data-es="Ver Próximos Eventos →">See Upcoming Events →</a>
+    </div>
+
+    <hr class="program-divider">
+
+    <!-- ══ COMMUNITY SUPPORT ══ -->
+    <div class="program-block">
+      <div class="program-block-head">
+        <div class="program-block-icon">
+          <svg viewBox="0 0 100 100" fill="none" stroke="rgba(250,244,237,0.85)" stroke-width="4">
+            <circle cx="35" cy="38" r="14"/>
+            <circle cx="65" cy="38" r="14"/>
+            <circle cx="50" cy="66" r="14" stroke="var(--terra-muted)"/>
+          </svg>
+        </div>
+        <div>
+          <span class="overline" data-en="Program 02" data-es="Programa 02">Program 02</span>
+          <h2 data-en="Community Support" data-es="Apoyo Comunitario">Community Support</h2>
+        </div>
+      </div>
+      <p class="program-lead" data-en="Moving to a new state — or a new country — is easier with people who understand the journey. Community Support connects Spanish-speaking families across Indiana with the language help, social connections, and cultural anchor points that make Indiana feel like home." data-es="Mudarse a un nuevo estado — o a un nuevo país — es más fácil con personas que entienden el camino. Apoyo Comunitario conecta a las familias hispanohablantes de Indiana con la ayuda con el idioma, las relaciones sociales y los puntos de anclaje cultural que hacen que Indiana se sienta como en casa.">Moving to a new state — or a new country — is easier with people who understand the journey. Community Support connects Spanish-speaking families across Indiana with the language help, social connections, and cultural anchor points that make Indiana feel like home.</p>
+      <ul class="program-list">
+        <li data-en="Peer support and social integration for newcomers to Indiana" data-es="Apoyo entre iguales e integración social para quienes llegan a Indiana">Peer support and social integration for newcomers to Indiana</li>
+        <li data-en="Connections between longtime Hoosier-Spaniards and recent arrivals" data-es="Conexiones entre españoles ya establecidos en Indiana y los recién llegados">Connections between longtime Hoosier-Spaniards and recent arrivals</li>
+        <li data-en="Cultural continuity for children growing up bilingual and bicultural" data-es="Continuidad cultural para niños que crecen bilingües y biculturales">Cultural continuity for children growing up bilingual and bicultural</li>
+        <li data-en="A community that understands both sides — the one you left, and the one you're building" data-es="Una comunidad que entiende ambos lados — el que dejaste y el que estás construyendo">A community that understands both sides — the one you left, and the one you're building</li>
+      </ul>
+      <a class="program-cta" href="newcomers.html" data-en="Read the Newcomers Guide →" data-es="Leer la Guía para Recién Llegados →">Read the Newcomers Guide →</a>
+    </div>
+
+    <hr class="program-divider">
+
+    <!-- ══ RESOURCES ══ -->
+    <div class="program-block">
+      <div class="program-block-head">
+        <div class="program-block-icon">
+          <svg viewBox="0 0 100 100" fill="none" stroke="rgba(250,244,237,0.85)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M50 26 C40 19 25 19 16 23 V77 C25 73 40 73 50 80 C60 73 75 73 84 77 V23 C75 19 60 19 50 26 Z"/>
+            <path d="M50 26 V80"/>
+            <path d="M23 35 H42 M23 45 H42 M23 55 H40"/>
+            <path d="M58 35 H77 M58 45 H77 M60 55 H77" stroke="var(--terra-muted)"/>
+          </svg>
+        </div>
+        <div>
+          <span class="overline" data-en="Program 03 · Directory" data-es="Programa 03 · Directorio">Program 03 · Directory</span>
+          <h2 data-en="Resources" data-es="Recursos">Resources</h2>
+        </div>
+      </div>
+      <p class="program-lead" data-en="Our Resources directory gathers the government agencies, cultural institutions, scholarship programs, and information portals that Spanish nationals and Spanish-speaking families in the U.S. turn to most — from consulate services to scholarship opportunities to Spain-based news and culture." data-es="Nuestro directorio de Recursos reúne los organismos gubernamentales, instituciones culturales, programas de becas y portales de información a los que más recurren los españoles y las familias hispanohablantes en los Estados Unidos — desde servicios consulares hasta oportunidades de becas y noticias y cultura de España.">Our Resources directory gathers the government agencies, cultural institutions, scholarship programs, and information portals that Spanish nationals and Spanish-speaking families in the U.S. turn to most — from consulate services to scholarship opportunities to Spain-based news and culture.</p>
+      <a class="program-cta" href="resources.html" data-en="Browse the Resources Directory →" data-es="Ver el Directorio de Recursos →">Browse the Resources Directory →</a>
+    </div>
+
+  </div>
+</main>
+
+<!-- ─── FOOTER ─────────────────────────────────────────── -->
+<footer id="site-footer" role="contentinfo">
+  <div class="section-container">
+    <div class="footer-grid">
+
+      <div>
+        <div class="footer-logo-frame">
+          <img src="brand_assests/Logo.png" alt="Casa de España en Indiana" style="display:block;height:112px;width:auto;">
+        </div>
+        <p class="footer-tagline" data-en="Preserving the soul of Spain in the heart of Indiana since 2004." data-es="Preservando el alma de España en el corazón de Indiana desde 2004.">
+          Preserving the soul of Spain in the heart of Indiana since 2004.
+        </p>
+      </div>
+
+      <div>
+        <span class="footer-col-head" data-en="Navigation" data-es="Navegación">Navigation</span>
+        <ul class="footer-nav-links">
+          <li><a href="index.html#mission" data-en="About Us" data-es="Sobre Nosotros">About Us</a></li>
+          <li><a href="programs.html" data-en="Programs" data-es="Programas">Programs</a></li>
+          <li><a href="events.html" data-en="Events" data-es="Eventos">Events</a></li>
+          <li><a href="board.html" data-en="Board of Directors" data-es="Junta Directiva">Board of Directors</a></li>
+          <li><a href="index.html#get-involved" data-en="Get Involved" data-es="Participa">Get Involved</a></li>
+          <li><a href="resources.html" data-en="Resources" data-es="Recursos">Resources</a></li>
+          <li><a href="news.html" data-en="News" data-es="Noticias">News</a></li>
+          <li><a href="past-events.html" data-en="Past Events" data-es="Eventos Pasados">Past Events</a></li>
+          <li><a href="newcomers.html" data-en="Newcomers" data-es="Gu&#237;a">Gu&#237;a</a></li>
+          <li><a href="donate.html" data-en="Donate" data-es="Donar">Donate</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <span class="footer-col-head" data-en="Contact" data-es="Contacto">Contact</span>
+        <p class="contact-line">Indianapolis, Indiana</p>
+        <p class="contact-line"><a href="mailto:info@casaespanaindiana.org">info@casaespanaindiana.org</a></p>
+        <p class="contact-line"><a href="https://casaespanaindiana.org" target="_blank" rel="noopener">casaespanaindiana.org</a></p>
+        <div class="social-row" aria-label="Social media">
+          <a href="https://www.facebook.com/CasadeEspanaIN/" target="_blank" rel="noopener" class="social-btn" aria-label="Facebook">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/></svg>
+          </a>
+          <a href="https://www.instagram.com/casadeespanain" target="_blank" rel="noopener" class="social-btn" aria-label="Instagram">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <rect x="2" y="2" width="20" height="20" rx="5" ry="5" fill="none" stroke="rgba(28,20,16,0.55)" stroke-width="2"/>
+              <circle cx="12" cy="12" r="4" fill="none" stroke="rgba(28,20,16,0.55)" stroke-width="2"/>
+              <circle cx="17.5" cy="6.5" r="1.5" fill="rgba(28,20,16,0.55)"/>
+            </svg>
+          </a>
+          <a href="https://x.com/casadeespanain" target="_blank" rel="noopener" class="social-btn" aria-label="Twitter / X">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"/></svg>
+          </a>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="footer-bottom">
+      <span class="footer-copy" data-en="© 2026 Casa de España en Indiana. All rights reserved." data-es="© 2026 Casa de España en Indiana. Todos los derechos reservados.">© 2026 Casa de España en Indiana. All rights reserved.</span>
+      <span class="footer-copy">Organización sin fines de lucro 501(c)(3) · EIN disponible bajo solicitud</span>
+      <span class="footer-copy"><a href="privacy.html" data-en="Privacy Policy" data-es="Política de Privacidad" style="color:inherit;text-decoration:underline;text-underline-offset:3px;opacity:0.7;">Privacy Policy</a></span>
+      <span class="footer-copy">Website by PocketSod</span>
+    </div>
+  </div>
+</footer>
+
+<!-- ─── INLINE JS ──────────────────────────────────────── -->
+<script>
+  const LANG_KEY = 'lang2';
+  function getLang() { return localStorage.getItem(LANG_KEY) || 'es'; }
+  function setLang(lang) {
+    localStorage.setItem(LANG_KEY, lang);
+    document.querySelectorAll('[data-en]').forEach(el => {
+      const val = lang === 'es' ? (el.dataset.es || '') : (el.dataset.en || '');
+      if (el.dataset.html) { el.innerHTML = val; } else { el.textContent = val; }
+    });
+    document.querySelectorAll('.lt-btn').forEach(btn => {
+      btn.classList.toggle('active', btn.dataset.lang === lang);
+    });
+    document.documentElement.lang = lang;
+  }
+  (function initLang() { setLang(getLang()); })();
+
+  const nav = document.getElementById('site-nav');
+  window.addEventListener('scroll', () => {
+    nav.classList.toggle('scrolled', window.scrollY > 40);
+  }, { passive: true });
+
+  const hamburger = document.getElementById('hamburger');
+  const drawer    = document.getElementById('mobile-drawer');
+  hamburger.addEventListener('click', () => {
+    const isOpen = drawer.classList.toggle('open');
+    hamburger.classList.toggle('open', isOpen);
+    hamburger.setAttribute('aria-expanded', String(isOpen));
+    drawer.setAttribute('aria-hidden', String(!isOpen));
+  });
+  drawer.querySelectorAll('a').forEach(link => {
+    link.addEventListener('click', () => {
+      drawer.classList.remove('open');
+      hamburger.classList.remove('open');
+      hamburger.setAttribute('aria-expanded', 'false');
+      drawer.setAttribute('aria-hidden', 'true');
+    });
+  });
+</script>
+
+  <div class="lang-float" id="lang-float">
+    <div class="lt-label">Lang</div>
+    <button onclick="setLang('en')" class="lt-btn" data-lang="en">
+      <span class="lt-code">EN</span>
+      <span class="lt-name">English</span>
+    </button>
+    <div class="lt-divider"></div>
+    <button onclick="setLang('es')" class="lt-btn" data-lang="es">
+      <span class="lt-code">ES</span>
+      <span class="lt-name">Español</span>
+    </button>
+  </div>
+</body>
+</html>

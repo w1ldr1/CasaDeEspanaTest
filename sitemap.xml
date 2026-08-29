@@ -7,6 +7,24 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://casaespanaindiana.org/programs.html</loc>
+    <lastmod>2026-08-29</lastmod>
+    <priority>0.9</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://casaespanaindiana.org/events.html</loc>
+    <lastmod>2026-08-29</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://casaespanaindiana.org/board.html</loc>
+    <lastmod>2026-08-29</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://casaespanaindiana.org/news.html</loc>
     <lastmod>2026-04-23</lastmod>
     <priority>0.9</priority>
