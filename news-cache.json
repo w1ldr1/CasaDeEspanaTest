@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "title": "El Gobierno acelera los trámites para sacar en dos semanas a todos los inmigrantes de la calle y poder devolver a la mayoría",
+      "link": "https://elpais.com/espana/2026-08-29/el-gobierno-acelera-los-tramites-para-sacar-en-dos-semanas-a-todos-los-inmigrantes-de-la-calle-y-poder-devolver-a-la-mayoria.html",
+      "desc": "Los policías trabajarán también ‘online’ desde fuera de Ceuta para agilizar los trámites de rechazo de asilo y devolución",
+      "date": "Sat, 29 Aug 2026 03:45:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/SNV53EAM6VN6BGMPR2YWIYUSOU.jpg?auth=1be884096c423ba2fe5d41b5f53b40614a70f51572b3b8edaf627e427d7bec7b"
+    },
+    {
       "title": "España pide a la UE el apoyo de Frontex para “agilizar” la clasificación de migrantes en Ceuta",
       "link": "https://elpais.com/espana/2026-08-28/espana-pide-a-la-ue-el-apoyo-de-frontex-para-agilizar-la-clasificacion-de-migrantes-en-ceuta.html",
       "desc": "El ministro del Interior traslada la petición en una carta a la directora general de Migración de la Comisión Europea",
@@ -15,18 +22,18 @@
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260828/1208724_153649_video_1800.mp4"
     },
     {
-      "title": "Marlaska alerta sobre los altercados en Ceuta y acusa a PP y Vox de “incitar al odio”",
-      "link": "https://elpais.com/espana/2026-08-28/marlaska-evita-la-autocritica-y-acusa-a-pp-y-vox-de-incitar-al-odio-en-ceuta.html",
-      "desc": "El ministro se queda solo en la defensa de la “colaboración” de Marruecos, puesta en duda por Sumar y sus aliados parlamentarios",
-      "date": "Fri, 28 Aug 2026 13:20:55 GMT",
-      "imgUrl": "https://www.youtube.com/watch?v=P8uT-vhya2A"
-    },
-    {
       "title": "Ceuta y el consentimiento racista del PP",
       "link": "https://elpais.com/opinion/2026-08-28/ceuta-y-el-consentimiento-racista-del-pp.html",
       "desc": "Desgastar al Gobierno es la obligación de un partido de oposición; aceptar el contagio xenófobo de la ultraderecha está muy lejos de sus obligaciones",
       "date": "Fri, 28 Aug 2026 15:30:48 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/QBZLRO7PWBPHHIINO26TJERHS4.jpg?auth=9084f67271118e96586204ad3a7e6ae7a420ce9a429b47d8b935a209d767d642"
+    },
+    {
+      "title": "Cuando las ideas molestan",
+      "link": "https://elpais.com/opinion/2026-08-29/cuando-las-ideas-molestan.html",
+      "desc": "Se diría que hoy solo importa la responsabilidad de las actuaciones políticas que se dilucida ante los tribunales",
+      "date": "Sat, 29 Aug 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/QKRKGSPUFBCY7GOIGHUS4ZVMNQ.jpg?auth=1bccad06827e6e653ae527ddd6e2be3f1c6095835867b6723d23ec11dcfd35b9"
     },
     {
       "title": "Un hecho notorio en Elche",
@@ -50,11 +57,11 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/HFXWCN65P5NNBLJLWUK2N24ZJI.jpg?auth=afc3676817888d9437ed7f7a53bd7a3944872b89c51727c762cfb31c63de86c6"
     },
     {
-      "title": "Todo se transforma menos la política",
-      "link": "https://elpais.com/opinion/2026-08-23/todo-se-transforma-menos-la-politica.html",
-      "desc": "Los políticos no tienen los incentivos necesarios para destinar recursos a inversiones cuyos resultados carecen de auténtica visibilidad electoral",
-      "date": "Sun, 23 Aug 2026 03:30:01 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/7JSMUV7PA5JUNI6DV4FQNESFNY.jpg?auth=4a1b70602e528c8ebee66906e174853aa36b9783a11de17c356b6597370fbe21"
+      "title": "Marlaska alerta sobre los altercados en Ceuta y acusa a PP y Vox de “incitar al odio”",
+      "link": "https://elpais.com/espana/2026-08-28/marlaska-evita-la-autocritica-y-acusa-a-pp-y-vox-de-incitar-al-odio-en-ceuta.html",
+      "desc": "El ministro se queda solo en la defensa de la “colaboración” de Marruecos, puesta en duda por Sumar y sus aliados parlamentarios",
+      "date": "Fri, 28 Aug 2026 13:20:55 GMT",
+      "imgUrl": "https://www.youtube.com/watch?v=P8uT-vhya2A"
     },
     {
       "title": "El Gobierno pide al PP que le ayude a parar la violencia en Ceuta en medio de bloqueos del reparto de comida a los inmigrantes",
@@ -125,14 +132,7 @@
       "desc": "La ministra de Sanidad anuncia que las vacunaciones con las dosis que envíen las comunidades autónomas comenzarán la semana que viene",
       "date": "Thu, 27 Aug 2026 13:15:40 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/GGC67WWF6VDNVJUXG2UUC6ODBQ.jpg?auth=595723b93cffa020fd61cacdfd105fbef98bb84a3cccb9504c2b0ee0c4c11680"
-    },
-    {
-      "title": "La Policía impide que cientos de ceutíes se enfrenten a los migrantes en la playa de El Trampolín",
-      "link": "https://elpais.com/espana/2026-08-26/las-protestas-toman-las-calles-de-ceuta-vivimos-en-cuatro-manzanas.html",
-      "desc": "Miles de personas marchan de nuevo en Ceuta con consignas contra el Gobierno, el mando único y la gestión de la crisis",
-      "date": "Thu, 27 Aug 2026 06:43:18 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/AKRMV6HPYZC3VLUU2PQVK5IWYY.jpg?auth=cb85cddae1f17ce0235ff7488dabea59fd76dfd9c622fd2be547384f3657a71b"
     }
   ],
-  "fetchedAt": 1787967093653
+  "fetchedAt": 1787993053649
 }
