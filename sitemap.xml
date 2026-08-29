@@ -25,6 +25,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://casaespanaindiana.org/donate.html</loc>
+    <lastmod>2026-08-29</lastmod>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://casaespanaindiana.org/past-events.html</loc>
     <lastmod>2026-04-23</lastmod>
     <priority>0.7</priority>

@@ -251,6 +251,24 @@
       padding: 80px 0 110px;
     }
 
+    /* Intro copy */
+    .news-intro {
+      max-width: 720px;
+      margin: 0 0 48px;
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 15px;
+      font-weight: 300;
+      line-height: 1.75;
+      color: var(--ink-mid);
+    }
+    .news-intro a {
+      color: var(--terra);
+      text-decoration: none;
+      border-bottom: 1px solid rgba(193,59,43,0.3);
+      transition: border-color 0.18s ease;
+    }
+    .news-intro a:hover { border-bottom-color: var(--terra); }
+
     /* Source bar */
     .news-source-bar {
       display: flex;
@@ -764,6 +782,8 @@
 <main class="news-main" id="main">
   <div class="section-container">
 
+    <p class="news-intro" data-en="For many of our members, the day doesn't feel complete without checking in on what's happening back home. This page streams live national headlines from El País — Spain's paper of record — so our community in Indiana stays connected to the news, culture, and conversations shaping Spain today. Looking for updates from Casa de España itself? See what's coming up on our <a href=&quot;index.html#events&quot;>Events</a> page, or browse memories from <a href=&quot;past-events.html&quot;>Past Events</a>." data-es="Para muchos de nuestros socios, el día no se siente completo sin echar un vistazo a lo que pasa en casa. Esta página transmite en vivo los titulares nacionales de El País — el diario de referencia de España — para que nuestra comunidad en Indiana se mantenga conectada con las noticias, la cultura y las conversaciones que dan forma a España hoy. ¿Buscas novedades de Casa de España? Consulta nuestra página de <a href=&quot;index.html#events&quot;>Eventos</a>, o revive recuerdos en <a href=&quot;past-events.html&quot;>Eventos Pasados</a>." data-html="true">For many of our members, the day doesn't feel complete without checking in on what's happening back home. This page streams live national headlines from El País — Spain's paper of record — so our community in Indiana stays connected to the news, culture, and conversations shaping Spain today. Looking for updates from Casa de España itself? See what's coming up on our <a href="index.html#events">Events</a> page, or browse memories from <a href="past-events.html">Past Events</a>.</p>
+
     <div class="news-source-bar">
       <div class="news-source-label">
         <span class="news-source-badge" data-en="Live Feed" data-es="En Vivo">Live Feed</span>
@@ -819,6 +839,7 @@
           <li><a href="news.html" data-en="News" data-es="Noticias">News</a></li>
           <li><a href="past-events.html" data-en="Past Events" data-es="Eventos Pasados">Past Events</a></li>
           <li><a href="newcomers.html" data-en="Newcomers" data-es="Gu&#237;a">Gu&#237;a</a></li>
+          <li><a href="donate.html" data-en="Donate" data-es="Donar">Donate</a></li>
         </ul>
       </div>
 

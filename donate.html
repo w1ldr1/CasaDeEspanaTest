@@ -1,24 +1,24 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" href="brand_assests/favicon.png">
   <link rel="apple-touch-icon" href="brand_assests/favicon.png">
-  <title>Resources — Casa de España en Indiana</title>
-  <meta name="description" content="Resources for the Spanish and Latino community in Indiana — government agencies, information services, and scholarships from Casa de España en Indiana.">
-  <meta name="keywords" content="Casa de España en Indiana, Casa de Espana en Indiana, Spanish community Indiana resources, Latino Indiana resources">
-  <link rel="canonical" href="https://casaespanaindiana.org/resources.html">
+  <title>Donate — Casa de España en Indiana</title>
+  <meta name="description" content="Donate to Casa de España en Indiana — a 501(c)(3) nonprofit funding Spanish cultural events, scholarships, and community programs across Indiana.">
+  <meta name="keywords" content="donate Casa de España en Indiana, Spanish nonprofit Indiana donation, support Spanish culture Indiana">
+  <link rel="canonical" href="https://casaespanaindiana.org/donate.html">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://casaespanaindiana.org/resources.html">
-  <meta property="og:title" content="Resources — Casa de España en Indiana">
-  <meta property="og:description" content="Government agencies, information services, and scholarships for the Spanish and Latino community in Indiana.">
+  <meta property="og:url" content="https://casaespanaindiana.org/donate.html">
+  <meta property="og:title" content="Donate — Casa de España en Indiana">
+  <meta property="og:description" content="Support Spanish cultural events, scholarships, and community programs across Indiana.">
   <meta property="og:site_name" content="Casa de España en Indiana">
   <meta property="og:image" content="https://casaespanaindiana.org/brand_assests/OGlogo.png">
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Resources — Casa de España en Indiana">
-  <meta name="twitter:description" content="Government agencies, information services, and scholarships for the Spanish and Latino community in Indiana.">
+  <meta name="twitter:title" content="Donate — Casa de España en Indiana">
+  <meta name="twitter:description" content="Support Spanish cultural events, scholarships, and community programs across Indiana.">
   <meta name="twitter:image" content="https://casaespanaindiana.org/brand_assests/OGlogo.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -245,74 +245,92 @@
       max-width: 520px;
     }
 
-    /* ─── RESOURCES MAIN ──────────────────────────────────── */
-    .resources-main {
+    /* ─── DONATE MAIN ──────────────────────────────────────── */
+    .donate-main {
       background: var(--parchment);
       padding: 80px 0 110px;
     }
 
-    .resources-layout {
+    .impact-grid {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
-      gap: 56px 48px;
-      align-items: start;
+      gap: 28px;
+      margin-bottom: 64px;
     }
-    @media (max-width: 900px) {
-      .resources-layout { grid-template-columns: 1fr 1fr; }
-    }
-    @media (max-width: 560px) {
-      .resources-layout { grid-template-columns: 1fr; }
-    }
+    @media (max-width: 800px) { .impact-grid { grid-template-columns: 1fr; } }
 
-    /* ─── SECTION ────────────────────────────────────────── */
-    .res-section-head {
+    .impact-card {
+      background: var(--parch-2);
+      border: 1px solid var(--parch-3);
+      border-radius: 12px;
+      padding: 34px 26px;
+      text-align: center;
+      box-shadow: 0 2px 6px rgba(28,20,16,0.05), 0 10px 24px rgba(193,59,43,0.05);
+    }
+    .impact-amount {
+      display: block;
       font-family: 'Cormorant Garamond', serif;
-      font-size: 20px;
+      font-size: 42px;
       font-weight: 600;
-      letter-spacing: -0.01em;
-      color: var(--ink);
-      padding-bottom: 10px;
-      border-bottom: 2px solid var(--terra);
-      margin-bottom: 4px;
+      letter-spacing: -0.02em;
+      color: var(--terra-deep);
+      margin-bottom: 12px;
     }
-
-    /* ─── LINK LIST ──────────────────────────────────────── */
-    .res-list { list-style: none; }
-    .res-list li { border-bottom: 1px solid var(--parch-3); }
-    .res-list li:last-child { border-bottom: none; }
-
-    .res-link {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 8px;
-      padding: 11px 0 11px 6px;
-      margin-left: -6px;
+    .impact-desc {
       font-family: 'Source Sans 3', sans-serif;
       font-size: 14px;
-      font-weight: 400;
-      line-height: 1.45;
+      line-height: 1.65;
       color: var(--ink-mid);
-      text-decoration: none;
-      border-left: 2px solid transparent;
-      transition: color 0.18s ease, padding-left 0.18s ease, border-color 0.18s ease;
     }
-    .res-link:hover {
-      color: var(--terra);
-      padding-left: 12px;
-      border-left-color: var(--terra);
-    }
-    .res-link:focus-visible { outline: 2px solid var(--terra-muted); outline-offset: 2px; }
 
-    .res-arrow {
-      flex-shrink: 0;
-      opacity: 0.3;
-      transition: opacity 0.18s ease, transform 0.18s ease;
+    .donate-cta-wrap {
+      text-align: center;
+      padding-top: 8px;
+      border-top: 1px solid var(--parch-3);
+      max-width: 560px;
+      margin: 0 auto;
     }
-    .res-link:hover .res-arrow {
-      opacity: 1;
-      transform: translate(2px, -2px);
+    .btn-donate {
+      display: inline-block;
+      font-family: 'Source Sans 3', sans-serif;
+      font-weight: 600;
+      font-size: 14px;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: var(--parchment);
+      background: var(--terra);
+      padding: 17px 44px;
+      border-radius: 6px;
+      text-decoration: none;
+      margin-top: 40px;
+      box-shadow: 0 2px 4px rgba(140,35,24,0.25), 0 10px 24px rgba(193,59,43,0.25);
+      transition: transform 0.2s cubic-bezier(0.22,1,0.36,1), background-color 0.2s ease;
     }
+    .btn-donate:hover { background: var(--terra-deep); transform: translateY(-2px); }
+    .btn-donate:active { transform: translateY(0); }
+    .btn-donate:focus-visible { outline: 2px solid var(--terra-muted); outline-offset: 3px; }
+
+    .donate-note {
+      margin-top: 20px;
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 13px;
+      font-weight: 300;
+      line-height: 1.6;
+      color: var(--ink-light);
+    }
+    .donate-alt {
+      margin-top: 16px;
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 13px;
+      color: var(--ink-light);
+    }
+    .donate-alt a {
+      color: var(--terra);
+      text-decoration: none;
+      border-bottom: 1px solid rgba(193,59,43,0.3);
+      transition: border-color 0.18s ease;
+    }
+    .donate-alt a:hover { border-bottom-color: var(--terra); }
 
     /* ─── FOOTER ─────────────────────────────────────────── */
     #site-footer {
@@ -497,10 +515,10 @@
     <a href="index.html#events"       class="nav-link" data-en="Events" data-es="Eventos">Events</a>
     <a href="index.html#board"        class="nav-link" data-en="Board" data-es="Junta">Board</a>
     <a href="index.html#get-involved" class="nav-link" data-en="Get Involved" data-es="Participa">Get Involved</a>
-    <a href="resources.html"          class="nav-link active" data-en="Resources" data-es="Recursos">Resources</a>
+    <a href="resources.html"          class="nav-link" data-en="Resources" data-es="Recursos">Resources</a>
     <a href="news.html"               class="nav-link" data-en="News" data-es="Noticias">News</a>
     <a href="past-events.html"        class="nav-link" data-en="Past Events" data-es="Eventos Pasados">Past Events</a>
-    <a href="newcomers.html"        class="nav-link" data-en="Newcomers" data-es="Gu&#237;a">Gu&#237;a</a>
+    <a href="newcomers.html"          class="nav-link" data-en="Newcomers" data-es="Gu&#237;a">Gu&#237;a</a>
     <button class="hamburger" id="hamburger" aria-label="Toggle menu" aria-expanded="false">
       <span></span><span></span><span></span>
     </button>
@@ -513,7 +531,7 @@
   <a href="index.html#events"       class="nav-link" data-en="Events" data-es="Eventos">Events</a>
   <a href="index.html#board"        class="nav-link" data-en="Board" data-es="Junta">Board</a>
   <a href="index.html#get-involved" class="nav-link" data-en="Get Involved" data-es="Participa">Get Involved</a>
-  <a href="resources.html"          class="nav-link active" data-en="Resources" data-es="Recursos">Resources</a>
+  <a href="resources.html"          class="nav-link" data-en="Resources" data-es="Recursos">Resources</a>
   <a href="news.html"               class="nav-link" data-en="News" data-es="Noticias">News</a>
   <a href="past-events.html"        class="nav-link" data-en="Past Events" data-es="Eventos Pasados">Past Events</a>
   <a href="newcomers.html"          class="nav-link" data-en="Newcomers" data-es="Gu&#237;a">Gu&#237;a</a>
@@ -522,189 +540,40 @@
 <!-- ─── PAGE HEADER ───────────────────────────────────── -->
 <header class="page-header">
   <div class="section-container">
-    <p class="page-header-eyebrow" data-en="External Links &amp; Directories" data-es="Enlaces Externos y Directorios">External Links &amp; Directories</p>
-    <h1><em data-en="Resources" data-es="Recursos">Resources</em></h1>
-    <p class="page-header-desc" data-en="Government agencies, cultural institutions, scholarship programs, and information portals for the Spanish community in the United States." data-es="Organismos gubernamentales, instituciones culturales, programas de becas y portales de información para la comunidad española en los Estados Unidos.">Government agencies, cultural institutions, scholarship programs, and information portals for the Spanish community in the United States.</p>
+    <p class="page-header-eyebrow" data-en="Support Our Mission" data-es="Apoya Nuestra Misión">Support Our Mission</p>
+    <h1><em data-en="Donate" data-es="Donar">Donate</em></h1>
+    <p class="page-header-desc" data-en="Every gift keeps Spanish culture alive in Indiana — funding events, scholarships, and support for our community." data-es="Cada donación mantiene viva la cultura española en Indiana — financiando eventos, becas y apoyo para nuestra comunidad.">Every gift keeps Spanish culture alive in Indiana — funding events, scholarships, and support for our community.</p>
   </div>
 </header>
 
-<!-- ─── RESOURCES CONTENT ─────────────────────────────── -->
-<main class="resources-main" id="main">
+<!-- ─── DONATE CONTENT ─────────────────────────────────── -->
+<main class="donate-main" id="main">
   <div class="section-container">
-    <div class="resources-layout">
 
-      <!-- ── Government Agencies ───────────────────────── -->
-      <div class="res-section">
-        <h2 class="res-section-head" data-en="Government Agencies" data-es="Organismos Gubernamentales">Government Agencies</h2>
-        <ul class="res-list">
-          <li>
-            <a class="res-link" href="https://www.exteriores.gob.es/Consulados/chicago/en/Paginas/index.aspx" target="_blank" rel="noopener">
-              Consulate-General of Spain in Chicago
-              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
-            </a>
-          </li>
-          <li>
-            <a class="res-link" href="https://www.exteriores.gob.es/Embajadas/washington/en/Paginas/index.aspx" target="_blank" rel="noopener">
-              Embassy of Spain in the United States
-              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
-            </a>
-          </li>
-          <li>
-            <a class="res-link" href="https://www.exteriores.gob.es/" target="_blank" rel="noopener">
-              Ministry of Foreign Affairs and Cooperation
-              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
-            </a>
-          </li>
-          <li>
-            <a class="res-link" href="https://www.educacion.gob.es/" target="_blank" rel="noopener">
-              Ministry of Education, Culture and Sports
-              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
-            </a>
-          </li>
-          <li>
-            <a class="res-link" href="https://www.mites.gob.es/" target="_blank" rel="noopener">
-              Ministry of Labor and Social Security
-              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
-            </a>
-          </li>
-          <li>
-            <a class="res-link" href="https://www.mincotur.gob.es/" target="_blank" rel="noopener">
-              Ministry of Industry, Energy and Tourism
-              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
-            </a>
-          </li>
-          <li>
-            <a class="res-link" href="https://www.spanishamericancenter.org/" target="_blank" rel="noopener">
-              Spanish Associations and Centers in the US
-              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
-            </a>
-          </li>
-          <li>
-            <a class="res-link" href="https://ecusa.es/" target="_blank" rel="noopener">
-              Spanish Scientists in the US
-              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
-            </a>
-          </li>
-          <li>
-            <a class="res-link" href="https://www.inclusion.gob.es/en/web/ciudadania" target="_blank" rel="noopener">
-              Portal of the Spanish Citizenship Abroad
-              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
-            </a>
-          </li>
-          <li>
-            <a class="res-link" href="https://www.seg-social.es/" target="_blank" rel="noopener">
-              Social Security in Spain
-              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
-            </a>
-          </li>
-          <li>
-            <a class="res-link" href="https://www.uscis.gov/" target="_blank" rel="noopener">
-              The US Department of Immigration
-              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
-            </a>
-          </li>
-          <li>
-            <a class="res-link" href="https://www.uscis.gov/about-us/find-a-uscis-office/field-offices/minneapolis" target="_blank" rel="noopener">
-              Local Office of the Dept. of Immigration in MN
-              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
-            </a>
-          </li>
-        </ul>
+    <div class="impact-grid">
+      <div class="impact-card">
+        <span class="impact-amount">$25</span>
+        <p class="impact-desc" data-en="Covers supplies for one cultural workshop." data-es="Cubre los materiales de un taller cultural.">Covers supplies for one cultural workshop.</p>
       </div>
-
-      <!-- ── Information and Resources ─────────────────── -->
-      <div class="res-section">
-        <h2 class="res-section-head" data-en="Information &amp; Resources" data-es="Información y Recursos">Information &amp; Resources</h2>
-        <ul class="res-list">
-          <li>
-            <a class="res-link" href="https://spainabroad.com/" target="_blank" rel="noopener">
-              Portal for Young Spaniards Abroad
-              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
-            </a>
-          </li>
-          <li>
-            <a class="res-link" href="https://www.nhmamd.org/" target="_blank" rel="noopener">
-              Association of Spanish Graduates &amp; Doctors in USA
-              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
-            </a>
-          </li>
-          <li>
-            <a class="res-link" href="https://spainusa.org/en/" target="_blank" rel="noopener">
-              Consejo España-USA Foundation
-              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
-            </a>
-          </li>
-          <li>
-            <a class="res-link" href="https://www.cia.gov/the-world-factbook/countries/spain/" target="_blank" rel="noopener">
-              Spain Fact Book
-              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
-            </a>
-          </li>
-          <li>
-            <a class="res-link" href="https://www.bne.es/" target="_blank" rel="noopener">
-              National Library of Spain
-              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
-            </a>
-          </li>
-          <li>
-            <a class="res-link" href="https://www.cultura.gob.es/en/portada.html" target="_blank" rel="noopener">
-              Ministry of Culture
-              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
-            </a>
-          </li>
-          <li>
-            <a class="res-link" href="https://www.rae.es/" target="_blank" rel="noopener">
-              Dictionary of the Royal Spanish Academy
-              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
-            </a>
-          </li>
-          <li>
-            <a class="res-link" href="https://www.ssa.gov/international/Agreement_Pamphlets/spain.html" target="_blank" rel="noopener">
-              Social Security Agreement with the US
-              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
-            </a>
-          </li>
-          <li>
-            <a class="res-link" href="https://www.exteriores.gob.es/Consulados/pekin/es/Comunicacion/Noticias/Paginas/Articulos/Revista-Carta-de-Espa%C3%B1a.aspx" target="_blank" rel="noopener">
-              Magazine "Carta de España"
-              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
-            </a>
-          </li>
-          <li>
-            <a class="res-link" href="https://www.rtve.es/play/videos/destino-espana/" target="_blank" rel="noopener">
-              Destino España
-              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
-            </a>
-          </li>
-          <li>
-            <a class="res-link" href="https://whereisasturias.com/" target="_blank" rel="noopener">
-              Where is Asturias
-              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
-            </a>
-          </li>
-          <li>
-            <a class="res-link" href="https://www.spain.info/" target="_blank" rel="noopener">
-              Spain Tourism
-              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
-            </a>
-          </li>
-        </ul>
+      <div class="impact-card">
+        <span class="impact-amount">$50</span>
+        <p class="impact-desc" data-en="Sponsors a scholarship application fee for a student." data-es="Patrocina la cuota de solicitud de una beca estudiantil.">Sponsors a scholarship application fee for a student.</p>
       </div>
-
-      <!-- ── Scholarships ───────────────────────────────── -->
-      <div class="res-section">
-        <h2 class="res-section-head" data-en="Scholarships" data-es="Becas">Scholarships</h2>
-        <ul class="res-list">
-          <li>
-            <a class="res-link" href="https://uniscopio.com/en/scholarships/mec-scholarships/" target="_blank" rel="noopener">
-              MEC Scholarships for Americans in Spain
-              <svg class="res-arrow" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7M7 7h10v10"/></svg>
-            </a>
-          </li>
-        </ul>
+      <div class="impact-card">
+        <span class="impact-amount">$100</span>
+        <p class="impact-desc" data-en="Funds a full community event, from flamenco nights to language exchanges." data-es="Financia un evento comunitario completo, desde noches de flamenco hasta intercambios de idioma.">Funds a full community event, from flamenco nights to language exchanges.</p>
       </div>
-
     </div>
+
+    <div class="donate-cta-wrap">
+      <a href="https://www.paypal.com/ncp/payment/73J4J5MCZBZDG" target="_blank" rel="noopener" class="btn-donate" data-en="Donate via PayPal" data-es="Donar con PayPal">Donate via PayPal</a>
+      <p class="donate-note" data-en="Casa de España en Indiana is a 501(c)(3) nonprofit organization. Your donation may be tax-deductible to the extent allowed by law." data-es="Casa de España en Indiana es una organización sin fines de lucro 501(c)(3). Tu donación puede ser deducible de impuestos según lo permita la ley.">Casa de España en Indiana is a 501(c)(3) nonprofit organization. Your donation may be tax-deductible to the extent allowed by law.</p>
+      <p class="donate-alt">
+        <span data-en="Prefer an ongoing role?" data-es="¿Prefieres un rol continuo?">Prefer an ongoing role?</span>
+        <a href="join.html" data-en="Become a member" data-es="Únete como miembro">Become a member</a>.
+      </p>
+    </div>
+
   </div>
 </main>
 
@@ -752,19 +621,19 @@
         </p>
 
         <div class="social-row" aria-label="Social media">
-          <a href="#" class="social-btn" aria-label="Facebook">
+          <a href="https://www.facebook.com/CasadeEspanaIN/" target="_blank" rel="noopener" class="social-btn" aria-label="Facebook">
             <svg viewBox="0 0 24 24" aria-hidden="true">
               <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/>
             </svg>
           </a>
-          <a href="#" class="social-btn" aria-label="Instagram">
+          <a href="https://www.instagram.com/casadeespanain" target="_blank" rel="noopener" class="social-btn" aria-label="Instagram">
             <svg viewBox="0 0 24 24" aria-hidden="true">
               <rect x="2" y="2" width="20" height="20" rx="5" ry="5" fill="none" stroke="rgba(28,20,16,0.55)" stroke-width="2"/>
               <circle cx="12" cy="12" r="4" fill="none" stroke="rgba(28,20,16,0.55)" stroke-width="2"/>
               <circle cx="17.5" cy="6.5" r="1.5" fill="rgba(28,20,16,0.55)"/>
             </svg>
           </a>
-          <a href="#" class="social-btn" aria-label="Twitter / X">
+          <a href="https://x.com/casadeespanain" target="_blank" rel="noopener" class="social-btn" aria-label="Twitter / X">
             <svg viewBox="0 0 24 24" aria-hidden="true">
               <path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"/>
             </svg>
@@ -795,16 +664,12 @@
       if (el.dataset.html) { el.innerHTML = val; }
       else { el.textContent = val; }
     });
-    document.querySelectorAll('[data-placeholder-en]').forEach(el => {
-      el.placeholder = lang === 'es' ? el.dataset.placeholderEs : el.dataset.placeholderEn;
-    });
     document.querySelectorAll('.lt-btn').forEach(btn => {
       btn.classList.toggle('active', btn.dataset.lang === lang);
     });
     document.documentElement.lang = lang;
-    if (typeof onLangChange === 'function') onLangChange(lang);
   }
-    (function initLang() {
+  (function initLang() {
     setLang(getLang());
   })();
 
