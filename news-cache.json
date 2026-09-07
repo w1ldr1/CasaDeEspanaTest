@@ -22,6 +22,20 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/7VVQFOKDAFCALDM2Y47QJMREYU.jpg?auth=eded86ba126a5de4c4a69f0a7f402b7e401f6d7325b86d9e8933c75fde6529a4"
     },
     {
+      "title": "Dios escribe derechas con renglones torcidos",
+      "link": "https://elpais.com/opinion/2026-09-07/dios-escribe-derechas-con-renglones-torcidos.html",
+      "desc": "Cada político de la extrema derecha mundial es un representante indigno de su sociedad",
+      "date": "Mon, 07 Sep 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/BBKZKVKW7RH7RJOD4AJP2WRSHA.jpg?auth=9cc8dc591cac3c956a2f61f1c3b6c41e63738ce25abdac8da22d7b73e7d8fc7f"
+    },
+    {
+      "title": "Mi miedo",
+      "link": "https://elpais.com/opinion/2026-09-07/mi-miedo.html",
+      "desc": "Ahora que las fronteras de la historia nos invitan a temer a los pobres, insistamos en que el verdadero peligro está en los ricos",
+      "date": "Mon, 07 Sep 2026 03:30:01 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/2JHO6JK5PNA4FELHFIOXHFMWQY.JPG?auth=991d4e2066be5bc25d1d072d0028b07fe822b0026b70df89683e7249d932ece7"
+    },
+    {
       "title": "La judicialización de la política llega hasta Ceuta",
       "link": "https://elpais.com/opinion/2026-09-06/la-judicializacion-de-la-politica-llega-hasta-ceuta.html",
       "desc": "La intervención de la magistrada Tardón puede suscitar algunas dudas y, sobre todo, apunta a un choque de legitimidades",
@@ -41,20 +55,6 @@
       "desc": "Solo queda seguir preguntando qué pasó para que una masa se movilizara así, ya que las respuestas del Gobierno aún son insuficientes",
       "date": "Fri, 04 Sep 2026 03:30:01 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/BLNODRKSWVA5VCKHDIRFNLM5OY.jpg?auth=ad50b9d517954def7cc6404a6e590e53c3907d0756c57f01873a0e6854a113c5"
-    },
-    {
-      "title": "El movimiento por Ceuta da un giro en la derecha",
-      "link": "https://elpais.com/opinion/2026-09-03/el-movimiento-por-ceuta-da-un-giro-en-la-derecha.html",
-      "desc": "PP y Vox probablemente no sabrán aprovechar la oleada de la solidaridad de los españoles, que supera a la polarización, con una ciudad que se siente abandonada por el Gobierno",
-      "date": "Thu, 03 Sep 2026 12:27:20 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/S7EVXYQPIFDNHF2ADAM6ZOJAZU.jpg?auth=eb2eaffcb21201ceb91cdd561975e5c2d88b94ddfe6186014a97fdb98b2002e6"
-    },
-    {
-      "title": "Otro día histórico para apenas unos cuantos",
-      "link": "https://elpais.com/espana/2026-09-03/otro-dia-historico-para-apenas-unos-cuantos.html",
-      "desc": "Esto de que la comparecencia de Pedro Sánchez en el Congreso de los Diputados para hablar de Ceuta era el asunto más importante del día es un poco mentira",
-      "date": "Thu, 03 Sep 2026 10:31:58 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/26RNMKNLXJHDHLALRUAEALIHPE.jpg?auth=9662f2ad66aafee33619361cd90400f38ac49a499e77ef721ab6df775439291a"
     },
     {
       "title": "Begoña Gómez pide su absolución y defiende que no influyó en los cargos de la universidad ni en ninguna autoridad para crear la cátedra",
@@ -134,5 +134,5 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/RNZWML2OXJE2VIR2YXEPGNZCBU.jpg?auth=91494d4ccd882b40581efe9fd8568244496ff804c4bee51733428baf8cb8270e"
     }
   ],
-  "fetchedAt": 1788741891500
+  "fetchedAt": 1788760105989
 }
