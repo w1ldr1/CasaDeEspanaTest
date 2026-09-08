@@ -63,6 +63,110 @@
       "title": "Omaha Storm Chasers vs. Indianapolis Indians",
       "location": "Victory Field · 501 W Maryland St, Indianapolis, IN 46225",
       "url": "https://www.mlb.com/milb/indianapolis"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "4:00 PM – 8:00 PM",
+      "type": "Community Outing",
+      "title": "Lawrence BBQ & Blues",
+      "location": "Fort Ben Cultural Campus · 8920 Otis Ave, Indianapolis, IN 46216",
+      "url": "https://visitlawrenceindiana.com/events/event-calendar/bbq-blues/"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "2:00 PM – 6:00 PM",
+      "type": "Community Outing",
+      "title": "Noblesville Brewfest & Wine Garden",
+      "location": "Forest Park · 701 Cicero Rd, Noblesville, IN 46060",
+      "url": "https://event.ontaptickets.com/events/noblesville-brewfest-wine-garden-2026-9-12-2026"
+    },
+    {
+      "date": "2026-09-12",
+      "time": "9:00 AM – 5:00 PM",
+      "type": "Community Outing",
+      "title": "Penrod Arts Fair",
+      "location": "Newfields · 4000 N Michigan Rd, Indianapolis, IN 46208",
+      "url": "https://www.penrod.org/arts-fair"
+    },
+    {
+      "date": "2026-09-16",
+      "dateEnd": "2026-09-20",
+      "type": "Community Outing",
+      "title": "Oktoberfest",
+      "location": "Guggman Haus Brewing · 1701 Gent Ave, Indianapolis, IN 46202",
+      "url": "https://guggmanhausbrewing.com/indianapolis-guggman-haus-events"
+    },
+    {
+      "date": "2026-09-16",
+      "dateEnd": "2026-09-19",
+      "type": "Community Outing",
+      "title": "Beech Grove Promoters Club Fall Festival",
+      "location": "Main St (3rd Ave to 6th Ave) · Beech Grove, IN 46107",
+      "url": "https://www.bgpromoters.org/fall-festival"
+    },
+    {
+      "date": "2026-09-18",
+      "dateEnd": "2026-09-19",
+      "type": "Community Outing",
+      "title": "Circle City Irish Fest",
+      "location": "Edna Balz Lacy Park · 520 Stevens St, Indianapolis, IN 46203",
+      "url": "https://www.circlecityirishfestival.com/"
+    },
+    {
+      "date": "2026-09-19",
+      "time": "10:00 AM – 5:00 PM",
+      "type": "Community Outing",
+      "title": "Tinkerfest",
+      "location": "Indiana State Museum · 650 W Washington St, Indianapolis, IN 46204",
+      "url": "https://www.indianamuseum.org/event/tinkerfest/"
+    },
+    {
+      "date": "2026-09-19",
+      "time": "12:00 PM – 4:00 PM",
+      "type": "Community Outing",
+      "title": "Westfield International Festival",
+      "location": "Grand Junction Plaza · Westfield, IN 46074",
+      "url": "https://www.westfieldin.gov/405/Westfield-International-Festival"
+    },
+    {
+      "date": "2026-09-19",
+      "time": "2:00 PM – 6:00 PM",
+      "type": "Community Outing",
+      "title": "Lagers in Lawrence",
+      "location": "Fort Ben Cultural Campus · 8920 Otis Ave, Indianapolis, IN 46216",
+      "url": "https://event.ontaptickets.com/events/lagers-in-lawrence-oktoberfest-2026-9-19-2026"
+    },
+    {
+      "date": "2026-09-20",
+      "time": "4:00 PM",
+      "type": "Community Outing",
+      "title": "Indiana Fever vs. Washington Mystics",
+      "location": "Gainbridge Fieldhouse · 125 S Pennsylvania St, Indianapolis, IN 46204",
+      "url": "https://fever.wnba.com/"
+    },
+    {
+      "date": "2026-09-20",
+      "time": "5:00 PM",
+      "type": "Community Outing",
+      "title": "Indy Eleven vs. Oakland Roots",
+      "location": "IU Michael A. Carroll Track & Soccer Stadium · 1001 W New York St, Indianapolis, IN 46202",
+      "url": "https://www.ticketmaster.com/indy-eleven-vs-oakland-roots-indianapolis-indiana-09-20-2026/event/0500643BC352A0DA"
+    },
+    {
+      "date": "2026-09-22",
+      "dateEnd": "2026-09-26",
+      "type": "Community Outing",
+      "title": "Indy Jazz Fest",
+      "location": "Multiple Venues · The Jazz Kitchen, The Cabaret & More, Indianapolis, IN",
+      "url": "https://www.indyjazzfest.net/"
+    },
+    {
+      "date": "2026-09-26",
+      "time": "4:00 PM – 9:00 PM",
+      "type": "Community Outing",
+      "title": "Garfield Park Art and Music Festival",
+      "location": "MacAllister Amphitheater, Garfield Park · 2450 Conservatory Dr, Indianapolis, IN 46203",
+      "url": "https://www.gpamf.com/"
     }
   ]
 }
