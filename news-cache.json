@@ -57,6 +57,13 @@
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/BBKZKVKW7RH7RJOD4AJP2WRSHA.jpg?auth=9cc8dc591cac3c956a2f61f1c3b6c41e63738ce25abdac8da22d7b73e7d8fc7f"
     },
     {
+      "title": "Marlaska califica de mero “documento de trabajo” el listado que clasifica a periodistas por su ideología que elaboró su oficina de prensa",
+      "link": "https://elpais.com/espana/2026-09-08/grande-marlaska-califica-de-mero-documento-de-trabajo-el-listado-que-clasifica-a-periodistas-por-su-ideologia-elaborado-por-su-departamento-de-prensa.html",
+      "desc": "El portavoz parlamentario del PSOE exige a Interior que dé explicaciones sobre el dosier confidencial, de febrero de 2024",
+      "date": "Tue, 08 Sep 2026 19:51:10 GMT",
+      "imgUrl": "https://imagenes.elpais.com/resizer/v2/3PH5AOMP7JIAPOUR4YTCCMMWUI.jpg?auth=dcbf223bb07713f8eba3c3b1153df5375219b0d8b9254b62a74bf64093e49ce7"
+    },
+    {
       "title": "Marlaska tilda de “sensación de inseguridad subjetiva” las quejas de los ceutíes",
       "link": "https://elpais.com/espana/2026-09-08/marlaska-tilda-de-sensacion-de-inseguridad-subjetiva-las-quejas-de-los-ceuties.html",
       "desc": "El ministro del Interior, de visita en Ceuta, se ha referido a una de las principales quejas de los vecinos de la ciudad",
@@ -101,7 +108,7 @@
     {
       "title": "El Supremo paraliza el derecho al voto de nacionalizados por la ‘ley de nietos’",
       "link": "https://elpais.com/espana/2026-09-08/el-supremo-paraliza-el-derecho-al-voto-de-los-beneficiarios-de-la-ley-de-nietos.html",
-      "desc": "El alto tribunal acepta parcialmente la petición que habían formulado Vox e Iustitia Europa y condiciona el sufragio a quienes acrediten ser descendientes de exiliados",
+      "desc": "El alto tribunal acepta parcialmente la petición que habían formulado Vox e Iustitia Europa y condiciona el sufragio a que se acredite ser descendiente de exiliados",
       "date": "Tue, 08 Sep 2026 13:36:56 GMT",
       "imgUrl": "https://imagenes.elpais.com/resizer/v2/YA7QKVGMKZKDVH6GLGTIPERKY4.jpg?auth=2915ab47e66dae949d189c2eaa7464587d334042fa5c877288a71b5d28a15c3b"
     },
@@ -125,14 +132,7 @@
       "desc": "En el enfrentamiento, ocurrido el 16 de agosto, murieron dos mujeres, una de ellas embarazada, y un menor",
       "date": "Tue, 08 Sep 2026 10:30:40 GMT",
       "imgUrl": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260908/1212055_113831_video_1800.mp4"
-    },
-    {
-      "title": "El fallecimiento de una de las heridas eleva a 15 las víctimas mortales del incendio de Los Gallardos",
-      "link": "https://elpais.com/espana/2026-09-08/el-fallecimiento-de-una-de-las-heridas-eleva-a-15-las-victimas-mortales-del-incendio-de-los-gallardos.html",
-      "desc": "Michelle Leake, que llevaba ingresada desde el 10 de julio en el Virgen del Rocío tras ser alcanzada por el fuego mientras ponía a salvo a la mujer a la que cuidaba",
-      "date": "Tue, 08 Sep 2026 10:31:21 GMT",
-      "imgUrl": "https://imagenes.elpais.com/resizer/v2/GRTQFJ3PLFAGNI3H55D352HADU.jpg?auth=948dbf4cb1d9c86ab3403d4c83a32ca0aab88f2eeab14b396021c23a060f5df5"
     }
   ],
-  "fetchedAt": 1788895857305
+  "fetchedAt": 1788906386930
 }
