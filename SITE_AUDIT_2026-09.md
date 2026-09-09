@@ -35,15 +35,24 @@
 
 ### 🟡 MEDIUM
 
-- [ ] Heading hierarchy skips (h1→h4, h1→h3 with no h2) on `index.html`, `board.html`, `events.html`.
-- [ ] Decorative icon `aria-label`s are English-only (not swapped on language toggle) on `index.html`; `programs.html`'s equivalent icons have no label or `aria-hidden` at all.
-- [ ] Sitemap `lastmod` dates stale — 6 pages frozen at April 2026 despite August content changes.
-- [ ] Inconsistent Spanish for "About Us" nav label ("Sobre Nosotros" vs. "Quiénes Somos" on `past-events.html`/`email-welcome.html`).
-- [ ] `join.html` and `email-welcome.html` post-submit success headings ("¡Bienvenido!") are hardcoded Spanish regardless of the visitor's chosen language.
-- [ ] `events.json` contains ~7 already-past entries not yet pruned (harmless — filtered client-side — but due for a cleanup pass).
-- [ ] Accordion triggers on newcomers pages lack `aria-controls`/`aria-labelledby` pairing to their panels.
-- [ ] `og:image` (`OGlogo.png`) is 498KB and not the standard 1200×630 OG ratio — will crop unpredictably on social shares.
-- [ ] `resources.html` lists a Minneapolis USCIS field office with no Indianapolis-area equivalent nearby — reads as an uncustomized template leftover.
+- [x] Heading hierarchy skips (h1→h4, h1→h3 with no h2) on `index.html`, `board.html`, `events.html`.
+  - **Resolution (2026-09-09):** `index.html`'s "What We Do" changed h4→h3; `board.html`'s 4 board-name headings and `events.html`'s dynamic event-title heading changed h3→h2 (both pages have no other subheading level, so h2 directly under h1 is correct).
+- [x] Decorative icon `aria-label`s are English-only (not swapped on language toggle) on `index.html`; `programs.html`'s equivalent icons have no label or `aria-hidden` at all.
+  - **Resolution (2026-09-09):** `index.html`'s 3 program-card icon `aria-label`s now swap bilingually via `onLangChange`; `programs.html`'s 3 equivalent icons (purely decorative, redundant with adjacent heading text) now carry `aria-hidden="true"`.
+- [x] Sitemap `lastmod` dates stale — 6 pages frozen at April 2026 despite August content changes.
+  - **Resolution (2026-09-09):** updated all 12 sitemap entries to 2026-09-09, reflecting today's real edits across every listed page.
+- [x] Inconsistent Spanish for "About Us" nav label ("Sobre Nosotros" vs. "Quiénes Somos" on `past-events.html`/`email-welcome.html`).
+  - **Resolution (2026-09-09):** normalized both to "Sobre Nosotros" matching the other 9 pages. (Note: `index.html`'s "Who We Are" → "Quiénes Somos" is a different string for a different section and was left as-is — that translation is correct there.)
+- [x] `join.html` and `email-welcome.html` post-submit success headings ("¡Bienvenido!") are hardcoded Spanish regardless of the visitor's chosen language.
+  - **Resolution (2026-09-09):** both now carry `data-en`/`data-es` (email-welcome.html's uses `data-html="true"` to preserve the `<em>` wrapper).
+- [x] `events.json` contains ~7 already-past entries not yet pruned (harmless — filtered client-side — but due for a cleanup pass).
+  - **Resolution (2026-09-09):** removed exactly 7 entries whose end date had passed as of 2026-09-09 (21 → 14 events); validated JSON stays well-formed.
+- [x] Accordion triggers on newcomers pages lack `aria-controls`/`aria-labelledby` pairing to their panels.
+  - **Resolution (2026-09-09):** paired all 15 trigger/panel sets on both `newcomers-en.html` and `newcomers-es.html` (30 total) with unique ids + `aria-controls`/`aria-labelledby`; verified no duplicate ids and toggle JS (class-based, unaffected) still works.
+- [x] `og:image` (`OGlogo.png`) is 498KB and not the standard 1200×630 OG ratio — will crop unpredictably on social shares.
+  - **Resolution (2026-09-09):** re-cropped to the standard 1200×630 ratio and re-encoded as JPEG — `OGlogo.jpg`, 76KB (down from 498KB). Updated all 12 pages' `og:image`/`twitter:image` references; old PNG removed.
+- [x] `resources.html` lists a Minneapolis USCIS field office with no Indianapolis-area equivalent nearby — reads as an uncustomized template leftover.
+  - **Resolution (2026-09-09):** replaced with the real Indianapolis USCIS Application Support Center (`uscis.gov/about-us/IN/Indianapolis`, 1099 N Meridian St) — verified live via web search/fetch before publishing, not guessed.
 
 ### 🟢 LOW / cleanup
 

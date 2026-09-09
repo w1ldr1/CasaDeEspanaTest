@@ -1,62 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-08-28",
-      "dateEnd": "2026-08-30",
-      "type": "Community Outing",
-      "title": "Columbus Clippers vs. Indianapolis Indians",
-      "location": "Victory Field · 501 W Maryland St, Indianapolis, IN 46225",
-      "url": "https://www.mlb.com/milb/indianapolis"
-    },
-    {
-      "date": "2026-08-28",
-      "dateEnd": "2026-09-06",
-      "type": "Community Outing",
-      "title": "Indy Restaurant Week",
-      "location": "Citywide · Participating Indianapolis Restaurants",
-      "url": "https://www.epicureanindy.com/"
-    },
-    {
-      "date": "2026-08-28",
-      "dateEnd": "2026-09-06",
-      "type": "Community Outing",
-      "title": "Devour Indy Summerfest",
-      "location": "Citywide · Participating Indianapolis Restaurants",
-      "url": "https://devourindy.com/"
-    },
-    {
-      "date": "2026-09-02",
-      "dateEnd": "2026-09-07",
-      "type": "Community Outing",
-      "title": "72nd NHRA U.S. Nationals",
-      "location": "Lucas Oil Indianapolis Raceway Park · 10267 E US Hwy 136, Brownsburg, IN 46234",
-      "url": "https://raceirp.com/schedule/"
-    },
-    {
-      "date": "2026-09-02",
-      "time": "8:00 PM – 11:30 PM",
-      "type": "Community Outing",
-      "title": "Slippery Noodle Blues Jam",
-      "location": "Slippery Noodle Inn · 372 S Meridian St, Indianapolis, IN 46225",
-      "url": "https://slipperynoodle.com/indianapolis-the-slippery-noodle-events"
-    },
-    {
-      "date": "2026-09-04",
-      "time": "3:00 PM – 7:00 PM",
-      "type": "Community Outing",
-      "title": "Eiteljorg Free First Friday",
-      "location": "Eiteljorg Museum · 500 W Washington St, Indianapolis, IN 46204",
-      "url": "https://eiteljorg.org/eiteljorg-events/september-4-free-first-friday/"
-    },
-    {
-      "date": "2026-09-05",
-      "time": "7:00 PM",
-      "type": "Community Outing",
-      "title": "Indy Eleven vs. Birmingham Legion FC (Oktoberfest Night)",
-      "location": "IU Michael A. Carroll Track & Soccer Stadium · 1001 W New York St, Indianapolis, IN 46202",
-      "url": "https://www.ticketmaster.com/indy-eleven-vs-birmingham-legion-fc-indianapolis-indiana-09-05-2026/event/0500643BC34DA0D5"
-    },
-    {
       "date": "2026-09-08",
       "dateEnd": "2026-09-13",
       "type": "Community Outing",

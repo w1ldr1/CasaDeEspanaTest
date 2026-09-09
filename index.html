@@ -16,12 +16,12 @@
   <meta property="og:description" content="Connecting Spanish and Latino communities across Indiana through cultural events, education, and community support.">
   <meta property="og:site_name" content="Casa de España en Indiana">
   <!-- Twitter Card -->
-  <meta property="og:image" content="https://casaespanaindiana.org/brand_assests/OGlogo.png">
+  <meta property="og:image" content="https://casaespanaindiana.org/brand_assests/OGlogo.jpg">
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Casa de España en Indiana">
   <meta name="twitter:description" content="Connecting Spanish and Latino communities across Indiana through cultural events, education, and community support.">
-  <meta name="twitter:image" content="https://casaespanaindiana.org/brand_assests/OGlogo.png">
+  <meta name="twitter:image" content="https://casaespanaindiana.org/brand_assests/OGlogo.jpg">
   <!-- Structured Data -->
   <script type="application/ld+json">
   {
@@ -502,7 +502,7 @@
       padding-top: 32px;
       border-top: 1px solid var(--parch-3);
     }
-    .mission-what h4 {
+    .mission-what h3 {
       font-family: 'Cormorant Garamond', serif;
       font-size: 22px;
       font-weight: 600;
@@ -1498,7 +1498,7 @@
         </p>
 
         <div class="mission-what">
-          <h4 data-en="What We Do" data-es="Qué Hacemos">What We Do</h4>
+          <h3 data-en="What We Do" data-es="Qué Hacemos">What We Do</h3>
           <p class="body-text" data-en="We bring the arts, traditions, and intellectual life of Spain to the Midwest through cultural events, educational programs, community gatherings, and support networks for Spanish-speaking families. Our programming has spanned flamenco evenings, literary symposia, language exchanges, and festivals of tradition — honoring the full depth of Spanish heritage." data-es="Llevamos el arte, las tradiciones y la vida intelectual de España al Midwest a través de eventos culturales, programas educativos, encuentros comunitarios y redes de apoyo para familias hispanohablantes. Nuestra programación ha incluido veladas de flamenco, simposios literarios, intercambios de idiomas y festivales de tradición, honrando la plena profundidad del patrimonio español.">
             We bring the arts, traditions, and intellectual life of Spain to the Midwest through cultural events, educational programs, community gatherings, and support networks for Spanish-speaking families. Our programming has spanned flamenco evenings, literary symposia, language exchanges, and festivals of tradition — honoring the full depth of Spanish heritage.
           </p>
@@ -1877,6 +1877,15 @@
 
   var onLangChange = function(lang) {
     document.title = 'Casa de España en Indiana';
+    var cardArtLabels = {
+      'card-art--events':    ['Outline of the Indianapolis skyline', 'Contorno del perfil urbano de Indianápolis'],
+      'card-art--resources': ['Outline of a group of books', 'Contorno de un grupo de libros'],
+      'card-art--community': ['Outline of a group of people', 'Contorno de un grupo de personas'],
+    };
+    Object.keys(cardArtLabels).forEach(function(cls) {
+      var el = document.querySelector('.' + cls);
+      if (el) el.setAttribute('aria-label', lang === 'es' ? cardArtLabels[cls][1] : cardArtLabels[cls][0]);
+    });
     if (_cachedEvents && _cachedEvents.length > 0) {
       const list = document.getElementById('events-list');
       list.innerHTML = _cachedEvents.map((ev, i) => renderEvent(ev, i)).join('');
