@@ -56,12 +56,18 @@
 
 ### 🟢 LOW / cleanup
 
-- [ ] Stray empty directory `$(echo "C:` at project root — debris from a broken shell command, untracked, harmless, delete when convenient.
-- [ ] `brand_assests/favicon-original-1254.png` (966KB, untracked, unused) — at risk of accidental commit via a future `git add -A`.
-- [ ] Repo-root doc clutter: `CLAUDE_old.md`, `element.style.txt` (junk from an unrelated WordPress site), `SOCIAL-FEED-SETUP.md` (documents an integration never built), `PROJECT_BRIEF.md` + `infrastructure.md` (both stale — wrong page count, wrong localStorage key/default, wrong logo filename), `email-newsletter-website-launch.html` (one-off announcement, now historical). `SITE_AUDIT.md` itself is a good candidate to archive now that this file supersedes it.
-- [ ] `PHOTOS-NEEDED.md` is current but untracked — commit it if it should persist.
-- [ ] No custom `404.html` page exists.
-- [ ] `newcomers.html`'s meta-refresh redirect is hardcoded to Spanish (dead weight — the JS redirect always wins first); safe to remove.
+- [x] Stray empty directory `$(echo "C:` at project root — debris from a broken shell command, untracked, harmless, delete when convenient.
+  - **Resolution (2026-09-09):** deleted.
+- [x] `brand_assests/favicon-original-1254.png` (966KB, untracked, unused) — at risk of accidental commit via a future `git add -A`.
+  - **Resolution (2026-09-09):** deleted.
+- [x] Repo-root doc clutter: `CLAUDE_old.md`, `element.style.txt` (junk from an unrelated WordPress site), `SOCIAL-FEED-SETUP.md` (documents an integration never built), `PROJECT_BRIEF.md` + `infrastructure.md` (both stale — wrong page count, wrong localStorage key/default, wrong logo filename), `email-newsletter-website-launch.html` (one-off announcement, now historical). `SITE_AUDIT.md` itself is a good candidate to archive now that this file supersedes it.
+  - **Resolution (2026-09-09):** deleted `CLAUDE_old.md` (pure superseded duplicate of `CLAUDE.md`), `element.style.txt` (confirmed junk, was already gitignored), and old `SITE_AUDIT.md` (superseded by this file). Updated `PROJECT_BRIEF.md` and `infrastructure.md` in place rather than deleting — both hold real, non-duplicated reference info (page inventory, deploy remotes, stakeholder, both GitHub Actions workflows) once the stale facts are fixed. Left `SOCIAL-FEED-SETUP.md` and `email-newsletter-website-launch.html` alone — the former is a valid forward-looking setup guide for a feature that just hasn't been built yet (not wrong, just unused), the latter is legitimately historical, not clutter.
+- [x] `PHOTOS-NEEDED.md` is current but untracked — commit it if it should persist.
+  - **Resolution (2026-09-09):** added to version control.
+- [x] No custom `404.html` page exists.
+  - **Resolution (2026-09-09):** added, matching site design system (nav, footer, tokens, bilingual). GitHub Pages picks up a root `404.html` automatically on the custom domain, no config needed.
+- [x] `newcomers.html`'s meta-refresh redirect is hardcoded to Spanish (dead weight — the JS redirect always wins first); safe to remove.
+  - **Resolution (2026-09-09):** removed; verified the JS-only redirect still works correctly in a real browser.
 
 ### 💡 Content opportunities (not bugs — worth discussing)
 

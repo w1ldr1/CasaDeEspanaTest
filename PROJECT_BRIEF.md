@@ -4,7 +4,7 @@
 **Casa de España en Indiana** is a nonprofit organization connecting the Spanish-speaking community to Indiana. It provides cultural programming, resources, and community support.
 
 ## Project
-A public-facing marketing website hosted via GitHub Pages. Six-page static site, English/Spanish bilingual, mobile-first responsive.
+A public-facing marketing website hosted via GitHub Pages. Multi-page static site, English/Spanish bilingual, mobile-first responsive.
 
 ## Stakeholder
 - **Maria Wildridge** — President, Latino Services Director at Marion County Prosecutor's Office
@@ -17,11 +17,18 @@ A public-facing marketing website hosted via GitHub Pages. Six-page static site,
 | Page | Purpose |
 |---|---|
 | `index.html` | Homepage — hero, mission, programs, events, CTA, board, footer |
+| `programs.html` | Detail on the three program pillars: Cultural Events, Community Support, Resources |
+| `events.html` | Full upcoming-events listing, data-driven from `events.json` |
+| `board.html` | Board of Directors, full bios/photos |
+| `donate.html` | Donation page — PayPal, impact tiers |
 | `resources.html` | Curated links: government agencies, info resources, scholarships |
 | `news.html` | RSS-fed news feed with CORS proxy + static cache fallback |
-| `join.html` | Membership/newsletter signup form → Google Apps Script → email |
+| `join.html` | Membership/newsletter signup form → Google Apps Script |
 | `email-welcome.html` | Post-signup confirmation (noindex) |
 | `past-events.html` | Archive of past events with photos, recaps, lightbox, year filter |
+| `newcomers-en.html` / `newcomers-es.html` | Relocation guide for Spanish teachers/families moving to Indiana (separate files, not a toggle) |
+| `newcomers.html` | Language-aware redirect stub → `newcomers-en.html` / `newcomers-es.html` |
+| `privacy.html` | Bilingual privacy policy |
 
 ---
 
@@ -32,7 +39,8 @@ A public-facing marketing website hosted via GitHub Pages. Six-page static site,
 - **Fonts**: Cormorant Garamond (display) + Source Sans 3 (body) via Google Fonts
 - **Data**: JSON files (`events.json`, `past-events.json`, `news-cache.json`)
 - **News feed**: GitHub Actions cron every 30 min → `news-cache.json`; runtime fallback via `api.allorigins.win` CORS proxy
-- **Form backend**: Google Apps Script endpoint → mailto
+- **Events reminder**: GitHub Actions daily cron emails the org when the events lineup is about to run dry (see `infrastructure.md`)
+- **Form backend**: Google Apps Script endpoint (`join.html` posts directly; no mailto fallback)
 - **Dev server**: `node serve.mjs` (localhost:3000)
 - **Screenshots**: `node screenshot.mjs http://localhost:3000 <label>` → `./temporary screenshots/`
 
@@ -60,10 +68,11 @@ Deploy to prod: `git push prod main`
 | `--parch-3` | `#E8DBCF` | Dividers |
 | `--ink` | `#1C1410` | Near-black |
 | `--ink-mid` | `#3D2E26` | Secondary text |
-| `--ink-light` | `#7A6658` | Muted text |
+| `--ink-light` | `#6B5648` | Muted text |
 
 ### Assets
-- Logo: `brand_assests/Heart_Logo-removebg-preview.png` (transparent bg, nav height 112px)
+- Logo: `brand_assests/Logo.png` (transparent bg, nav height 112px)
+- Favicon: `brand_assests/favicon.png`; OG/social share image: `brand_assests/OGlogo.jpg` (1200×630)
 - Social SVGs: `brand_assests/facebook.svg`, `instagram.svg`, `x.svg`
 - **Note**: folder is `brand_assests` (intentional double-s typo — do not rename)
 
@@ -71,9 +80,9 @@ Deploy to prod: `git push prod main`
 
 ## Bilingual System
 
-All six pages share an identical language toggle implementation:
+Most pages share an identical language toggle implementation (`newcomers-en.html`/`newcomers-es.html` are the exception — separate files with plain-language nav, not a runtime toggle):
 
-- **Storage**: `localStorage` key `"lang"` → `"en"` or `"es"`, default `"en"`
+- **Storage**: `localStorage` key `"lang2"` → `"en"` or `"es"`, default `"es"`
 - **Static text**: `data-en` / `data-es` attributes on translatable nodes
 - **HTML content**: add `data-html="true"` → uses `innerHTML` instead of `textContent`
 - **Placeholders**: `data-placeholder-en` / `data-placeholder-es` on inputs
@@ -88,7 +97,7 @@ All six pages share an identical language toggle implementation:
 ## Nav (all pages)
 
 - Height: `120px`; logo zone: `240px` wide
-- Links: About · Programs · Events · Board · Get Involved · Resources · News · Past Events · EN/ES toggle
+- Links: About · Programs · Events · Board · Get Involved · Resources · News · Past Events · Newcomers · EN/ES toggle
 - `index.html`: transparent → solid on scroll >40px
 - All other pages: always solid, scroll shadow only
 - Mobile: hamburger drawer slides in from top (`translateY(-110%)` → `translateY(0)`)

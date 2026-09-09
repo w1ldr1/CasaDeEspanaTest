@@ -89,6 +89,21 @@ There is no CI gate, no build step, and no approval process — the push is the 
 
 **Local dev fallback:** `serve.mjs` replicates the same RSS fetch logic and auto-refreshes `news-cache.json` when it's older than 30 minutes.
 
+### Events Reminder
+
+**File:** [.github/workflows/events-reminder.yml](.github/workflows/events-reminder.yml)
+**Script:** [.github/scripts/check-events-reminder.mjs](.github/scripts/check-events-reminder.mjs)
+
+| Setting | Value |
+|---|---|
+| Trigger | Daily cron (~9am US Eastern) + manual `workflow_dispatch` (with a `force_test` option) |
+| Runner | `ubuntu-latest` |
+| Node | v20 |
+
+**What it does:** reads `events.json` and emails `pocketsod@gmail.com` when the last listed event is within 7 days of ending, or the list is empty — so the events lineup doesn't quietly run dry. State (`.github/events-reminder-state.json`) tracks the last reminder sent and is committed back with `[skip ci]` after a send.
+
+**Remote ownership:** to avoid the two workflows fighting over commits on both remotes, `update-news.yml` runs active on `prod` only and `events-reminder.yml` runs active on `origin` only. Check `gh workflow list --repo <repo>` on both remotes before adding new scheduled automation.
+
 ---
 
 ## Local Development
