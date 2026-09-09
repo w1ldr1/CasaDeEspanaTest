@@ -72,4 +72,10 @@
     <priority>0.3</priority>
     <changefreq>yearly</changefreq>
   </url>
+  <url>
+    <loc>https://casaespanaindiana.org/accessibility.html</loc>
+    <lastmod>2026-09-09</lastmod>
+    <priority>0.3</priority>
+    <changefreq>yearly</changefreq>
+  </url>
 </urlset>

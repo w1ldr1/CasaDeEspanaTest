@@ -276,6 +276,34 @@
       margin-bottom: 4px;
     }
 
+    /* ─── SEARCH ─────────────────────────────────────────── */
+    .res-search-wrap { position: relative; max-width: 420px; margin-bottom: 48px; }
+    .res-search-input {
+      width: 100%;
+      font-family: 'Source Sans 3', sans-serif;
+      font-size: 15px;
+      font-weight: 300;
+      color: var(--ink);
+      background: var(--parch-2);
+      border: 1px solid var(--parch-3);
+      border-radius: 2px;
+      padding: 12px 16px 12px 42px;
+      outline: none;
+      transition: border-color 0.2s ease, box-shadow 0.2s ease;
+    }
+    .res-search-input:focus { border-color: var(--terra); box-shadow: 0 0 0 3px rgba(193,59,43,0.1); }
+    .res-search-input::placeholder { color: var(--ink-light); opacity: 0.7; }
+    .res-search-icon {
+      position: absolute; left: 14px; top: 50%; transform: translateY(-50%);
+      width: 16px; height: 16px; stroke: var(--ink-light); pointer-events: none;
+    }
+    .res-search-empty {
+      font-family: 'Source Sans 3', sans-serif; font-size: 15px; font-weight: 300;
+      color: var(--ink-light); padding: 8px 0 40px;
+    }
+    .res-section.res-section-hidden { display: none; }
+    .res-list li.res-hidden { display: none; }
+
     /* ─── LINK LIST ──────────────────────────────────────── */
     .res-list { list-style: none; }
     .res-list li { border-bottom: 1px solid var(--parch-3); }
@@ -531,6 +559,13 @@
 <!-- ─── RESOURCES CONTENT ─────────────────────────────── -->
 <main class="resources-main" id="main">
   <div class="section-container">
+
+    <div class="res-search-wrap">
+      <svg class="res-search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+      <input type="search" id="res-search" class="res-search-input" aria-label="Search resources" placeholder="Search resources…" data-placeholder-en="Search resources…" data-placeholder-es="Buscar recursos…">
+    </div>
+    <p class="res-search-empty" id="res-search-empty" hidden data-en="No resources match your search." data-es="No se encontraron recursos con tu búsqueda.">No resources match your search.</p>
+
     <div class="resources-layout">
 
       <!-- ── Government Agencies ───────────────────────── -->
@@ -778,6 +813,7 @@
       <span class="footer-copy" data-en="© 2026 Casa de España en Indiana. All rights reserved." data-es="© 2026 Casa de España en Indiana. Todos los derechos reservados.">© 2026 Casa de España en Indiana. All rights reserved.</span>
       <span class="footer-copy">Organización sin fines de lucro 501(c)(3) · EIN disponible bajo solicitud</span>
       <span class="footer-copy"><a href="privacy.html" data-en="Privacy Policy" data-es="Política de Privacidad" style="color:inherit;text-decoration:underline;text-underline-offset:3px;opacity:0.7;">Privacy Policy</a></span>
+      <span class="footer-copy"><a href="accessibility.html" data-en="Accessibility" data-es="Accesibilidad" style="color:inherit;text-decoration:underline;text-underline-offset:3px;opacity:0.7;">Accessibility</a></span>
       <span class="footer-copy">Website by PocketSod</span>
     </div>
   </div>
@@ -832,6 +868,31 @@
       hamburger.setAttribute('aria-expanded', 'false');
       drawer.setAttribute('aria-hidden', 'true');
     });
+  });
+
+  // ─── RESOURCE SEARCH/FILTER ──────────────────────────────────
+  const resSearch = document.getElementById('res-search');
+  const resEmpty  = document.getElementById('res-search-empty');
+  const resSections = Array.from(document.querySelectorAll('.res-section'));
+
+  resSearch.addEventListener('input', () => {
+    const query = resSearch.value.trim().toLowerCase();
+    let anyVisible = false;
+
+    resSections.forEach(section => {
+      let sectionHasMatch = false;
+      section.querySelectorAll('.res-list li').forEach(li => {
+        const label = li.querySelector('.res-link span');
+        const haystack = `${label?.dataset.en || ''} ${label?.dataset.es || ''}`.toLowerCase();
+        const match = !query || haystack.includes(query);
+        li.classList.toggle('res-hidden', !match);
+        if (match) sectionHasMatch = true;
+      });
+      section.classList.toggle('res-section-hidden', !sectionHasMatch);
+      if (sectionHasMatch) anyVisible = true;
+    });
+
+    resEmpty.hidden = anyVisible;
   });
 </script>
 

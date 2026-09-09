@@ -71,15 +71,18 @@
 
 ### 💡 Content opportunities (not bugs — worth discussing)
 
-- [ ] Member testimonials (index or join page).
-- [ ] FAQ, especially on the newcomers guide and join page.
-- [ ] Recurring/monthly giving option on `donate.html` (currently only one-time PayPal).
-- [ ] Per-event photo galleries once real event photos replace the `placehold.co` placeholders.
-- [ ] Search/filter on the 25+ resource links as that list grows.
-- [ ] A volunteer-roles page (currently just one checkbox on the join form).
-- [ ] Sponsor/partner recognition (FAEUSA affiliation mentioned but not visually presented as a partnership).
-- [ ] An accessibility statement — the site invests real effort in ARIA/focus states but doesn't say so anywhere.
-- [ ] News feed curation — currently 100% algorithmic from El País and can surface political stories (e.g. Ceuta immigration coverage) that sit oddly under a family-facing cultural site's "News" tab.
+- [x] **Search/filter on the 25+ resource links** as that list grows.
+  - **Resolution (2026-09-09):** added a live text-filter input to `resources.html` — matches against both `data-en`/`data-es` labels regardless of current language, hides empty sections, shows a "no results" message. Verified via automated test.
+- [x] **An accessibility statement** — the site invests real effort in ARIA/focus states but doesn't say so anywhere.
+  - **Resolution (2026-09-09):** added `accessibility.html`, matching the site design system, covering what's actually implemented (semantic landmarks, alt text, focus states, keyboard-operable accordions/lightbox, form validation, WCAG AA color contrast, bilingual support) plus known limitations and a feedback contact. Linked from every page's footer (`Privacy Policy` / `Accessibility`), added to `sitemap.xml`.
+- [x] **FAQ**, especially on the newcomers guide and join page.
+  - **Resolution (2026-09-09):** added a 6-question FAQ to `join.html` (membership types/cost, language requirement, volunteering without full membership, unsubscribing, privacy) — grounded entirely in content already elsewhere on the site, nothing invented. Scoped out of the newcomers guide: its existing accordion sections already serve the FAQ function, and a second FAQ there risked either redundancy or fabricating answers to visa/legal questions that need real expertise, not a guess.
+- [ ] Member testimonials (index or join page). *Needs real quotes from members — can't fabricate.*
+- [ ] Recurring/monthly giving option on `donate.html` (currently only one-time PayPal). *Needs a subscription product set up in the org's PayPal dashboard first.*
+- [ ] Per-event photo galleries once real event photos replace the `placehold.co` placeholders. *Blocked on real photos, tracked in `PHOTOS-NEEDED.md`.*
+- [ ] A volunteer-roles page (currently just one checkbox on the join form). *Needs the org to define what volunteer roles actually exist.*
+- [ ] Sponsor/partner recognition (FAEUSA affiliation mentioned but not visually presented as a partnership). *Needs the real FAEUSA logo/wordmark and their OK to feature it.*
+- [ ] News feed curation — currently 100% algorithmic from El País and can surface political stories (e.g. Ceuta immigration coverage) that sit oddly under a family-facing cultural site's "News" tab. *A curation-policy decision, not a build.*
 
 ---
 

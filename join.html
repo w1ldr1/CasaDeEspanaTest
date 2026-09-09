@@ -507,6 +507,43 @@
       line-height: 1.7;
     }
 
+    /* ─── FAQ ────────────────────────────────────────────── */
+    .join-faq { max-width: 760px; margin: 96px auto 0; }
+    .join-faq-head { text-align: center; margin-bottom: 40px; }
+    .join-faq-head .sidebar-card-label { color: var(--terra); }
+    .join-faq-head h2 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: clamp(26px, 3vw, 32px);
+      font-weight: 600;
+      letter-spacing: -0.02em;
+      color: var(--ink);
+      margin-top: 6px;
+    }
+    .faq-item { border-bottom: 1px solid var(--parch-3); padding: 22px 4px; }
+    .faq-item:last-child { border-bottom: none; }
+    .faq-q {
+      font-family: 'Source Sans 3', sans-serif;
+      font-weight: 600;
+      font-size: 16px;
+      color: var(--ink);
+      margin-bottom: 8px;
+    }
+    .faq-a {
+      font-family: 'Source Sans 3', sans-serif;
+      font-weight: 300;
+      font-size: 15px;
+      line-height: 1.75;
+      color: var(--ink-mid);
+    }
+    .faq-a a {
+      color: var(--terra);
+      text-decoration: none;
+      border-bottom: 1px solid rgba(193,59,43,0.3);
+      transition: border-color 0.2s ease, color 0.2s ease;
+    }
+    .faq-a a:hover { color: var(--terra-deep); border-bottom-color: var(--terra-deep); }
+    .faq-a a:focus-visible { outline: 2px solid var(--terra-muted); outline-offset: 2px; }
+
     .benefit-list {
       list-style: none;
       display: flex;
@@ -867,6 +904,45 @@
       </aside>
 
     </div>
+
+    <!-- ── FAQ ── -->
+    <div class="join-faq">
+      <div class="join-faq-head">
+        <span class="sidebar-card-label" data-en="Common Questions" data-es="Preguntas Frecuentes">Common Questions</span>
+        <h2 data-en="Frequently Asked Questions" data-es="Preguntas Frecuentes">Frequently Asked Questions</h2>
+      </div>
+
+      <div class="faq-item">
+        <p class="faq-q" data-en="What's the difference between Newsletter and Full Member?" data-es="¿Cuál es la diferencia entre Boletín y Miembro Pleno?">What's the difference between Newsletter and Full Member?</p>
+        <p class="faq-a" data-en="Both are free. Newsletter subscribers get event updates and news in their inbox with no further commitment. Full Members can also vote, volunteer, and help shape our programs as official members of the community." data-es="Ambas opciones son gratuitas. Los suscriptores del boletín reciben actualizaciones de eventos y noticias en su correo, sin compromiso adicional. Los Miembros Plenos también pueden votar, hacer voluntariado y ayudar a dar forma a nuestros programas como miembros oficiales de la comunidad.">Both are free. Newsletter subscribers get event updates and news in their inbox with no further commitment. Full Members can also vote, volunteer, and help shape our programs as official members of the community.</p>
+      </div>
+
+      <div class="faq-item">
+        <p class="faq-q" data-en="Does membership cost anything?" data-es="¿Tiene algún costo la membresía?">Does membership cost anything?</p>
+        <p class="faq-a" data-en="No — both the Newsletter and Full Member options are free." data-es="No — tanto el Boletín como la opción de Miembro Pleno son gratuitos.">No — both the Newsletter and Full Member options are free.</p>
+      </div>
+
+      <div class="faq-item">
+        <p class="faq-q" data-en="Do I need to speak Spanish to join?" data-es="¿Necesito hablar español para unirme?">Do I need to speak Spanish to join?</p>
+        <p class="faq-a" data-en="Not at all. Our community includes Spanish speakers and enthusiasts alike — anyone with an interest in Spanish culture and language is welcome." data-es="Para nada. Nuestra comunidad incluye tanto a hispanohablantes como a entusiastas del idioma — cualquier persona interesada en la cultura y el idioma español es bienvenida.">Not at all. Our community includes Spanish speakers and enthusiasts alike — anyone with an interest in Spanish culture and language is welcome.</p>
+      </div>
+
+      <div class="faq-item">
+        <p class="faq-q" data-en="Can I volunteer without becoming a full member?" data-es="¿Puedo ser voluntario sin convertirme en miembro pleno?">Can I volunteer without becoming a full member?</p>
+        <p class="faq-a" data-en="Yes. Check the &quot;Volunteering&quot; box under Areas of Interest on the form above, regardless of which membership type you choose." data-es="Sí. Marca la casilla de &quot;Voluntariado&quot; en Áreas de Interés en el formulario de arriba, sin importar el tipo de membresía que elijas.">Yes. Check the "Volunteering" box under Areas of Interest on the form above, regardless of which membership type you choose.</p>
+      </div>
+
+      <div class="faq-item">
+        <p class="faq-q" data-en="Can I unsubscribe later?" data-es="¿Puedo darme de baja más adelante?">Can I unsubscribe later?</p>
+        <p class="faq-a" data-en="Yes, at any time. Email us at info@casaespanaindiana.org and we'll remove you from our list." data-es="Sí, en cualquier momento. Escríbenos a info@casaespanaindiana.org y te eliminaremos de nuestra lista.">Yes, at any time. Email us at info@casaespanaindiana.org and we'll remove you from our list.</p>
+      </div>
+
+      <div class="faq-item">
+        <p class="faq-q" data-en="Is my information kept private?" data-es="¿Se mantiene privada mi información?">Is my information kept private?</p>
+        <p class="faq-a" data-en="Yes — we never sell or share your information. See our <a href=&quot;privacy.html&quot;>Privacy Policy</a> for details." data-es="Sí — nunca vendemos ni compartimos tu información. Consulta nuestra <a href=&quot;privacy.html&quot;>Política de Privacidad</a> para más detalles." data-html="true">Yes — we never sell or share your information. See our <a href="privacy.html">Privacy Policy</a> for details.</p>
+      </div>
+    </div>
+
   </div>
 </main>
 
@@ -921,6 +997,7 @@
       <span class="footer-copy" data-en="© 2026 Casa de España en Indiana. All rights reserved." data-es="© 2026 Casa de España en Indiana. Todos los derechos reservados.">© 2026 Casa de España en Indiana. All rights reserved.</span>
       <span class="footer-copy">Organización sin fines de lucro 501(c)(3) · EIN disponible bajo solicitud</span>
       <span class="footer-copy"><a href="privacy.html" data-en="Privacy Policy" data-es="Política de Privacidad" style="color:inherit;text-decoration:underline;text-underline-offset:3px;opacity:0.7;">Privacy Policy</a></span>
+      <span class="footer-copy"><a href="accessibility.html" data-en="Accessibility" data-es="Accesibilidad" style="color:inherit;text-decoration:underline;text-underline-offset:3px;opacity:0.7;">Accessibility</a></span>
       <span class="footer-copy">Website by PocketSod</span>
     </div>
   </div>
