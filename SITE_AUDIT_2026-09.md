@@ -20,12 +20,18 @@
 
 ### 🟠 HIGH
 
-- [ ] **Nav inconsistent site-wide.** `past-events.html`, `newcomers-en.html`, and `newcomers-es.html` are all missing the Newcomers/Guía link in their top nav (present in `past-events.html`'s own footer, so it's a slip not a deliberate removal).
-- [ ] **9 dead footer social links** (`href="#"`) on `resources.html`, `join.html`, `news.html`. Every other page has the real URLs.
-- [ ] **`resources.html`'s entire 25-link resource directory is untranslated.** Section headers switch to Spanish; individual link labels stay English even for Spanish-speaking users — the page's core audience.
+- [x] **Nav inconsistent site-wide.** `past-events.html`, `newcomers-en.html`, and `newcomers-es.html` are all missing the Newcomers/Guía link in their top nav (present in `past-events.html`'s own footer, so it's a slip not a deliberate removal).
+  - **Resolution (2026-09-09):** added the Newcomers/Guía link to desktop nav + mobile drawer on all three pages; `newcomers-en.html`/`newcomers-es.html` now self-link with `.active` state.
+- [x] **9 dead footer social links** (`href="#"`) on `resources.html`, `join.html`, `news.html`. Every other page has the real URLs.
+  - **Resolution (2026-09-09):** replaced all 9 with the real Facebook/Instagram/X URLs, matching every other page.
+- [x] **`resources.html`'s entire 25-link resource directory is untranslated.** Section headers switch to Spanish; individual link labels stay English even for Spanish-speaking users — the page's core audience.
+  - **Resolution (2026-09-09):** wrapped each of the 25 link labels in a `data-en`/`data-es` span; verified both directions render correctly via automated test (including one entry with embedded quotes that needed HTML-entity escaping).
 - [ ] **Board bios are lopsided.** Only Maria Wildridge (President) has a bio; Marta, Cristina, and Karla have name + title only.
-- [ ] **`past-events.html` photo lightbox has no focus trap and doesn't restore focus on close** — keyboard users can tab behind the visually-blocking overlay, and focus is lost on close.
-- [ ] **Design-token drift:** `--ink-light` is defined as two different colors in `index.html` — Tailwind config `#7A6658` vs. CSS custom property `#6B5648`. `#7A6658` sits right at the WCAG AA contrast floor (4.52:1) and was already flagged/fixed once; it's dormant (unused) but will silently reintroduce the contrast issue if anyone reaches for the Tailwind utility class instead of the CSS var.
+  - **Status:** deferred per user (2026-09-09) — needs real biographical input from the board members themselves, can't be fabricated. Revisit when available.
+- [x] **`past-events.html` photo lightbox has no focus trap and doesn't restore focus on close** — keyboard users can tab behind the visually-blocking overlay, and focus is lost on close.
+  - **Resolution (2026-09-09):** added a Tab-key focus trap cycling through the lightbox's buttons, and focus now returns to the trigger element on close. Along the way, found and fixed a real bug: nested elements (`.photo-badge`/`.btn-gallery` inside `.event-card`) both carried `data-event-id` and both had click listeners, so a single click bubbled and fired `openLightbox` twice, corrupting the trigger reference — fixed with `stopPropagation()` and explicit trigger-element passing. Verified via automated Puppeteer test (open → Shift+Tab wrap → Tab wrap → Escape → focus restored to trigger).
+- [x] **Design-token drift:** `--ink-light` is defined as two different colors in `index.html` — Tailwind config `#7A6658` vs. CSS custom property `#6B5648`. `#7A6658` sits right at the WCAG AA contrast floor (4.52:1) and was already flagged/fixed once; it's dormant (unused) but will silently reintroduce the contrast issue if anyone reaches for the Tailwind utility class instead of the CSS var.
+  - **Resolution (2026-09-09):** the drift turned out to be site-wide, not just `index.html` — 10 of 13 pages had the stale `#7A6658` in their Tailwind config while already using `#6B5648` in their CSS var. Normalized all pages to `#6B5648`.
 
 ### 🟡 MEDIUM
 

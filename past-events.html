@@ -37,7 +37,7 @@
             'parch-3': '#E8DBCF',
             ink: '#1C1410',
             'ink-mid': '#3D2E26',
-            'ink-light': '#7A6658',
+            'ink-light': '#6B5648',
           },
           fontFamily: {
             display: ['"Cormorant Garamond"', 'Georgia', 'serif'],
@@ -827,6 +827,7 @@
     <a href="resources.html"          class="nav-link" data-en="Resources" data-es="Recursos">Resources</a>
     <a href="news.html"               class="nav-link" data-en="News" data-es="Noticias">News</a>
     <a href="past-events.html"        class="nav-link active" data-en="Past Events" data-es="Eventos Pasados">Past Events</a>
+    <a href="newcomers.html"          class="nav-link" data-en="Newcomers" data-es="Gu&#237;a">Gu&#237;a</a>
     <button class="hamburger" id="hamburger" aria-label="Toggle menu" aria-expanded="false">
       <span></span><span></span><span></span>
     </button>
@@ -842,6 +843,7 @@
   <a href="resources.html"          class="nav-link" data-en="Resources" data-es="Recursos">Resources</a>
   <a href="news.html"               class="nav-link" data-en="News" data-es="Noticias">News</a>
   <a href="past-events.html"        class="nav-link active" data-en="Past Events" data-es="Eventos Pasados">Past Events</a>
+  <a href="newcomers.html"          class="nav-link" data-en="Newcomers" data-es="Gu&#237;a">Gu&#237;a</a>
 </div>
 
 <!-- ─── PAGE HEADER ──────────────────────────────────────── -->
@@ -1157,9 +1159,10 @@
     root.innerHTML = years.map(y => renderYear(y, byYear[y])).join('');
 
     root.querySelectorAll('[data-event-id]').forEach(el => {
-      el.addEventListener('click', () => {
-        const ev = allEvents.find(e => e.id === el.dataset.eventId);
-        if (ev) openLightbox(ev, parseInt(el.dataset.photoIdx) || 0);
+      el.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const ev = allEvents.find(e2 => e2.id === el.dataset.eventId);
+        if (ev) openLightbox(ev, parseInt(el.dataset.photoIdx) || 0, el);
       });
     });
 
@@ -1189,25 +1192,31 @@
   })();
 
   // ─── LIGHTBOX ────────────────────────────────────────────
-  let lb = { event: null, idx: 0 };
+  let lb = { event: null, idx: 0, trigger: null };
   const lightbox = document.getElementById('lightbox');
   const lbImg    = document.getElementById('lb-img');
   const lbTitle  = document.getElementById('lb-title');
   const lbCounter= document.getElementById('lb-counter');
   const lbThumbs = document.getElementById('lb-thumbs');
 
-  function openLightbox(ev, idx) {
-    lb.event = ev;
-    lb.idx   = idx;
+  function openLightbox(ev, idx, triggerEl) {
+    lb.event   = ev;
+    lb.idx     = idx;
+    lb.trigger = triggerEl || document.activeElement;
     lightbox.classList.add('open');
     document.body.style.overflow = 'hidden';
     renderLightbox();
-    lbImg.focus();
+    document.getElementById('lb-close').focus();
   }
 
   function closeLightbox() {
     lightbox.classList.remove('open');
     document.body.style.overflow = '';
+    if (lb.trigger) lb.trigger.focus();
+  }
+
+  function getLightboxFocusable() {
+    return Array.from(lightbox.querySelectorAll('button')).filter(el => el.offsetParent !== null);
   }
 
   function renderLightbox() {
@@ -1268,6 +1277,22 @@
     if (e.key === 'ArrowRight') {
       lb.idx = (lb.idx + 1) % lb.event.photos.length;
       renderLightbox();
+    }
+    if (e.key === 'Tab') {
+      const focusable = getLightboxFocusable();
+      if (focusable.length === 0) return;
+      const first = focusable[0];
+      const last  = focusable[focusable.length - 1];
+      if (e.shiftKey && document.activeElement === first) {
+        e.preventDefault();
+        last.focus();
+      } else if (!e.shiftKey && document.activeElement === last) {
+        e.preventDefault();
+        first.focus();
+      } else if (!lightbox.contains(document.activeElement)) {
+        e.preventDefault();
+        first.focus();
+      }
     }
   });
 </script>
