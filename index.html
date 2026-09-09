@@ -1499,8 +1499,8 @@
 
         <div class="mission-what">
           <h4 data-en="What We Do" data-es="Qué Hacemos">What We Do</h4>
-          <p class="body-text" data-en="We bring the arts, traditions, and intellectual life of Spain to the Midwest through cultural events, educational programs, community gatherings, and support networks for Spanish-speaking families. From flamenco evenings to literary symposia, from language exchanges to festivals of tradition, our programs honor the full depth of Spanish heritage." data-es="Llevamos el arte, las tradiciones y la vida intelectual de España al Midwest a través de eventos culturales, programas educativos, encuentros comunitarios y redes de apoyo para familias hispanohablantes. Desde veladas de flamenco hasta simposios literarios, desde intercambios de idiomas hasta festivales de tradición, nuestros programas honran la plena profundidad del patrimonio español.">
-            We bring the arts, traditions, and intellectual life of Spain to the Midwest through cultural events, educational programs, community gatherings, and support networks for Spanish-speaking families. From flamenco evenings to literary symposia, from language exchanges to festivals of tradition, our programs honor the full depth of Spanish heritage.
+          <p class="body-text" data-en="We bring the arts, traditions, and intellectual life of Spain to the Midwest through cultural events, educational programs, community gatherings, and support networks for Spanish-speaking families. Our programming has spanned flamenco evenings, literary symposia, language exchanges, and festivals of tradition — honoring the full depth of Spanish heritage." data-es="Llevamos el arte, las tradiciones y la vida intelectual de España al Midwest a través de eventos culturales, programas educativos, encuentros comunitarios y redes de apoyo para familias hispanohablantes. Nuestra programación ha incluido veladas de flamenco, simposios literarios, intercambios de idiomas y festivales de tradición, honrando la plena profundidad del patrimonio español.">
+            We bring the arts, traditions, and intellectual life of Spain to the Midwest through cultural events, educational programs, community gatherings, and support networks for Spanish-speaking families. Our programming has spanned flamenco evenings, literary symposia, language exchanges, and festivals of tradition — honoring the full depth of Spanish heritage.
           </p>
         </div>
       </div>
@@ -1544,7 +1544,7 @@
         <div class="card-body">
           <span class="card-label" data-en="Program" data-es="Programa">Program</span>
           <h3 class="card-title"><a href="events.html" style="color:inherit;text-decoration:none;" data-en="Cultural Events" data-es="Eventos Culturales">Cultural Events</a></h3>
-          <p class="card-desc" data-en="Flamenco performances, film screenings, gastronomy nights, and seasonal celebrations that bring the full vibrancy of Spain to Indianapolis." data-es="Actuaciones de flamenco, proyecciones de cine, noches de gastronomía y celebraciones de temporada que traen toda la vibración de España a Indianapolis.">Flamenco performances, film screenings, gastronomy nights, and seasonal celebrations that bring the full vibrancy of Spain to Indianapolis.</p>
+          <p class="card-desc" data-en="Community outings and cultural celebrations that bring the vibrancy of Spain to Indianapolis." data-es="Salidas comunitarias y celebraciones culturales que traen la vibración de España a Indianápolis.">Community outings and cultural celebrations that bring the vibrancy of Spain to Indianapolis.</p>
         </div>
       </article>
 
@@ -1876,9 +1876,7 @@
   }
 
   var onLangChange = function(lang) {
-    document.title = lang === 'es'
-      ? 'Casa de España en Indiana'
-      : 'Casa de España en Indiana | Casa de Espana en Indiana';
+    document.title = 'Casa de España en Indiana';
     if (_cachedEvents && _cachedEvents.length > 0) {
       const list = document.getElementById('events-list');
       list.innerHTML = _cachedEvents.map((ev, i) => renderEvent(ev, i)).join('');

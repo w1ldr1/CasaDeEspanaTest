@@ -932,7 +932,7 @@
   var onLangChange = function(lang) {
     document.title = lang === 'es'
       ? 'Noticias — Casa de España en Indiana'
-      : 'News — Casa de España en Indiana | Casa de Espana en Indiana';
+      : 'News — Casa de España en Indiana';
     if (_cachedItems && _cachedItems.length > 0) {
       const grid = document.getElementById('news-grid');
       grid.innerHTML = _cachedItems.map(renderCard).join('');
