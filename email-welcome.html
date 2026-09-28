@@ -785,11 +785,10 @@
       return { month: months[d.getMonth()], day: String(d.getDate()), range: null };
     }
     const dEnd = parseLocalDate(dateEndStr);
-    return {
-      month: months[d.getMonth()],
-      day: null,
-      range: `${months[d.getMonth()]} ${d.getDate()}–${dEnd.getDate()}`
-    };
+    const range = dEnd.getMonth() !== d.getMonth()
+      ? `${months[d.getMonth()]} ${d.getDate()} – ${months[dEnd.getMonth()]} ${dEnd.getDate()}`
+      : `${months[d.getMonth()]} ${d.getDate()}–${dEnd.getDate()}`;
+    return { month: months[d.getMonth()], day: null, range };
   }
 
   function buildEventCard(ev) {
@@ -808,8 +807,7 @@
           <span class="event-type-tag">${ev.type}</span>
           <span class="event-title">${ev.title}</span>
           <span class="event-meta">
-            <span>${ev.time}</span>
-            <span class="event-meta-sep"></span>
+            ${ev.time ? `<span>${ev.time}</span><span class="event-meta-sep"></span>` : ''}
             <span>${ev.location}</span>
           </span>
         </div>
